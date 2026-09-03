@@ -1,0 +1,41 @@
+name: 1TamilMV Auto-Scraper (720p & 1080p Only)
+
+on:
+  schedule:
+    # Runs every 30 minutes
+    - cron: '*/30 * * * *'
+  workflow_dispatch: # Allows manual trigger from GitHub Actions UI
+
+permissions:
+  contents: write
+
+jobs:
+  scrape-and-update:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: 📥 Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: 🟢 Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: 'npm'
+
+      - name: 📦 Install Dependencies
+        run: npm install
+
+      - name: 🚀 Run 1TamilMV Scraper (720p & 1080p Filter)
+        run: node src/scrape-cli.js
+        env:
+          MAX_SCRAPE_LIMIT: 300
+
+      - name: 💾 Commit and Push Updated movies.json
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "Automated 1TamilMV scrape update (720p & 1080p only) [skip ci]"
+          file_pattern: "data/movies.json data/stats.json"
+          commit_user_name: "GitHub Actions Bot"
+          commit_user_email: "actions@github.com"
+          commit_author: "GitHub Actions <actions@github.com>"

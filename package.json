@@ -1,0 +1,26 @@
+{
+  "name": "tmv-custom-scraper",
+  "version": "1.0.0",
+  "description": "Automated 1TamilMV Scraper with 720p & 1080p Quality Filter and GitHub Actions Cron",
+  "main": "src/scrape-cli.js",
+  "type": "module",
+  "scripts": {
+    "scrape": "node src/scrape-cli.js",
+    "test": "node src/scrape-cli.js --limit=5"
+  },
+  "keywords": [
+    "tamilmv",
+    "scraper",
+    "stremio",
+    "magnets",
+    "github-actions",
+    "cron"
+  ],
+  "author": "Jash ViBeS",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^1.7.9",
+    "cheerio": "^1.0.0",
+    "dotenv": "^16.4.7"
+  }
+}
