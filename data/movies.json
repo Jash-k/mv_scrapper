@@ -612,18 +612,11 @@
     "languages": [
       "Tamil"
     ],
-    "imdbId": "tt5335774",
-    "name": "The Yellow Tie",
-    "year": "2025",
-    "poster": "https://images.metahub.space/poster/small/tt5335774/img",
-    "thumbnail": "https://images.metahub.space/poster/small/tt5335774/img",
-    "genres": [
-      "Adventure",
-      "Biography",
-      "Drama"
-    ],
-    "description": "The extraordinary life of Sergiu Celibidache. From his childhood in Romania, to his exile in pursuit of a career in music, his struggle for survival in wartime Germany and his rise, fall and rise again, in an unimaginable life jou...",
-    "imdbRating": "8.9"
+    "imdbId": "tt2404269",
+    "name": "Yellow Elephant",
+    "year": 2026,
+    "poster": "https://m.media-amazon.com/images/M/MV5BNWM3ODA1NDktYWZkYi00ZWE1LTlhNDQtZGFkNTQ4NDQ5Zjg2XkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BNWM3ODA1NDktYWZkYi00ZWE1LTlhNDQtZGFkNTQ4NDQ5Zjg2XkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "29c33bb94fa856871719063cd2f6a5ff",
@@ -910,7 +903,12 @@
       "Kannada",
       "Hindi",
       "Multi-Lang"
-    ]
+    ],
+    "imdbId": "tt32474264",
+    "name": "Korean Kanakaraju",
+    "year": 2026,
+    "poster": "https://m.media-amazon.com/images/M/MV5BM2Q3NzY4MGQtYzMwMy00YTg2LWI1MGItYjU4ODI5YTNhYmFlXkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BM2Q3NzY4MGQtYzMwMy00YTg2LWI1MGItYjU4ODI5YTNhYmFlXkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "3ebcd3cc58f3b0243b69fc0fcab3ec05",
@@ -1453,14 +1451,9 @@
     ],
     "imdbId": "tt33354945",
     "name": "Gandhari",
-    "year": "2025",
-    "poster": "https://images.metahub.space/poster/small/tt33354945/img",
-    "thumbnail": "https://images.metahub.space/poster/small/tt33354945/img",
-    "genres": [
-      "Action",
-      "Thriller"
-    ],
-    "description": "Follows a mother's relentless pursuit to find and rescue her kidnapped daughter, exploring themes of revenge and redemption amidst her harrowing journey."
+    "year": 2026,
+    "poster": "https://m.media-amazon.com/images/M/MV5BNTc0OTFmMmYtZDk2Mi00NTQyLWJiM2EtY2UwNWY0NDRkNTIxXkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BNTc0OTFmMmYtZDk2Mi00NTQyLWJiM2EtY2UwNWY0NDRkNTIxXkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "0af1eb22731df625fd13df2b680d3a06",
@@ -2882,13 +2875,9 @@
     ],
     "imdbId": "tt30217600",
     "name": "The Bay",
-    "year": "2026",
-    "poster": "https://images.metahub.space/poster/small/tt30217600/img",
-    "thumbnail": "https://images.metahub.space/poster/small/tt30217600/img",
-    "genres": [
-      "Thriller"
-    ],
-    "description": "Two best friends, Emma and Lani, attending a destination wedding in Thailand, find themselves trapped on a sinking tour boat in the heart of a tiger shark sanctuary."
+    "year": 2026,
+    "poster": "https://m.media-amazon.com/images/M/MV5BY2ZlZDc3YjItNjMxNi00ZGQwLWFkMzUtMDVlODg5NDI4NGZlXkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BY2ZlZDc3YjItNjMxNi00ZGQwLWFkMzUtMDVlODg5NDI4NGZlXkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "bdf03a76e9c799cf6fdcbaebe38dd32c",
@@ -4227,16 +4216,9 @@
     ],
     "imdbId": "tt32393988",
     "name": "Insidious: Out of the Further",
-    "year": "2026",
-    "poster": "https://images.metahub.space/poster/small/tt32393988/img",
-    "thumbnail": "https://images.metahub.space/poster/small/tt32393988/img",
-    "genres": [
-      "Horror",
-      "Mystery",
-      "Thriller"
-    ],
-    "description": "Gemma, a young mother raising her daughter in the house she grew up in, discovers she can travel into The Further, where she possesses an ability to bring what lives there back to the real world.",
-    "imdbRating": "6.3"
+    "year": 2026,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTY4YjM1OGItMDlmMi00OTU1LWEzM2MtZGMyZTQ1NzhiM2VhXkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BMTY4YjM1OGItMDlmMi00OTU1LWEzM2MtZGMyZTQ1NzhiM2VhXkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "64e18d4afe5e242516dae5af9c4a4d9b",
@@ -10709,19 +10691,7 @@
       "Telugu",
       "Hindi",
       "Multi-Lang"
-    ],
-    "imdbId": "tt7708226",
-    "name": "Beast",
-    "year": "2026",
-    "poster": "https://images.metahub.space/poster/small/tt7708226/img",
-    "thumbnail": "https://images.metahub.space/poster/small/tt7708226/img",
-    "genres": [
-      "Action",
-      "Drama",
-      "Sport"
-    ],
-    "description": "MMA legend Patton James, now a commercial fisherman, is pulled back into the cage when his brother is in danger. Reuniting with his old coach Sammy, he commits to one final fight in ONE Championship against its brutal champion Xavier Grau.",
-    "imdbRating": "6.2"
+    ]
   },
   {
     "id": "f62b5b011aa6f065b46cecc7af7911d7",
@@ -13417,16 +13387,9 @@
     ],
     "imdbId": "tt34471850",
     "name": "Protector",
-    "year": "2026",
-    "poster": "https://images.metahub.space/poster/small/tt34471850/img",
-    "thumbnail": "https://images.metahub.space/poster/small/tt34471850/img",
-    "genres": [
-      "Action",
-      "Crime",
-      "Drama"
-    ],
-    "description": "Former war hero Nikki's peaceful life is shattered when her daughter is kidnapped. Thrust into the criminal underworld while hunted by cops and military, she must fight to rescue her child.",
-    "imdbRating": "5.3"
+    "year": 2025,
+    "poster": "https://m.media-amazon.com/images/M/MV5BY2Q0NzkzNmEtN2M5My00NjBjLWIyNDQtMDZmMzAyMTg0MjdkXkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BY2Q0NzkzNmEtN2M5My00NjBjLWIyNDQtMDZmMzAyMTg0MjdkXkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "1ae57f0cd26497d36dc748817c69a251",
@@ -14109,16 +14072,9 @@
     ],
     "imdbId": "tt3104988",
     "name": "Crazy Rich Asians",
-    "year": "2018",
-    "poster": "https://images.metahub.space/poster/small/tt3104988/img",
-    "thumbnail": "https://images.metahub.space/poster/small/tt3104988/img",
-    "genres": [
-      "Comedy",
-      "Drama",
-      "Romance"
-    ],
-    "description": "This contemporary romantic comedy based on a global bestseller follows native New Yorker Rachel Chu to Singapore to meet her boyfriend's family.",
-    "imdbRating": "6.9"
+    "year": 2018,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTYxNDMyOTAxN15BMl5BanBnXkFtZTgwMDg1ODYzNTM@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BMTYxNDMyOTAxN15BMl5BanBnXkFtZTgwMDg1ODYzNTM@._V1_SX250.jpg"
   },
   {
     "id": "73cdb2e7c5ad7d38d86f38e586abcee6",
@@ -15390,18 +15346,7 @@
       "Telugu",
       "Hindi",
       "Multi-Lang"
-    ],
-    "imdbId": "tt1740047",
-    "name": "The Trip",
-    "year": "2010",
-    "poster": "https://images.metahub.space/poster/small/tt1740047/img",
-    "thumbnail": "https://images.metahub.space/poster/small/tt1740047/img",
-    "genres": [
-      "Comedy",
-      "Drama"
-    ],
-    "description": "Steve Coogan has been asked by The Observer to tour the country's finest restaurants, but after his girlfriend backs out on him he must take his best friend and source of eternal aggravation, Rob Brydon.",
-    "imdbRating": "7.0"
+    ]
   },
   {
     "id": "dc315b05265944c23c7da868697e9d63",
@@ -15539,19 +15484,11 @@
       "Hindi",
       "Multi-Lang"
     ],
-    "imdbId": "tt0469916",
-    "name": "Hollow Man II",
-    "year": "2006",
-    "poster": "https://images.metahub.space/poster/small/tt0469916/img",
-    "thumbnail": "https://images.metahub.space/poster/small/tt0469916/img",
-    "genres": [
-      "Action",
-      "Horror",
-      "Sci-Fi",
-      "Thriller"
-    ],
-    "description": "A Seattle detective and a biologist are on the run from a dangerous invisible assassin gone rogue.",
-    "imdbRating": "4.4"
+    "imdbId": "tt28478180",
+    "name": "Super Hollow Man",
+    "year": 2006,
+    "poster": "https://images.metahub.space/poster/small/tt28478180/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt28478180/img"
   },
   {
     "id": "78b31789aa746cf80f9cae5c7b6ba534",
@@ -17358,12 +17295,7 @@
       "Kannada",
       "Hindi",
       "Multi-Lang"
-    ],
-    "imdbId": "tt29959401",
-    "name": "Mollywood Times",
-    "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BZmU1ZDQ1MjUtYTcwZi00YWE0LWEwMWItYjY3YmEwNmI2MGRkXkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BZmU1ZDQ1MjUtYTcwZi00YWE0LWEwMWItYjY3YmEwNmI2MGRkXkEyXkFqcGc@._V1_SX250.jpg"
+    ]
   },
   {
     "id": "0ad2251a98707795f8450bdea35a955d",
@@ -18266,9 +18198,56 @@
     ],
     "imdbId": "tt37287335",
     "name": "Obsession",
+    "year": "2026",
+    "poster": "https://images.metahub.space/poster/small/tt37287335/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt37287335/img",
+    "genres": [
+      "Horror",
+      "Romance",
+      "Thriller"
+    ],
+    "description": "Baron \"Bear\" Bailey breaks a novelty charm to force his co-worker Nikki Freeman to love him, but the supernatural compulsion warps her mind into violent obsession, trapping him in a nightmare he cannot wish away.",
+    "imdbRating": "7.9"
+  },
+  {
+    "id": "cbfbc96efaceedc1f45c830996c12fd7",
+    "rawTitle": "Boonie Bears: The Hidden Protector (2026)",
+    "titleGuess": "Boonie Bears: The Hidden Protector",
+    "yearGuess": 2026,
+    "pageUrl": "https://www.1tamilmv.meme/index.php?/forums/topic/198643-boonie-bears-the-hidden-protector-2026-hd-hq-clean-1080p-720p-x264-aac-20-tamil-chi-24gb-14gb-450mb/",
+    "qualities": [
+      {
+        "quality": "1080p AVC",
+        "size": "2GB",
+        "type": "magnet",
+        "url": "magnet:?xt=urn:btih:7d3e8cae2c320b7ed1669bc7ea1b4c2f63795025&dn=www.1TamilMV.durban%20-%20Boonie%20Bears%20The%20Hidden%20Protector%20%282026%29%20HQ%20HDRip%20-%201080p%20-%20x264%20-%20%5BTam%20%2B%20Chi%5D%20-%20HQ%20Clean%20-%202GB.mkv&xl=2212672047&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Ftracker.dler.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=https%3A%2F%2Ftracker.moeblog.cn%3A443%2Fannounce&tr=udp%3A%2F%2Fopen.dstud.io%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.srv00.com%3A6969%2Fannounce&tr=https%3A%2F%2Ftracker.zhuqiy.com%3A443%2Fannounce&tr=https%3A%2F%2Ftracker.pmman.tech%3A443%2Fannounce&tr=udp%3A%2F%2Ftracker.publictracker.xyz%3A6969%2Fannounce&tr=http%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.wildkat.net%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.qu.ax%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.peerfect.org%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.opentorrent.top%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.filemail.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Fexplodie.org%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.filebase.online%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.moeking.me%3A6969%2Fannounce&tr=udp%3A%2F%2Fp4p.arenabg.com%3A1337%2Fannounce",
+        "languages": [
+          "Tamil"
+        ],
+        "seeders": 100,
+        "leechers": 10
+      },
+      {
+        "quality": "720p AVC",
+        "size": "1GB",
+        "type": "magnet",
+        "url": "magnet:?xt=urn:btih:a1281591dd46196bce3b33ad1189e4aabe37dce6&dn=www.1TamilMV.durban%20-%20Boonie%20Bears%20The%20Hidden%20Protector%20%282026%29%20HQ%20HDRip%20-%20720p%20-%20x264%20-%20%5BTam%20%2B%20Chi%5D%20-%20HQ%20Clean%20-%201GB.mkv&xl=1242365429&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Ftracker.dler.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=https%3A%2F%2Ftracker.moeblog.cn%3A443%2Fannounce&tr=udp%3A%2F%2Fopen.dstud.io%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.srv00.com%3A6969%2Fannounce&tr=https%3A%2F%2Ftracker.zhuqiy.com%3A443%2Fannounce&tr=https%3A%2F%2Ftracker.pmman.tech%3A443%2Fannounce&tr=udp%3A%2F%2Ftracker.publictracker.xyz%3A6969%2Fannounce&tr=http%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.wildkat.net%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.qu.ax%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.peerfect.org%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.opentorrent.top%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.filemail.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Fexplodie.org%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.filebase.online%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.moeking.me%3A6969%2Fannounce&tr=udp%3A%2F%2Fp4p.arenabg.com%3A1337%2Fannounce",
+        "languages": [
+          "Tamil"
+        ],
+        "seeders": 100,
+        "leechers": 10
+      }
+    ],
+    "rawText": "Boonie Bears: The Hidden Protector (2026) (HD + HQ Clean) - [1080p & 720p - x264 - (Tamil + Chi) - 2GB + Rips] - [W]",
+    "languages": [
+      "Tamil"
+    ],
+    "imdbId": "tt39294728",
+    "name": "Boonie Bears: The Hidden Protector",
     "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BYzc1NWUwMDgtNGZlMS00ZmYzLWIzMzktNmMxMmY1MTUzNWExXkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BYzc1NWUwMDgtNGZlMS00ZmYzLWIzMzktNmMxMmY1MTUzNWExXkEyXkFqcGc@._V1_SX250.jpg"
+    "poster": "https://m.media-amazon.com/images/M/MV5BMDM1MzYxZWItYTliNS00NzYxLTg5ZWItNWRhNTNiYmRlMGQ4XkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BMDM1MzYxZWItYTliNS00NzYxLTg5ZWItNWRhNTNiYmRlMGQ4XkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "94f0c0bbd15fc8d623b6b895eec3bf2c",
@@ -18639,18 +18618,7 @@
       "Telugu",
       "Hindi",
       "Multi-Lang"
-    ],
-    "imdbId": "tt1333644",
-    "name": "In the Hand of Dante",
-    "year": "2025",
-    "poster": "https://images.metahub.space/poster/small/tt1333644/img",
-    "thumbnail": "https://images.metahub.space/poster/small/tt1333644/img",
-    "genres": [
-      "Crime",
-      "Drama",
-      "Mystery"
-    ],
-    "description": "A handwritten manuscript of Dante Alighieri's poem \"The Divine Comedy\" makes its way from a priest to a mob boss in New York City, where it is taken by Nick Tosches after he's asked to verify its authenticity."
+    ]
   },
   {
     "id": "354ad5e50b218cb7ae1e3de494964a06",
