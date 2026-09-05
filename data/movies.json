@@ -1386,7 +1386,19 @@
       "Telugu",
       "Hindi",
       "Multi-Lang"
-    ]
+    ],
+    "imdbId": "tt6645614",
+    "name": "Trolls Holiday",
+    "year": "2017",
+    "poster": "https://images.metahub.space/poster/small/tt6645614/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt6645614/img",
+    "genres": [
+      "Animation",
+      "Adventure",
+      "Comedy"
+    ],
+    "description": "When the Queen of the Trolls, Poppy, finds out that the Bergens do not have holidays, she enlists help from her friends, Branch and the Snack Pack, to help her bring holidays to the Bergens.",
+    "imdbRating": "6.1"
   },
   {
     "id": "4a5c08ebab7dcc8432868c211dee3cb9",
@@ -4523,7 +4535,12 @@
     "rawText": "Lurk (2026) Malayalam UHD + ESub - [4K, 1080p & 720p - AVC / HEVC - (DD+5.1 - 192Kbps) - 6.4GB + Rips]",
     "languages": [
       "Malayalam"
-    ]
+    ],
+    "imdbId": "tt36670542",
+    "name": "Lurk",
+    "year": 2026,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMzE4MzhlZWEtNzkzMC00YTE5LWE3N2YtZjZmMGIzZjE3ZmYyXkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BMzE4MzhlZWEtNzkzMC00YTE5LWE3N2YtZjZmMGIzZjE3ZmYyXkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "3557c47cd839300068a14614ded1d92a",
@@ -5136,7 +5153,12 @@
       "Tamil",
       "Telugu",
       "Kannada"
-    ]
+    ],
+    "imdbId": "tt33379543",
+    "name": "Jana Nayagan",
+    "year": 2026,
+    "poster": "https://m.media-amazon.com/images/M/MV5BZWFmMGQ4YjUtNmNjYS00MWRlLWI1YzMtMmMyZGIzMmE1NWYwXkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BZWFmMGQ4YjUtNmNjYS00MWRlLWI1YzMtMmMyZGIzMmE1NWYwXkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "758bee937eee394dbbe442270e64de2e",
@@ -8543,7 +8565,12 @@
       "Kannada",
       "Hindi",
       "Multi-Lang"
-    ]
+    ],
+    "imdbId": "tt35723557",
+    "name": "Idhayam Murali",
+    "year": 2026,
+    "poster": "https://m.media-amazon.com/images/M/MV5BZTFjOTAwZjYtMjdiMC00NmY4LWE2ZWUtNGY3Zjk4Yjk2MGZjXkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BZTFjOTAwZjYtMjdiMC00NmY4LWE2ZWUtNGY3Zjk4Yjk2MGZjXkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "73205b01ed00cc6eee2eb3a5d95f8fed",
@@ -10387,7 +10414,12 @@
       "Kannada",
       "Hindi",
       "Multi-Lang"
-    ]
+    ],
+    "imdbId": "tt37079110",
+    "name": "Uyir",
+    "year": 2026,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMmZhMzRjMzYtZjcxZS00YmI5LWI0YmQtYzVlMmZmMzkyYzIyXkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BMmZhMzRjMzYtZjcxZS00YmI5LWI0YmQtYzVlMmZmMzkyYzIyXkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "6d8647ffb29fa43adf5c1742883ed4db",
