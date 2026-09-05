@@ -612,11 +612,18 @@
     "languages": [
       "Tamil"
     ],
-    "imdbId": "tt2404269",
-    "name": "Yellow Elephant",
-    "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BNWM3ODA1NDktYWZkYi00ZWE1LTlhNDQtZGFkNTQ4NDQ5Zjg2XkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BNWM3ODA1NDktYWZkYi00ZWE1LTlhNDQtZGFkNTQ4NDQ5Zjg2XkEyXkFqcGc@._V1_SX250.jpg"
+    "imdbId": "tt5335774",
+    "name": "The Yellow Tie",
+    "year": "2025",
+    "poster": "https://images.metahub.space/poster/small/tt5335774/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt5335774/img",
+    "genres": [
+      "Adventure",
+      "Biography",
+      "Drama"
+    ],
+    "description": "The extraordinary life of Sergiu Celibidache. From his childhood in Romania, to his exile in pursuit of a career in music, his struggle for survival in wartime Germany and his rise, fall and rise again, in an unimaginable life jou...",
+    "imdbRating": "8.9"
   },
   {
     "id": "29c33bb94fa856871719063cd2f6a5ff",
@@ -1538,9 +1545,14 @@
     ],
     "imdbId": "tt33354945",
     "name": "Gandhari",
-    "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BNTc0OTFmMmYtZDk2Mi00NTQyLWJiM2EtY2UwNWY0NDRkNTIxXkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BNTc0OTFmMmYtZDk2Mi00NTQyLWJiM2EtY2UwNWY0NDRkNTIxXkEyXkFqcGc@._V1_SX250.jpg"
+    "year": "2025",
+    "poster": "https://images.metahub.space/poster/small/tt33354945/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt33354945/img",
+    "genres": [
+      "Action",
+      "Thriller"
+    ],
+    "description": "Follows a mother's relentless pursuit to find and rescue her kidnapped daughter, exploring themes of revenge and redemption amidst her harrowing journey."
   },
   {
     "id": "0af1eb22731df625fd13df2b680d3a06",
@@ -4563,12 +4575,7 @@
     "rawText": "The Breed (2006) (BluRay + Org Auds) - [1080p & 720p - x264 - (Tamil + Eng) - 1.4GB + Rips]",
     "languages": [
       "Tamil"
-    ],
-    "imdbId": "tt0455362",
-    "name": "The Breed",
-    "year": 2006,
-    "poster": "https://m.media-amazon.com/images/M/MV5BMjg5ODA5MzAxMV5BMl5BanBnXkFtZTgwMzkyNDM2MTI@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BMjg5ODA5MzAxMV5BMl5BanBnXkFtZTgwMzkyNDM2MTI@._V1_SX250.jpg"
+    ]
   },
   {
     "id": "44113667cb04be2483cc9ef0ad75e2c3",
@@ -5141,12 +5148,7 @@
       "Tamil",
       "Telugu",
       "Kannada"
-    ],
-    "imdbId": "tt33379543",
-    "name": "Jana Nayagan",
-    "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BZWFmMGQ4YjUtNmNjYS00MWRlLWI1YzMtMmMyZGIzMmE1NWYwXkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BZWFmMGQ4YjUtNmNjYS00MWRlLWI1YzMtMmMyZGIzMmE1NWYwXkEyXkFqcGc@._V1_SX250.jpg"
+    ]
   },
   {
     "id": "758bee937eee394dbbe442270e64de2e",
@@ -12219,19 +12221,7 @@
       "Telugu",
       "Hindi",
       "Multi-Lang"
-    ],
-    "imdbId": "tt30395619",
-    "name": "Demon Slayer: Kimetsu No Yaiba - To the Hashira Training",
-    "year": "2024",
-    "poster": "https://images.metahub.space/poster/small/tt30395619/img",
-    "thumbnail": "https://images.metahub.space/poster/small/tt30395619/img",
-    "genres": [
-      "Animation",
-      "Action",
-      "Adventure"
-    ],
-    "description": "Tanjiro undergoes rigorous training with the Stone Hashira, Himejima, in his quest to become a Hashira. Meanwhile, Muzan continues to search for Nezuko and Ubuyashiki.",
-    "imdbRating": "7.2"
+    ]
   },
   {
     "id": "c8ed1675e82a4149b42c9ad6b7bec882",
@@ -12796,12 +12786,7 @@
       "Kannada",
       "Hindi",
       "Multi-Lang"
-    ],
-    "imdbId": "tt10515398",
-    "name": "Pallichattambi",
-    "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BMjBjZTA1YTEtZmZlYy00ODk1LWIxMDItMTE3N2FiMWVhODFkXkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BMjBjZTA1YTEtZmZlYy00ODk1LWIxMDItMTE3N2FiMWVhODFkXkEyXkFqcGc@._V1_SX250.jpg"
+    ]
   },
   {
     "id": "e60428a1c3d1b76872613c8ce126e72d",
@@ -12845,12 +12830,7 @@
       "Telugu",
       "Hindi",
       "Multi-Lang"
-    ],
-    "imdbId": "tt0140282",
-    "name": "In God's Hands",
-    "year": 1998,
-    "poster": "https://m.media-amazon.com/images/M/MV5BYWFhYTFiMjAtODhhMi00NjdiLTk1ZmUtMzExNDM2NTViMzM0XkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BYWFhYTFiMjAtODhhMi00NjdiLTk1ZmUtMzExNDM2NTViMzM0XkEyXkFqcGc@._V1_SX250.jpg"
+    ]
   },
   {
     "id": "3c7971c6a8379772aeab8df4a73982fb",
@@ -13012,12 +12992,7 @@
     "rawText": "Pogumidam Thooramillai (2026) Tamil HD - [1080p & 720p - AVC - (AAC 2.0) - 1GB & 500MB]",
     "languages": [
       "Tamil"
-    ],
-    "imdbId": "tt32402578",
-    "name": "Pogumidam Vegu Thooramillai",
-    "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BNDVjMWRjMDItYWFlMS00YWQ0LWFmNjItMDg2NzRkMjJlZjRlXkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BNDVjMWRjMDItYWFlMS00YWQ0LWFmNjItMDg2NzRkMjJlZjRlXkEyXkFqcGc@._V1_SX250.jpg"
+    ]
   },
   {
     "id": "dee9ecef93216cb6bc59f8f4f2c883a8",
@@ -13090,12 +13065,7 @@
       "Telugu",
       "Hindi",
       "Multi-Lang"
-    ],
-    "imdbId": "tt0118925",
-    "name": "Dancer, Texas Pop. 81",
-    "year": 1998,
-    "poster": "https://m.media-amazon.com/images/M/MV5BMjEwNjJjZjQtYjNhYS00NTA1LTljYjYtYTQwYjg1ODRiMDU5XkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BMjEwNjJjZjQtYjNhYS00NTA1LTljYjYtYTQwYjg1ODRiMDU5XkEyXkFqcGc@._V1_SX250.jpg"
+    ]
   },
   {
     "id": "884d66af13c177b2b383e9f45ae97c5e",
@@ -13474,9 +13444,16 @@
     ],
     "imdbId": "tt34471850",
     "name": "Protector",
-    "year": 2025,
-    "poster": "https://m.media-amazon.com/images/M/MV5BY2Q0NzkzNmEtN2M5My00NjBjLWIyNDQtMDZmMzAyMTg0MjdkXkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BY2Q0NzkzNmEtN2M5My00NjBjLWIyNDQtMDZmMzAyMTg0MjdkXkEyXkFqcGc@._V1_SX250.jpg"
+    "year": "2026",
+    "poster": "https://images.metahub.space/poster/small/tt34471850/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt34471850/img",
+    "genres": [
+      "Action",
+      "Crime",
+      "Drama"
+    ],
+    "description": "Former war hero Nikki's peaceful life is shattered when her daughter is kidnapped. Thrust into the criminal underworld while hunted by cops and military, she must fight to rescue her child.",
+    "imdbRating": "5.3"
   },
   {
     "id": "1ae57f0cd26497d36dc748817c69a251",
