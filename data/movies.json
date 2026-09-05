@@ -1162,7 +1162,12 @@
       "Kannada",
       "Hindi",
       "Multi-Lang"
-    ]
+    ],
+    "imdbId": "tt38286171",
+    "name": "Unmadham",
+    "year": 2026,
+    "poster": "https://m.media-amazon.com/images/M/MV5BYWYyMWY4ZmEtNjI4Ny00Mjg0LWJlNGYtN2JhNzdmZWY0ZjUxXkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BYWYyMWY4ZmEtNjI4Ny00Mjg0LWJlNGYtN2JhNzdmZWY0ZjUxXkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "0a82f93eb9244a1ecaf96222bcfafc40",
@@ -2807,12 +2812,7 @@
     "rawText": "Angikaaram (2026) Tamil HD - [1080p & 720p - AVC / HEVC - (DD5.1 - 384Kbps) - 4.2GB + Rips] - [W]",
     "languages": [
       "Tamil"
-    ],
-    "imdbId": "tt37174734",
-    "name": "Angikaaram",
-    "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BMjI4MjAyOWYtYjJjNS00YzQzLWI0YWItZDQyMDFmYzRkYjRiXkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BMjI4MjAyOWYtYjJjNS00YzQzLWI0YWItZDQyMDFmYzRkYjRiXkEyXkFqcGc@._V1_SX250.jpg"
+    ]
   },
   {
     "id": "943bc40018a7279b4b3a52e7683167aa",
@@ -3693,12 +3693,7 @@
       "Kannada",
       "Hindi",
       "Multi-Lang"
-    ],
-    "imdbId": "tt37654096",
-    "name": "The Last Sunrise",
-    "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BMjZlMjQxN2MtYjAyOS00YjliLWE3NjEtNDZjOWI5NTAxNTY2XkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BMjZlMjQxN2MtYjAyOS00YjliLWE3NjEtNDZjOWI5NTAxNTY2XkEyXkFqcGc@._V1_SX250.jpg"
+    ]
   },
   {
     "id": "355f43a01a2f34e758091bd4c212e462",
@@ -6775,7 +6770,12 @@
     "rawText": "Hushar Pittalu (2026) Telugu HQ PreDVD (HQ Clean) - [1080p & 720p - x264 - 2.4GB + Rips] - [W]",
     "languages": [
       "Telugu"
-    ]
+    ],
+    "imdbId": "tt43737953",
+    "name": "Hushar Pittalu",
+    "year": 2026,
+    "poster": "https://m.media-amazon.com/images/M/MV5BOTliZjJlYTItMjBlMi00NDNmLWJjNDctY2EyNWJiOTk4MzVkXkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BOTliZjJlYTItMjBlMi00NDNmLWJjNDctY2EyNWJiOTk4MzVkXkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "3cc605a7b5dfa6a93f6c448cce43f6b9",
@@ -11480,7 +11480,19 @@
       "Telugu",
       "Hindi",
       "Multi-Lang"
-    ]
+    ],
+    "imdbId": "tt0145487",
+    "name": "Spider-Man",
+    "year": "2002",
+    "poster": "https://images.metahub.space/poster/small/tt0145487/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt0145487/img",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Sci-Fi"
+    ],
+    "description": "After being bitten by a genetically-modified spider, a shy teenager gains spider-like abilities that he uses to fight injustice as a masked superhero and face a vengeful enemy.",
+    "imdbRating": "7.4"
   },
   {
     "id": "a3e186caee77fd5d626fc0d56bc1a081",
@@ -12915,7 +12927,12 @@
       "Telugu",
       "Hindi",
       "Multi-Lang"
-    ]
+    ],
+    "imdbId": "tt0140282",
+    "name": "In God's Hands",
+    "year": 1998,
+    "poster": "https://m.media-amazon.com/images/M/MV5BYWFhYTFiMjAtODhhMi00NjdiLTk1ZmUtMzExNDM2NTViMzM0XkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BYWFhYTFiMjAtODhhMi00NjdiLTk1ZmUtMzExNDM2NTViMzM0XkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "3c7971c6a8379772aeab8df4a73982fb",
@@ -12956,7 +12973,18 @@
       "Tamil",
       "Hindi",
       "Multi-Lang"
-    ]
+    ],
+    "imdbId": "tt3614516",
+    "name": "Ankhon Dekhi",
+    "year": "2013",
+    "poster": "https://images.metahub.space/poster/small/tt3614516/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt3614516/img",
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "description": "After a distressing incident, a Delhi man vows to believe only what he can see, but his new ideals soon take his life in extreme directions.",
+    "imdbRating": "7.9"
   },
   {
     "id": "96dd1e8efb081065eac6d45cc7df2749",
@@ -13095,7 +13123,12 @@
     "rawText": "Kalyanamaram (2026) Malayalam HD + ESub - [1080p & 720p - AVC - (DD+5.1 - 384Kbps) - 2.7GB + Rips]",
     "languages": [
       "Malayalam"
-    ]
+    ],
+    "imdbId": "tt43505958",
+    "name": "Kalyanamaram",
+    "year": 2026,
+    "poster": "https://m.media-amazon.com/images/M/MV5BZDA0ZWJhYzYtMzcxNS00ZWFmLTllODctMmJmNTIxMzhlNTExXkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BZDA0ZWJhYzYtMzcxNS00ZWFmLTllODctMmJmNTIxMzhlNTExXkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "9f49ee247d59fadd80c0807e22bc6c64",
@@ -14690,7 +14723,12 @@
       "Kannada",
       "Hindi",
       "Multi-Lang"
-    ]
+    ],
+    "imdbId": "tt39385419",
+    "name": "Parimala and Co",
+    "year": 2026,
+    "poster": "https://m.media-amazon.com/images/M/MV5BNGJmODQ0ODYtOWQ3Zi00M2VhLWIwNzYtYzRmMGI0NmE5ZWEwXkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BNGJmODQ0ODYtOWQ3Zi00M2VhLWIwNzYtYzRmMGI0NmE5ZWEwXkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "b2901ad0d217a134d3355f049d6840c4",
@@ -15277,12 +15315,7 @@
       "Telugu",
       "Hindi",
       "Multi-Lang"
-    ],
-    "imdbId": "tt0096003",
-    "name": "Rocket Gibraltar",
-    "year": 1988,
-    "poster": "https://m.media-amazon.com/images/M/MV5BZGMzYzM1N2YtNjFjMC00ODRkLWI1ZTEtZDIxMDJlNTYwNWJjXkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BZGMzYzM1N2YtNjFjMC00ODRkLWI1ZTEtZDIxMDJlNTYwNWJjXkEyXkFqcGc@._V1_SX250.jpg"
+    ]
   },
   {
     "id": "e922bf599f88c9f81c74bfc6d3b115d0",
@@ -18570,7 +18603,12 @@
     "rawText": "Dooradarshini (2026) Telugu HD + ESub - [1080p & 720p - AVC - (DD+2.0 - 224Kbps) - 2.5GB + Rips]",
     "languages": [
       "Telugu"
-    ]
+    ],
+    "imdbId": "tt35279343",
+    "name": "Dooradarshini",
+    "year": 2026,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMGIxZTIxZTctMmRiNC00YTY5LWE1NjktMTNlYWJlZjI3MDBiXkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BMGIxZTIxZTctMmRiNC00YTY5LWE1NjktMTNlYWJlZjI3MDBiXkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "48d9c9c9ae6949b08c9d73768ffffb91",
@@ -18609,8 +18647,8 @@
     "imdbId": "tt31390893",
     "name": "Raja Shivaji",
     "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BMmUwNzQ5NzQtZDc1YS00NjQ4LThiMjItNmJlMzFiNWYxZGVhXkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BMmUwNzQ5NzQtZDc1YS00NjQ4LThiMjItNmJlMzFiNWYxZGVhXkEyXkFqcGc@._V1_SX250.jpg"
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTk5MDI1OWQtZTFlNS00ODA4LWE2OWQtMDk2MzFkMTgzMzg3XkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BMTk5MDI1OWQtZTFlNS00ODA4LWE2OWQtMDk2MzFkMTgzMzg3XkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "411ef28c0a0f44db3dc4e6ad0345ab3d",
