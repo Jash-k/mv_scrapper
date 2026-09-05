@@ -2,16 +2,23 @@ name: 1TamilMV Auto-Scraper (720p & 1080p Only)
 
 on:
   schedule:
-    # Runs every 30 minutes
+    # Best-effort fallback only. The reliable 30-minute cadence comes from the
+    # Koyeb app calling workflow_dispatch (GITHUB_DISPATCH_* env vars).
     - cron: '*/30 * * * *'
-  workflow_dispatch: # Allows manual trigger from GitHub Actions UI
+  workflow_dispatch: # manual trigger (UI button) AND the external cron target
 
 permissions:
   contents: write
 
+# Never run two scrapers at once (a scrape takes ~8-10 min).
+concurrency:
+  group: scrape
+  cancel-in-progress: false
+
 jobs:
   scrape-and-update:
     runs-on: ubuntu-latest
+    timeout-minutes: 20   # a hung scrape can't burn Actions minutes
 
     steps:
       - name: 📥 Checkout Repository
@@ -24,7 +31,7 @@ jobs:
           cache: 'npm'
 
       - name: 📦 Install Dependencies
-        run: npm install
+        run: npm ci
 
       - name: 🚀 Run 1TamilMV Scraper (720p & 1080p Filter)
         run: node src/scrape-cli.js
