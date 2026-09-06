@@ -1387,11 +1387,18 @@
       "Hindi",
       "Multi-Lang"
     ],
-    "imdbId": "tt1679335",
-    "name": "Trolls",
-    "year": 2016,
-    "poster": "https://m.media-amazon.com/images/M/MV5BMTkxNDc3OTcxMV5BMl5BanBnXkFtZTgwODk2NjAzOTE@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BMTkxNDc3OTcxMV5BMl5BanBnXkFtZTgwODk2NjAzOTE@._V1_SX250.jpg"
+    "imdbId": "tt6645614",
+    "name": "Trolls Holiday",
+    "year": "2017",
+    "poster": "https://images.metahub.space/poster/small/tt6645614/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt6645614/img",
+    "genres": [
+      "Animation",
+      "Adventure",
+      "Comedy"
+    ],
+    "description": "When the Queen of the Trolls, Poppy, finds out that the Bergens do not have holidays, she enlists help from her friends, Branch and the Snack Pack, to help her bring holidays to the Bergens.",
+    "imdbRating": "6.1"
   },
   {
     "id": "4a5c08ebab7dcc8432868c211dee3cb9",
@@ -2510,12 +2517,7 @@
     "rawText": "Karavali (2026) Kannada HD + ESub - [1080p & 720p - AVC - (DD+5.1 - 192Kbps) - 2GB + Rips] - [W]",
     "languages": [
       "Kannada"
-    ],
-    "imdbId": "tt29521397",
-    "name": "Karavali",
-    "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BYjA3OGRjMTgtYjVhNC00NzljLWFkNGMtMzk4NDQxMmI0NDMyXkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BYjA3OGRjMTgtYjVhNC00NzljLWFkNGMtMzk4NDQxMmI0NDMyXkEyXkFqcGc@._V1_SX250.jpg"
+    ]
   },
   {
     "id": "b192efc755a93223f712094918290c3d",
@@ -4568,12 +4570,7 @@
     "rawText": "The Breed (2006) (BluRay + Org Auds) - [1080p & 720p - x264 - (Tamil + Eng) - 1.4GB + Rips]",
     "languages": [
       "Tamil"
-    ],
-    "imdbId": "tt0455362",
-    "name": "The Breed",
-    "year": 2006,
-    "poster": "https://m.media-amazon.com/images/M/MV5BMjg5ODA5MzAxMV5BMl5BanBnXkFtZTgwMzkyNDM2MTI@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BMjg5ODA5MzAxMV5BMl5BanBnXkFtZTgwMzkyNDM2MTI@._V1_SX250.jpg"
+    ]
   },
   {
     "id": "44113667cb04be2483cc9ef0ad75e2c3",
@@ -5187,15 +5184,17 @@
     "languages": [
       "Tamil"
     ],
-    "imdbId": "tt37593831",
-    "name": "Dark Hollow",
-    "year": "2026",
-    "poster": "https://images.metahub.space/poster/small/tt37593831/img",
-    "thumbnail": "https://images.metahub.space/poster/small/tt37593831/img",
+    "imdbId": "tt32491690",
+    "name": "Dark Nuns",
+    "year": "2025",
+    "poster": "https://images.metahub.space/poster/small/tt32491690/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt32491690/img",
     "genres": [
-      "Horror"
+      "Horror",
+      "Mystery",
+      "Thriller"
     ],
-    "description": "When a nightmarish monster emerges from the depths of an Appalachian coal mine, a young mother must hunt down the creature to protect her home and save her family."
+    "description": "A young boy Hee-Joon is possessed by an evil spirit. Nun Yunia tries to save him, assisted by Nun Mikaela. Priest Paul attempts medical treatment, while Priest Andrew performs an exorcism to rid Hee-Joon of the spirit."
   },
   {
     "id": "3704c30bedaef73569f5d5f475ca59c0",
@@ -6655,8 +6654,8 @@
     "imdbId": "tt27165187",
     "name": "The End of Oak Street",
     "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BZGI0YmRjNWYtYTliYy00YzdjLTkzNzQtZWExNjA2ZDU5MzAwXkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BZGI0YmRjNWYtYTliYy00YzdjLTkzNzQtZWExNjA2ZDU5MzAwXkEyXkFqcGc@._V1_SX250.jpg"
+    "poster": "https://m.media-amazon.com/images/M/MV5BZDQ1MDhmZWQtNjdhOS00MGE0LTkxMTItN2Q4NjIyYzUzZmRlXkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BZDQ1MDhmZWQtNjdhOS00MGE0LTkxMTItN2Q4NjIyYzUzZmRlXkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "bb54fa277163cef97c4697662fb6cd84",
@@ -8025,19 +8024,7 @@
       "Telugu",
       "Hindi",
       "Multi-Lang"
-    ],
-    "imdbId": "tt1341338",
-    "name": "Good Luck, Have Fun, Don't Die",
-    "year": "2026",
-    "poster": "https://images.metahub.space/poster/small/tt1341338/img",
-    "thumbnail": "https://images.metahub.space/poster/small/tt1341338/img",
-    "genres": [
-      "Action",
-      "Adventure",
-      "Comedy"
-    ],
-    "description": "A \"Man From the Future\" arrives at a diner in Los Angeles where he must recruit the precise combination of disgruntled patrons to join him on a one-night quest to save the world from the terminal threat of a rogue artificial intel...",
-    "imdbRating": "7.0"
+    ]
   },
   {
     "id": "02b3a595f13e6853f6af0c65d4447229",
@@ -8201,12 +8188,7 @@
     "rawText": "Mr. Work from Home (2026) Telugu HD + ESub - [4K, 1080p & 720p - AVC / HEVC - (DD+5.1 - 192Kbps) - 4GB + Rips]",
     "languages": [
       "Telugu"
-    ],
-    "imdbId": "tt40036552",
-    "name": "Mr. Work from Home",
-    "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BOTc2OWJiYTItOGYxZS00NWNjLWI3MjItOGQxZDFlYmUwMWZkXkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BOTc2OWJiYTItOGYxZS00NWNjLWI3MjItOGQxZDFlYmUwMWZkXkEyXkFqcGc@._V1_SX250.jpg"
+    ]
   },
   {
     "id": "bab9f44f84f20bb230812a8d119ccd0a",
@@ -8687,12 +8669,7 @@
     "rawText": "Aakhri Sawal (2026) Hindi HD - [1080p & 720p - AVC - (AAC 2.0) - 1.9GB + Rips]",
     "languages": [
       "Hindi"
-    ],
-    "imdbId": "tt41110859",
-    "name": "Aakhri Sawal",
-    "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BOTJkODZiOWItOTY2YS00N2VkLTlkZjEtYzMyZTQzZGQ1ZDcxXkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BOTJkODZiOWItOTY2YS00N2VkLTlkZjEtYzMyZTQzZGQ1ZDcxXkEyXkFqcGc@._V1_SX250.jpg"
+    ]
   },
   {
     "id": "a0c2c1f010acf62598be38630e703422",
@@ -9664,12 +9641,7 @@
     "rawText": "Maggi Pusthaka (2026) Kannada HD + ESub - [1080p & 720p - AVC - (DD+2.0 - 224Kbps) - 2.4GB + Rips]",
     "languages": [
       "Kannada"
-    ],
-    "imdbId": "tt39386092",
-    "name": "Maggi Pusthaka",
-    "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BMzMxN2Y5NmYtYmM3Zi00MzU1LTg1MmMtNmIzNTVmOGFkMDk0XkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BMzMxN2Y5NmYtYmM3Zi00MzU1LTg1MmMtNmIzNTVmOGFkMDk0XkEyXkFqcGc@._V1_SX250.jpg"
+    ]
   },
   {
     "id": "a5a8f804a59329d9e4c233b1e46237a0",
@@ -10255,12 +10227,7 @@
       "Telugu",
       "Hindi",
       "Multi-Lang"
-    ],
-    "imdbId": "tt39444607",
-    "name": "Second Case of Seetharam",
-    "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BMjE0YTE4MTYtMDhjNC00OTgzLTg3MjctM2ExYWQ4MjhlYmQzXkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BMjE0YTE4MTYtMDhjNC00OTgzLTg3MjctM2ExYWQ4MjhlYmQzXkEyXkFqcGc@._V1_SX250.jpg"
+    ]
   },
   {
     "id": "49802c54db93fffbcecc55f1034d291f",
@@ -11064,12 +11031,7 @@
       "Telugu",
       "Kannada",
       "Multi-Lang"
-    ],
-    "imdbId": "tt35254624",
-    "name": "Balan: The Boy",
-    "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BMTQ5OThmM2MtYzRhNC00ODM4LTg3YWItNTE5YmViZjk2MGNiXkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BMTQ5OThmM2MtYzRhNC00ODM4LTg3YWItNTE5YmViZjk2MGNiXkEyXkFqcGc@._V1_SX250.jpg"
+    ]
   },
   {
     "id": "b98575ebb21be9807358442af830cf45",
@@ -11511,12 +11473,7 @@
     "rawText": "Police Complaint (2026) Telugu UHD + ESub - [4K, 1080p & 720p - AVC / HEVC - (DD+5.1 - 640Kbps) - 8.4GB + Rips]",
     "languages": [
       "Telugu"
-    ],
-    "imdbId": "tt42577497",
-    "name": "Police Complaint",
-    "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BMjBjOTZhODEtOThjYi00MDU0LWJiZDctYTQ5ZjUxYTBjYWEyXkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BMjBjOTZhODEtOThjYi00MDU0LWJiZDctYTQ5ZjUxYTBjYWEyXkEyXkFqcGc@._V1_SX250.jpg"
+    ]
   },
   {
     "id": "1e2e496c10a3c0ea3abe573e15210072",
@@ -13015,12 +12972,7 @@
     "rawText": "Pogumidam Thooramillai (2026) Tamil HD - [1080p & 720p - AVC - (AAC 2.0) - 1GB & 500MB]",
     "languages": [
       "Tamil"
-    ],
-    "imdbId": "tt32402578",
-    "name": "Pogumidam Vegu Thooramillai",
-    "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BNDVjMWRjMDItYWFlMS00YWQ0LWFmNjItMDg2NzRkMjJlZjRlXkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BNDVjMWRjMDItYWFlMS00YWQ0LWFmNjItMDg2NzRkMjJlZjRlXkEyXkFqcGc@._V1_SX250.jpg"
+    ]
   },
   {
     "id": "dee9ecef93216cb6bc59f8f4f2c883a8",
@@ -13696,12 +13648,7 @@
     "rawText": "Lo Naveena (2026) Kannada HD + ESub - [1080p & 720p - AVC - (DD+2.0 - 224Kbps) - 2.3GB + Rips]",
     "languages": [
       "Kannada"
-    ],
-    "imdbId": "tt39088994",
-    "name": "Lo Naveena",
-    "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BYWY2NDk1ZGMtN2Y1OC00YzdmLTg3MzUtZjhiMzU4NTM5YjA0XkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BYWY2NDk1ZGMtN2Y1OC00YzdmLTg3MzUtZjhiMzU4NTM5YjA0XkEyXkFqcGc@._V1_SX250.jpg"
+    ]
   },
   {
     "id": "11fa97e04d4f1e81276acf1f3b3f17ee",
@@ -14120,12 +14067,7 @@
       "Tamil",
       "Hindi",
       "Multi-Lang"
-    ],
-    "imdbId": "tt32990776",
-    "name": "Shark Warning",
-    "year": 2024,
-    "poster": "https://m.media-amazon.com/images/M/MV5BYjFmYTAyY2QtZWM5Ny00OGNkLWFhZTMtYzcxOThjNGY0MWQyXkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BYjFmYTAyY2QtZWM5Ny00OGNkLWFhZTMtYzcxOThjNGY0MWQyXkEyXkFqcGc@._V1_SX250.jpg"
+    ]
   },
   {
     "id": "3c40c83c16d23ccbb70590f4685c4605",
@@ -14217,12 +14159,7 @@
     "rawText": "Rajathandhiram (2025) Tamil HD + ESub - [1080p & 720p - AVC / HEVC - (DD+2.0 - 224Kbps) - 7.9GB + Rips]",
     "languages": [
       "Tamil"
-    ],
-    "imdbId": "tt4446318",
-    "name": "Rajathandhiram",
-    "year": 2025,
-    "poster": "https://m.media-amazon.com/images/M/MV5BNzg4YzJmMTAtZTU5Zi00NGQwLTljM2QtNWZkNTc0M2NkZGM4XkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BNzg4YzJmMTAtZTU5Zi00NGQwLTljM2QtNWZkNTc0M2NkZGM4XkEyXkFqcGc@._V1_SX250.jpg"
+    ]
   },
   {
     "id": "aab80dca5ce1693865698914feb76b52",
@@ -16999,12 +16936,7 @@
     "rawText": "The Furious (2026) English TRUE HD + ESub - [1080p & 720p - AVC - (DD+5.1 - 640Kbps) - 2.3GB + Rips]",
     "languages": [
       "Tamil"
-    ],
-    "imdbId": "tt33311069",
-    "name": "The Furious",
-    "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BODUyZjg2YzctNGE3Yi00YjhhLTkyZTItZTAwZTNhNDA1ODQzXkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BODUyZjg2YzctNGE3Yi00YjhhLTkyZTItZTAwZTNhNDA1ODQzXkEyXkFqcGc@._V1_SX250.jpg"
+    ]
   },
   {
     "id": "49b08e78518e55734e946837f8356234",
@@ -17400,12 +17332,7 @@
       "Kannada",
       "Hindi",
       "Multi-Lang"
-    ],
-    "imdbId": "tt29959401",
-    "name": "Mollywood Times",
-    "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BZmU1ZDQ1MjUtYTcwZi00YWE0LWEwMWItYjY3YmEwNmI2MGRkXkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BZmU1ZDQ1MjUtYTcwZi00YWE0LWEwMWItYjY3YmEwNmI2MGRkXkEyXkFqcGc@._V1_SX250.jpg"
+    ]
   },
   {
     "id": "0ad2251a98707795f8450bdea35a955d",
