@@ -5194,17 +5194,15 @@
     "languages": [
       "Tamil"
     ],
-    "imdbId": "tt32491690",
-    "name": "Dark Nuns",
-    "year": "2025",
-    "poster": "https://images.metahub.space/poster/small/tt32491690/img",
-    "thumbnail": "https://images.metahub.space/poster/small/tt32491690/img",
+    "imdbId": "tt37593831",
+    "name": "Dark Hollow",
+    "year": "2026",
+    "poster": "https://images.metahub.space/poster/small/tt37593831/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt37593831/img",
     "genres": [
-      "Horror",
-      "Mystery",
-      "Thriller"
+      "Horror"
     ],
-    "description": "A young boy Hee-Joon is possessed by an evil spirit. Nun Yunia tries to save him, assisted by Nun Mikaela. Priest Paul attempts medical treatment, while Priest Andrew performs an exorcism to rid Hee-Joon of the spirit."
+    "description": "When a nightmarish monster emerges from the depths of an Appalachian coal mine, a young mother must hunt down the creature to protect her home and save her family."
   },
   {
     "id": "3704c30bedaef73569f5d5f475ca59c0",
@@ -6664,8 +6662,8 @@
     "imdbId": "tt27165187",
     "name": "The End of Oak Street",
     "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BZDQ1MDhmZWQtNjdhOS00MGE0LTkxMTItN2Q4NjIyYzUzZmRlXkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BZDQ1MDhmZWQtNjdhOS00MGE0LTkxMTItN2Q4NjIyYzUzZmRlXkEyXkFqcGc@._V1_SX250.jpg"
+    "poster": "https://m.media-amazon.com/images/M/MV5BZGI0YmRjNWYtYTliYy00YzdjLTkzNzQtZWExNjA2ZDU5MzAwXkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BZGI0YmRjNWYtYTliYy00YzdjLTkzNzQtZWExNjA2ZDU5MzAwXkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "bb54fa277163cef97c4697662fb6cd84",
@@ -9564,8 +9562,8 @@
     "imdbId": "tt32268156",
     "name": "The Last House",
     "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BNGVlY2E3YjYtMDI3OC00OTZjLWE5MTgtNzQ2NDdlNjMwMzVhXkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BNGVlY2E3YjYtMDI3OC00OTZjLWE5MTgtNzQ2NDdlNjMwMzVhXkEyXkFqcGc@._V1_SX250.jpg"
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjI5YTQ3YmItZjk1ZS00ZDBmLWJhZDMtNThhMDI5ZTRkMTcxXkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BMjI5YTQ3YmItZjk1ZS00ZDBmLWJhZDMtNThhMDI5ZTRkMTcxXkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "3e5bf3c573012aca969359fda676b7a1",
@@ -15245,12 +15243,7 @@
       "Telugu",
       "Hindi",
       "Multi-Lang"
-    ],
-    "imdbId": "tt0096003",
-    "name": "Rocket Gibraltar",
-    "year": 1988,
-    "poster": "https://m.media-amazon.com/images/M/MV5BZGMzYzM1N2YtNjFjMC00ODRkLWI1ZTEtZDIxMDJlNTYwNWJjXkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BZGMzYzM1N2YtNjFjMC00ODRkLWI1ZTEtZDIxMDJlNTYwNWJjXkEyXkFqcGc@._V1_SX250.jpg"
+    ]
   },
   {
     "id": "e922bf599f88c9f81c74bfc6d3b115d0",
