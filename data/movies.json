@@ -278,8 +278,8 @@
     "imdbId": "tt41971399",
     "name": "Romanchakam",
     "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BMzExZWYwZWMtNmFlMC00NDA4LThkZTAtNzk2YzU4MDhkMmE2XkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BMzExZWYwZWMtNmFlMC00NDA4LThkZTAtNzk2YzU4MDhkMmE2XkEyXkFqcGc@._V1_SX250.jpg"
+    "poster": "https://m.media-amazon.com/images/M/MV5BODhhZDVjNDYtZGY0Mi00NDgyLWJhOGEtZWNkMDc2MTk1YWJmXkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BODhhZDVjNDYtZGY0Mi00NDgyLWJhOGEtZWNkMDc2MTk1YWJmXkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "605e01d3c02c8bc9fadc35f343780d99",
@@ -3515,7 +3515,12 @@
     "rawText": "Bandar (2026) Hindi HD + ESub - [1080p & 720p - AVC - (DD+5.1 ATMOS - 448Kbps) - 2.4GB + Rips]",
     "languages": [
       "Hindi"
-    ]
+    ],
+    "imdbId": "tt32389930",
+    "name": "Bandar",
+    "year": 2026,
+    "poster": "https://m.media-amazon.com/images/M/MV5BOThjOTk0N2MtMjQyMC00MDg5LWExNzItYTgyMjQ2MGZlNTIxXkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BOThjOTk0N2MtMjQyMC00MDg5LWExNzItYTgyMjQ2MGZlNTIxXkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "a3368a6f500db49476f1eddd0ebadc8f",
@@ -4562,12 +4567,7 @@
       "Tamil",
       "Hindi",
       "Multi-Lang"
-    ],
-    "imdbId": "tt1105709",
-    "name": "8 x 10 Tasveer",
-    "year": 2009,
-    "poster": "https://m.media-amazon.com/images/M/MV5BZGE0OTcyOGEtNjdlMS00ZjEzLThmN2MtNDVmMzQxMzc5NGM1XkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BZGE0OTcyOGEtNjdlMS00ZjEzLThmN2MtNDVmMzQxMzc5NGM1XkEyXkFqcGc@._V1_SX250.jpg"
+    ]
   },
   {
     "id": "8258fca40f1a279af2c4f0dc63e59f2c",
@@ -5305,15 +5305,17 @@
     "languages": [
       "Tamil"
     ],
-    "imdbId": "tt37593831",
-    "name": "Dark Hollow",
-    "year": "2026",
-    "poster": "https://images.metahub.space/poster/small/tt37593831/img",
-    "thumbnail": "https://images.metahub.space/poster/small/tt37593831/img",
+    "imdbId": "tt32491690",
+    "name": "Dark Nuns",
+    "year": "2025",
+    "poster": "https://images.metahub.space/poster/small/tt32491690/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt32491690/img",
     "genres": [
-      "Horror"
+      "Horror",
+      "Mystery",
+      "Thriller"
     ],
-    "description": "When a nightmarish monster emerges from the depths of an Appalachian coal mine, a young mother must hunt down the creature to protect her home and save her family."
+    "description": "A young boy Hee-Joon is possessed by an evil spirit. Nun Yunia tries to save him, assisted by Nun Mikaela. Priest Paul attempts medical treatment, while Priest Andrew performs an exorcism to rid Hee-Joon of the spirit."
   },
   {
     "id": "3704c30bedaef73569f5d5f475ca59c0",
@@ -5783,7 +5785,18 @@
     "rawText": "The Town (2010) (BluRay + Org Auds) - [1080p & 720p - x264 - (Tamil + Eng) - 2.5GB + Rips]",
     "languages": [
       "Tamil"
-    ]
+    ],
+    "imdbId": "tt1720276",
+    "name": "The Town Christmas Forgot",
+    "year": "2010",
+    "poster": "https://images.metahub.space/poster/small/tt1720276/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt1720276/img",
+    "genres": [
+      "Comedy",
+      "Family"
+    ],
+    "description": "When an urban family gets stranded in an impoverished lumber town two days before Christmas, they become involved in the town's home-grown Christmas pageant just in time for the holidays.",
+    "imdbRating": "5.7"
   },
   {
     "id": "8812cf00a3a866a5fd92de36534e7d40",
@@ -7427,7 +7440,12 @@
       "Telugu",
       "Hindi",
       "Multi-Lang"
-    ]
+    ],
+    "imdbId": "tt32273171",
+    "name": "The Death of Robin Hood",
+    "year": 2026,
+    "poster": "https://m.media-amazon.com/images/M/MV5BYTRmNzlmZjEtYjkzMC00MmNjLThiOGYtZjM5MjFiZDQyM2IwXkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BYTRmNzlmZjEtYjkzMC00MmNjLThiOGYtZjM5MjFiZDQyM2IwXkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "3f755c5a04d75109d91cc73cddea114e",
@@ -8183,7 +8201,14 @@
       "Telugu",
       "Hindi",
       "Multi-Lang"
-    ]
+    ],
+    "imdbId": "tt34682204",
+    "name": "Swim to Me",
+    "year": "2025",
+    "poster": "https://images.metahub.space/poster/small/tt34682204/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt34682204/img",
+    "genres": [],
+    "description": "Estela, a young woman from rural Chile, embarks on a journey to Santiago, leaving her family behind to work as a maid for an affluent household."
   },
   {
     "id": "0c1b4475bd05c1ca61add24f07e0467a",
@@ -8296,7 +8321,12 @@
     "rawText": "Mr. Work from Home (2026) Telugu HD + ESub - [4K, 1080p & 720p - AVC / HEVC - (DD+5.1 - 192Kbps) - 4GB + Rips]",
     "languages": [
       "Telugu"
-    ]
+    ],
+    "imdbId": "tt40036552",
+    "name": "Mr. Work from Home",
+    "year": 2026,
+    "poster": "https://m.media-amazon.com/images/M/MV5BOTc2OWJiYTItOGYxZS00NWNjLWI3MjItOGQxZDFlYmUwMWZkXkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BOTc2OWJiYTItOGYxZS00NWNjLWI3MjItOGQxZDFlYmUwMWZkXkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "bab9f44f84f20bb230812a8d119ccd0a",
@@ -9754,7 +9784,12 @@
     "rawText": "Maggi Pusthaka (2026) Kannada HD + ESub - [1080p & 720p - AVC - (DD+2.0 - 224Kbps) - 2.4GB + Rips]",
     "languages": [
       "Kannada"
-    ]
+    ],
+    "imdbId": "tt39386092",
+    "name": "Maggi Pusthaka",
+    "year": 2026,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMzMxN2Y5NmYtYmM3Zi00MzU1LTg1MmMtNmIzNTVmOGFkMDk0XkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BMzMxN2Y5NmYtYmM3Zi00MzU1LTg1MmMtNmIzNTVmOGFkMDk0XkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "a5a8f804a59329d9e4c233b1e46237a0",
@@ -10340,7 +10375,12 @@
       "Telugu",
       "Hindi",
       "Multi-Lang"
-    ]
+    ],
+    "imdbId": "tt39444607",
+    "name": "Second Case of Seetharam",
+    "year": 2026,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjE0YTE4MTYtMDhjNC00OTgzLTg3MjctM2ExYWQ4MjhlYmQzXkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BMjE0YTE4MTYtMDhjNC00OTgzLTg3MjctM2ExYWQ4MjhlYmQzXkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "49802c54db93fffbcecc55f1034d291f",
@@ -11626,7 +11666,12 @@
       "Telugu",
       "Hindi",
       "Multi-Lang"
-    ]
+    ],
+    "imdbId": "tt41604789",
+    "name": "Chum",
+    "year": 2026,
+    "poster": "https://m.media-amazon.com/images/M/MV5BNGZhZDhhYjItYzI0OC00NWQ5LTk4ZTktOGM1Y2U3Y2I3YmVlXkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BNGZhZDhhYjItYzI0OC00NWQ5LTk4ZTktOGM1Y2U3Y2I3YmVlXkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "5d8a63d3234c828f85857afeb0a7093d",
@@ -11934,7 +11979,12 @@
       "Telugu",
       "Malayalam",
       "Kannada"
-    ]
+    ],
+    "imdbId": "tt23865918",
+    "name": "Peddi",
+    "year": 2026,
+    "poster": "https://m.media-amazon.com/images/M/MV5BY2U5MzM2MDAtNjIxZC00Yzk5LWFiZjctNjllN2IyMzI2NTc0XkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BY2U5MzM2MDAtNjIxZC00Yzk5LWFiZjctNjllN2IyMzI2NTc0XkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "fd0a221ff51eeecc11d6e59392d2a550",
@@ -12292,7 +12342,19 @@
       "Telugu",
       "Hindi",
       "Multi-Lang"
-    ]
+    ],
+    "imdbId": "tt30395619",
+    "name": "Demon Slayer: Kimetsu No Yaiba - To the Hashira Training",
+    "year": "2024",
+    "poster": "https://images.metahub.space/poster/small/tt30395619/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt30395619/img",
+    "genres": [
+      "Animation",
+      "Action",
+      "Adventure"
+    ],
+    "description": "Tanjiro undergoes rigorous training with the Stone Hashira, Himejima, in his quest to become a Hashira. Meanwhile, Muzan continues to search for Nezuko and Ubuyashiki.",
+    "imdbRating": "7.2"
   },
   {
     "id": "c8ed1675e82a4149b42c9ad6b7bec882",
@@ -14363,8 +14425,8 @@
     "imdbId": "tt0102817",
     "name": "Rubin and Ed",
     "year": 1991,
-    "poster": "https://m.media-amazon.com/images/M/MV5BYWYzMjliZmQtN2UwMS00YTllLWEzNzEtOTcwNGQyOWJkYzM2XkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BYWYzMjliZmQtN2UwMS00YTllLWEzNzEtOTcwNGQyOWJkYzM2XkEyXkFqcGc@._V1_SX250.jpg"
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTc2NjMwODE1M15BMl5BanBnXkFtZTcwMDYxOTAwMQ@@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BMTc2NjMwODE1M15BMl5BanBnXkFtZTcwMDYxOTAwMQ@@._V1_SX250.jpg"
   },
   {
     "id": "cde4a20fc1ec9271a6ab9ec1db51a6e0",
@@ -14702,7 +14764,12 @@
       "Kannada",
       "Hindi",
       "Multi-Lang"
-    ]
+    ],
+    "imdbId": "tt39385419",
+    "name": "Parimala and Co",
+    "year": 2026,
+    "poster": "https://m.media-amazon.com/images/M/MV5BNGJmODQ0ODYtOWQ3Zi00M2VhLWIwNzYtYzRmMGI0NmE5ZWEwXkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BNGJmODQ0ODYtOWQ3Zi00M2VhLWIwNzYtYzRmMGI0NmE5ZWEwXkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "b2901ad0d217a134d3355f049d6840c4",
@@ -15633,7 +15700,20 @@
       "Telugu",
       "Hindi",
       "Multi-Lang"
-    ]
+    ],
+    "imdbId": "tt0469916",
+    "name": "Hollow Man II",
+    "year": "2006",
+    "poster": "https://images.metahub.space/poster/small/tt0469916/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt0469916/img",
+    "genres": [
+      "Action",
+      "Horror",
+      "Sci-Fi",
+      "Thriller"
+    ],
+    "description": "A Seattle detective and a biologist are on the run from a dangerous invisible assassin gone rogue.",
+    "imdbRating": "4.4"
   },
   {
     "id": "78b31789aa746cf80f9cae5c7b6ba534",
@@ -16440,7 +16520,12 @@
       "Tamil",
       "Malayalam",
       "Multi-Lang"
-    ]
+    ],
+    "imdbId": "tt0316396",
+    "name": "Peter Pan",
+    "year": 2026,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMGNjYWVkZGItZTNmNS00MGNkLWI2ZjEtMTIzNzAwNmIxMDRhXkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BMGNjYWVkZGItZTNmNS00MGNkLWI2ZjEtMTIzNzAwNmIxMDRhXkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "5eb964d9b4553d7284ed929feb1fadfa",
@@ -16672,7 +16757,12 @@
     "rawText": "Pati Patni Aur Woh Do (2026) Hindi HD + ESub - [1080p & 720p - AVC - (DD+5.1 - 640Kbps) - 2.3GB + Rips]",
     "languages": [
       "Hindi"
-    ]
+    ],
+    "imdbId": "tt33054858",
+    "name": "Pati Patni Aur Woh Do",
+    "year": 2026,
+    "poster": "https://m.media-amazon.com/images/M/MV5BZmE0ZTA5MTgtNTE4NC00NThmLWFiM2EtZTI2MTc2Y2FmZjkwXkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BZmE0ZTA5MTgtNTE4NC00NThmLWFiM2EtZTI2MTc2Y2FmZjkwXkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "2ba29c0fc1a062ece450d73fae1340a5",
