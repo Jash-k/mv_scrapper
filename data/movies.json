@@ -1503,11 +1503,18 @@
       "Hindi",
       "Multi-Lang"
     ],
-    "imdbId": "tt1679335",
-    "name": "Trolls",
-    "year": 2016,
-    "poster": "https://m.media-amazon.com/images/M/MV5BMTkxNDc3OTcxMV5BMl5BanBnXkFtZTgwODk2NjAzOTE@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BMTkxNDc3OTcxMV5BMl5BanBnXkFtZTgwODk2NjAzOTE@._V1_SX250.jpg"
+    "imdbId": "tt6645614",
+    "name": "Trolls Holiday",
+    "year": "2017",
+    "poster": "https://images.metahub.space/poster/small/tt6645614/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt6645614/img",
+    "genres": [
+      "Animation",
+      "Adventure",
+      "Comedy"
+    ],
+    "description": "When the Queen of the Trolls, Poppy, finds out that the Bergens do not have holidays, she enlists help from her friends, Branch and the Snack Pack, to help her bring holidays to the Bergens.",
+    "imdbRating": "6.1"
   },
   {
     "id": "4a5c08ebab7dcc8432868c211dee3cb9",
@@ -5303,15 +5310,17 @@
     "languages": [
       "Tamil"
     ],
-    "imdbId": "tt37593831",
-    "name": "Dark Hollow",
-    "year": "2026",
-    "poster": "https://images.metahub.space/poster/small/tt37593831/img",
-    "thumbnail": "https://images.metahub.space/poster/small/tt37593831/img",
+    "imdbId": "tt32491690",
+    "name": "Dark Nuns",
+    "year": "2025",
+    "poster": "https://images.metahub.space/poster/small/tt32491690/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt32491690/img",
     "genres": [
-      "Horror"
+      "Horror",
+      "Mystery",
+      "Thriller"
     ],
-    "description": "When a nightmarish monster emerges from the depths of an Appalachian coal mine, a young mother must hunt down the creature to protect her home and save her family."
+    "description": "A young boy Hee-Joon is possessed by an evil spirit. Nun Yunia tries to save him, assisted by Nun Mikaela. Priest Paul attempts medical treatment, while Priest Andrew performs an exorcism to rid Hee-Joon of the spirit."
   },
   {
     "id": "3704c30bedaef73569f5d5f475ca59c0",
@@ -6771,8 +6780,8 @@
     "imdbId": "tt27165187",
     "name": "The End of Oak Street",
     "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BZGI0YmRjNWYtYTliYy00YzdjLTkzNzQtZWExNjA2ZDU5MzAwXkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BZGI0YmRjNWYtYTliYy00YzdjLTkzNzQtZWExNjA2ZDU5MzAwXkEyXkFqcGc@._V1_SX250.jpg"
+    "poster": "https://m.media-amazon.com/images/M/MV5BZDQ1MDhmZWQtNjdhOS00MGE0LTkxMTItN2Q4NjIyYzUzZmRlXkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BZDQ1MDhmZWQtNjdhOS00MGE0LTkxMTItN2Q4NjIyYzUzZmRlXkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "bb54fa277163cef97c4697662fb6cd84",
