@@ -227,7 +227,19 @@
       "Tamil",
       "Malayalam",
       "Telugu"
-    ]
+    ],
+    "imdbId": "tt36639986",
+    "name": "I'm Frankelda",
+    "year": "2025",
+    "poster": "https://images.metahub.space/poster/small/tt36639986/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt36639986/img",
+    "genres": [
+      "Animation",
+      "Family",
+      "Fantasy"
+    ],
+    "description": "Frankelda, a determined 19th-century Mexican writer, journeys into her subconscious to face the monsters she's written about. Guided by a tormented prince, she must restore the balance between fiction and reality before it's too l...",
+    "imdbRating": "7.3"
   },
   {
     "id": "59dfaa0cde4d9eef163663122e39b42c",
@@ -1333,12 +1345,7 @@
       "Hindi",
       "Multi-Lang",
       "Malayalam"
-    ],
-    "imdbId": "tt33083436",
-    "name": "Ananthan Kaadu",
-    "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BMzc5ZDNlZjgtN2Y2Yi00YjI1LTkxMDktYmRiNGE0Y2I2OWJlXkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BMzc5ZDNlZjgtN2Y2Yi00YjI1LTkxMDktYmRiNGE0Y2I2OWJlXkEyXkFqcGc@._V1_SX250.jpg"
+    ]
   },
   {
     "id": "b502514ac70d2e8ab07a401f970276b8",
@@ -3026,12 +3033,7 @@
       "Telugu",
       "Hindi",
       "Multi-Lang"
-    ],
-    "imdbId": "tt0106505",
-    "name": "Calendar Girl",
-    "year": 1993,
-    "poster": "https://m.media-amazon.com/images/M/MV5BZTQ1NTZhYzAtZDAxZi00YTI4LTljMzEtN2E3Y2RlM2M0YjBmXkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BZTQ1NTZhYzAtZDAxZi00YTI4LTljMzEtN2E3Y2RlM2M0YjBmXkEyXkFqcGc@._V1_SX250.jpg"
+    ]
   },
   {
     "id": "a36b081511e4fad13dac6e070fc4697c",
@@ -4555,7 +4557,12 @@
       "Tamil",
       "Hindi",
       "Multi-Lang"
-    ]
+    ],
+    "imdbId": "tt1105709",
+    "name": "8 x 10 Tasveer",
+    "year": 2009,
+    "poster": "https://m.media-amazon.com/images/M/MV5BZGE0OTcyOGEtNjdlMS00ZjEzLThmN2MtNDVmMzQxMzc5NGM1XkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BZGE0OTcyOGEtNjdlMS00ZjEzLThmN2MtNDVmMzQxMzc5NGM1XkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "8258fca40f1a279af2c4f0dc63e59f2c",
@@ -5293,17 +5300,15 @@
     "languages": [
       "Tamil"
     ],
-    "imdbId": "tt32491690",
-    "name": "Dark Nuns",
-    "year": "2025",
-    "poster": "https://images.metahub.space/poster/small/tt32491690/img",
-    "thumbnail": "https://images.metahub.space/poster/small/tt32491690/img",
+    "imdbId": "tt37593831",
+    "name": "Dark Hollow",
+    "year": "2026",
+    "poster": "https://images.metahub.space/poster/small/tt37593831/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt37593831/img",
     "genres": [
-      "Horror",
-      "Mystery",
-      "Thriller"
+      "Horror"
     ],
-    "description": "A young boy Hee-Joon is possessed by an evil spirit. Nun Yunia tries to save him, assisted by Nun Mikaela. Priest Paul attempts medical treatment, while Priest Andrew performs an exorcism to rid Hee-Joon of the spirit."
+    "description": "When a nightmarish monster emerges from the depths of an Appalachian coal mine, a young mother must hunt down the creature to protect her home and save her family."
   },
   {
     "id": "3704c30bedaef73569f5d5f475ca59c0",
@@ -6879,12 +6884,7 @@
     "rawText": "Ayogya 2 (2026) Kannada HQ PreDVD (HQ Clean) - [1080p & 720p - x264 - 2.8GB + Rips] - [W]",
     "languages": [
       "Kannada"
-    ],
-    "imdbId": "tt34883341",
-    "name": "Ayogya 2",
-    "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BOTBkYmIyNjItMjdlYi00ZWE0LTllMTEtMjg3ZDAyMzczMTY0XkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BOTBkYmIyNjItMjdlYi00ZWE0LTllMTEtMjg3ZDAyMzczMTY0XkEyXkFqcGc@._V1_SX250.jpg"
+    ]
   },
   {
     "id": "58deb6dfb62e77f3a5cfae3e3b0449e4",
@@ -7525,7 +7525,12 @@
       "Tamil",
       "Malayalam",
       "Kannada"
-    ]
+    ],
+    "imdbId": "tt35668756",
+    "name": "Kattalan",
+    "year": 2026,
+    "poster": "https://m.media-amazon.com/images/M/MV5BZTFjYzIxNDUtMGJjNy00OTdmLWExNGUtM2FkNzhlYmUzYzk0XkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BZTFjYzIxNDUtMGJjNy00OTdmLWExNGUtM2FkNzhlYmUzYzk0XkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "1b407c9c7ad622ecd591d4c7623b9cf7",
@@ -7984,17 +7989,7 @@
       "Telugu",
       "Hindi",
       "Multi-Lang"
-    ],
-    "imdbId": "tt37540328",
-    "name": "Back to the 90s",
-    "year": "2026",
-    "poster": "https://images.metahub.space/poster/small/tt37540328/img",
-    "thumbnail": "https://images.metahub.space/poster/small/tt37540328/img",
-    "genres": [
-      "Comedy",
-      "Romance"
-    ],
-    "description": "When a glitch hurls the hottest rising boy band of five friends into the year 1995, they must find a way back — together."
+    ]
   },
   {
     "id": "817160c860a260baaedd05f8d2a2282d",
@@ -13932,18 +13927,7 @@
       "Tamil",
       "Hindi",
       "Multi-Lang"
-    ],
-    "imdbId": "tt25012890",
-    "name": "Ice Storm",
-    "year": "2023",
-    "poster": "https://images.metahub.space/poster/small/tt25012890/img",
-    "thumbnail": "https://images.metahub.space/poster/small/tt25012890/img",
-    "genres": [
-      "Action",
-      "Sci-Fi"
-    ],
-    "description": "When a devastating winter storm slams into North Carolina with the lowest recorded temperatures in history, the whole state starts to freeze over. The spread of the freeze continues to grow taken more and more villages, towns and ...",
-    "imdbRating": "2.3"
+    ]
   },
   {
     "id": "4402fbff71df89a19b90960b1f40987b",
@@ -13987,12 +13971,7 @@
       "Telugu",
       "Hindi",
       "Multi-Lang"
-    ],
-    "imdbId": "tt3470600",
-    "name": "Sing",
-    "year": 1989,
-    "poster": "https://m.media-amazon.com/images/M/MV5BMTYzODYzODU2Ml5BMl5BanBnXkFtZTgwNTc1MTA2NzE@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BMTYzODYzODU2Ml5BMl5BanBnXkFtZTgwNTc1MTA2NzE@._V1_SX250.jpg"
+    ]
   },
   {
     "id": "459ba9c9b017b07497b75cf037068ab2",
@@ -14128,7 +14107,12 @@
     "rawText": "Sannidhanam P.O. (2026) Tamil HD + ESub - [1080p & 720p - AVC / HEVC - (DD+5.1 - 640Kbps) - 4.6GB + Rips] - [W]",
     "languages": [
       "Tamil"
-    ]
+    ],
+    "imdbId": "tt29429839",
+    "name": "Sannidhanam P.O.",
+    "year": 2026,
+    "poster": "https://m.media-amazon.com/images/M/MV5BZjRlMTY2NzktZTM2Yi00MDVkLWJiMjQtMDM5YWNhYTE2ZTY2XkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BZjRlMTY2NzktZTM2Yi00MDVkLWJiMjQtMDM5YWNhYTE2ZTY2XkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "ce16434fe3e50344f7a5be87f415d773",
@@ -16081,12 +16065,7 @@
       "Kannada",
       "Hindi",
       "Multi-Lang"
-    ],
-    "imdbId": "tt34942608",
-    "name": "Balti",
-    "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BZjY1ZGVkMjQtMjNkOC00YTA3LWEzNTctOGEwMmEwNGFiNmU0XkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BZjY1ZGVkMjQtMjNkOC00YTA3LWEzNTctOGEwMmEwNGFiNmU0XkEyXkFqcGc@._V1_SX250.jpg"
+    ]
   },
   {
     "id": "9e64756f5edf26daf226c12de88cc902",
@@ -17348,12 +17327,7 @@
     "rawText": "Charukesi (2026) Tamil HD + ESub - [1080p & 720p - AVC / HEVC - (DD+5.1 - 640Kbps) - 6.8GB + Rips] - [W]",
     "languages": [
       "Tamil"
-    ],
-    "imdbId": "tt26654655",
-    "name": "Charukesi",
-    "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BYmEzODBjNDYtYzMxYy00Y2MzLTgxMTctYmI5OWNjNzE0OWFhXkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BYmEzODBjNDYtYzMxYy00Y2MzLTgxMTctYmI5OWNjNzE0OWFhXkEyXkFqcGc@._V1_SX250.jpg"
+    ]
   },
   {
     "id": "86a2901b20bf3a628865c8b0cd5d250a",
