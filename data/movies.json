@@ -4555,12 +4555,7 @@
       "Tamil",
       "Hindi",
       "Multi-Lang"
-    ],
-    "imdbId": "tt1105709",
-    "name": "8 x 10 Tasveer",
-    "year": 2009,
-    "poster": "https://m.media-amazon.com/images/M/MV5BZGE0OTcyOGEtNjdlMS00ZjEzLThmN2MtNDVmMzQxMzc5NGM1XkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BZGE0OTcyOGEtNjdlMS00ZjEzLThmN2MtNDVmMzQxMzc5NGM1XkEyXkFqcGc@._V1_SX250.jpg"
+    ]
   },
   {
     "id": "8258fca40f1a279af2c4f0dc63e59f2c",
@@ -7530,12 +7525,7 @@
       "Tamil",
       "Malayalam",
       "Kannada"
-    ],
-    "imdbId": "tt35668756",
-    "name": "Kattalan",
-    "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BZTFjYzIxNDUtMGJjNy00OTdmLWExNGUtM2FkNzhlYmUzYzk0XkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BZTFjYzIxNDUtMGJjNy00OTdmLWExNGUtM2FkNzhlYmUzYzk0XkEyXkFqcGc@._V1_SX250.jpg"
+    ]
   },
   {
     "id": "1b407c9c7ad622ecd591d4c7623b9cf7",
@@ -9668,8 +9658,8 @@
     "imdbId": "tt32268156",
     "name": "The Last House",
     "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BMjI5YTQ3YmItZjk1ZS00ZDBmLWJhZDMtNThhMDI5ZTRkMTcxXkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BMjI5YTQ3YmItZjk1ZS00ZDBmLWJhZDMtNThhMDI5ZTRkMTcxXkEyXkFqcGc@._V1_SX250.jpg"
+    "poster": "https://m.media-amazon.com/images/M/MV5BNGVlY2E3YjYtMDI3OC00OTZjLWE5MTgtNzQ2NDdlNjMwMzVhXkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BNGVlY2E3YjYtMDI3OC00OTZjLWE5MTgtNzQ2NDdlNjMwMzVhXkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "3e5bf3c573012aca969359fda676b7a1",
@@ -14138,12 +14128,7 @@
     "rawText": "Sannidhanam P.O. (2026) Tamil HD + ESub - [1080p & 720p - AVC / HEVC - (DD+5.1 - 640Kbps) - 4.6GB + Rips] - [W]",
     "languages": [
       "Tamil"
-    ],
-    "imdbId": "tt29429839",
-    "name": "Sannidhanam P.O.",
-    "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BZjRlMTY2NzktZTM2Yi00MDVkLWJiMjQtMDM5YWNhYTE2ZTY2XkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BZjRlMTY2NzktZTM2Yi00MDVkLWJiMjQtMDM5YWNhYTE2ZTY2XkEyXkFqcGc@._V1_SX250.jpg"
+    ]
   },
   {
     "id": "ce16434fe3e50344f7a5be87f415d773",
@@ -14890,7 +14875,18 @@
       "Telugu",
       "Hindi",
       "Multi-Lang"
-    ]
+    ],
+    "imdbId": "tt13570066",
+    "name": "Desert Warrior",
+    "year": "2026",
+    "poster": "https://images.metahub.space/poster/small/tt13570066/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt13570066/img",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Drama"
+    ],
+    "description": "An honorable and mysterious rogue, known as Hanzala, makes himself an enemy of the Emperor Kisra after he helps a fugitive king and princess in the desert."
   },
   {
     "id": "1664789d14885ef1be1202afd51e1cb7",
@@ -15045,7 +15041,12 @@
     "rawText": "Transfer Trimurthulu (2025) Telugu HD + ESub - [1080p & 720p - AVC / HEVC - (DD+5.1 - 192Kbps) - 2.8GB + Rips]",
     "languages": [
       "Telugu"
-    ]
+    ],
+    "imdbId": "tt42932774",
+    "name": "Transfer Trimurthulu",
+    "year": 2025,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMDkyODRjYjAtNWQ0Yy00MTRjLTk3ZmYtODA4ZGE3ZWI3MmEyXkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BMDkyODRjYjAtNWQ0Yy00MTRjLTk3ZmYtODA4ZGE3ZWI3MmEyXkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "fa3434b961a1a852980f1c6bc4b1413f",
@@ -15333,7 +15334,12 @@
       "Telugu",
       "Hindi",
       "Multi-Lang"
-    ]
+    ],
+    "imdbId": "tt0096003",
+    "name": "Rocket Gibraltar",
+    "year": 1988,
+    "poster": "https://m.media-amazon.com/images/M/MV5BZGMzYzM1N2YtNjFjMC00ODRkLWI1ZTEtZDIxMDJlNTYwNWJjXkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BZGMzYzM1N2YtNjFjMC00ODRkLWI1ZTEtZDIxMDJlNTYwNWJjXkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "e922bf599f88c9f81c74bfc6d3b115d0",
@@ -17269,7 +17275,12 @@
     "rawText": "Double Barrel (2026) Telugu HD + ESub - [1080p & 720p - AVC - (DD+5.1 - 192Kbps) - 1.6GB + Rips]",
     "languages": [
       "Telugu"
-    ]
+    ],
+    "imdbId": "tt4930814",
+    "name": "Double Barrel",
+    "year": 2026,
+    "poster": "https://m.media-amazon.com/images/M/MV5BOWY4ODkyMmUtNDczNy00NDRjLWI4NDMtOWYzMDgxOTU5YWExXkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BOWY4ODkyMmUtNDczNy00NDRjLWI4NDMtOWYzMDgxOTU5YWExXkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "1288ba5677265a058bd87eb0e45bb111",
@@ -17717,7 +17728,12 @@
     "rawText": "Hangman (2026) Telugu HD + ESub - [1080p & 720p - AVC - (DD+5.1 - 192Kbps) - 1.4GB + Rips] - [W]",
     "languages": [
       "Telugu"
-    ]
+    ],
+    "imdbId": "tt4441422",
+    "name": "Hangman",
+    "year": 2026,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjA4MzkzODE3OV5BMl5BanBnXkFtZTgwMDM0MTg5NzE@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BMjA4MzkzODE3OV5BMl5BanBnXkFtZTgwMDM0MTg5NzE@._V1_SX250.jpg"
   },
   {
     "id": "ea1481a897d46d6e300ca4b82cb73d29",
@@ -18493,7 +18509,12 @@
       "Telugu",
       "Hindi",
       "Multi-Lang"
-    ]
+    ],
+    "imdbId": "tt34888871",
+    "name": "Little Brother",
+    "year": 2026,
+    "poster": "https://m.media-amazon.com/images/M/MV5BNDVmOWNhNWYtM2Y1MS00MWFjLTlkNTctMTRkNmMxM2UwODZlXkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BNDVmOWNhNWYtM2Y1MS00MWFjLTlkNTctMTRkNmMxM2UwODZlXkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "6acd508bef01c8e557660e9ca3d6235b",
