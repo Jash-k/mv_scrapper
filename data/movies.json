@@ -3399,12 +3399,7 @@
     "rawText": "Bandar (2026) Hindi HD + ESub - [1080p & 720p - AVC - (DD+5.1 ATMOS - 448Kbps) - 2.4GB + Rips]",
     "languages": [
       "Hindi"
-    ],
-    "imdbId": "tt32389930",
-    "name": "Bandar",
-    "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BOThjOTk0N2MtMjQyMC00MDg5LWExNzItYTgyMjQ2MGZlNTIxXkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BOThjOTk0N2MtMjQyMC00MDg5LWExNzItYTgyMjQ2MGZlNTIxXkEyXkFqcGc@._V1_SX250.jpg"
+    ]
   },
   {
     "id": "a3368a6f500db49476f1eddd0ebadc8f",
@@ -11410,7 +11405,19 @@
       "Telugu",
       "Hindi",
       "Multi-Lang"
-    ]
+    ],
+    "imdbId": "tt0145487",
+    "name": "Spider-Man",
+    "year": "2002",
+    "poster": "https://images.metahub.space/poster/small/tt0145487/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt0145487/img",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Sci-Fi"
+    ],
+    "description": "After being bitten by a genetically-modified spider, a shy teenager gains spider-like abilities that he uses to fight injustice as a masked superhero and face a vengeful enemy.",
+    "imdbRating": "7.4"
   },
   {
     "id": "a3e186caee77fd5d626fc0d56bc1a081",
