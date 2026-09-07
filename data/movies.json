@@ -7040,12 +7040,7 @@
       "Kannada",
       "Hindi",
       "Multi-Lang"
-    ],
-    "imdbId": "tt37537340",
-    "name": "Srinivasa Mangapuram",
-    "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BMjBjN2U3MDQtYmVmYi00N2E5LTllOTAtYjk3ZTViZWViM2FjXkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BMjBjN2U3MDQtYmVmYi00N2E5LTllOTAtYjk3ZTViZWViM2FjXkEyXkFqcGc@._V1_SX250.jpg"
+    ]
   },
   {
     "id": "d709f6b3c9bdc41325768da41fe19481",
@@ -8790,12 +8785,7 @@
     "rawText": "Bharat Bhhagya Viddhaata (2026) Hindi HD + ESub - [4K, 1080p & 720p - AVC / HEVC - (DD+5.1 - 192Kbps) - 2GB + Rips]",
     "languages": [
       "Hindi"
-    ],
-    "imdbId": "tt33334267",
-    "name": "Bharat Bhhagya Viddhaata",
-    "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BOTUwMjIwY2YtZTUyNy00MjhlLTk2OTItMDg0NWY1ZmFmNzNmXkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BOTUwMjIwY2YtZTUyNy00MjhlLTk2OTItMDg0NWY1ZmFmNzNmXkEyXkFqcGc@._V1_SX250.jpg"
+    ]
   },
   {
     "id": "52737abb6ce057de057053681ec235e6",
@@ -8852,7 +8842,12 @@
     "rawText": "Nooru Saami (2026) Tamil UHD + ESub - [4K, 1080p & 720p - AVC / HEVC - (DD+5.1 - 192Kbps) - 7GB + Rips] - [W]",
     "languages": [
       "Tamil"
-    ]
+    ],
+    "imdbId": "tt38267486",
+    "name": "Nooru Saami",
+    "year": 2026,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMmU5YzAyMDItMTc2Yy00NzdhLWI4MzItYTk3NDhmODBmZjM3XkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BMmU5YzAyMDItMTc2Yy00NzdhLWI4MzItYTk3NDhmODBmZjM3XkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "c7d29abbeb2dfd5c30308881341a87de",
@@ -13943,7 +13938,19 @@
       "Telugu",
       "Hindi",
       "Multi-Lang"
-    ]
+    ],
+    "imdbId": "tt34471850",
+    "name": "Protector",
+    "year": "2026",
+    "poster": "https://images.metahub.space/poster/small/tt34471850/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt34471850/img",
+    "genres": [
+      "Action",
+      "Crime",
+      "Drama"
+    ],
+    "description": "Former war hero Nikki's peaceful life is shattered when her daughter is kidnapped. Thrust into the criminal underworld while hunted by cops and military, she must fight to rescue her child.",
+    "imdbRating": "5.3"
   },
   {
     "id": "1ae57f0cd26497d36dc748817c69a251",
