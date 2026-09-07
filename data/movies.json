@@ -2907,7 +2907,12 @@
       "Tamil",
       "Hindi",
       "Multi-Lang"
-    ]
+    ],
+    "imdbId": "tt0765429",
+    "name": "American Gangster",
+    "year": 2007,
+    "poster": "https://m.media-amazon.com/images/M/MV5BZGExM2MwNjUtNThkNi00ZjBmLWJhZDgtN2ZmOWJiZWEwNGMxXkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BZGExM2MwNjUtNThkNi00ZjBmLWJhZDgtN2ZmOWJiZWEwNGMxXkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "8468f1bb42cfdac7cc52bf9176e82b19",
@@ -13948,7 +13953,19 @@
       "Telugu",
       "Hindi",
       "Multi-Lang"
-    ]
+    ],
+    "imdbId": "tt34471850",
+    "name": "Protector",
+    "year": "2026",
+    "poster": "https://images.metahub.space/poster/small/tt34471850/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt34471850/img",
+    "genres": [
+      "Action",
+      "Crime",
+      "Drama"
+    ],
+    "description": "Former war hero Nikki's peaceful life is shattered when her daughter is kidnapped. Thrust into the criminal underworld while hunted by cops and military, she must fight to rescue her child.",
+    "imdbRating": "5.3"
   },
   {
     "id": "1ae57f0cd26497d36dc748817c69a251",
@@ -17640,11 +17657,11 @@
     "languages": [
       "Telugu"
     ],
-    "imdbId": "tt4930814",
+    "imdbId": "tt43635565",
     "name": "Double Barrel",
     "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BOWY4ODkyMmUtNDczNy00NDRjLWI4NDMtOWYzMDgxOTU5YWExXkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BOWY4ODkyMmUtNDczNy00NDRjLWI4NDMtOWYzMDgxOTU5YWExXkEyXkFqcGc@._V1_SX250.jpg"
+    "poster": "https://m.media-amazon.com/images/M/MV5BMDVhOGRiZmUtNmFkOS00MzZjLThjOGItYTAwZDBhMzk1ODNiXkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BMDVhOGRiZmUtNmFkOS00MzZjLThjOGItYTAwZDBhMzk1ODNiXkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "1288ba5677265a058bd87eb0e45bb111",
