@@ -1014,8 +1014,8 @@
     "imdbId": "tt41971399",
     "name": "Romanchakam",
     "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BMzExZWYwZWMtNmFlMC00NDA4LThkZTAtNzk2YzU4MDhkMmE2XkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BMzExZWYwZWMtNmFlMC00NDA4LThkZTAtNzk2YzU4MDhkMmE2XkEyXkFqcGc@._V1_SX250.jpg"
+    "poster": "https://m.media-amazon.com/images/M/MV5BODhhZDVjNDYtZGY0Mi00NDgyLWJhOGEtZWNkMDc2MTk1YWJmXkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BODhhZDVjNDYtZGY0Mi00NDgyLWJhOGEtZWNkMDc2MTk1YWJmXkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "6d07adc5abefda7741b76aef87a6cd37",
@@ -1608,7 +1608,12 @@
       "Telugu",
       "Hindi",
       "Multi-Lang"
-    ]
+    ],
+    "imdbId": "tt1979320",
+    "name": "Rush",
+    "year": 2013,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTZhOGQxM2ItNGQyYy00YzE5LWI5MjMtNmMzNGQzNDE1OTUzXkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BMTZhOGQxM2ItNGQyYy00YzE5LWI5MjMtNmMzNGQzNDE1OTUzXkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "072861020dd5b73e4ef8d950e3d41e28",
@@ -1772,7 +1777,12 @@
     "rawText": "Rakky (2026) Kannada HD + ESub - [1080p & 720p - AVC - (DD+5.1 - 640Kbps) - 6.5GB + Rips]",
     "languages": [
       "Kannada"
-    ]
+    ],
+    "imdbId": "tt39221192",
+    "name": "Rakky",
+    "year": 2026,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMGUyZjJjOTgtYTI1MC00YzNkLWE0YzctNDEzZGI0MGI1NTViXkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BMGUyZjJjOTgtYTI1MC00YzNkLWE0YzctNDEzZGI0MGI1NTViXkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "7377d6226e91a066df3a04b7697cf69b",
@@ -5212,7 +5222,12 @@
       "Kannada",
       "Hindi",
       "Multi-Lang"
-    ]
+    ],
+    "imdbId": "tt39260895",
+    "name": "Pyaar Prema Kalyanam",
+    "year": 2026,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMWI0NjAzZWQtYTJhZS00YmEzLTgyNmItNTJkZDcxNjM3OWQ2XkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BMWI0NjAzZWQtYTJhZS00YmEzLTgyNmItNTJkZDcxNjM3OWQ2XkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "f9c093b01abe50f36bffeb2f3ea6d1f5",
@@ -6207,7 +6222,12 @@
     "rawText": "Raja the Raja (2026) Telugu HD + ESub - [1080p & 720p - AVC / HEVC - (DD+5.1 - 640Kbps) - 5.7GB + Rips]",
     "languages": [
       "Telugu"
-    ]
+    ],
+    "imdbId": "tt42643672",
+    "name": "Raja the Raja",
+    "year": 2026,
+    "poster": "https://images.metahub.space/poster/small/tt42643672/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt42643672/img"
   },
   {
     "id": "a609550fc9b826a641d06ee1c5153666",
@@ -7823,7 +7843,12 @@
       "Tamil",
       "Malayalam",
       "Hindi"
-    ]
+    ],
+    "imdbId": "tt43612978",
+    "name": "Aroopi",
+    "year": 2026,
+    "poster": "https://m.media-amazon.com/images/M/MV5BM2E1NDA0YTYtZWI3Mi00YmY2LTljYmEtMzg4MmQ5MWIyOWQ2XkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BM2E1NDA0YTYtZWI3Mi00YmY2LTljYmEtMzg4MmQ5MWIyOWQ2XkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "94c69308ca805b26e5da371ece84d44d",
@@ -8414,7 +8439,19 @@
       "Telugu",
       "Hindi",
       "Multi-Lang"
-    ]
+    ],
+    "imdbId": "tt4419684",
+    "name": "In the Lost Lands",
+    "year": "2025",
+    "poster": "https://images.metahub.space/poster/small/tt4419684/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt4419684/img",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy"
+    ],
+    "description": "A queen sends the powerful and feared sorceress Gray Alys to the ghostly wilderness of the Lost Lands in search of a magical power, where the sorceress and her guide, the drifter Boyce, must outwit and outfight man and demon.",
+    "imdbRating": "4.7"
   },
   {
     "id": "3dcf65d8a5164c48c8e15d21068c5ca0",
@@ -8648,7 +8685,12 @@
     "rawText": "Nooru Saami (2026) Tamil UHD + ESub - [4K, 1080p & 720p - AVC / HEVC - (DD+5.1 - 192Kbps) - 7GB + Rips] - [W]",
     "languages": [
       "Tamil"
-    ]
+    ],
+    "imdbId": "tt38267486",
+    "name": "Nooru Saami",
+    "year": 2026,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMmU5YzAyMDItMTc2Yy00NzdhLWI4MzItYTk3NDhmODBmZjM3XkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BMmU5YzAyMDItMTc2Yy00NzdhLWI4MzItYTk3NDhmODBmZjM3XkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "c7d29abbeb2dfd5c30308881341a87de",
@@ -8912,7 +8954,12 @@
     "rawText": "Photographer (2026) Tamil PreDVD (HQ Clean) - [1080p & 720p - x264 - 2.4GB + Rips]",
     "languages": [
       "Tamil"
-    ]
+    ],
+    "imdbId": "tt43727339",
+    "name": "Photographer",
+    "year": 2026,
+    "poster": "https://m.media-amazon.com/images/M/MV5BN2UzMWExOWYtZjE2My00MDVkLWE5ZGUtY2JjYjc3MzdkNjI2XkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BN2UzMWExOWYtZjE2My00MDVkLWE5ZGUtY2JjYjc3MzdkNjI2XkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "21bfe13d9a73abc37245e1c7ce17c5a8",
@@ -9337,7 +9384,12 @@
       "Tamil",
       "Hindi",
       "Multi-Lang"
-    ]
+    ],
+    "imdbId": "tt29794968",
+    "name": "Planetquake",
+    "year": 2024,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMzc5OTQwZjEtNDc5OC00YmZmLWJlNzQtM2FmNWY0Njg4OTUxXkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BMzc5OTQwZjEtNDc5OC00YmZmLWJlNzQtM2FmNWY0Njg4OTUxXkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "eecd4f37aac24cd6fdf0138bf4c91575",
@@ -10826,7 +10878,12 @@
       "Telugu",
       "Hindi",
       "Multi-Lang"
-    ]
+    ],
+    "imdbId": "tt32298366",
+    "name": "Unidentified",
+    "year": 2026,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMmExNmNlMGUtMzBiOS00OTE1LTkwY2ItZDU3MGRlNzdjNTI1XkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BMmExNmNlMGUtMzBiOS00OTE1LTkwY2ItZDU3MGRlNzdjNTI1XkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "5cb8d0ecb377e11ece17f556751971a3",
@@ -13951,7 +14008,12 @@
     "rawText": "Lo Naveena (2026) Kannada HD + ESub - [1080p & 720p - AVC - (DD+2.0 - 224Kbps) - 2.3GB + Rips]",
     "languages": [
       "Kannada"
-    ]
+    ],
+    "imdbId": "tt39088994",
+    "name": "Lo Naveena",
+    "year": 2026,
+    "poster": "https://m.media-amazon.com/images/M/MV5BYWY2NDk1ZGMtN2Y1OC00YzdmLTg3MzUtZjhiMzU4NTM5YjA0XkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BYWY2NDk1ZGMtN2Y1OC00YzdmLTg3MzUtZjhiMzU4NTM5YjA0XkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "11fa97e04d4f1e81276acf1f3b3f17ee",
@@ -14551,7 +14613,12 @@
       "Telugu",
       "Hindi",
       "Multi-Lang"
-    ]
+    ],
+    "imdbId": "tt0102817",
+    "name": "Rubin and Ed",
+    "year": 1991,
+    "poster": "https://m.media-amazon.com/images/M/MV5BYWYzMjliZmQtN2UwMS00YTllLWEzNzEtOTcwNGQyOWJkYzM2XkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BYWYzMjliZmQtN2UwMS00YTllLWEzNzEtOTcwNGQyOWJkYzM2XkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "cde4a20fc1ec9271a6ab9ec1db51a6e0",
@@ -15068,7 +15135,19 @@
     "rawText": "The Devil (2025) Kannada UHD + ESub - [4K, 1080p & 720p - AVC - (DD+5.1 ATMOS - 448Kbps) - 7.8GB + Rips] - [W]",
     "languages": [
       "Kannada"
-    ]
+    ],
+    "imdbId": "tt29141112",
+    "name": "The Devil's Bath",
+    "year": "2024",
+    "poster": "https://images.metahub.space/poster/small/tt29141112/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt29141112/img",
+    "genres": [
+      "Drama",
+      "History",
+      "Horror"
+    ],
+    "description": "Austria in the 18th century. Forests surround villages. Killing a baby gets a woman sentenced to death. Agnes readies for married life with her beloved. But her mind and heart grow heavy. A gloomy path alone, evil thoughts arising.",
+    "imdbRating": "6.6"
   },
   {
     "id": "e88aba8b42191fbfd11e790751fd6951",
@@ -15176,7 +15255,12 @@
     "rawText": "Transfer Trimurthulu (2025) Telugu HD + ESub - [1080p & 720p - AVC / HEVC - (DD+5.1 - 192Kbps) - 2.8GB + Rips]",
     "languages": [
       "Telugu"
-    ]
+    ],
+    "imdbId": "tt42932774",
+    "name": "Transfer Trimurthulu",
+    "year": 2025,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMDkyODRjYjAtNWQ0Yy00MTRjLTk3ZmYtODA4ZGE3ZWI3MmEyXkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BMDkyODRjYjAtNWQ0Yy00MTRjLTk3ZmYtODA4ZGE3ZWI3MmEyXkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "fa3434b961a1a852980f1c6bc4b1413f",
@@ -15914,7 +15998,12 @@
       "Telugu",
       "Hindi",
       "Multi-Lang"
-    ]
+    ],
+    "imdbId": "tt39632269",
+    "name": "Ikka",
+    "year": 2026,
+    "poster": "https://m.media-amazon.com/images/M/MV5BOWE0ZTYxYTEtZDY5Ni00NDhkLWEyNjItMDc1NzE1MGJjMzhlXkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BOWE0ZTYxYTEtZDY5Ni00NDhkLWEyNjItMDc1NzE1MGJjMzhlXkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "39b54f72c73b332bd66c4535fd3735fa",
@@ -17401,11 +17490,11 @@
     "languages": [
       "Telugu"
     ],
-    "imdbId": "tt43635565",
+    "imdbId": "tt4930814",
     "name": "Double Barrel",
     "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BMDVhOGRiZmUtNmFkOS00MzZjLThjOGItYTAwZDBhMzk1ODNiXkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BMDVhOGRiZmUtNmFkOS00MzZjLThjOGItYTAwZDBhMzk1ODNiXkEyXkFqcGc@._V1_SX250.jpg"
+    "poster": "https://m.media-amazon.com/images/M/MV5BOWY4ODkyMmUtNDczNy00NDRjLWI4NDMtOWYzMDgxOTU5YWExXkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BOWY4ODkyMmUtNDczNy00NDRjLWI4NDMtOWYzMDgxOTU5YWExXkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "1288ba5677265a058bd87eb0e45bb111",
