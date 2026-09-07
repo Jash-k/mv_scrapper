@@ -43,7 +43,12 @@
     "rawText": "Immortal (2026) Tamil HQ PreDVD (HQ Clean) - [1080p & 720p - x264 - 2.5GB + Rips] - [W]",
     "languages": [
       "Tamil"
-    ]
+    ],
+    "imdbId": "tt36931126",
+    "name": "Immortal",
+    "year": 2026,
+    "poster": "https://m.media-amazon.com/images/M/MV5BYjZhZjI4MGQtOWNlNC00MTFhLWFhNWQtYzY5ZTEyZGNiZWE3XkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BYjZhZjI4MGQtOWNlNC00MTFhLWFhNWQtYzY5ZTEyZGNiZWE3XkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "691df589b77c2f6810b99dfab8938d38",
@@ -363,8 +368,8 @@
     "imdbId": "tt41971399",
     "name": "Romanchakam",
     "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BODhhZDVjNDYtZGY0Mi00NDgyLWJhOGEtZWNkMDc2MTk1YWJmXkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BODhhZDVjNDYtZGY0Mi00NDgyLWJhOGEtZWNkMDc2MTk1YWJmXkEyXkFqcGc@._V1_SX250.jpg"
+    "poster": "https://m.media-amazon.com/images/M/MV5BMzExZWYwZWMtNmFlMC00NDA4LThkZTAtNzk2YzU4MDhkMmE2XkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BMzExZWYwZWMtNmFlMC00NDA4LThkZTAtNzk2YzU4MDhkMmE2XkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "605e01d3c02c8bc9fadc35f343780d99",
@@ -5395,17 +5400,15 @@
     "languages": [
       "Tamil"
     ],
-    "imdbId": "tt32491690",
-    "name": "Dark Nuns",
-    "year": "2025",
-    "poster": "https://images.metahub.space/poster/small/tt32491690/img",
-    "thumbnail": "https://images.metahub.space/poster/small/tt32491690/img",
+    "imdbId": "tt37593831",
+    "name": "Dark Hollow",
+    "year": "2026",
+    "poster": "https://images.metahub.space/poster/small/tt37593831/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt37593831/img",
     "genres": [
-      "Horror",
-      "Mystery",
-      "Thriller"
+      "Horror"
     ],
-    "description": "A young boy Hee-Joon is possessed by an evil spirit. Nun Yunia tries to save him, assisted by Nun Mikaela. Priest Paul attempts medical treatment, while Priest Andrew performs an exorcism to rid Hee-Joon of the spirit."
+    "description": "When a nightmarish monster emerges from the depths of an Appalachian coal mine, a young mother must hunt down the creature to protect her home and save her family."
   },
   {
     "id": "3704c30bedaef73569f5d5f475ca59c0",
@@ -14520,8 +14523,8 @@
     "imdbId": "tt0102817",
     "name": "Rubin and Ed",
     "year": 1991,
-    "poster": "https://m.media-amazon.com/images/M/MV5BYWYzMjliZmQtN2UwMS00YTllLWEzNzEtOTcwNGQyOWJkYzM2XkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BYWYzMjliZmQtN2UwMS00YTllLWEzNzEtOTcwNGQyOWJkYzM2XkEyXkFqcGc@._V1_SX250.jpg"
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTc2NjMwODE1M15BMl5BanBnXkFtZTcwMDYxOTAwMQ@@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BMTc2NjMwODE1M15BMl5BanBnXkFtZTcwMDYxOTAwMQ@@._V1_SX250.jpg"
   },
   {
     "id": "cde4a20fc1ec9271a6ab9ec1db51a6e0",
@@ -17846,11 +17849,11 @@
     "languages": [
       "Telugu"
     ],
-    "imdbId": "tt3011960",
+    "imdbId": "tt4441422",
     "name": "Hangman",
     "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BMTUyODA0Njc4Nl5BMl5BanBnXkFtZTgwMTU5MDU5MzI@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BMTUyODA0Njc4Nl5BMl5BanBnXkFtZTgwMTU5MDU5MzI@._V1_SX250.jpg"
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjA4MzkzODE3OV5BMl5BanBnXkFtZTgwMDM0MTg5NzE@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BMjA4MzkzODE3OV5BMl5BanBnXkFtZTgwMDM0MTg5NzE@._V1_SX250.jpg"
   },
   {
     "id": "ea1481a897d46d6e300ca4b82cb73d29",
