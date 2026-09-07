@@ -5658,7 +5658,18 @@
     "rawText": "Dark (2026) Tamil UHD + ESub - [4K, 1080p & 720p - AVC - (DD+5.1 - 640Kbps) - 5.2GB + Rips] - [W]",
     "languages": [
       "Tamil"
-    ]
+    ],
+    "imdbId": "tt32491690",
+    "name": "Dark Nuns",
+    "year": "2025",
+    "poster": "https://images.metahub.space/poster/small/tt32491690/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt32491690/img",
+    "genres": [
+      "Horror",
+      "Mystery",
+      "Thriller"
+    ],
+    "description": "A young boy Hee-Joon is possessed by an evil spirit. Nun Yunia tries to save him, assisted by Nun Mikaela. Priest Paul attempts medical treatment, while Priest Andrew performs an exorcism to rid Hee-Joon of the spirit."
   },
   {
     "id": "3704c30bedaef73569f5d5f475ca59c0",
@@ -6609,7 +6620,12 @@
     "languages": [
       "Tamil",
       "Telugu"
-    ]
+    ],
+    "imdbId": "tt35836025",
+    "name": "Vishwanath and Sons",
+    "year": 2026,
+    "poster": "https://m.media-amazon.com/images/M/MV5BOGRkYWFjNzAtODFhNS00NzM4LTk3NTAtNzgwMDg0OTE2ZTIzXkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BOGRkYWFjNzAtODFhNS00NzM4LTk3NTAtNzgwMDg0OTE2ZTIzXkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "71728bcc024ea9bf9e0207e41143e5ce",
@@ -8836,12 +8852,7 @@
     "rawText": "Nooru Saami (2026) Tamil UHD + ESub - [4K, 1080p & 720p - AVC / HEVC - (DD+5.1 - 192Kbps) - 7GB + Rips] - [W]",
     "languages": [
       "Tamil"
-    ],
-    "imdbId": "tt38267486",
-    "name": "Nooru Saami",
-    "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BMmU5YzAyMDItMTc2Yy00NzdhLWI4MzItYTk3NDhmODBmZjM3XkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BMmU5YzAyMDItMTc2Yy00NzdhLWI4MzItYTk3NDhmODBmZjM3XkEyXkFqcGc@._V1_SX250.jpg"
+    ]
   },
   {
     "id": "c7d29abbeb2dfd5c30308881341a87de",
