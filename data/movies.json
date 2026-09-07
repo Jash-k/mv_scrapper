@@ -43,7 +43,12 @@
     "rawText": "Immortal (2026) Tamil HQ PreDVD (HQ Clean) - [1080p & 720p - x264 - 2.5GB + Rips] - [W]",
     "languages": [
       "Tamil"
-    ]
+    ],
+    "imdbId": "tt36931126",
+    "name": "Immortal",
+    "year": 2026,
+    "poster": "https://m.media-amazon.com/images/M/MV5BYjZhZjI4MGQtOWNlNC00MTFhLWFhNWQtYzY5ZTEyZGNiZWE3XkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BYjZhZjI4MGQtOWNlNC00MTFhLWFhNWQtYzY5ZTEyZGNiZWE3XkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "691df589b77c2f6810b99dfab8938d38",
@@ -363,8 +368,8 @@
     "imdbId": "tt41971399",
     "name": "Romanchakam",
     "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BODhhZDVjNDYtZGY0Mi00NDgyLWJhOGEtZWNkMDc2MTk1YWJmXkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BODhhZDVjNDYtZGY0Mi00NDgyLWJhOGEtZWNkMDc2MTk1YWJmXkEyXkFqcGc@._V1_SX250.jpg"
+    "poster": "https://m.media-amazon.com/images/M/MV5BMzExZWYwZWMtNmFlMC00NDA4LThkZTAtNzk2YzU4MDhkMmE2XkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BMzExZWYwZWMtNmFlMC00NDA4LThkZTAtNzk2YzU4MDhkMmE2XkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "605e01d3c02c8bc9fadc35f343780d99",
@@ -1587,19 +1592,7 @@
       "Telugu",
       "Hindi",
       "Multi-Lang"
-    ],
-    "imdbId": "tt6645614",
-    "name": "Trolls Holiday",
-    "year": "2017",
-    "poster": "https://images.metahub.space/poster/small/tt6645614/img",
-    "thumbnail": "https://images.metahub.space/poster/small/tt6645614/img",
-    "genres": [
-      "Animation",
-      "Adventure",
-      "Comedy"
-    ],
-    "description": "When the Queen of the Trolls, Poppy, finds out that the Bergens do not have holidays, she enlists help from her friends, Branch and the Snack Pack, to help her bring holidays to the Bergens.",
-    "imdbRating": "6.1"
+    ]
   },
   {
     "id": "4a5c08ebab7dcc8432868c211dee3cb9",
@@ -5395,17 +5388,15 @@
     "languages": [
       "Tamil"
     ],
-    "imdbId": "tt32491690",
-    "name": "Dark Nuns",
-    "year": "2025",
-    "poster": "https://images.metahub.space/poster/small/tt32491690/img",
-    "thumbnail": "https://images.metahub.space/poster/small/tt32491690/img",
+    "imdbId": "tt37593831",
+    "name": "Dark Hollow",
+    "year": "2026",
+    "poster": "https://images.metahub.space/poster/small/tt37593831/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt37593831/img",
     "genres": [
-      "Horror",
-      "Mystery",
-      "Thriller"
+      "Horror"
     ],
-    "description": "A young boy Hee-Joon is possessed by an evil spirit. Nun Yunia tries to save him, assisted by Nun Mikaela. Priest Paul attempts medical treatment, while Priest Andrew performs an exorcism to rid Hee-Joon of the spirit."
+    "description": "When a nightmarish monster emerges from the depths of an Appalachian coal mine, a young mother must hunt down the creature to protect her home and save her family."
   },
   {
     "id": "3704c30bedaef73569f5d5f475ca59c0",
@@ -5761,7 +5752,12 @@
       "Tamil",
       "Hindi",
       "Multi-Lang"
-    ]
+    ],
+    "imdbId": "tt8365426",
+    "name": "Kill Mode",
+    "year": 2020,
+    "poster": "https://m.media-amazon.com/images/M/MV5BZGEzZTMzZmUtZjEwNS00YjlhLTgzNzItZDU2NTlmZjVhOTdkXkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BZGEzZTMzZmUtZjEwNS00YjlhLTgzNzItZDU2NTlmZjVhOTdkXkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "8dad618354ba1d7a50464fe8cd5fd68e",
@@ -8990,7 +8986,12 @@
       "Telugu",
       "Hindi",
       "Multi-Lang"
-    ]
+    ],
+    "imdbId": "tt1800302",
+    "name": "Gold",
+    "year": 2022,
+    "poster": "https://m.media-amazon.com/images/M/MV5BNzI1NjI5OTUyM15BMl5BanBnXkFtZTgwOTM4NzY2MDI@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BNzI1NjI5OTUyM15BMl5BanBnXkFtZTgwOTM4NzY2MDI@._V1_SX250.jpg"
   },
   {
     "id": "638cfaa36eb2ea3a8dd1e8fe7af23786",
@@ -14510,8 +14511,8 @@
     "imdbId": "tt0102817",
     "name": "Rubin and Ed",
     "year": 1991,
-    "poster": "https://m.media-amazon.com/images/M/MV5BMTc2NjMwODE1M15BMl5BanBnXkFtZTcwMDYxOTAwMQ@@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BMTc2NjMwODE1M15BMl5BanBnXkFtZTcwMDYxOTAwMQ@@._V1_SX250.jpg"
+    "poster": "https://m.media-amazon.com/images/M/MV5BYWYzMjliZmQtN2UwMS00YTllLWEzNzEtOTcwNGQyOWJkYzM2XkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BYWYzMjliZmQtN2UwMS00YTllLWEzNzEtOTcwNGQyOWJkYzM2XkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "cde4a20fc1ec9271a6ab9ec1db51a6e0",
@@ -15785,20 +15786,7 @@
       "Telugu",
       "Hindi",
       "Multi-Lang"
-    ],
-    "imdbId": "tt0469916",
-    "name": "Hollow Man II",
-    "year": "2006",
-    "poster": "https://images.metahub.space/poster/small/tt0469916/img",
-    "thumbnail": "https://images.metahub.space/poster/small/tt0469916/img",
-    "genres": [
-      "Action",
-      "Horror",
-      "Sci-Fi",
-      "Thriller"
-    ],
-    "description": "A Seattle detective and a biologist are on the run from a dangerous invisible assassin gone rogue.",
-    "imdbRating": "4.4"
+    ]
   },
   {
     "id": "78b31789aa746cf80f9cae5c7b6ba534",
@@ -17836,11 +17824,11 @@
     "languages": [
       "Telugu"
     ],
-    "imdbId": "tt4441422",
+    "imdbId": "tt3011960",
     "name": "Hangman",
     "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BMjA4MzkzODE3OV5BMl5BanBnXkFtZTgwMDM0MTg5NzE@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BMjA4MzkzODE3OV5BMl5BanBnXkFtZTgwMDM0MTg5NzE@._V1_SX250.jpg"
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTUyODA0Njc4Nl5BMl5BanBnXkFtZTgwMTU5MDU5MzI@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BMTUyODA0Njc4Nl5BMl5BanBnXkFtZTgwMTU5MDU5MzI@._V1_SX250.jpg"
   },
   {
     "id": "ea1481a897d46d6e300ca4b82cb73d29",
