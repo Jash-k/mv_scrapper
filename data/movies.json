@@ -16534,7 +16534,20 @@
       "Telugu",
       "Hindi",
       "Multi-Lang"
-    ]
+    ],
+    "imdbId": "tt0469916",
+    "name": "Hollow Man II",
+    "year": "2006",
+    "poster": "https://images.metahub.space/poster/small/tt0469916/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt0469916/img",
+    "genres": [
+      "Action",
+      "Horror",
+      "Sci-Fi",
+      "Thriller"
+    ],
+    "description": "A Seattle detective and a biologist are on the run from a dangerous invisible assassin gone rogue.",
+    "imdbRating": "4.4"
   },
   {
     "id": "78b31789aa746cf80f9cae5c7b6ba534",
