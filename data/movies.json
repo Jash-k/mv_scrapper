@@ -3906,7 +3906,12 @@
       "Telugu",
       "Hindi",
       "Multi-Lang"
-    ]
+    ],
+    "imdbId": "tt0106505",
+    "name": "Calendar Girl",
+    "year": 1993,
+    "poster": "https://m.media-amazon.com/images/M/MV5BZTQ1NTZhYzAtZDAxZi00YTI4LTljMzEtN2E3Y2RlM2M0YjBmXkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BZTQ1NTZhYzAtZDAxZi00YTI4LTljMzEtN2E3Y2RlM2M0YjBmXkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "a36b081511e4fad13dac6e070fc4697c",
@@ -13215,19 +13220,7 @@
       "Telugu",
       "Hindi",
       "Multi-Lang"
-    ],
-    "imdbId": "tt30395619",
-    "name": "Demon Slayer: Kimetsu No Yaiba - To the Hashira Training",
-    "year": "2024",
-    "poster": "https://images.metahub.space/poster/small/tt30395619/img",
-    "thumbnail": "https://images.metahub.space/poster/small/tt30395619/img",
-    "genres": [
-      "Animation",
-      "Action",
-      "Adventure"
-    ],
-    "description": "Tanjiro undergoes rigorous training with the Stone Hashira, Himejima, in his quest to become a Hashira. Meanwhile, Muzan continues to search for Nezuko and Ubuyashiki.",
-    "imdbRating": "7.2"
+    ]
   },
   {
     "id": "c8ed1675e82a4149b42c9ad6b7bec882",
@@ -13352,12 +13345,7 @@
     "rawText": "Maharaja Hostel (2026) Malayalam HQ PreDVD (HQ Clean) - [1080p & 720p - x264 - 2.4GB + Rips] - [W]",
     "languages": [
       "Malayalam"
-    ],
-    "imdbId": "tt43665767",
-    "name": "Maharaja Hostel",
-    "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BNDY3ZjA2ZWYtZjg2Yy00ZDhhLTk4NDgtMDk0N2QyYTE1MDJjXkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BNDY3ZjA2ZWYtZjg2Yy00ZDhhLTk4NDgtMDk0N2QyYTE1MDJjXkEyXkFqcGc@._V1_SX250.jpg"
+    ]
   },
   {
     "id": "2d9fa0aea840c35091b0116718872746",
@@ -16477,12 +16465,7 @@
       "Tamil",
       "Hindi",
       "Multi-Lang"
-    ],
-    "imdbId": "tt31530596",
-    "name": "Snow White and the Seven Samurai",
-    "year": 2024,
-    "poster": "https://m.media-amazon.com/images/M/MV5BZjYzMTljMjktYmQwMC00OGVjLThmMmQtNTEzZDBiMTk3OTcwXkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BZjYzMTljMjktYmQwMC00OGVjLThmMmQtNTEzZDBiMTk3OTcwXkEyXkFqcGc@._V1_SX250.jpg"
+    ]
   },
   {
     "id": "db4af3632fccb99806698b58997d8f68",
