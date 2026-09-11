@@ -5302,7 +5302,12 @@
       "Telugu",
       "Hindi",
       "Multi-Lang"
-    ]
+    ],
+    "imdbId": "tt0106505",
+    "name": "Calendar Girl",
+    "year": 1993,
+    "poster": "https://m.media-amazon.com/images/M/MV5BZTQ1NTZhYzAtZDAxZi00YTI4LTljMzEtN2E3Y2RlM2M0YjBmXkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BZTQ1NTZhYzAtZDAxZi00YTI4LTljMzEtN2E3Y2RlM2M0YjBmXkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "a36b081511e4fad13dac6e070fc4697c",
@@ -10952,7 +10957,12 @@
       "Telugu",
       "Hindi",
       "Multi-Lang"
-    ]
+    ],
+    "imdbId": "tt2461132",
+    "name": "Happy New Year",
+    "year": 1987,
+    "poster": "https://m.media-amazon.com/images/M/MV5BYjc3MjY0NzctMGYwNy00ZGYyLThiOTctMjI1MWRkNmU3ZWNiXkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BYjc3MjY0NzctMGYwNy00ZGYyLThiOTctMjI1MWRkNmU3ZWNiXkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "3ece34ce58c65c1a88bb3898238d3004",
@@ -16103,7 +16113,12 @@
     "rawText": "Sannidhanam P.O. (2026) Tamil HD + ESub - [1080p & 720p - AVC / HEVC - (DD+5.1 - 640Kbps) - 4.6GB + Rips] - [W]",
     "languages": [
       "Tamil"
-    ]
+    ],
+    "imdbId": "tt29429839",
+    "name": "Sannidhanam P.O.",
+    "year": 2026,
+    "poster": "https://m.media-amazon.com/images/M/MV5BZjRlMTY2NzktZTM2Yi00MDVkLWJiMjQtMDM5YWNhYTE2ZTY2XkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BZjRlMTY2NzktZTM2Yi00MDVkLWJiMjQtMDM5YWNhYTE2ZTY2XkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "ce16434fe3e50344f7a5be87f415d773",
@@ -16420,18 +16435,7 @@
       "Tamil",
       "Hindi",
       "Multi-Lang"
-    ],
-    "imdbId": "tt7181546",
-    "name": "Ballerina",
-    "year": "2025",
-    "poster": "https://images.metahub.space/poster/small/tt7181546/img",
-    "thumbnail": "https://images.metahub.space/poster/small/tt7181546/img",
-    "genres": [
-      "Action",
-      "Thriller"
-    ],
-    "description": "An assassin trained in the traditions of the Ruska Roma organization sets out to seek revenge after her father's death.",
-    "imdbRating": "6.8"
+    ]
   },
   {
     "id": "61d6eb958d141e05b0d86f07939ef8be",
