@@ -1545,8 +1545,8 @@
     "imdbId": "tt33240865",
     "name": "Rakkasapuradhol",
     "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BNzZlYzZlOGItNzExNy00NmQyLTkzYjctMDk2NDhiOGNmZTA0XkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BNzZlYzZlOGItNzExNy00NmQyLTkzYjctMDk2NDhiOGNmZTA0XkEyXkFqcGc@._V1_SX250.jpg"
+    "poster": "https://m.media-amazon.com/images/M/MV5BNjg0OTllYzItNTUyZS00MmYyLTk3MGYtMWY5Y2NlY2NjNDI2XkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BNjg0OTllYzItNTUyZS00MmYyLTk3MGYtMWY5Y2NlY2NjNDI2XkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "8489829c653d4c6b6aeddd70476bfa8a",
@@ -2159,7 +2159,12 @@
       "Telugu",
       "Hindi",
       "Multi-Lang"
-    ]
+    ],
+    "imdbId": "tt38061210",
+    "name": "Why Did I Get Married Again?",
+    "year": 2026,
+    "poster": "https://m.media-amazon.com/images/M/MV5BNTE5YWVkMTAtODJkYi00Y2IwLTlkZDAtYTQ3MDI3ODFiMWI5XkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BNTE5YWVkMTAtODJkYi00Y2IwLTlkZDAtYTQ3MDI3ODFiMWI5XkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "786357d370ba6f6752ec1068f57d9e3a",
@@ -2225,7 +2230,12 @@
       "Kannada",
       "Hindi",
       "Multi-Lang"
-    ]
+    ],
+    "imdbId": "tt36073210",
+    "name": "Drawn Together",
+    "year": 2026,
+    "poster": "https://m.media-amazon.com/images/M/MV5BYjdkMTRlZGItNDdkMS00NDIwLTkyYzktNDNiYjYwNjdkMzEyXkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BYjdkMTRlZGItNDdkMS00NDIwLTkyYzktNDNiYjYwNjdkMzEyXkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "3878562fb4015855685640a075f9bb9d",
@@ -2491,12 +2501,7 @@
     "rawText": "Sardar (2022) Tamil HD + ESub - [1080p & 720p - AVC / HEVC - (DD+5.1 - 640Kbps) - 9.8GB + Rips]",
     "languages": [
       "Tamil"
-    ],
-    "imdbId": "tt14526318",
-    "name": "Sardar",
-    "year": 2022,
-    "poster": "https://m.media-amazon.com/images/M/MV5BOTYzMTEzYmEtZDdjZS00YzdiLWE5MzgtOTRmZmIwYjQ4YzFiXkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BOTYzMTEzYmEtZDdjZS00YzdiLWE5MzgtOTRmZmIwYjQ4YzFiXkEyXkFqcGc@._V1_SX250.jpg"
+    ]
   },
   {
     "id": "af226ba194a8d9bb0150b04241ec1e33",
@@ -2764,7 +2769,12 @@
     "rawText": "Arulvaan (2026) Tamil UHD + ESub - [4K, 1080p & 720p - AVC - (DD+5.1 - 640Kbps) - 8GB + Rips] - [W]",
     "languages": [
       "Tamil"
-    ]
+    ],
+    "imdbId": "tt40706424",
+    "name": "Arulvaan",
+    "year": 2026,
+    "poster": "https://m.media-amazon.com/images/M/MV5BNjdhYjcyMmMtMGViNC00YTAyLTkzNDUtODBmNzc1OWNkNjJkXkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BNjdhYjcyMmMtMGViNC00YTAyLTkzNDUtODBmNzc1OWNkNjJkXkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "4b92db7ba7b273d035391b22ce9e928f",
@@ -2845,7 +2855,12 @@
       "Tamil",
       "Hindi",
       "Multi-Lang"
-    ]
+    ],
+    "imdbId": "tt2229842",
+    "name": "Table No. 21",
+    "year": 2013,
+    "poster": "https://m.media-amazon.com/images/M/MV5BZDEwOThkNTctZjQ4OS00OGVhLWFkMWEtNTJhNDYyODc4Zjc3XkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BZDEwOThkNTctZjQ4OS00OGVhLWFkMWEtNTJhNDYyODc4Zjc3XkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "83381c6a24dc234d7542ea6884648f27",
@@ -2889,7 +2904,12 @@
       "Telugu",
       "Hindi",
       "Multi-Lang"
-    ]
+    ],
+    "imdbId": "tt0381061",
+    "name": "Casino Royale",
+    "year": 2006,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMWQ1ZDM4NDktMWY0NC00MjcxLWJlMDMtNmE2MGVhYzRjMWQ0XkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BMWQ1ZDM4NDktMWY0NC00MjcxLWJlMDMtNmE2MGVhYzRjMWQ0XkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "85a920b42aa33a50bd5c0e9e04c9a8e1",
@@ -5277,7 +5297,12 @@
       "Telugu",
       "Hindi",
       "Multi-Lang"
-    ]
+    ],
+    "imdbId": "tt0106505",
+    "name": "Calendar Girl",
+    "year": 1993,
+    "poster": "https://m.media-amazon.com/images/M/MV5BZTQ1NTZhYzAtZDAxZi00YTI4LTljMzEtN2E3Y2RlM2M0YjBmXkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BZTQ1NTZhYzAtZDAxZi00YTI4LTljMzEtN2E3Y2RlM2M0YjBmXkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "a36b081511e4fad13dac6e070fc4697c",
@@ -7503,7 +7528,12 @@
       "Tamil",
       "Telugu",
       "Kannada"
-    ]
+    ],
+    "imdbId": "tt33379543",
+    "name": "Jana Nayagan",
+    "year": 2026,
+    "poster": "https://m.media-amazon.com/images/M/MV5BZWFmMGQ4YjUtNmNjYS00MWRlLWI1YzMtMmMyZGIzMmE1NWYwXkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BZWFmMGQ4YjUtNmNjYS00MWRlLWI1YzMtMmMyZGIzMmE1NWYwXkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "758bee937eee394dbbe442270e64de2e",
@@ -8155,7 +8185,13 @@
       "Hindi",
       "Tamil",
       "Telugu"
-    ]
+    ],
+    "imdbId": "tt5256640",
+    "name": "Lenin",
+    "year": "2017",
+    "poster": "https://images.metahub.space/poster/small/tt5256640/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt5256640/img",
+    "genres": []
   },
   {
     "id": "68aed7f241b44bdcc1cfca6a6ce1fb99",
@@ -8190,7 +8226,12 @@
     "rawText": "Pagida Kali (2026) Malayalam HD + ESub - [1080p & 720p - AVC - (DD+5.1 - 192Kbps) - 2.2GB + Rips]",
     "languages": [
       "Malayalam"
-    ]
+    ],
+    "imdbId": "tt40620387",
+    "name": "Pagida Kali",
+    "year": 2026,
+    "poster": "https://images.metahub.space/poster/small/tt40620387/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt40620387/img"
   },
   {
     "id": "66765d7aa3ab5e3df6c70a33ab5ca2b2",
@@ -8540,7 +8581,12 @@
     "rawText": "Mutiny (2026) English HD + ESub - [1080p & 720p - AVC - (DD+5.1 - 640Kbps) - 1.8GB + Rips]",
     "languages": [
       "Tamil"
-    ]
+    ],
+    "imdbId": "tt32338669",
+    "name": "Mutiny",
+    "year": 2026,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTVjMjVlZjktZTg1Zi00ZDdmLTk1ODItNDE1Y2I4MTg1MDQ0XkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BMTVjMjVlZjktZTg1Zi00ZDdmLTk1ODItNDE1Y2I4MTg1MDQ0XkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "5be2ec68f603004dd5c6c7cadd426662",
@@ -10388,7 +10434,12 @@
     "rawText": "Bharat Bhhagya Viddhaata (2026) Hindi HD + ESub - [4K, 1080p & 720p - AVC / HEVC - (DD+5.1 - 192Kbps) - 2GB + Rips]",
     "languages": [
       "Hindi"
-    ]
+    ],
+    "imdbId": "tt33334267",
+    "name": "Bharat Bhhagya Viddhaata",
+    "year": 2026,
+    "poster": "https://m.media-amazon.com/images/M/MV5BOTUwMjIwY2YtZTUyNy00MjhlLTk2OTItMDg0NWY1ZmFmNzNmXkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BOTUwMjIwY2YtZTUyNy00MjhlLTk2OTItMDg0NWY1ZmFmNzNmXkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "52737abb6ce057de057053681ec235e6",
@@ -10445,7 +10496,12 @@
     "rawText": "Nooru Saami (2026) Tamil UHD + ESub - [4K, 1080p & 720p - AVC / HEVC - (DD+5.1 - 192Kbps) - 7GB + Rips] - [W]",
     "languages": [
       "Tamil"
-    ]
+    ],
+    "imdbId": "tt38267486",
+    "name": "Nooru Saami",
+    "year": 2026,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMmU5YzAyMDItMTc2Yy00NzdhLWI4MzItYTk3NDhmODBmZjM3XkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BMmU5YzAyMDItMTc2Yy00NzdhLWI4MzItYTk3NDhmODBmZjM3XkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "c7d29abbeb2dfd5c30308881341a87de",
@@ -10618,7 +10674,12 @@
       "Kannada",
       "Hindi",
       "Multi-Lang"
-    ]
+    ],
+    "imdbId": "tt35723557",
+    "name": "Idhayam Murali",
+    "year": 2026,
+    "poster": "https://m.media-amazon.com/images/M/MV5BZTFjOTAwZjYtMjdiMC00NmY4LWE2ZWUtNGY3Zjk4Yjk2MGZjXkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BZTFjOTAwZjYtMjdiMC00NmY4LWE2ZWUtNGY3Zjk4Yjk2MGZjXkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "73205b01ed00cc6eee2eb3a5d95f8fed",
@@ -10744,7 +10805,12 @@
     "rawText": "Aakhri Sawal (2026) Hindi HD - [1080p & 720p - AVC - (AAC 2.0) - 1.9GB + Rips]",
     "languages": [
       "Hindi"
-    ]
+    ],
+    "imdbId": "tt41110859",
+    "name": "Aakhri Sawal",
+    "year": 2026,
+    "poster": "https://m.media-amazon.com/images/M/MV5BOTJkODZiOWItOTY2YS00N2VkLTlkZjEtYzMyZTQzZGQ1ZDcxXkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BOTJkODZiOWItOTY2YS00N2VkLTlkZjEtYzMyZTQzZGQ1ZDcxXkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "a0c2c1f010acf62598be38630e703422",
@@ -10886,12 +10952,7 @@
       "Telugu",
       "Hindi",
       "Multi-Lang"
-    ],
-    "imdbId": "tt2461132",
-    "name": "Happy New Year",
-    "year": 1987,
-    "poster": "https://m.media-amazon.com/images/M/MV5BYjc3MjY0NzctMGYwNy00ZGYyLThiOTctMjI1MWRkNmU3ZWNiXkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BYjc3MjY0NzctMGYwNy00ZGYyLThiOTctMjI1MWRkNmU3ZWNiXkEyXkFqcGc@._V1_SX250.jpg"
+    ]
   },
   {
     "id": "3ece34ce58c65c1a88bb3898238d3004",
@@ -10959,7 +11020,12 @@
     "rawText": "Padikkathavan (2009) Tamil HD - [1080p & 720p - AVC / HEVC - (DD+5.1 - 192Kbps) - 5.6GB + Rips]",
     "languages": [
       "Tamil"
-    ]
+    ],
+    "imdbId": "tt1956589",
+    "name": "Padikkathavan",
+    "year": 2009,
+    "poster": "https://m.media-amazon.com/images/M/MV5BNjRiNjhjOGQtZTBkMC00YmM0LThjMjAtNWVkMjQ3OGNlYzdmXkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BNjRiNjhjOGQtZTBkMC00YmM0LThjMjAtNWVkMjQ3OGNlYzdmXkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "e1bf1c7251e211ba161e76954b49af05",
@@ -11603,7 +11669,12 @@
       "Telugu",
       "Hindi",
       "Multi-Lang"
-    ]
+    ],
+    "imdbId": "tt32268156",
+    "name": "The Last House",
+    "year": 2026,
+    "poster": "https://m.media-amazon.com/images/M/MV5BNGVlY2E3YjYtMDI3OC00OTZjLWE5MTgtNzQ2NDdlNjMwMzVhXkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BNGVlY2E3YjYtMDI3OC00OTZjLWE5MTgtNzQ2NDdlNjMwMzVhXkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "3e5bf3c573012aca969359fda676b7a1",
@@ -11647,7 +11718,12 @@
       "Telugu",
       "Hindi",
       "Multi-Lang"
-    ]
+    ],
+    "imdbId": "tt28650488",
+    "name": "The Super Mario Galaxy Movie",
+    "year": 2026,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMGIzMGI4OWYtNzdkMy00MjJlLWJiMDMtZjY1Y2UwMzQ0YzY3XkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BMGIzMGI4OWYtNzdkMy00MjJlLWJiMDMtZjY1Y2UwMzQ0YzY3XkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "83a6fe3908d859002f3582921053d90f",
@@ -14317,7 +14393,12 @@
       "Tamil",
       "Hindi",
       "Multi-Lang"
-    ]
+    ],
+    "imdbId": "tt21065316",
+    "name": "Jurassic Domination",
+    "year": 2022,
+    "poster": "https://m.media-amazon.com/images/M/MV5BYzY4NjMzZjEtMDU0OS00Zjk3LWFiYzMtZWVjZWJjMTFjZGEwXkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BYzY4NjMzZjEtMDU0OS00Zjk3LWFiYzMtZWVjZWJjMTFjZGEwXkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "284c5e9f38d5b5fdab08973747d131a8",
@@ -15041,7 +15122,12 @@
     "rawText": "Kalyanamaram (2026) Malayalam HD + ESub - [1080p & 720p - AVC - (DD+5.1 - 384Kbps) - 2.7GB + Rips]",
     "languages": [
       "Malayalam"
-    ]
+    ],
+    "imdbId": "tt43505958",
+    "name": "Kalyanamaram",
+    "year": 2026,
+    "poster": "https://m.media-amazon.com/images/M/MV5BZDA0ZWJhYzYtMzcxNS00ZWFmLTllODctMmJmNTIxMzhlNTExXkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BZDA0ZWJhYzYtMzcxNS00ZWFmLTllODctMmJmNTIxMzhlNTExXkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "9f49ee247d59fadd80c0807e22bc6c64",
@@ -15775,12 +15861,7 @@
       "Kannada",
       "Hindi",
       "Multi-Lang"
-    ],
-    "imdbId": "tt0427340",
-    "name": "Masters of the Universe",
-    "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BMTJjYTFkM2EtZjBmNy00OTk2LTg0NTAtNzYxYzlmNjhkMzQ5XkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BMTJjYTFkM2EtZjBmNy00OTk2LTg0NTAtNzYxYzlmNjhkMzQ5XkEyXkFqcGc@._V1_SX250.jpg"
+    ]
   },
   {
     "id": "0dc9b54b6e18c0c47ff5db748294b750",
@@ -17228,7 +17309,12 @@
       "Telugu",
       "Hindi",
       "Multi-Lang"
-    ]
+    ],
+    "imdbId": "tt0096003",
+    "name": "Rocket Gibraltar",
+    "year": 1988,
+    "poster": "https://m.media-amazon.com/images/M/MV5BZGMzYzM1N2YtNjFjMC00ODRkLWI1ZTEtZDIxMDJlNTYwNWJjXkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BZGMzYzM1N2YtNjFjMC00ODRkLWI1ZTEtZDIxMDJlNTYwNWJjXkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "e922bf599f88c9f81c74bfc6d3b115d0",
@@ -17511,7 +17597,19 @@
     "rawText": "Attack on Titan (2022) (BluRay + Org Auds) - [1080p & 720p - x264 - (Tamil + Eng) - 1.7GB + Rips]",
     "languages": [
       "Tamil"
-    ]
+    ],
+    "imdbId": "tt33175825",
+    "name": "Attack on Titan the Movie: The Last Attack",
+    "year": "2024",
+    "poster": "https://images.metahub.space/poster/small/tt33175825/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt33175825/img",
+    "genres": [
+      "Animation",
+      "Action",
+      "Adventure"
+    ],
+    "description": "The fate of the world hangs in the balance as Eren unleashes the ultimate power of the Titans. With a burning determination to eliminate all who threaten Eldia, he leads an unstoppable army of Colossal Titans towards Marley.",
+    "imdbRating": "9.2"
   },
   {
     "id": "8ecaa41595a738793c1f1c8a11af5a00",
@@ -18527,7 +18625,17 @@
     "rawText": "Trikala Script of God (2026) Telugu HD + ESub - [4K, 1080p & 720p - AVC - (DD+5.1 - 192Kbps) - 9.3GB + Rips] - [W]",
     "languages": [
       "Telugu"
-    ]
+    ],
+    "imdbId": "tt30442140",
+    "name": "Shadow of God",
+    "year": "2025",
+    "poster": "https://images.metahub.space/poster/small/tt30442140/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt30442140/img",
+    "genres": [
+      "Horror"
+    ],
+    "description": "While performing an unauthorized exorcism on his father, an elite exorcist suspects the entity he's doing battle with might be a holy being - perhaps even God.",
+    "imdbRating": "3.9"
   },
   {
     "id": "ca6383f98f54cf6e360ee9bf6f2ebaec",
@@ -18562,7 +18670,12 @@
     "rawText": "Shikhandi (2026) Kannada HD + ESub - [1080p & 720p - AVC - (DD+5.1 - 640Kbps) - 2.7GB + Rips]",
     "languages": [
       "Kannada"
-    ]
+    ],
+    "imdbId": "tt42575969",
+    "name": "Shikhandi",
+    "year": 2026,
+    "poster": "https://m.media-amazon.com/images/M/MV5BZmExMzE4YmMtODU2ZS00ZDg2LTgzMzAtZmNlYjM2MmYwN2ZjXkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BZmExMzE4YmMtODU2ZS00ZDg2LTgzMzAtZmNlYjM2MmYwN2ZjXkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "4488d6eaaff9322fcdaa5d3d130602cd",
@@ -18839,7 +18952,17 @@
     "rawText": "Kadhal Oru Kannamoochi (2026) Tamil HD + ESub - [1080p & 720p - AVC - (AAC 2.0) - 2.5GB + Rips]",
     "languages": [
       "Tamil"
-    ]
+    ],
+    "imdbId": "tt7087926",
+    "name": "Oru Iyakkunarin Kadhal Diary",
+    "year": "2017",
+    "poster": "https://images.metahub.space/poster/small/tt7087926/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt7087926/img",
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "imdbRating": "6.1"
   },
   {
     "id": "bb926f481642c27d5fa8ebc3b57f08cc",
@@ -18995,7 +19118,12 @@
       "Tamil",
       "Hindi",
       "Multi-Lang"
-    ]
+    ],
+    "imdbId": "tt0251433",
+    "name": "Time and Tide",
+    "year": 2000,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjU3YmE5NTItZGNkZi00NWNmLWEzNzItNWQ2NmY2MDBhYTBlXkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BMjU3YmE5NTItZGNkZi00NWNmLWEzNzItNWQ2NmY2MDBhYTBlXkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "624b5c53a350d3bcd4501dd211551128",
@@ -19313,7 +19441,12 @@
     "languages": [
       "Tamil",
       "Malayalam"
-    ]
+    ],
+    "imdbId": "tt29959401",
+    "name": "Mollywood Times",
+    "year": 2026,
+    "poster": "https://m.media-amazon.com/images/M/MV5BZmU1ZDQ1MjUtYTcwZi00YWE0LWEwMWItYjY3YmEwNmI2MGRkXkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BZmU1ZDQ1MjUtYTcwZi00YWE0LWEwMWItYjY3YmEwNmI2MGRkXkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "0ad2251a98707795f8450bdea35a955d",
