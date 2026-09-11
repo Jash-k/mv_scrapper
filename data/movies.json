@@ -5302,12 +5302,7 @@
       "Telugu",
       "Hindi",
       "Multi-Lang"
-    ],
-    "imdbId": "tt0106505",
-    "name": "Calendar Girl",
-    "year": 1993,
-    "poster": "https://m.media-amazon.com/images/M/MV5BZTQ1NTZhYzAtZDAxZi00YTI4LTljMzEtN2E3Y2RlM2M0YjBmXkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BZTQ1NTZhYzAtZDAxZi00YTI4LTljMzEtN2E3Y2RlM2M0YjBmXkEyXkFqcGc@._V1_SX250.jpg"
+    ]
   },
   {
     "id": "a36b081511e4fad13dac6e070fc4697c",
@@ -16435,7 +16430,18 @@
       "Tamil",
       "Hindi",
       "Multi-Lang"
-    ]
+    ],
+    "imdbId": "tt7181546",
+    "name": "Ballerina",
+    "year": "2025",
+    "poster": "https://images.metahub.space/poster/small/tt7181546/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt7181546/img",
+    "genres": [
+      "Action",
+      "Thriller"
+    ],
+    "description": "An assassin trained in the traditions of the Ruska Roma organization sets out to seek revenge after her father's death.",
+    "imdbRating": "6.8"
   },
   {
     "id": "61d6eb958d141e05b0d86f07939ef8be",
