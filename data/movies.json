@@ -43,7 +43,12 @@
     "rawText": "Mandaadi (2026) Tamil HQ PreDVD (HQ Clean) - [1080p & 720p - x264 - 2.7GB + Rips] - [W]",
     "languages": [
       "Tamil"
-    ]
+    ],
+    "imdbId": "tt36596965",
+    "name": "Mandaadi",
+    "year": 2026,
+    "poster": "https://m.media-amazon.com/images/M/MV5BM2NjYTUwMjEtZmYzNy00MTYxLWE1OGYtNWVmMjYzOWViZGJmXkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BM2NjYTUwMjEtZmYzNy00MTYxLWE1OGYtNWVmMjYzOWViZGJmXkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "6eaad514a5ed4221d563f04c4e3377ba",
@@ -1591,8 +1596,8 @@
     "imdbId": "tt33240865",
     "name": "Rakkasapuradhol",
     "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BNjg0OTllYzItNTUyZS00MmYyLTk3MGYtMWY5Y2NlY2NjNDI2XkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BNjg0OTllYzItNTUyZS00MmYyLTk3MGYtMWY5Y2NlY2NjNDI2XkEyXkFqcGc@._V1_SX250.jpg"
+    "poster": "https://m.media-amazon.com/images/M/MV5BNzZlYzZlOGItNzExNy00NmQyLTkzYjctMDk2NDhiOGNmZTA0XkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BNzZlYzZlOGItNzExNy00NmQyLTkzYjctMDk2NDhiOGNmZTA0XkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "8489829c653d4c6b6aeddd70476bfa8a",
@@ -5348,12 +5353,7 @@
       "Telugu",
       "Hindi",
       "Multi-Lang"
-    ],
-    "imdbId": "tt0106505",
-    "name": "Calendar Girl",
-    "year": 1993,
-    "poster": "https://m.media-amazon.com/images/M/MV5BZTQ1NTZhYzAtZDAxZi00YTI4LTljMzEtN2E3Y2RlM2M0YjBmXkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BZTQ1NTZhYzAtZDAxZi00YTI4LTljMzEtN2E3Y2RlM2M0YjBmXkEyXkFqcGc@._V1_SX250.jpg"
+    ]
   },
   {
     "id": "a36b081511e4fad13dac6e070fc4697c",
