@@ -5353,12 +5353,7 @@
       "Telugu",
       "Hindi",
       "Multi-Lang"
-    ],
-    "imdbId": "tt0106505",
-    "name": "Calendar Girl",
-    "year": 1993,
-    "poster": "https://m.media-amazon.com/images/M/MV5BZTQ1NTZhYzAtZDAxZi00YTI4LTljMzEtN2E3Y2RlM2M0YjBmXkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BZTQ1NTZhYzAtZDAxZi00YTI4LTljMzEtN2E3Y2RlM2M0YjBmXkEyXkFqcGc@._V1_SX250.jpg"
+    ]
   },
   {
     "id": "a36b081511e4fad13dac6e070fc4697c",
@@ -9183,18 +9178,7 @@
       "Tamil",
       "Hindi",
       "Multi-Lang"
-    ],
-    "imdbId": "tt0462023",
-    "name": "Romulus, My Father",
-    "year": "2007",
-    "poster": "https://images.metahub.space/poster/small/tt0462023/img",
-    "thumbnail": "https://images.metahub.space/poster/small/tt0462023/img",
-    "genres": [
-      "Biography",
-      "Drama"
-    ],
-    "description": "It tells the story of Romulus, his beautiful wife, Christina, and their struggle in the face of great adversity to bring up their son, Raimond. It is a story of impossible love that ultimately celebrates the unbreakable bond betwe...",
-    "imdbRating": "6.6"
+    ]
   },
   {
     "id": "1c70adba93dbff83c67f1754ea228b96",
@@ -10781,12 +10765,7 @@
     "rawText": "G.D.N (2026) Tamil HQ PreDVD (Original Audio) - [1080p & 720p - x264 - 2.6GB + Rips]",
     "languages": [
       "Tamil"
-    ],
-    "imdbId": "tt35712605",
-    "name": "G.D.N.",
-    "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BNWUwZTJkOTktMTBjYi00MWEzLThlY2QtNWU0MWM2OTU2ZjI1XkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BNWUwZTJkOTktMTBjYi00MWEzLThlY2QtNWU0MWM2OTU2ZjI1XkEyXkFqcGc@._V1_SX250.jpg"
+    ]
   },
   {
     "id": "0238b1d4dea3d99a401d030fe19a597b",
@@ -16023,12 +16002,7 @@
       "Telugu",
       "Hindi",
       "Multi-Lang"
-    ],
-    "imdbId": "tt3470600",
-    "name": "Sing",
-    "year": 1989,
-    "poster": "https://m.media-amazon.com/images/M/MV5BMTYzODYzODU2Ml5BMl5BanBnXkFtZTgwNTc1MTA2NzE@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BMTYzODYzODU2Ml5BMl5BanBnXkFtZTgwNTc1MTA2NzE@._V1_SX250.jpg"
+    ]
   },
   {
     "id": "459ba9c9b017b07497b75cf037068ab2",
@@ -17375,12 +17349,7 @@
       "Telugu",
       "Hindi",
       "Multi-Lang"
-    ],
-    "imdbId": "tt0096003",
-    "name": "Rocket Gibraltar",
-    "year": 1988,
-    "poster": "https://m.media-amazon.com/images/M/MV5BZGMzYzM1N2YtNjFjMC00ODRkLWI1ZTEtZDIxMDJlNTYwNWJjXkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BZGMzYzM1N2YtNjFjMC00ODRkLWI1ZTEtZDIxMDJlNTYwNWJjXkEyXkFqcGc@._V1_SX250.jpg"
+    ]
   },
   {
     "id": "e922bf599f88c9f81c74bfc6d3b115d0",
@@ -17663,19 +17632,7 @@
     "rawText": "Attack on Titan (2022) (BluRay + Org Auds) - [1080p & 720p - x264 - (Tamil + Eng) - 1.7GB + Rips]",
     "languages": [
       "Tamil"
-    ],
-    "imdbId": "tt33175825",
-    "name": "Attack on Titan the Movie: The Last Attack",
-    "year": "2024",
-    "poster": "https://images.metahub.space/poster/small/tt33175825/img",
-    "thumbnail": "https://images.metahub.space/poster/small/tt33175825/img",
-    "genres": [
-      "Animation",
-      "Action",
-      "Adventure"
-    ],
-    "description": "The fate of the world hangs in the balance as Eren unleashes the ultimate power of the Titans. With a burning determination to eliminate all who threaten Eldia, he leads an unstoppable army of Colossal Titans towards Marley.",
-    "imdbRating": "9.2"
+    ]
   },
   {
     "id": "8ecaa41595a738793c1f1c8a11af5a00",
@@ -19018,7 +18975,17 @@
     "rawText": "Kadhal Oru Kannamoochi (2026) Tamil HD + ESub - [1080p & 720p - AVC - (AAC 2.0) - 2.5GB + Rips]",
     "languages": [
       "Tamil"
-    ]
+    ],
+    "imdbId": "tt7087926",
+    "name": "Oru Iyakkunarin Kadhal Diary",
+    "year": "2017",
+    "poster": "https://images.metahub.space/poster/small/tt7087926/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt7087926/img",
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "imdbRating": "6.1"
   },
   {
     "id": "bb926f481642c27d5fa8ebc3b57f08cc",
