@@ -162,12 +162,7 @@
     "languages": [
       "Tamil",
       "Telugu"
-    ],
-    "imdbId": "tt36596965",
-    "name": "Mandaadi",
-    "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BM2NjYTUwMjEtZmYzNy00MTYxLWE1OGYtNWVmMjYzOWViZGJmXkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BM2NjYTUwMjEtZmYzNy00MTYxLWE1OGYtNWVmMjYzOWViZGJmXkEyXkFqcGc@._V1_SX250.jpg"
+    ]
   },
   {
     "id": "0ddbe0ef723b27fe52a37e7127ec8a59",
@@ -5316,7 +5311,12 @@
       "Telugu",
       "Hindi",
       "Multi-Lang"
-    ]
+    ],
+    "imdbId": "tt0106505",
+    "name": "Calendar Girl",
+    "year": 1993,
+    "poster": "https://m.media-amazon.com/images/M/MV5BZTQ1NTZhYzAtZDAxZi00YTI4LTljMzEtN2E3Y2RlM2M0YjBmXkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BZTQ1NTZhYzAtZDAxZi00YTI4LTljMzEtN2E3Y2RlM2M0YjBmXkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "a36b081511e4fad13dac6e070fc4697c",
@@ -11542,12 +11542,7 @@
       "Kannada",
       "Hindi",
       "Multi-Lang"
-    ],
-    "imdbId": "tt41993585",
-    "name": "M.R.P - Neekentha Naakentha?",
-    "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BMzZiY2FmZmUtOTI3My00NjU1LTk1NWQtN2IyZGYwNzFlM2JkXkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BMzZiY2FmZmUtOTI3My00NjU1LTk1NWQtN2IyZGYwNzFlM2JkXkEyXkFqcGc@._V1_SX250.jpg"
+    ]
   },
   {
     "id": "88d8e0db432b2d027a9a54fea1b6a771",
