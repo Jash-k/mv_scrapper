@@ -162,7 +162,12 @@
     "languages": [
       "Tamil",
       "Telugu"
-    ]
+    ],
+    "imdbId": "tt36596965",
+    "name": "Mandaadi",
+    "year": 2026,
+    "poster": "https://m.media-amazon.com/images/M/MV5BM2NjYTUwMjEtZmYzNy00MTYxLWE1OGYtNWVmMjYzOWViZGJmXkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BM2NjYTUwMjEtZmYzNy00MTYxLWE1OGYtNWVmMjYzOWViZGJmXkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "0ddbe0ef723b27fe52a37e7127ec8a59",
@@ -1166,7 +1171,12 @@
       "Telugu",
       "Kannada",
       "Multi-Lang"
-    ]
+    ],
+    "imdbId": "tt37963237",
+    "name": "Varavu",
+    "year": 2026,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTVmZGQwYjAtMWVhNS00NDc2LWJjZDMtYmRiOGYyNzJhZTI4XkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BMTVmZGQwYjAtMWVhNS00NDc2LWJjZDMtYmRiOGYyNzJhZTI4XkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "409e68a3d65ae2c7d1c72876cd448513",
@@ -5328,7 +5338,12 @@
       "Telugu",
       "Hindi",
       "Multi-Lang"
-    ]
+    ],
+    "imdbId": "tt0106505",
+    "name": "Calendar Girl",
+    "year": 1993,
+    "poster": "https://m.media-amazon.com/images/M/MV5BZTQ1NTZhYzAtZDAxZi00YTI4LTljMzEtN2E3Y2RlM2M0YjBmXkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BZTQ1NTZhYzAtZDAxZi00YTI4LTljMzEtN2E3Y2RlM2M0YjBmXkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "a36b081511e4fad13dac6e070fc4697c",
@@ -5886,7 +5901,12 @@
     "rawText": "Harudu (2026) Telugu HD + ESub - [1080p & 720p - AVC - (DD+5.1 - 192Kbps) - 2.3GB + Rips]",
     "languages": [
       "Telugu"
-    ]
+    ],
+    "imdbId": "tt33702400",
+    "name": "Harudu",
+    "year": 2026,
+    "poster": "https://m.media-amazon.com/images/M/MV5BOTAxM2VjODctNTI0My00Y2I2LWJlNzYtZTU5ZDI0NjYxYWRhXkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BOTAxM2VjODctNTI0My00Y2I2LWJlNzYtZTU5ZDI0NjYxYWRhXkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "b785f93dafe8a750612edb31c91c7da3",
@@ -11046,7 +11066,12 @@
     "rawText": "Padikkathavan (2009) Tamil HD - [1080p & 720p - AVC / HEVC - (DD+5.1 - 192Kbps) - 5.6GB + Rips]",
     "languages": [
       "Tamil"
-    ]
+    ],
+    "imdbId": "tt1956589",
+    "name": "Padikkathavan",
+    "year": 2009,
+    "poster": "https://m.media-amazon.com/images/M/MV5BNjRiNjhjOGQtZTBkMC00YmM0LThjMjAtNWVkMjQ3OGNlYzdmXkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BNjRiNjhjOGQtZTBkMC00YmM0LThjMjAtNWVkMjQ3OGNlYzdmXkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "e1bf1c7251e211ba161e76954b49af05",
@@ -13540,7 +13565,19 @@
       "Telugu",
       "Hindi",
       "Multi-Lang"
-    ]
+    ],
+    "imdbId": "tt0145487",
+    "name": "Spider-Man",
+    "year": "2002",
+    "poster": "https://images.metahub.space/poster/small/tt0145487/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt0145487/img",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Sci-Fi"
+    ],
+    "description": "After being bitten by a genetically-modified spider, a shy teenager gains spider-like abilities that he uses to fight injustice as a masked superhero and face a vengeful enemy.",
+    "imdbRating": "7.4"
   },
   {
     "id": "a3e186caee77fd5d626fc0d56bc1a081",
@@ -18966,7 +19003,17 @@
     "rawText": "Kadhal Oru Kannamoochi (2026) Tamil HD + ESub - [1080p & 720p - AVC - (AAC 2.0) - 2.5GB + Rips]",
     "languages": [
       "Tamil"
-    ]
+    ],
+    "imdbId": "tt7087926",
+    "name": "Oru Iyakkunarin Kadhal Diary",
+    "year": "2017",
+    "poster": "https://images.metahub.space/poster/small/tt7087926/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt7087926/img",
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "imdbRating": "6.1"
   },
   {
     "id": "bb926f481642c27d5fa8ebc3b57f08cc",
