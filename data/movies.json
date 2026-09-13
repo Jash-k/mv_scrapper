@@ -1837,7 +1837,12 @@
       "Telugu",
       "Hindi",
       "Multi-Lang"
-    ]
+    ],
+    "imdbId": "tt34494076",
+    "name": "Hungry",
+    "year": 2026,
+    "poster": "https://m.media-amazon.com/images/M/MV5BNWRhMjRlYTQtMWNhNy00YzRmLThiZjktYjQ4NDMyZWNiY2QwXkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BNWRhMjRlYTQtMWNhNy00YzRmLThiZjktYjQ4NDMyZWNiY2QwXkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "02bf204390bb5189efcb4818fd46f9fc",
@@ -3151,7 +3156,12 @@
       "Telugu",
       "Hindi",
       "Multi-Lang"
-    ]
+    ],
+    "imdbId": "tt0381061",
+    "name": "Casino Royale",
+    "year": 2006,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMWQ1ZDM4NDktMWY0NC00MjcxLWJlMDMtNmE2MGVhYzRjMWQ0XkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BMWQ1ZDM4NDktMWY0NC00MjcxLWJlMDMtNmE2MGVhYzRjMWQ0XkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "85a920b42aa33a50bd5c0e9e04c9a8e1",
@@ -4003,7 +4013,19 @@
       "Telugu",
       "Hindi",
       "Multi-Lang"
-    ]
+    ],
+    "imdbId": "tt6645614",
+    "name": "Trolls Holiday",
+    "year": "2017",
+    "poster": "https://images.metahub.space/poster/small/tt6645614/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt6645614/img",
+    "genres": [
+      "Animation",
+      "Adventure",
+      "Comedy"
+    ],
+    "description": "When the Queen of the Trolls, Poppy, finds out that the Bergens do not have holidays, she enlists help from her friends, Branch and the Snack Pack, to help her bring holidays to the Bergens.",
+    "imdbRating": "6.1"
   },
   {
     "id": "4a5c08ebab7dcc8432868c211dee3cb9",
@@ -7056,7 +7078,12 @@
       "Tamil",
       "Hindi",
       "Multi-Lang"
-    ]
+    ],
+    "imdbId": "tt1105709",
+    "name": "8 x 10 Tasveer",
+    "year": 2009,
+    "poster": "https://m.media-amazon.com/images/M/MV5BZGE0OTcyOGEtNjdlMS00ZjEzLThmN2MtNDVmMzQxMzc5NGM1XkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BZGE0OTcyOGEtNjdlMS00ZjEzLThmN2MtNDVmMzQxMzc5NGM1XkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "8258fca40f1a279af2c4f0dc63e59f2c",
@@ -8022,7 +8049,12 @@
     "rawText": "Mother (2026) Tamil HD + ESub - [1080p & 720p - AVC - (DD+5.1 - 192Kbps) - 2.2GB + Rips] - [W]",
     "languages": [
       "Tamil"
-    ]
+    ],
+    "imdbId": "tt27200708",
+    "name": "Mother Mary",
+    "year": 2026,
+    "poster": "https://m.media-amazon.com/images/M/MV5BZWM0NTIzMWEtOWU1ZC00OTEyLThmNTItYjM1N2Y1MDllMGYzXkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BZWM0NTIzMWEtOWU1ZC00OTEyLThmNTItYjM1N2Y1MDllMGYzXkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "a4aac7d8bc34909c2c1793389d80111a",
@@ -8405,13 +8437,7 @@
       "Hindi",
       "Tamil",
       "Telugu"
-    ],
-    "imdbId": "tt5256640",
-    "name": "Lenin",
-    "year": "2017",
-    "poster": "https://images.metahub.space/poster/small/tt5256640/img",
-    "thumbnail": "https://images.metahub.space/poster/small/tt5256640/img",
-    "genres": []
+    ]
   },
   {
     "id": "68aed7f241b44bdcc1cfca6a6ce1fb99",
@@ -13958,7 +13984,12 @@
     "rawText": "Kaalam Paranja Kadha (2026) Malayalam HD + ESub - [1080p & 720p - AVC - (DD+5.1 - 384Kbps) - 3.8GB + Rips]",
     "languages": [
       "Malayalam"
-    ]
+    ],
+    "imdbId": "tt38884361",
+    "name": "Kaalam paranja kadha",
+    "year": 2026,
+    "poster": "https://m.media-amazon.com/images/M/MV5BNmYyNjZkZmEtZjM2Ny00MjAwLWE1YjktODAxY2RjZTA1MjE0XkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BNmYyNjZkZmEtZjM2Ny00MjAwLWE1YjktODAxY2RjZTA1MjE0XkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "c144cdd8f97f21cf312db70c20ddf583",
@@ -19137,7 +19168,12 @@
       "Telugu",
       "Kannada",
       "Multi-Lang"
-    ]
+    ],
+    "imdbId": "tt0119008",
+    "name": "Donnie Brasco",
+    "year": 1997,
+    "poster": "https://m.media-amazon.com/images/M/MV5BZWZkNDA2YTctZWJhZS00OTAzLThlODMtY2QyMzg1MTEwYjU2XkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BZWZkNDA2YTctZWJhZS00OTAzLThlODMtY2QyMzg1MTEwYjU2XkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "729701fb55dd8ac79f4c8bd711cf2ed0",
