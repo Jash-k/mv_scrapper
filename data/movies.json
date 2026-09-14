@@ -2558,7 +2558,12 @@
       "Malayalam",
       "Kannada",
       "Multi-Lang"
-    ]
+    ],
+    "imdbId": "tt37501035",
+    "name": "DC",
+    "year": 2026,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMzMwODk4MjgtZjI5Mi00Nzk0LWE4OTQtYjU0ZGEyZjUyY2Y2XkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BMzMwODk4MjgtZjI5Mi00Nzk0LWE4OTQtYjU0ZGEyZjUyY2Y2XkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "c757af58a30b9790a46a4f6f65bc69bd",
@@ -2673,7 +2678,12 @@
       "Kannada",
       "Hindi",
       "Multi-Lang"
-    ]
+    ],
+    "imdbId": "tt36073210",
+    "name": "Drawn Together",
+    "year": 2026,
+    "poster": "https://m.media-amazon.com/images/M/MV5BYjdkMTRlZGItNDdkMS00NDIwLTkyYzktNDNiYjYwNjdkMzEyXkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BYjdkMTRlZGItNDdkMS00NDIwLTkyYzktNDNiYjYwNjdkMzEyXkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "3878562fb4015855685640a075f9bb9d",
@@ -3946,7 +3956,12 @@
       "Kannada",
       "Hindi",
       "Multi-Lang"
-    ]
+    ],
+    "imdbId": "tt38286171",
+    "name": "Unmadham",
+    "year": 2026,
+    "poster": "https://m.media-amazon.com/images/M/MV5BYWYyMWY4ZmEtNjI4Ny00Mjg0LWJlNGYtN2JhNzdmZWY0ZjUxXkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BYWYyMWY4ZmEtNjI4Ny00Mjg0LWJlNGYtN2JhNzdmZWY0ZjUxXkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "0a82f93eb9244a1ecaf96222bcfafc40",
@@ -5833,12 +5848,7 @@
       "Telugu",
       "Hindi",
       "Multi-Lang"
-    ],
-    "imdbId": "tt11561116",
-    "name": "The Whisper Man",
-    "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BOTI1YmY3YTQtYTg2Zi00OTZkLTk3NzQtNjcxNzIzMjk2ODZlXkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BOTI1YmY3YTQtYTg2Zi00OTZkLTk3NzQtNjcxNzIzMjk2ODZlXkEyXkFqcGc@._V1_SX250.jpg"
+    ]
   },
   {
     "id": "ac7c0531077218f69041654a3101335c",
