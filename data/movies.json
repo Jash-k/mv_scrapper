@@ -2558,12 +2558,7 @@
       "Malayalam",
       "Kannada",
       "Multi-Lang"
-    ],
-    "imdbId": "tt37501035",
-    "name": "DC",
-    "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BMzMwODk4MjgtZjI5Mi00Nzk0LWE4OTQtYjU0ZGEyZjUyY2Y2XkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BMzMwODk4MjgtZjI5Mi00Nzk0LWE4OTQtYjU0ZGEyZjUyY2Y2XkEyXkFqcGc@._V1_SX250.jpg"
+    ]
   },
   {
     "id": "c757af58a30b9790a46a4f6f65bc69bd",
@@ -2678,12 +2673,7 @@
       "Kannada",
       "Hindi",
       "Multi-Lang"
-    ],
-    "imdbId": "tt36073210",
-    "name": "Drawn Together",
-    "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BYjdkMTRlZGItNDdkMS00NDIwLTkyYzktNDNiYjYwNjdkMzEyXkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BYjdkMTRlZGItNDdkMS00NDIwLTkyYzktNDNiYjYwNjdkMzEyXkEyXkFqcGc@._V1_SX250.jpg"
+    ]
   },
   {
     "id": "3878562fb4015855685640a075f9bb9d",
@@ -3956,12 +3946,7 @@
       "Kannada",
       "Hindi",
       "Multi-Lang"
-    ],
-    "imdbId": "tt38286171",
-    "name": "Unmadham",
-    "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BYWYyMWY4ZmEtNjI4Ny00Mjg0LWJlNGYtN2JhNzdmZWY0ZjUxXkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BYWYyMWY4ZmEtNjI4Ny00Mjg0LWJlNGYtN2JhNzdmZWY0ZjUxXkEyXkFqcGc@._V1_SX250.jpg"
+    ]
   },
   {
     "id": "0a82f93eb9244a1ecaf96222bcfafc40",
@@ -11327,7 +11312,12 @@
       "Telugu",
       "Hindi",
       "Multi-Lang"
-    ]
+    ],
+    "imdbId": "tt1800302",
+    "name": "Gold",
+    "year": 2022,
+    "poster": "https://m.media-amazon.com/images/M/MV5BNzI1NjI5OTUyM15BMl5BanBnXkFtZTgwOTM4NzY2MDI@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BNzI1NjI5OTUyM15BMl5BanBnXkFtZTgwOTM4NzY2MDI@._V1_SX250.jpg"
   },
   {
     "id": "638cfaa36eb2ea3a8dd1e8fe7af23786",
@@ -16910,12 +16900,7 @@
       "Kannada",
       "Hindi",
       "Multi-Lang"
-    ],
-    "imdbId": "tt31624258",
-    "name": "Hijack 1971",
-    "year": 1971,
-    "poster": "https://m.media-amazon.com/images/M/MV5BMGNjMDRmYzAtM2QxNS00Njg5LTk2ZGItZDQ1MjgwNzYxMTZiXkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BMGNjMDRmYzAtM2QxNS00Njg5LTk2ZGItZDQ1MjgwNzYxMTZiXkEyXkFqcGc@._V1_SX250.jpg"
+    ]
   },
   {
     "id": "99685c60208238a71f29181ef804e8c1",
@@ -19238,11 +19223,11 @@
       "Hindi",
       "Multi-Lang"
     ],
-    "imdbId": "tt0211938",
+    "imdbId": "tt1438173",
     "name": "Bait",
     "year": 1954,
-    "poster": "https://m.media-amazon.com/images/M/MV5BMTc2NzM2MjY1OV5BMl5BanBnXkFtZTYwMTkyNjc3._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BMTc2NzM2MjY1OV5BMl5BanBnXkFtZTYwMTkyNjc3._V1_SX250.jpg"
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTYzNjU4NTc5MV5BMl5BanBnXkFtZTcwNDE0NzAzOA@@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BMTYzNjU4NTc5MV5BMl5BanBnXkFtZTcwNDE0NzAzOA@@._V1_SX250.jpg"
   },
   {
     "id": "bab1e64d42dfc043adc0f4b23614b664",
