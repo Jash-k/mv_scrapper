@@ -3519,7 +3519,20 @@
       "Telugu",
       "Hindi",
       "Multi-Lang"
-    ]
+    ],
+    "imdbId": "tt1156466",
+    "name": "Undisputed 3: Redemption",
+    "year": "2010",
+    "poster": "https://images.metahub.space/poster/small/tt1156466/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt1156466/img",
+    "genres": [
+      "Action",
+      "Crime",
+      "Drama",
+      "Sport"
+    ],
+    "description": "Boyka is back. This time he is fighting in the first ever inter-prison tournament with one knee.",
+    "imdbRating": "7.4"
   },
   {
     "id": "d4edf3677d3e574bc83bdb38d6065fa2",
@@ -3560,7 +3573,12 @@
       "Tamil",
       "Hindi",
       "Multi-Lang"
-    ]
+    ],
+    "imdbId": "tt2371486",
+    "name": "A Company Man",
+    "year": 2012,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTk4MDM5NTA0MV5BMl5BanBnXkFtZTgwNzU2NjI2MDE@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BMTk4MDM5NTA0MV5BMl5BanBnXkFtZTgwNzU2NjI2MDE@._V1_SX250.jpg"
   },
   {
     "id": "59dfaa0cde4d9eef163663122e39b42c",
@@ -4011,7 +4029,12 @@
       "Kannada",
       "Hindi",
       "Multi-Lang"
-    ]
+    ],
+    "imdbId": "tt38286171",
+    "name": "Unmadham",
+    "year": 2026,
+    "poster": "https://m.media-amazon.com/images/M/MV5BYWYyMWY4ZmEtNjI4Ny00Mjg0LWJlNGYtN2JhNzdmZWY0ZjUxXkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BYWYyMWY4ZmEtNjI4Ny00Mjg0LWJlNGYtN2JhNzdmZWY0ZjUxXkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "0a82f93eb9244a1ecaf96222bcfafc40",
@@ -4420,7 +4443,17 @@
       "Telugu",
       "Hindi",
       "Multi-Lang"
-    ]
+    ],
+    "imdbId": "tt33354945",
+    "name": "Gandhari",
+    "year": "2025",
+    "poster": "https://images.metahub.space/poster/small/tt33354945/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt33354945/img",
+    "genres": [
+      "Action",
+      "Thriller"
+    ],
+    "description": "Follows a mother's relentless pursuit to find and rescue her kidnapped daughter, exploring themes of revenge and redemption amidst her harrowing journey."
   },
   {
     "id": "0af1eb22731df625fd13df2b680d3a06",
@@ -11362,7 +11395,12 @@
       "Telugu",
       "Hindi",
       "Multi-Lang"
-    ]
+    ],
+    "imdbId": "tt1800302",
+    "name": "Gold",
+    "year": 2022,
+    "poster": "https://m.media-amazon.com/images/M/MV5BNzI1NjI5OTUyM15BMl5BanBnXkFtZTgwOTM4NzY2MDI@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BNzI1NjI5OTUyM15BMl5BanBnXkFtZTgwOTM4NzY2MDI@._V1_SX250.jpg"
   },
   {
     "id": "638cfaa36eb2ea3a8dd1e8fe7af23786",
@@ -11407,11 +11445,11 @@
       "Hindi",
       "Multi-Lang"
     ],
-    "imdbId": "tt2461132",
+    "imdbId": "tt0069815",
     "name": "Happy New Year",
     "year": 1987,
-    "poster": "https://m.media-amazon.com/images/M/MV5BYjc3MjY0NzctMGYwNy00ZGYyLThiOTctMjI1MWRkNmU3ZWNiXkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BYjc3MjY0NzctMGYwNy00ZGYyLThiOTctMjI1MWRkNmU3ZWNiXkEyXkFqcGc@._V1_SX250.jpg"
+    "poster": "https://m.media-amazon.com/images/M/MV5BMWYwMjRlMDctYmFlOC00MjIwLTg4OTMtZGQ5N2E1MWJkYzllXkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BMWYwMjRlMDctYmFlOC00MjIwLTg4OTMtZGQ5N2E1MWJkYzllXkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "3ece34ce58c65c1a88bb3898238d3004",
@@ -13636,12 +13674,7 @@
       "Telugu",
       "Kannada",
       "Multi-Lang"
-    ],
-    "imdbId": "tt35254624",
-    "name": "Balan: The Boy",
-    "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BMTQ5OThmM2MtYzRhNC00ODM4LTg3YWItNTE5YmViZjk2MGNiXkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BMTQ5OThmM2MtYzRhNC00ODM4LTg3YWItNTE5YmViZjk2MGNiXkEyXkFqcGc@._V1_SX250.jpg"
+    ]
   },
   {
     "id": "b98575ebb21be9807358442af830cf45",
@@ -13743,12 +13776,7 @@
     "languages": [
       "Tamil",
       "Telugu"
-    ],
-    "imdbId": "tt40572470",
-    "name": "Deewana",
-    "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BZmNmNzdmMzMtOTlkOS00N2VhLWE5YTEtODYwNDc3MWNhYmUyXkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BZmNmNzdmMzMtOTlkOS00N2VhLWE5YTEtODYwNDc3MWNhYmUyXkEyXkFqcGc@._V1_SX250.jpg"
+    ]
   },
   {
     "id": "a6c46a3f74d677d85866ca2b65b45c10",
@@ -14431,12 +14459,7 @@
       "Telugu",
       "Malayalam",
       "Kannada"
-    ],
-    "imdbId": "tt23865918",
-    "name": "Peddi",
-    "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BY2U5MzM2MDAtNjIxZC00Yzk5LWFiZjctNjllN2IyMzI2NTc0XkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BY2U5MzM2MDAtNjIxZC00Yzk5LWFiZjctNjllN2IyMzI2NTc0XkEyXkFqcGc@._V1_SX250.jpg"
+    ]
   },
   {
     "id": "fd0a221ff51eeecc11d6e59392d2a550",
@@ -15426,7 +15449,18 @@
       "Tamil",
       "Hindi",
       "Multi-Lang"
-    ]
+    ],
+    "imdbId": "tt3614516",
+    "name": "Ankhon Dekhi",
+    "year": "2013",
+    "poster": "https://images.metahub.space/poster/small/tt3614516/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt3614516/img",
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "description": "After a distressing incident, a Delhi man vows to believe only what he can see, but his new ideals soon take his life in extreme directions.",
+    "imdbRating": "7.9"
   },
   {
     "id": "96dd1e8efb081065eac6d45cc7df2749",
@@ -19006,12 +19040,7 @@
       "Telugu",
       "Hindi",
       "Multi-Lang"
-    ],
-    "imdbId": "tt43663295",
-    "name": "Mukhbir: The Story of a Spy - The Movie",
-    "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BYzk2YWNkNjItZjk3My00MWU4LThlZTMtNjk1NmU2NDdmYzQ2XkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BYzk2YWNkNjItZjk3My00MWU4LThlZTMtNjk1NmU2NDdmYzQ2XkEyXkFqcGc@._V1_SX250.jpg"
+    ]
   },
   {
     "id": "2b42cf2c931cf5edba4e3e69edf250c5",
@@ -19475,12 +19504,7 @@
     "rawText": "Maruvasham (2026) Malayalam HD + ESub - [1080p & 720p - AVC - (DD+5.1 - 384Kbps) - 2.9GB + Rips]",
     "languages": [
       "Malayalam"
-    ],
-    "imdbId": "tt35871288",
-    "name": "Maruvasham",
-    "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BMWJhY2JhYTEtOGE4YS00ZWJkLThiZjctMmQzODczODBiNzdjXkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BMWJhY2JhYTEtOGE4YS00ZWJkLThiZjctMmQzODczODBiNzdjXkEyXkFqcGc@._V1_SX250.jpg"
+    ]
   },
   {
     "id": "1d79f22c33914af7a6f34866b570372b",
