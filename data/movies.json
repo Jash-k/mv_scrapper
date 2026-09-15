@@ -9018,12 +9018,7 @@
       "Telugu",
       "Hindi",
       "Multi-Lang"
-    ],
-    "imdbId": "tt1219827",
-    "name": "Ghost in the Shell",
-    "year": 2017,
-    "poster": "https://m.media-amazon.com/images/M/MV5BNzBkNjdjZTctNjdhOS00NmIyLTlkNjQtY2EwNGMwYmZjNTIxXkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BNzBkNjdjZTctNjdhOS00NmIyLTlkNjQtY2EwNGMwYmZjNTIxXkEyXkFqcGc@._V1_SX250.jpg"
+    ]
   },
   {
     "id": "fa4b9bc994425bbfb271ed03cae97df2",
@@ -11395,7 +11390,12 @@
       "Telugu",
       "Hindi",
       "Multi-Lang"
-    ]
+    ],
+    "imdbId": "tt1800302",
+    "name": "Gold",
+    "year": 2022,
+    "poster": "https://m.media-amazon.com/images/M/MV5BNzI1NjI5OTUyM15BMl5BanBnXkFtZTgwOTM4NzY2MDI@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BNzI1NjI5OTUyM15BMl5BanBnXkFtZTgwOTM4NzY2MDI@._V1_SX250.jpg"
   },
   {
     "id": "638cfaa36eb2ea3a8dd1e8fe7af23786",
@@ -11440,11 +11440,11 @@
       "Hindi",
       "Multi-Lang"
     ],
-    "imdbId": "tt2461132",
+    "imdbId": "tt0069815",
     "name": "Happy New Year",
     "year": 1987,
-    "poster": "https://m.media-amazon.com/images/M/MV5BYjc3MjY0NzctMGYwNy00ZGYyLThiOTctMjI1MWRkNmU3ZWNiXkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BYjc3MjY0NzctMGYwNy00ZGYyLThiOTctMjI1MWRkNmU3ZWNiXkEyXkFqcGc@._V1_SX250.jpg"
+    "poster": "https://m.media-amazon.com/images/M/MV5BMWYwMjRlMDctYmFlOC00MjIwLTg4OTMtZGQ5N2E1MWJkYzllXkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BMWYwMjRlMDctYmFlOC00MjIwLTg4OTMtZGQ5N2E1MWJkYzllXkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "3ece34ce58c65c1a88bb3898238d3004",
