@@ -7204,7 +7204,12 @@
     "languages": [
       "Tamil",
       "Telugu"
-    ]
+    ],
+    "imdbId": "tt39108319",
+    "name": "Irumudi",
+    "year": 2026,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjZlMDBhYzktYTY4OS00ZGU3LWEwNzQtOTBiY2M0MTVjMmIyXkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BMjZlMDBhYzktYTY4OS00ZGU3LWEwNzQtOTBiY2M0MTVjMmIyXkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "9e2e6c53396c1d66724bd6c1ddb316ce",
@@ -16543,7 +16548,12 @@
       "Telugu",
       "Hindi",
       "Multi-Lang"
-    ]
+    ],
+    "imdbId": "tt3470600",
+    "name": "Sing",
+    "year": 1989,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTYzODYzODU2Ml5BMl5BanBnXkFtZTgwNTc1MTA2NzE@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BMTYzODYzODU2Ml5BMl5BanBnXkFtZTgwNTc1MTA2NzE@._V1_SX250.jpg"
   },
   {
     "id": "459ba9c9b017b07497b75cf037068ab2",
