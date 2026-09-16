@@ -2890,7 +2890,12 @@
       "Kannada",
       "Hindi",
       "Multi-Lang"
-    ]
+    ],
+    "imdbId": "tt36073210",
+    "name": "Drawn Together",
+    "year": 2026,
+    "poster": "https://m.media-amazon.com/images/M/MV5BYjdkMTRlZGItNDdkMS00NDIwLTkyYzktNDNiYjYwNjdkMzEyXkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BYjdkMTRlZGItNDdkMS00NDIwLTkyYzktNDNiYjYwNjdkMzEyXkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "3878562fb4015855685640a075f9bb9d",
@@ -7114,7 +7119,12 @@
       "Telugu",
       "Hindi",
       "Multi-Lang"
-    ]
+    ],
+    "imdbId": "tt14895216",
+    "name": "Ghost Mansion",
+    "year": 2021,
+    "poster": "https://m.media-amazon.com/images/M/MV5BN2ExZGI4MTYtMDcwNi00ZTRlLWIyMDktZDc4NDFhOTdkNzFmXkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BN2ExZGI4MTYtMDcwNi00ZTRlLWIyMDktZDc4NDFhOTdkNzFmXkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "35aad325755f013c6825bd9493394d40",
@@ -9147,7 +9157,12 @@
       "Telugu",
       "Hindi",
       "Multi-Lang"
-    ]
+    ],
+    "imdbId": "tt1219827",
+    "name": "Ghost in the Shell",
+    "year": 2017,
+    "poster": "https://m.media-amazon.com/images/M/MV5BNzBkNjdjZTctNjdhOS00NmIyLTlkNjQtY2EwNGMwYmZjNTIxXkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BNzBkNjdjZTctNjdhOS00NmIyLTlkNjQtY2EwNGMwYmZjNTIxXkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "fa4b9bc994425bbfb271ed03cae97df2",
@@ -9651,7 +9666,18 @@
       "Telugu",
       "Hindi",
       "Multi-Lang"
-    ]
+    ],
+    "imdbId": "tt21955196",
+    "name": "Stolen",
+    "year": "2024",
+    "poster": "https://images.metahub.space/poster/small/tt21955196/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt21955196/img",
+    "genres": [
+      "Drama",
+      "Thriller"
+    ],
+    "description": "A young woman's struggle to defend her indigenous heritage in a world where xenophobia is on the rise, climate change is threatening reindeer herding, and young people choose suicide in the face of collective desperation.",
+    "imdbRating": "5.7"
   },
   {
     "id": "58e9d246ab5b1120a0e749cdbb93ab8f",
