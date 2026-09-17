@@ -3279,7 +3279,12 @@
       "Telugu",
       "Hindi",
       "Multi-Lang"
-    ]
+    ],
+    "imdbId": "tt30691214",
+    "name": "Forbidden Fruits",
+    "year": 1932,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMDA1MDRhOTAtMmFjNi00MmUwLWI4MjYtY2ExN2U0YmYwMmQwXkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BMDA1MDRhOTAtMmFjNi00MmUwLWI4MjYtY2ExN2U0YmYwMmQwXkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "c4f3e9906ba378e2e4fffcc735b342ab",
@@ -7495,7 +7500,7 @@
       "Tamil"
     ],
     "imdbId": "tt39073377",
-    "name": "Ram in Leela",
+    "name": "Ram and Leela",
     "year": 2026,
     "poster": "https://m.media-amazon.com/images/M/MV5BZTJkZmQxYWUtMTIzNS00OTQzLTg3N2EtOTA2NmMwODhjNTQ5XkEyXkFqcGc@._V1_SX250.jpg",
     "thumbnail": "https://m.media-amazon.com/images/M/MV5BZTJkZmQxYWUtMTIzNS00OTQzLTg3N2EtOTA2NmMwODhjNTQ5XkEyXkFqcGc@._V1_SX250.jpg"
@@ -8089,7 +8094,12 @@
     "rawText": "Sweety Naughty Crazy (2026) Tamil UHD + ESub - [4K, 1080p & 720p - AVC - (DD+5.1 - 192Kbps) - 5GB + Rips] - [W]",
     "languages": [
       "Tamil"
-    ]
+    ],
+    "imdbId": "tt39398861",
+    "name": "Sweety Naughty Crazy",
+    "year": 2026,
+    "poster": "https://m.media-amazon.com/images/M/MV5BNjI1ODkwNGUtMzRhNS00NzRmLWIzZTQtNTM2NjRiMjA1Y2IyXkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BNjI1ODkwNGUtMzRhNS00NzRmLWIzZTQtNTM2NjRiMjA1Y2IyXkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "1645c0156b34eb943fa0c0433f8ca86f",
@@ -19805,6 +19815,11 @@
     "rawText": "Maruvasham (2026) Malayalam HD + ESub - [1080p & 720p - AVC - (DD+5.1 - 384Kbps) - 2.9GB + Rips]",
     "languages": [
       "Malayalam"
-    ]
+    ],
+    "imdbId": "tt35871288",
+    "name": "Maruvasham",
+    "year": 2026,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMWJhY2JhYTEtOGE4YS00ZWJkLThiZjctMmQzODczODBiNzdjXkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BMWJhY2JhYTEtOGE4YS00ZWJkLThiZjctMmQzODczODBiNzdjXkEyXkFqcGc@._V1_SX250.jpg"
   }
 ]
