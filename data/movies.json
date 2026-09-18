@@ -1649,12 +1649,7 @@
     "rawText": "Heer Sara (2026) Hindi HD + ESub - [1080p & 720p - AVC - (DD+5.1 - 640Kbps) - 2.2GB + Rips]",
     "languages": [
       "Hindi"
-    ],
-    "imdbId": "tt40744412",
-    "name": "Heer Sara",
-    "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BYWIwYjI1ZDgtMDM2Yi00ODI0LWI1MmUtYzQ4NDA4YTE3Yjk2XkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BYWIwYjI1ZDgtMDM2Yi00ODI0LWI1MmUtYzQ4NDA4YTE3Yjk2XkEyXkFqcGc@._V1_SX250.jpg"
+    ]
   },
   {
     "id": "8beb0f8e7744dbc33483c3e509bd935e",
@@ -4555,10 +4550,15 @@
     ],
     "imdbId": "tt28096092",
     "name": "Transmorphers: Mech Beasts",
-    "year": 2023,
-    "poster": "https://image.tmdb.org/t/p/w500/oqhaffnQqSzdLrYAQA5W4IdAoCX.jpg",
-    "thumbnail": "https://image.tmdb.org/t/p/w500/oqhaffnQqSzdLrYAQA5W4IdAoCX.jpg",
-    "description": "20 years after the events of Transmorphers, a newer, more advanced species of alien robot descends on a rebuilt Earth, threatening once again to destroy the planet."
+    "year": "2023",
+    "poster": "https://images.metahub.space/poster/small/tt28096092/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt28096092/img",
+    "genres": [
+      "Action",
+      "Sci-Fi"
+    ],
+    "description": "20 years after the events of TRANSMORPHERS, a newer, more advanced species of alien robot descends on a rebuilt Earth, threatening once again to destroy the planet.",
+    "imdbRating": "2.3"
   },
   {
     "id": "bc4ef6877e320af868700f694a4f5587",
