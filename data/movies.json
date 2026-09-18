@@ -275,7 +275,12 @@
       "Malayalam",
       "Kannada",
       "Multi-Lang"
-    ]
+    ],
+    "imdbId": "tt39073377",
+    "name": "Ram and Leela",
+    "year": 2026,
+    "poster": "https://m.media-amazon.com/images/M/MV5BZTJkZmQxYWUtMTIzNS00OTQzLTg3N2EtOTA2NmMwODhjNTQ5XkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BZTJkZmQxYWUtMTIzNS00OTQzLTg3N2EtOTA2NmMwODhjNTQ5XkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "35aad325755f013c6825bd9493394d40",
@@ -486,7 +491,12 @@
       "Kannada",
       "Hindi",
       "Multi-Lang"
-    ]
+    ],
+    "imdbId": "tt39108319",
+    "name": "Irumudi",
+    "year": 2026,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjZlMDBhYzktYTY4OS00ZGU3LWEwNzQtOTBiY2M0MTVjMmIyXkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BMjZlMDBhYzktYTY4OS00ZGU3LWEwNzQtOTBiY2M0MTVjMmIyXkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "ef4c78ac1c44300918f82589a8c15ee0",
@@ -1688,7 +1698,12 @@
     "rawText": "Heer Sara (2026) Hindi HD + ESub - [1080p & 720p - AVC - (DD+5.1 - 640Kbps) - 2.2GB + Rips]",
     "languages": [
       "Hindi"
-    ]
+    ],
+    "imdbId": "tt40744412",
+    "name": "Heer Sara",
+    "year": 2026,
+    "poster": "https://m.media-amazon.com/images/M/MV5BYWIwYjI1ZDgtMDM2Yi00ODI0LWI1MmUtYzQ4NDA4YTE3Yjk2XkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BYWIwYjI1ZDgtMDM2Yi00ODI0LWI1MmUtYzQ4NDA4YTE3Yjk2XkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "8beb0f8e7744dbc33483c3e509bd935e",
@@ -3481,7 +3496,12 @@
     "rawText": "Vengeance (2026) Tamil HD + ESub - [4K, 1080p & 720p - AVC / HEVC - (DD+5.1 - 192Kbps) - 4.4GB + Rips]",
     "languages": [
       "Tamil"
-    ]
+    ],
+    "imdbId": "tt11976532",
+    "name": "Vengeance",
+    "year": 2026,
+    "poster": "https://m.media-amazon.com/images/M/MV5BYmI2MmZlNTctYjIyMy00N2MxLTllZWQtNmEyOGZhMGQ3NThiXkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BYmI2MmZlNTctYjIyMy00N2MxLTllZWQtNmEyOGZhMGQ3NThiXkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "afa28110a7a2cd0bef854557946bfadf",
@@ -4584,15 +4604,10 @@
     ],
     "imdbId": "tt28096092",
     "name": "Transmorphers: Mech Beasts",
-    "year": "2023",
-    "poster": "https://images.metahub.space/poster/small/tt28096092/img",
-    "thumbnail": "https://images.metahub.space/poster/small/tt28096092/img",
-    "genres": [
-      "Action",
-      "Sci-Fi"
-    ],
-    "description": "20 years after the events of TRANSMORPHERS, a newer, more advanced species of alien robot descends on a rebuilt Earth, threatening once again to destroy the planet.",
-    "imdbRating": "2.3"
+    "year": 2023,
+    "poster": "https://image.tmdb.org/t/p/w500/oqhaffnQqSzdLrYAQA5W4IdAoCX.jpg",
+    "thumbnail": "https://image.tmdb.org/t/p/w500/oqhaffnQqSzdLrYAQA5W4IdAoCX.jpg",
+    "description": "20 years after the events of Transmorphers, a newer, more advanced species of alien robot descends on a rebuilt Earth, threatening once again to destroy the planet."
   },
   {
     "id": "bc4ef6877e320af868700f694a4f5587",
