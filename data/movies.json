@@ -1921,12 +1921,7 @@
       "Telugu",
       "Hindi",
       "Multi-Lang"
-    ],
-    "imdbId": "tt32321803",
-    "name": "The Get Out",
-    "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BZjhkMzcyMDktNjY0ZC00NjQxLTgyMjYtMTA1ODE4OGVkMDk1XkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BZjhkMzcyMDktNjY0ZC00NjQxLTgyMjYtMTA1ODE4OGVkMDk1XkEyXkFqcGc@._V1_SX250.jpg"
+    ]
   },
   {
     "id": "abd465397ae4d2d7a76805b4e4d1d235",
@@ -2019,12 +2014,7 @@
       "Telugu",
       "Hindi",
       "Multi-Lang"
-    ],
-    "imdbId": "tt0103855",
-    "name": "The Bodyguard",
-    "year": 2024,
-    "poster": "https://m.media-amazon.com/images/M/MV5BNTM4ZWNjZmItMmUxNy00Y2M2LTlhZmItMjc0NjQzZmNiOWY5XkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BNTM4ZWNjZmItMmUxNy00Y2M2LTlhZmItMjc0NjQzZmNiOWY5XkEyXkFqcGc@._V1_SX250.jpg"
+    ]
   },
   {
     "id": "62483b0d475d2c2febba62d838137f73",
@@ -2138,7 +2128,20 @@
       "Telugu",
       "Hindi",
       "Multi-Lang"
-    ]
+    ],
+    "imdbId": "tt0443676",
+    "name": "Undisputed 2: Last Man Standing",
+    "year": "2006",
+    "poster": "https://images.metahub.space/poster/small/tt0443676/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt0443676/img",
+    "genres": [
+      "Action",
+      "Crime",
+      "Drama",
+      "Sport"
+    ],
+    "description": "Sequel to the 2002 film. This time, Heavyweight Champ George \"Iceman\" Chambers is sent to a Russian Jail on trumped-up drug charges.",
+    "imdbRating": "7.1"
   },
   {
     "id": "3f755c5a04d75109d91cc73cddea114e",
@@ -2606,12 +2609,7 @@
     "languages": [
       "Tamil",
       "Telugu"
-    ],
-    "imdbId": "tt28541577",
-    "name": "Sardar 2",
-    "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BNTMzNjZkODEtNjRiMS00MjFiLWE0YWYtOGQ5ZGVlODQ1NDVmXkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BNTMzNjZkODEtNjRiMS00MjFiLWE0YWYtOGQ5ZGVlODQ1NDVmXkEyXkFqcGc@._V1_SX250.jpg"
+    ]
   },
   {
     "id": "1e49bfd9e3a59f3ab735ebf8812de407",
@@ -3238,12 +3236,7 @@
     "rawText": "Matchstick Men (2003) (BluRay + Org Auds) - [1080p & 720p - x264 - (Tamil + Eng) - 2GB + Rips]",
     "languages": [
       "Tamil"
-    ],
-    "imdbId": "tt0325805",
-    "name": "Matchstick Men",
-    "year": 2003,
-    "poster": "https://m.media-amazon.com/images/M/MV5BMjA3NjMyNjIyMF5BMl5BanBnXkFtZTYwOTgzMDI3._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BMjA3NjMyNjIyMF5BMl5BanBnXkFtZTYwOTgzMDI3._V1_SX250.jpg"
+    ]
   },
   {
     "id": "f3fb46e73174783e272f83347bb63ec5",
@@ -8246,12 +8239,7 @@
     "rawText": "Alpha (2026) Hindi HD + ESub - [1080p & 720p - AVC - (DD+5.1 - 640Kbps) - 5.5GB + Rips]",
     "languages": [
       "Hindi"
-    ],
-    "imdbId": "tt28363783",
-    "name": "Alpha",
-    "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BOGQ1NzJlYzQtOTA0Yy00N2RiLTlkY2UtZWJlNzlmMzFmZjk0XkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BOGQ1NzJlYzQtOTA0Yy00N2RiLTlkY2UtZWJlNzlmMzFmZjk0XkEyXkFqcGc@._V1_SX250.jpg"
+    ]
   },
   {
     "id": "93d7c1868a81be1beacdd64907a736d4",
@@ -19699,19 +19687,7 @@
     "rawText": "Attack on Titan (2022) (BluRay + Org Auds) - [1080p & 720p - x264 - (Tamil + Eng) - 1.7GB + Rips]",
     "languages": [
       "Tamil"
-    ],
-    "imdbId": "tt33175825",
-    "name": "Attack on Titan the Movie: The Last Attack",
-    "year": "2024",
-    "poster": "https://images.metahub.space/poster/small/tt33175825/img",
-    "thumbnail": "https://images.metahub.space/poster/small/tt33175825/img",
-    "genres": [
-      "Animation",
-      "Action",
-      "Adventure"
-    ],
-    "description": "The fate of the world hangs in the balance as Eren unleashes the ultimate power of the Titans. With a burning determination to eliminate all who threaten Eldia, he leads an unstoppable army of Colossal Titans towards Marley.",
-    "imdbRating": "9.2"
+    ]
   },
   {
     "id": "8ecaa41595a738793c1f1c8a11af5a00",
