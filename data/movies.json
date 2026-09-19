@@ -1839,7 +1839,12 @@
     "rawText": "Photographer (2026) Tamil HD + ESub - [1080p & 720p - AVC - (DD+5.1 - 640Kbps) - 6GB + Rips]",
     "languages": [
       "Tamil"
-    ]
+    ],
+    "imdbId": "tt43727339",
+    "name": "Photographer",
+    "year": 2026,
+    "poster": "https://m.media-amazon.com/images/M/MV5BN2UzMWExOWYtZjE2My00MDVkLWE5ZGUtY2JjYjc3MzdkNjI2XkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BN2UzMWExOWYtZjE2My00MDVkLWE5ZGUtY2JjYjc3MzdkNjI2XkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "fa0c602dffcdae7e5c32eda345f2b2c5",
@@ -3168,7 +3173,12 @@
     "rawText": "The End Of Oak Street (2026) HQ HDRip (HQ Clean) + ESub - [1080p & 720p - [Tamil + Eng] - x264 - 2GB + Rips]",
     "languages": [
       "Tamil"
-    ]
+    ],
+    "imdbId": "tt27165187",
+    "name": "The End of Oak Street",
+    "year": 2026,
+    "poster": "https://m.media-amazon.com/images/M/MV5BZDQ1MDhmZWQtNjdhOS00MGE0LTkxMTItN2Q4NjIyYzUzZmRlXkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BZDQ1MDhmZWQtNjdhOS00MGE0LTkxMTItN2Q4NjIyYzUzZmRlXkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "7bfcbdd9514e4e74f8ca55255012541c",
@@ -5509,12 +5519,7 @@
     "rawText": "Moana (2026) English HD + ESub - [1080p & 720p - AVC - (DD+5.1 - 640Kbps) - 2.2GB + Rips]",
     "languages": [
       "Tamil"
-    ],
-    "imdbId": "tt27419466",
-    "name": "Moana",
-    "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BMTQ1OTQ2Y2UtMzllNS00ODFiLWFkNGItNGRjOWRlMjIwNTRlXkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BMTQ1OTQ2Y2UtMzllNS00ODFiLWFkNGItNGRjOWRlMjIwNTRlXkEyXkFqcGc@._V1_SX250.jpg"
+    ]
   },
   {
     "id": "7f002f77a49c81c741dd5a2b4f67afb4",
@@ -6646,7 +6651,12 @@
       "Kannada",
       "Hindi",
       "Multi-Lang"
-    ]
+    ],
+    "imdbId": "tt34564059",
+    "name": "The Runner",
+    "year": 2026,
+    "poster": "https://m.media-amazon.com/images/M/MV5BYzgzYzVhY2QtNjIzNi00Zjk5LWE1ZmQtYmJkNGY3YmExNDdlXkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BYzgzYzVhY2QtNjIzNi00Zjk5LWE1ZmQtYmJkNGY3YmExNDdlXkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "c358c5ea53ed0bb622382c47e0061c95",
@@ -7611,7 +7621,12 @@
       "Tamil",
       "Hindi",
       "Multi-Lang"
-    ]
+    ],
+    "imdbId": "tt26658360",
+    "name": "DC Down",
+    "year": 2023,
+    "poster": "https://m.media-amazon.com/images/M/MV5BZmU0YWE2ODctZjAzMC00NzUzLTgwZWMtMDE3ZjU2NjRkYzM4XkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BZmU0YWE2ODctZjAzMC00NzUzLTgwZWMtMDE3ZjU2NjRkYzM4XkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "4789a72364c302c07c38c91a6631f5b8",
@@ -10160,7 +10175,12 @@
     "rawText": "Mother (2026) Tamil HD + ESub - [1080p & 720p - AVC - (DD+5.1 - 192Kbps) - 2.2GB + Rips] - [W]",
     "languages": [
       "Tamil"
-    ]
+    ],
+    "imdbId": "tt27200708",
+    "name": "Mother Mary",
+    "year": 2026,
+    "poster": "https://m.media-amazon.com/images/M/MV5BZWM0NTIzMWEtOWU1ZC00OTEyLThmNTItYjM1N2Y1MDllMGYzXkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BZWM0NTIzMWEtOWU1ZC00OTEyLThmNTItYjM1N2Y1MDllMGYzXkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "a4aac7d8bc34909c2c1793389d80111a",
@@ -11188,7 +11208,19 @@
       "Telugu",
       "Hindi",
       "Multi-Lang"
-    ]
+    ],
+    "imdbId": "tt1591095",
+    "name": "Insidious",
+    "year": "2011",
+    "poster": "https://images.metahub.space/poster/small/tt1591095/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt1591095/img",
+    "genres": [
+      "Horror",
+      "Mystery",
+      "Thriller"
+    ],
+    "description": "A family looks to prevent evil spirits from trapping their comatose child in a realm called The Further.",
+    "imdbRating": "6.8"
   },
   {
     "id": "3cc605a7b5dfa6a93f6c448cce43f6b9",
@@ -11404,7 +11436,18 @@
       "Tamil",
       "Hindi",
       "Multi-Lang"
-    ]
+    ],
+    "imdbId": "tt0462023",
+    "name": "Romulus, My Father",
+    "year": "2007",
+    "poster": "https://images.metahub.space/poster/small/tt0462023/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt0462023/img",
+    "genres": [
+      "Biography",
+      "Drama"
+    ],
+    "description": "It tells the story of Romulus, his beautiful wife, Christina, and their struggle in the face of great adversity to bring up their son, Raimond. It is a story of impossible love that ultimately celebrates the unbreakable bond betwe...",
+    "imdbRating": "6.6"
   },
   {
     "id": "1c70adba93dbff83c67f1754ea228b96",
@@ -12660,7 +12703,12 @@
     "rawText": "Cocktail 2 (2026) Hindi HD + ESub - [1080p & 720p - AVC - (DD+5.1 - 640Kbps) - 3.3GB + Rips]",
     "languages": [
       "Hindi"
-    ]
+    ],
+    "imdbId": "tt35064672",
+    "name": "Cocktail 2",
+    "year": 2026,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjE4ZDFiMjctZTk0Yy00Mzk0LWIzMzItZmRjZTM0YzBjYmRiXkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BMjE4ZDFiMjctZTk0Yy00Mzk0LWIzMzItZmRjZTM0YzBjYmRiXkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "4cc2e20c6c4eeabd6d45862e28a97d42",
@@ -17422,7 +17470,12 @@
     "rawText": "Ego Raman (2026) Tamil HD + ESub - [1080p & 720p - AVC / HEVC - (DD+5.1 - 640Kbps) - 4.9GB + Rips] - [W]",
     "languages": [
       "Tamil"
-    ]
+    ],
+    "imdbId": "tt43202886",
+    "name": "Ego Raman",
+    "year": 2026,
+    "poster": "https://m.media-amazon.com/images/M/MV5BOTVhMGIwY2EtNzlhOS00ZDQ3LTliOWItYjg5OTQ0ZTNhZDViXkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BOTVhMGIwY2EtNzlhOS00ZDQ3LTliOWItYjg5OTQ0ZTNhZDViXkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "3d4641fd0bfdeee21b865c7e7d0f95e9",
@@ -17661,7 +17714,19 @@
       "Telugu",
       "Hindi",
       "Multi-Lang"
-    ]
+    ],
+    "imdbId": "tt34471850",
+    "name": "Protector",
+    "year": "2026",
+    "poster": "https://images.metahub.space/poster/small/tt34471850/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt34471850/img",
+    "genres": [
+      "Action",
+      "Crime",
+      "Drama"
+    ],
+    "description": "Former war hero Nikki's peaceful life is shattered when her daughter is kidnapped. Thrust into the criminal underworld while hunted by cops and military, she must fight to rescue her child.",
+    "imdbRating": "5.3"
   },
   {
     "id": "1ae57f0cd26497d36dc748817c69a251",
@@ -18200,7 +18265,12 @@
     "rawText": "Sannidhanam P.O. (2026) Tamil HD + ESub - [1080p & 720p - AVC / HEVC - (DD+5.1 - 640Kbps) - 4.6GB + Rips] - [W]",
     "languages": [
       "Tamil"
-    ]
+    ],
+    "imdbId": "tt29429839",
+    "name": "Sannidhanam P.O.",
+    "year": 2026,
+    "poster": "https://m.media-amazon.com/images/M/MV5BZjRlMTY2NzktZTM2Yi00MDVkLWJiMjQtMDM5YWNhYTE2ZTY2XkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BZjRlMTY2NzktZTM2Yi00MDVkLWJiMjQtMDM5YWNhYTE2ZTY2XkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "ce16434fe3e50344f7a5be87f415d773",
@@ -18517,7 +18587,18 @@
       "Tamil",
       "Hindi",
       "Multi-Lang"
-    ]
+    ],
+    "imdbId": "tt7181546",
+    "name": "Ballerina",
+    "year": "2025",
+    "poster": "https://images.metahub.space/poster/small/tt7181546/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt7181546/img",
+    "genres": [
+      "Action",
+      "Thriller"
+    ],
+    "description": "An assassin trained in the traditions of the Ruska Roma organization sets out to seek revenge after her father's death.",
+    "imdbRating": "6.8"
   },
   {
     "id": "61d6eb958d141e05b0d86f07939ef8be",
@@ -18957,7 +19038,19 @@
     "rawText": "The Devil (2025) Kannada UHD + ESub - [4K, 1080p & 720p - AVC - (DD+5.1 ATMOS - 448Kbps) - 7.8GB + Rips] - [W]",
     "languages": [
       "Kannada"
-    ]
+    ],
+    "imdbId": "tt29141112",
+    "name": "The Devil's Bath",
+    "year": "2024",
+    "poster": "https://images.metahub.space/poster/small/tt29141112/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt29141112/img",
+    "genres": [
+      "Drama",
+      "History",
+      "Horror"
+    ],
+    "description": "Austria in the 18th century. Forests surround villages. Killing a baby gets a woman sentenced to death. Agnes readies for married life with her beloved. But her mind and heart grow heavy. A gloomy path alone, evil thoughts arising.",
+    "imdbRating": "6.6"
   },
   {
     "id": "e88aba8b42191fbfd11e790751fd6951",
@@ -19065,7 +19158,12 @@
     "rawText": "Transfer Trimurthulu (2025) Telugu HD + ESub - [1080p & 720p - AVC / HEVC - (DD+5.1 - 192Kbps) - 2.8GB + Rips]",
     "languages": [
       "Telugu"
-    ]
+    ],
+    "imdbId": "tt42932774",
+    "name": "Transfer Trimurthulu",
+    "year": 2025,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMDkyODRjYjAtNWQ0Yy00MTRjLTk3ZmYtODA4ZGE3ZWI3MmEyXkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BMDkyODRjYjAtNWQ0Yy00MTRjLTk3ZmYtODA4ZGE3ZWI3MmEyXkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "fa3434b961a1a852980f1c6bc4b1413f",
@@ -20125,6 +20223,11 @@
       "Telugu",
       "Hindi",
       "Multi-Lang"
-    ]
+    ],
+    "imdbId": "tt0104225",
+    "name": "Falling from Grace",
+    "year": 1992,
+    "poster": "https://m.media-amazon.com/images/M/MV5BNDY2ZTY0MDEtMTczMS00ZTAwLTliOTgtZDMyM2NjNjAwMDk2XkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BNDY2ZTY0MDEtMTczMS00ZTAwLTliOTgtZDMyM2NjNjAwMDk2XkEyXkFqcGc@._V1_SX250.jpg"
   }
 ]
