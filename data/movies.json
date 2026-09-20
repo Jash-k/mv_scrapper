@@ -13508,7 +13508,12 @@
       "Tamil",
       "Hindi",
       "Multi-Lang"
-    ]
+    ],
+    "imdbId": "tt29794968",
+    "name": "Planetquake",
+    "year": 2024,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMzc5OTQwZjEtNDc5OC00YmZmLWJlNzQtM2FmNWY0Njg4OTUxXkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BMzc5OTQwZjEtNDc5OC00YmZmLWJlNzQtM2FmNWY0Njg4OTUxXkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "eecd4f37aac24cd6fdf0138bf4c91575",
@@ -17178,7 +17183,18 @@
       "Tamil",
       "Hindi",
       "Multi-Lang"
-    ]
+    ],
+    "imdbId": "tt3614516",
+    "name": "Ankhon Dekhi",
+    "year": "2013",
+    "poster": "https://images.metahub.space/poster/small/tt3614516/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt3614516/img",
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "description": "After a distressing incident, a Delhi man vows to believe only what he can see, but his new ideals soon take his life in extreme directions.",
+    "imdbRating": "7.9"
   },
   {
     "id": "96dd1e8efb081065eac6d45cc7df2749",
