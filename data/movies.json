@@ -684,12 +684,7 @@
       "Kannada",
       "Hindi",
       "Multi-Lang"
-    ],
-    "imdbId": "tt39108319",
-    "name": "Irumudi",
-    "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BMjZlMDBhYzktYTY4OS00ZGU3LWEwNzQtOTBiY2M0MTVjMmIyXkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BMjZlMDBhYzktYTY4OS00ZGU3LWEwNzQtOTBiY2M0MTVjMmIyXkEyXkFqcGc@._V1_SX250.jpg"
+    ]
   },
   {
     "id": "ef4c78ac1c44300918f82589a8c15ee0",
@@ -985,12 +980,7 @@
       "Kannada",
       "Hindi",
       "Multi-Lang"
-    ],
-    "imdbId": "tt37510017",
-    "name": "Thudakkam",
-    "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BZjM5NGFiNzctOWFlOS00N2ZkLThhNmEtNDNiYWUyMGZhODFhXkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BZjM5NGFiNzctOWFlOS00N2ZkLThhNmEtNDNiYWUyMGZhODFhXkEyXkFqcGc@._V1_SX250.jpg"
+    ]
   },
   {
     "id": "29e8d2d69039dde54476fb0c2e98fdfb",
@@ -2483,12 +2473,7 @@
     "rawText": "Mruthyudevate (2026) Kannada HD - [1080p & 720p - AVC - (AAC 2.0) - 2.5GB + Rips]",
     "languages": [
       "Kannada"
-    ],
-    "imdbId": "tt42804953",
-    "name": "Mruthyudevate",
-    "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BNzcxMmU0N2QtZGY0MS00OGQ2LWFlYzktODk4NmI1MjdmZmQwXkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BNzcxMmU0N2QtZGY0MS00OGQ2LWFlYzktODk4NmI1MjdmZmQwXkEyXkFqcGc@._V1_SX250.jpg"
+    ]
   },
   {
     "id": "bb54fa277163cef97c4697662fb6cd84",
@@ -5612,7 +5597,20 @@
       "Telugu",
       "Hindi",
       "Multi-Lang"
-    ]
+    ],
+    "imdbId": "tt1156466",
+    "name": "Undisputed 3: Redemption",
+    "year": "2010",
+    "poster": "https://images.metahub.space/poster/small/tt1156466/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt1156466/img",
+    "genres": [
+      "Action",
+      "Crime",
+      "Drama",
+      "Sport"
+    ],
+    "description": "Boyka is back. This time he is fighting in the first ever inter-prison tournament with one knee.",
+    "imdbRating": "7.4"
   },
   {
     "id": "d4edf3677d3e574bc83bdb38d6065fa2",
@@ -5937,7 +5935,12 @@
       "Kannada",
       "Hindi",
       "Multi-Lang"
-    ]
+    ],
+    "imdbId": "tt32474264",
+    "name": "Korean Kanakaraju",
+    "year": 2026,
+    "poster": "https://m.media-amazon.com/images/M/MV5BM2Q3NzY4MGQtYzMwMy00YTg2LWI1MGItYjU4ODI5YTNhYmFlXkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BM2Q3NzY4MGQtYzMwMy00YTg2LWI1MGItYjU4ODI5YTNhYmFlXkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "3ebcd3cc58f3b0243b69fc0fcab3ec05",
