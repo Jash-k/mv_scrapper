@@ -684,7 +684,12 @@
       "Kannada",
       "Hindi",
       "Multi-Lang"
-    ]
+    ],
+    "imdbId": "tt39108319",
+    "name": "Irumudi",
+    "year": 2026,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjZlMDBhYzktYTY4OS00ZGU3LWEwNzQtOTBiY2M0MTVjMmIyXkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BMjZlMDBhYzktYTY4OS00ZGU3LWEwNzQtOTBiY2M0MTVjMmIyXkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "ef4c78ac1c44300918f82589a8c15ee0",
@@ -1960,7 +1965,12 @@
       "Telugu",
       "Hindi",
       "Multi-Lang"
-    ]
+    ],
+    "imdbId": "tt32321803",
+    "name": "The Get Out",
+    "year": 2026,
+    "poster": "https://m.media-amazon.com/images/M/MV5BZjhkMzcyMDktNjY0ZC00NjQxLTgyMjYtMTA1ODE4OGVkMDk1XkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BZjhkMzcyMDktNjY0ZC00NjQxLTgyMjYtMTA1ODE4OGVkMDk1XkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "abd465397ae4d2d7a76805b4e4d1d235",
@@ -2172,7 +2182,20 @@
       "Telugu",
       "Hindi",
       "Multi-Lang"
-    ]
+    ],
+    "imdbId": "tt0443676",
+    "name": "Undisputed 2: Last Man Standing",
+    "year": "2006",
+    "poster": "https://images.metahub.space/poster/small/tt0443676/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt0443676/img",
+    "genres": [
+      "Action",
+      "Crime",
+      "Drama",
+      "Sport"
+    ],
+    "description": "Sequel to the 2002 film. This time, Heavyweight Champ George \"Iceman\" Chambers is sent to a Russian Jail on trumped-up drug charges.",
+    "imdbRating": "7.1"
   },
   {
     "id": "3f755c5a04d75109d91cc73cddea114e",
@@ -3358,7 +3381,12 @@
     "rawText": "Haiwaan (2026) Hindi HQ PreDVD (HQ Clean) - [1080p & 720p - x264 - 2.8GB + Rips] - [W]",
     "languages": [
       "Hindi"
-    ]
+    ],
+    "imdbId": "tt32378175",
+    "name": "Haiwaan",
+    "year": 2026,
+    "poster": "https://m.media-amazon.com/images/M/MV5BNTVjNDc1OTktZmQ0MS00MjBlLTg4NDQtYTM3ZTE1MGUxMjEzXkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BNTVjNDc1OTktZmQ0MS00MjBlLTg4NDQtYTM3ZTE1MGUxMjEzXkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "8e389233fe20c32c5cf350737ea93ca9",
@@ -3903,12 +3931,7 @@
     "rawText": "Vengeance (2026) Tamil HD + ESub - [4K, 1080p & 720p - AVC / HEVC - (DD+5.1 - 192Kbps) - 4.4GB + Rips]",
     "languages": [
       "Tamil"
-    ],
-    "imdbId": "tt11976532",
-    "name": "Vengeance",
-    "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BYmI2MmZlNTctYjIyMy00N2MxLTllZWQtNmEyOGZhMGQ3NThiXkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BYmI2MmZlNTctYjIyMy00N2MxLTllZWQtNmEyOGZhMGQ3NThiXkEyXkFqcGc@._V1_SX250.jpg"
+    ]
   },
   {
     "id": "afa28110a7a2cd0bef854557946bfadf",
@@ -4076,7 +4099,12 @@
     "rawText": "Ghamasaan (2026) Hindi HD + ESub - [1080p & 720p - AVC - (DD+5.1 - 192Kbps) - 2.1GB + Rips]",
     "languages": [
       "Hindi"
-    ]
+    ],
+    "imdbId": "tt33744610",
+    "name": "Ghamasaan",
+    "year": 2026,
+    "poster": "https://m.media-amazon.com/images/M/MV5BYjMwMzgwMzctNzM0NC00N2VlLTg1MjAtNDczNDIzOTRlYjM0XkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BYjMwMzgwMzctNzM0NC00N2VlLTg1MjAtNDczNDIzOTRlYjM0XkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "d9adce016441bfd061b09861ed856a95",
@@ -5441,7 +5469,12 @@
       "Tamil",
       "Hindi",
       "Multi-Lang"
-    ]
+    ],
+    "imdbId": "tt2229842",
+    "name": "Table No. 21",
+    "year": 2013,
+    "poster": "https://m.media-amazon.com/images/M/MV5BZDEwOThkNTctZjQ4OS00OGVhLWFkMWEtNTJhNDYyODc4Zjc3XkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BZDEwOThkNTctZjQ4OS00OGVhLWFkMWEtNTJhNDYyODc4Zjc3XkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "83381c6a24dc234d7542ea6884648f27",
@@ -7393,7 +7426,12 @@
       "Tamil",
       "Hindi",
       "Multi-Lang"
-    ]
+    ],
+    "imdbId": "tt0765429",
+    "name": "American Gangster",
+    "year": 2007,
+    "poster": "https://m.media-amazon.com/images/M/MV5BZGExM2MwNjUtNThkNi00ZjBmLWJhZDgtN2ZmOWJiZWEwNGMxXkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BZGExM2MwNjUtNThkNi00ZjBmLWJhZDgtN2ZmOWJiZWEwNGMxXkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "8468f1bb42cfdac7cc52bf9176e82b19",
@@ -7912,7 +7950,12 @@
       "Telugu",
       "Hindi",
       "Multi-Lang"
-    ]
+    ],
+    "imdbId": "tt30217600",
+    "name": "The Bay",
+    "year": 2026,
+    "poster": "https://m.media-amazon.com/images/M/MV5BY2ZlZDc3YjItNjMxNi00ZGQwLWFkMzUtMDVlODg5NDI4NGZlXkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BY2ZlZDc3YjItNjMxNi00ZGQwLWFkMzUtMDVlODg5NDI4NGZlXkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "bdf03a76e9c799cf6fdcbaebe38dd32c",
@@ -10740,7 +10783,12 @@
     "rawText": "Welcome to the Jungle (2026) Hindi HD + ESub - [4K, 1080p & 720p - AVC / HEVC - (DD+5.1 - 192Kbps) - 3.9GB + Rips]",
     "languages": [
       "Hindi"
-    ]
+    ],
+    "imdbId": "tt2283362",
+    "name": "Jumanji: Welcome to the Jungle",
+    "year": 2026,
+    "poster": "https://m.media-amazon.com/images/M/MV5BZjI5MzdmODctYjA4NS00ZmMxLWJlOWUtOGVhMjA0OGMxMWYzXkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BZjI5MzdmODctYjA4NS00ZmMxLWJlOWUtOGVhMjA0OGMxMWYzXkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "71728bcc024ea9bf9e0207e41143e5ce",
@@ -10955,7 +11003,12 @@
     "rawText": "Mutiny (2026) English HD + ESub - [1080p & 720p - AVC - (DD+5.1 - 640Kbps) - 1.8GB + Rips]",
     "languages": [
       "Tamil"
-    ]
+    ],
+    "imdbId": "tt32338669",
+    "name": "Mutiny",
+    "year": 2026,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTVjMjVlZjktZTg1Zi00ZDdmLTk1ODItNDE1Y2I4MTg1MDQ0XkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BMTVjMjVlZjktZTg1Zi00ZDdmLTk1ODItNDE1Y2I4MTg1MDQ0XkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "5be2ec68f603004dd5c6c7cadd426662",
@@ -14042,7 +14095,12 @@
     "rawText": "Maggi Pusthaka (2026) Kannada HD + ESub - [1080p & 720p - AVC - (DD+2.0 - 224Kbps) - 2.4GB + Rips]",
     "languages": [
       "Kannada"
-    ]
+    ],
+    "imdbId": "tt39386092",
+    "name": "Maggi Pusthaka",
+    "year": 2026,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMzMxN2Y5NmYtYmM3Zi00MzU1LTg1MmMtNmIzNTVmOGFkMDk0XkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BMzMxN2Y5NmYtYmM3Zi00MzU1LTg1MmMtNmIzNTVmOGFkMDk0XkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "a5a8f804a59329d9e4c233b1e46237a0",
@@ -16488,7 +16546,19 @@
       "Telugu",
       "Hindi",
       "Multi-Lang"
-    ]
+    ],
+    "imdbId": "tt30395619",
+    "name": "Demon Slayer: Kimetsu No Yaiba - To the Hashira Training",
+    "year": "2024",
+    "poster": "https://images.metahub.space/poster/small/tt30395619/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt30395619/img",
+    "genres": [
+      "Animation",
+      "Action",
+      "Adventure"
+    ],
+    "description": "Tanjiro undergoes rigorous training with the Stone Hashira, Himejima, in his quest to become a Hashira. Meanwhile, Muzan continues to search for Nezuko and Ubuyashiki.",
+    "imdbRating": "7.2"
   },
   {
     "id": "c8ed1675e82a4149b42c9ad6b7bec882",
@@ -18966,7 +19036,18 @@
       "Telugu",
       "Hindi",
       "Multi-Lang"
-    ]
+    ],
+    "imdbId": "tt13570066",
+    "name": "Desert Warrior",
+    "year": "2026",
+    "poster": "https://images.metahub.space/poster/small/tt13570066/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt13570066/img",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Drama"
+    ],
+    "description": "An honorable and mysterious rogue, known as Hanzala, makes himself an enemy of the Emperor Kisra after he helps a fugitive king and princess in the desert."
   },
   {
     "id": "1664789d14885ef1be1202afd51e1cb7",
@@ -19382,7 +19463,12 @@
       "Telugu",
       "Hindi",
       "Multi-Lang"
-    ]
+    ],
+    "imdbId": "tt0096003",
+    "name": "Rocket Gibraltar",
+    "year": 1988,
+    "poster": "https://m.media-amazon.com/images/M/MV5BZGMzYzM1N2YtNjFjMC00ODRkLWI1ZTEtZDIxMDJlNTYwNWJjXkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BZGMzYzM1N2YtNjFjMC00ODRkLWI1ZTEtZDIxMDJlNTYwNWJjXkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "e922bf599f88c9f81c74bfc6d3b115d0",
@@ -20103,7 +20189,12 @@
     "rawText": "Sing Geetham (2026) Tamil HD + ESub - [1080p & 720p - AVC / HEVC - (DD+5.1 - 640Kbps) - 8GB + Rips] - [W]",
     "languages": [
       "Tamil"
-    ]
+    ],
+    "imdbId": "tt34547719",
+    "name": "Sing Geetham",
+    "year": 2026,
+    "poster": "https://m.media-amazon.com/images/M/MV5BZTc4ZWQ1MDMtYmIxZC00Y2Y0LTg0MGMtNDI1YWE2M2ZkZDVjXkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BZTc4ZWQ1MDMtYmIxZC00Y2Y0LTg0MGMtNDI1YWE2M2ZkZDVjXkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "b122a7477257df2a08086f331eb83f90",
