@@ -1975,12 +1975,7 @@
     "rawText": "Iruttarai (2026) Tamil UHD + ESub - [4K, 1080p & 720p - AVC / HEVC - (DD+5.1 - 192Kbps) - 1.6GB + Rips] - [W]",
     "languages": [
       "Tamil"
-    ],
-    "imdbId": "tt46067198",
-    "name": "Iruttarai",
-    "year": 2026,
-    "poster": "https://images.metahub.space/poster/small/tt46067198/img",
-    "thumbnail": "https://images.metahub.space/poster/small/tt46067198/img"
+    ]
   },
   {
     "id": "0238b1d4dea3d99a401d030fe19a597b",
@@ -5225,10 +5220,15 @@
     ],
     "imdbId": "tt28096092",
     "name": "Transmorphers: Mech Beasts",
-    "year": 2023,
-    "poster": "https://image.tmdb.org/t/p/w500/oqhaffnQqSzdLrYAQA5W4IdAoCX.jpg",
-    "thumbnail": "https://image.tmdb.org/t/p/w500/oqhaffnQqSzdLrYAQA5W4IdAoCX.jpg",
-    "description": "20 years after the events of Transmorphers, a newer, more advanced species of alien robot descends on a rebuilt Earth, threatening once again to destroy the planet."
+    "year": "2023",
+    "poster": "https://images.metahub.space/poster/small/tt28096092/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt28096092/img",
+    "genres": [
+      "Action",
+      "Sci-Fi"
+    ],
+    "description": "20 years after the events of TRANSMORPHERS, a newer, more advanced species of alien robot descends on a rebuilt Earth, threatening once again to destroy the planet.",
+    "imdbRating": "2.3"
   },
   {
     "id": "bc4ef6877e320af868700f694a4f5587",
@@ -10406,11 +10406,11 @@
     "languages": [
       "Tamil"
     ],
-    "imdbId": "tt27200708",
-    "name": "Mother Mary",
+    "imdbId": "tt35856037",
+    "name": "Your Mother Your Mother Your Mother",
     "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BZWM0NTIzMWEtOWU1ZC00OTEyLThmNTItYjM1N2Y1MDllMGYzXkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BZWM0NTIzMWEtOWU1ZC00OTEyLThmNTItYjM1N2Y1MDllMGYzXkEyXkFqcGc@._V1_SX250.jpg"
+    "poster": "https://m.media-amazon.com/images/M/MV5BZDEwMjk2MjMtMTI3ZS00ODg5LWI2ZDYtOTVkOGZlNzIyYzRjXkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BZDEwMjk2MjMtMTI3ZS00ODg5LWI2ZDYtOTVkOGZlNzIyYzRjXkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "a4aac7d8bc34909c2c1793389d80111a",
@@ -10908,11 +10908,11 @@
     "languages": [
       "Telugu"
     ],
-    "imdbId": "tt23790696",
-    "name": "The Raja Saab",
+    "imdbId": "tt42643672",
+    "name": "Raja the Raja",
     "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BOTc5Mjk4ZDQtM2Y4Zi00YTZmLTkxYmUtYWMwNzk3NDBkOGQzXkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BOTc5Mjk4ZDQtM2Y4Zi00YTZmLTkxYmUtYWMwNzk3NDBkOGQzXkEyXkFqcGc@._V1_SX250.jpg"
+    "poster": "https://images.metahub.space/poster/small/tt42643672/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt42643672/img"
   },
   {
     "id": "a609550fc9b826a641d06ee1c5153666",
@@ -13452,11 +13452,11 @@
       "Hindi",
       "Multi-Lang"
     ],
-    "imdbId": "tt2461132",
+    "imdbId": "tt0069815",
     "name": "Happy New Year",
     "year": 1987,
-    "poster": "https://m.media-amazon.com/images/M/MV5BYjc3MjY0NzctMGYwNy00ZGYyLThiOTctMjI1MWRkNmU3ZWNiXkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BYjc3MjY0NzctMGYwNy00ZGYyLThiOTctMjI1MWRkNmU3ZWNiXkEyXkFqcGc@._V1_SX250.jpg"
+    "poster": "https://m.media-amazon.com/images/M/MV5BMWYwMjRlMDctYmFlOC00MjIwLTg4OTMtZGQ5N2E1MWJkYzllXkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BMWYwMjRlMDctYmFlOC00MjIwLTg4OTMtZGQ5N2E1MWJkYzllXkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "3ece34ce58c65c1a88bb3898238d3004",
@@ -18883,12 +18883,7 @@
       "Kannada",
       "Hindi",
       "Multi-Lang"
-    ],
-    "imdbId": "tt31624258",
-    "name": "Hijack 1971",
-    "year": 1971,
-    "poster": "https://m.media-amazon.com/images/M/MV5BMGNjMDRmYzAtM2QxNS00Njg5LTk2ZGItZDQ1MjgwNzYxMTZiXkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BMGNjMDRmYzAtM2QxNS00Njg5LTk2ZGItZDQ1MjgwNzYxMTZiXkEyXkFqcGc@._V1_SX250.jpg"
+    ]
   },
   {
     "id": "99685c60208238a71f29181ef804e8c1",
