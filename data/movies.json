@@ -1837,7 +1837,12 @@
     "rawText": "Iruttarai (2026) Tamil UHD + ESub - [4K, 1080p & 720p - AVC / HEVC - (DD+5.1 - 192Kbps) - 1.6GB + Rips] - [W]",
     "languages": [
       "Tamil"
-    ]
+    ],
+    "imdbId": "tt46067198",
+    "name": "Iruttarai",
+    "year": 2026,
+    "poster": "https://images.metahub.space/poster/small/tt46067198/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt46067198/img"
   },
   {
     "id": "0238b1d4dea3d99a401d030fe19a597b",
@@ -2447,17 +2452,16 @@
       "Multi-Lang",
       "Tamil"
     ],
-    "imdbId": "tt32491690",
-    "name": "Dark Nuns",
-    "year": "2025",
-    "poster": "https://images.metahub.space/poster/small/tt32491690/img",
-    "thumbnail": "https://images.metahub.space/poster/small/tt32491690/img",
+    "imdbId": "tt37593831",
+    "name": "Dark Hollow",
+    "year": "2026",
+    "poster": "https://images.metahub.space/poster/small/tt37593831/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt37593831/img",
     "genres": [
-      "Horror",
-      "Mystery",
-      "Thriller"
+      "Horror"
     ],
-    "description": "A young boy Hee-Joon is possessed by an evil spirit. Nun Yunia tries to save him, assisted by Nun Mikaela. Priest Paul attempts medical treatment, while Priest Andrew performs an exorcism to rid Hee-Joon of the spirit."
+    "description": "When a nightmarish monster emerges from the depths of an Appalachian coal mine, a young mother must hunt down the creature to protect her home and save her family.",
+    "imdbRating": "3.9"
   },
   {
     "id": "1bfb4038bef0546818cdeafe99fdf161",
@@ -10771,11 +10775,11 @@
     "languages": [
       "Telugu"
     ],
-    "imdbId": "tt42643672",
-    "name": "Raja the Raja",
+    "imdbId": "tt23790696",
+    "name": "The Raja Saab",
     "year": 2026,
-    "poster": "https://images.metahub.space/poster/small/tt42643672/img",
-    "thumbnail": "https://images.metahub.space/poster/small/tt42643672/img"
+    "poster": "https://m.media-amazon.com/images/M/MV5BOTc5Mjk4ZDQtM2Y4Zi00YTZmLTkxYmUtYWMwNzk3NDBkOGQzXkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BOTc5Mjk4ZDQtM2Y4Zi00YTZmLTkxYmUtYWMwNzk3NDBkOGQzXkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "a609550fc9b826a641d06ee1c5153666",
@@ -13265,12 +13269,7 @@
       "Telugu",
       "Hindi",
       "Multi-Lang"
-    ],
-    "imdbId": "tt1800302",
-    "name": "Gold",
-    "year": 2022,
-    "poster": "https://m.media-amazon.com/images/M/MV5BNzI1NjI5OTUyM15BMl5BanBnXkFtZTgwOTM4NzY2MDI@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BNzI1NjI5OTUyM15BMl5BanBnXkFtZTgwOTM4NzY2MDI@._V1_SX250.jpg"
+    ]
   },
   {
     "id": "638cfaa36eb2ea3a8dd1e8fe7af23786",
@@ -13315,11 +13314,11 @@
       "Hindi",
       "Multi-Lang"
     ],
-    "imdbId": "tt0069815",
+    "imdbId": "tt2461132",
     "name": "Happy New Year",
     "year": 1987,
-    "poster": "https://m.media-amazon.com/images/M/MV5BMWYwMjRlMDctYmFlOC00MjIwLTg4OTMtZGQ5N2E1MWJkYzllXkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BMWYwMjRlMDctYmFlOC00MjIwLTg4OTMtZGQ5N2E1MWJkYzllXkEyXkFqcGc@._V1_SX250.jpg"
+    "poster": "https://m.media-amazon.com/images/M/MV5BYjc3MjY0NzctMGYwNy00ZGYyLThiOTctMjI1MWRkNmU3ZWNiXkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BYjc3MjY0NzctMGYwNy00ZGYyLThiOTctMjI1MWRkNmU3ZWNiXkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "3ece34ce58c65c1a88bb3898238d3004",
@@ -18746,7 +18745,12 @@
       "Kannada",
       "Hindi",
       "Multi-Lang"
-    ]
+    ],
+    "imdbId": "tt31624258",
+    "name": "Hijack 1971",
+    "year": 1971,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMGNjMDRmYzAtM2QxNS00Njg5LTk2ZGItZDQ1MjgwNzYxMTZiXkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BMGNjMDRmYzAtM2QxNS00Njg5LTk2ZGItZDQ1MjgwNzYxMTZiXkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "99685c60208238a71f29181ef804e8c1",
