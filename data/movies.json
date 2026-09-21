@@ -2364,7 +2364,20 @@
       "Telugu",
       "Hindi",
       "Multi-Lang"
-    ]
+    ],
+    "imdbId": "tt0443676",
+    "name": "Undisputed 2: Last Man Standing",
+    "year": "2006",
+    "poster": "https://images.metahub.space/poster/small/tt0443676/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt0443676/img",
+    "genres": [
+      "Action",
+      "Crime",
+      "Drama",
+      "Sport"
+    ],
+    "description": "Sequel to the 2002 film. This time, Heavyweight Champ George \"Iceman\" Chambers is sent to a Russian Jail on trumped-up drug charges.",
+    "imdbRating": "7.1"
   },
   {
     "id": "3f755c5a04d75109d91cc73cddea114e",
@@ -2572,16 +2585,17 @@
       "Multi-Lang",
       "Tamil"
     ],
-    "imdbId": "tt37593831",
-    "name": "Dark Hollow",
-    "year": "2026",
-    "poster": "https://images.metahub.space/poster/small/tt37593831/img",
-    "thumbnail": "https://images.metahub.space/poster/small/tt37593831/img",
+    "imdbId": "tt32491690",
+    "name": "Dark Nuns",
+    "year": "2025",
+    "poster": "https://images.metahub.space/poster/small/tt32491690/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt32491690/img",
     "genres": [
-      "Horror"
+      "Horror",
+      "Mystery",
+      "Thriller"
     ],
-    "description": "When a nightmarish monster emerges from the depths of an Appalachian coal mine, a young mother must hunt down the creature to protect her home and save her family.",
-    "imdbRating": "3.9"
+    "description": "A young boy Hee-Joon is possessed by an evil spirit. Nun Yunia tries to save him, assisted by Nun Mikaela. Priest Paul attempts medical treatment, while Priest Andrew performs an exorcism to rid Hee-Joon of the spirit."
   },
   {
     "id": "1bfb4038bef0546818cdeafe99fdf161",
@@ -4272,7 +4286,12 @@
     "rawText": "Ghamasaan (2026) Hindi HD + ESub - [1080p & 720p - AVC - (DD+5.1 - 192Kbps) - 2.1GB + Rips]",
     "languages": [
       "Hindi"
-    ]
+    ],
+    "imdbId": "tt33744610",
+    "name": "Ghamasaan",
+    "year": 2026,
+    "poster": "https://m.media-amazon.com/images/M/MV5BYjMwMzgwMzctNzM0NC00N2VlLTg1MjAtNDczNDIzOTRlYjM0XkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BYjMwMzgwMzctNzM0NC00N2VlLTg1MjAtNDczNDIzOTRlYjM0XkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "d9adce016441bfd061b09861ed856a95",
@@ -5104,7 +5123,12 @@
     "rawText": "The 33 (2015) (BluRay + Org Auds) - [1080p & 720p - x264 - (Tamil + Eng) - 2.1GB + Rips]",
     "languages": [
       "Tamil"
-    ]
+    ],
+    "imdbId": "tt2006295",
+    "name": "The 33",
+    "year": 2015,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTkyNDY3NDc5NF5BMl5BanBnXkFtZTgwMzI1NDM1NjE@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BMTkyNDY3NDc5NF5BMl5BanBnXkFtZTgwMzI1NDM1NjE@._V1_SX250.jpg"
   },
   {
     "id": "1c931b782d16208485003f78536bfdc0",
@@ -5587,11 +5611,11 @@
     "languages": [
       "Hindi"
     ],
-    "imdbId": "tt0403217",
+    "imdbId": "tt27977862",
     "name": "Last Days",
     "year": 2025,
-    "poster": "https://m.media-amazon.com/images/M/MV5BODk1OTUyZmYtNTQxYS00Y2FhLTliNmUtNTM2OTcwZjgzMzI0XkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BODk1OTUyZmYtNTQxYS00Y2FhLTliNmUtNTM2OTcwZjgzMzI0XkEyXkFqcGc@._V1_SX250.jpg"
+    "poster": "https://m.media-amazon.com/images/M/MV5BMWFkYTM1NWUtMzU1Yi00NjEwLThmZGItNjQwZTZjMzBhMDZkXkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BMWFkYTM1NWUtMzU1Yi00NjEwLThmZGItNjQwZTZjMzBhMDZkXkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "5de9748c1cfbb42761b6aa2a06712bde",
@@ -5721,12 +5745,7 @@
     "rawText": "Moana (2026) English HD + ESub - [1080p & 720p - AVC - (DD+5.1 - 640Kbps) - 2.2GB + Rips]",
     "languages": [
       "Tamil"
-    ],
-    "imdbId": "tt27419466",
-    "name": "Moana",
-    "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BMTQ1OTQ2Y2UtMzllNS00ODFiLWFkNGItNGRjOWRlMjIwNTRlXkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BMTQ1OTQ2Y2UtMzllNS00ODFiLWFkNGItNGRjOWRlMjIwNTRlXkEyXkFqcGc@._V1_SX250.jpg"
+    ]
   },
   {
     "id": "7f002f77a49c81c741dd5a2b4f67afb4",
@@ -7589,7 +7608,12 @@
       "Tamil",
       "Hindi",
       "Multi-Lang"
-    ]
+    ],
+    "imdbId": "tt0765429",
+    "name": "American Gangster",
+    "year": 2007,
+    "poster": "https://m.media-amazon.com/images/M/MV5BZGExM2MwNjUtNThkNi00ZjBmLWJhZDgtN2ZmOWJiZWEwNGMxXkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BZGExM2MwNjUtNThkNi00ZjBmLWJhZDgtN2ZmOWJiZWEwNGMxXkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "8468f1bb42cfdac7cc52bf9176e82b19",
@@ -10378,11 +10402,11 @@
     "languages": [
       "Tamil"
     ],
-    "imdbId": "tt35856037",
-    "name": "Your Mother Your Mother Your Mother",
+    "imdbId": "tt27200708",
+    "name": "Mother Mary",
     "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BZDEwMjk2MjMtMTI3ZS00ODg5LWI2ZDYtOTVkOGZlNzIyYzRjXkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BZDEwMjk2MjMtMTI3ZS00ODg5LWI2ZDYtOTVkOGZlNzIyYzRjXkEyXkFqcGc@._V1_SX250.jpg"
+    "poster": "https://m.media-amazon.com/images/M/MV5BZWM0NTIzMWEtOWU1ZC00OTEyLThmNTItYjM1N2Y1MDllMGYzXkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BZWM0NTIzMWEtOWU1ZC00OTEyLThmNTItYjM1N2Y1MDllMGYzXkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "a4aac7d8bc34909c2c1793389d80111a",
@@ -10765,7 +10789,13 @@
       "Hindi",
       "Tamil",
       "Telugu"
-    ]
+    ],
+    "imdbId": "tt5256640",
+    "name": "Lenin",
+    "year": "2017",
+    "poster": "https://images.metahub.space/poster/small/tt5256640/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt5256640/img",
+    "genres": []
   },
   {
     "id": "68aed7f241b44bdcc1cfca6a6ce1fb99",
@@ -10874,11 +10904,11 @@
     "languages": [
       "Telugu"
     ],
-    "imdbId": "tt23790696",
-    "name": "The Raja Saab",
+    "imdbId": "tt42643672",
+    "name": "Raja the Raja",
     "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BOTc5Mjk4ZDQtM2Y4Zi00YTZmLTkxYmUtYWMwNzk3NDBkOGQzXkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BOTc5Mjk4ZDQtM2Y4Zi00YTZmLTkxYmUtYWMwNzk3NDBkOGQzXkEyXkFqcGc@._V1_SX250.jpg"
+    "poster": "https://images.metahub.space/poster/small/tt42643672/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt42643672/img"
   },
   {
     "id": "a609550fc9b826a641d06ee1c5153666",
@@ -11847,12 +11877,7 @@
       "Malayalam",
       "Hindi",
       "Multi-Lang"
-    ],
-    "imdbId": "tt38748101",
-    "name": "Moda Kavida Vaatavarana",
-    "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BNmZkYzkxMjMtNWEwMi00M2U5LThjYmEtNDc4MjAwODgwYjBjXkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BNmZkYzkxMjMtNWEwMi00M2U5LThjYmEtNDc4MjAwODgwYjBjXkEyXkFqcGc@._V1_SX250.jpg"
+    ]
   },
   {
     "id": "92ce5167cff46d7e3818e3f5f78b2424",
@@ -13333,7 +13358,12 @@
       "Telugu",
       "Hindi",
       "Multi-Lang"
-    ]
+    ],
+    "imdbId": "tt32890033",
+    "name": "Minions & Monsters",
+    "year": 2026,
+    "poster": "https://m.media-amazon.com/images/M/MV5BYzBjMDg4YjctYzg3ZS00ZDFmLWI1YjctM2RkZGVjZWEyYWQ0XkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BYzBjMDg4YjctYzg3ZS00ZDFmLWI1YjctM2RkZGVjZWEyYWQ0XkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "5c7095bc9c22b66c4fcda81e4a724b24",
@@ -13363,12 +13393,7 @@
       "Telugu",
       "Hindi",
       "Multi-Lang"
-    ],
-    "imdbId": "tt1800302",
-    "name": "Gold",
-    "year": 2022,
-    "poster": "https://m.media-amazon.com/images/M/MV5BNzI1NjI5OTUyM15BMl5BanBnXkFtZTgwOTM4NzY2MDI@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BNzI1NjI5OTUyM15BMl5BanBnXkFtZTgwOTM4NzY2MDI@._V1_SX250.jpg"
+    ]
   },
   {
     "id": "638cfaa36eb2ea3a8dd1e8fe7af23786",
@@ -13413,11 +13438,11 @@
       "Hindi",
       "Multi-Lang"
     ],
-    "imdbId": "tt2461132",
+    "imdbId": "tt0069815",
     "name": "Happy New Year",
     "year": 1987,
-    "poster": "https://m.media-amazon.com/images/M/MV5BYjc3MjY0NzctMGYwNy00ZGYyLThiOTctMjI1MWRkNmU3ZWNiXkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BYjc3MjY0NzctMGYwNy00ZGYyLThiOTctMjI1MWRkNmU3ZWNiXkEyXkFqcGc@._V1_SX250.jpg"
+    "poster": "https://m.media-amazon.com/images/M/MV5BMWYwMjRlMDctYmFlOC00MjIwLTg4OTMtZGQ5N2E1MWJkYzllXkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BMWYwMjRlMDctYmFlOC00MjIwLTg4OTMtZGQ5N2E1MWJkYzllXkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "3ece34ce58c65c1a88bb3898238d3004",
@@ -15271,12 +15296,7 @@
       "Tamil",
       "Hindi",
       "Multi-Lang"
-    ],
-    "imdbId": "tt0341549",
-    "name": "Rishtey",
-    "year": 2002,
-    "poster": "https://m.media-amazon.com/images/M/MV5BZDQyNjQ0ZmEtY2ExNi00MGJmLWJmZWYtMDY4ZmQxN2FmODIzXkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BZDQyNjQ0ZmEtY2ExNi00MGJmLWJmZWYtMDY4ZmQxN2FmODIzXkEyXkFqcGc@._V1_SX250.jpg"
+    ]
   },
   {
     "id": "f2c5006de60036f85e218c7fba8fb7aa",
@@ -17485,7 +17505,12 @@
     "rawText": "Kalyanamaram (2026) Malayalam HD + ESub - [1080p & 720p - AVC - (DD+5.1 - 384Kbps) - 2.7GB + Rips]",
     "languages": [
       "Malayalam"
-    ]
+    ],
+    "imdbId": "tt43505958",
+    "name": "Kalyanamaram",
+    "year": 2026,
+    "poster": "https://m.media-amazon.com/images/M/MV5BZDA0ZWJhYzYtMzcxNS00ZWFmLTllODctMmJmNTIxMzhlNTExXkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BZDA0ZWJhYzYtMzcxNS00ZWFmLTllODctMmJmNTIxMzhlNTExXkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "9f49ee247d59fadd80c0807e22bc6c64",
@@ -18783,7 +18808,18 @@
       "Tamil",
       "Hindi",
       "Multi-Lang"
-    ]
+    ],
+    "imdbId": "tt7181546",
+    "name": "Ballerina",
+    "year": "2025",
+    "poster": "https://images.metahub.space/poster/small/tt7181546/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt7181546/img",
+    "genres": [
+      "Action",
+      "Thriller"
+    ],
+    "description": "An assassin trained in the traditions of the Ruska Roma organization sets out to seek revenge after her father's death.",
+    "imdbRating": "6.8"
   },
   {
     "id": "61d6eb958d141e05b0d86f07939ef8be",
