@@ -1975,7 +1975,12 @@
     "rawText": "Iruttarai (2026) Tamil UHD + ESub - [4K, 1080p & 720p - AVC / HEVC - (DD+5.1 - 192Kbps) - 1.6GB + Rips] - [W]",
     "languages": [
       "Tamil"
-    ]
+    ],
+    "imdbId": "tt46067198",
+    "name": "Iruttarai",
+    "year": 2026,
+    "poster": "https://images.metahub.space/poster/small/tt46067198/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt46067198/img"
   },
   {
     "id": "0238b1d4dea3d99a401d030fe19a597b",
@@ -5745,7 +5750,12 @@
     "rawText": "Moana (2026) English HD + ESub - [1080p & 720p - AVC - (DD+5.1 - 640Kbps) - 2.2GB + Rips]",
     "languages": [
       "Tamil"
-    ]
+    ],
+    "imdbId": "tt27419466",
+    "name": "Moana",
+    "year": 2026,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTQ1OTQ2Y2UtMzllNS00ODFiLWFkNGItNGRjOWRlMjIwNTRlXkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BMTQ1OTQ2Y2UtMzllNS00ODFiLWFkNGItNGRjOWRlMjIwNTRlXkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "7f002f77a49c81c741dd5a2b4f67afb4",
@@ -10904,11 +10914,11 @@
     "languages": [
       "Telugu"
     ],
-    "imdbId": "tt42643672",
-    "name": "Raja the Raja",
+    "imdbId": "tt23790696",
+    "name": "The Raja Saab",
     "year": 2026,
-    "poster": "https://images.metahub.space/poster/small/tt42643672/img",
-    "thumbnail": "https://images.metahub.space/poster/small/tt42643672/img"
+    "poster": "https://m.media-amazon.com/images/M/MV5BOTc5Mjk4ZDQtM2Y4Zi00YTZmLTkxYmUtYWMwNzk3NDBkOGQzXkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BOTc5Mjk4ZDQtM2Y4Zi00YTZmLTkxYmUtYWMwNzk3NDBkOGQzXkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "a609550fc9b826a641d06ee1c5153666",
@@ -13398,7 +13408,12 @@
       "Telugu",
       "Hindi",
       "Multi-Lang"
-    ]
+    ],
+    "imdbId": "tt1800302",
+    "name": "Gold",
+    "year": 2022,
+    "poster": "https://m.media-amazon.com/images/M/MV5BNzI1NjI5OTUyM15BMl5BanBnXkFtZTgwOTM4NzY2MDI@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BNzI1NjI5OTUyM15BMl5BanBnXkFtZTgwOTM4NzY2MDI@._V1_SX250.jpg"
   },
   {
     "id": "638cfaa36eb2ea3a8dd1e8fe7af23786",
@@ -13443,11 +13458,11 @@
       "Hindi",
       "Multi-Lang"
     ],
-    "imdbId": "tt0069815",
+    "imdbId": "tt2461132",
     "name": "Happy New Year",
     "year": 1987,
-    "poster": "https://m.media-amazon.com/images/M/MV5BMWYwMjRlMDctYmFlOC00MjIwLTg4OTMtZGQ5N2E1MWJkYzllXkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BMWYwMjRlMDctYmFlOC00MjIwLTg4OTMtZGQ5N2E1MWJkYzllXkEyXkFqcGc@._V1_SX250.jpg"
+    "poster": "https://m.media-amazon.com/images/M/MV5BYjc3MjY0NzctMGYwNy00ZGYyLThiOTctMjI1MWRkNmU3ZWNiXkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BYjc3MjY0NzctMGYwNy00ZGYyLThiOTctMjI1MWRkNmU3ZWNiXkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "3ece34ce58c65c1a88bb3898238d3004",
@@ -15301,7 +15316,12 @@
       "Tamil",
       "Hindi",
       "Multi-Lang"
-    ]
+    ],
+    "imdbId": "tt0341549",
+    "name": "Rishtey",
+    "year": 2002,
+    "poster": "https://m.media-amazon.com/images/M/MV5BZDQyNjQ0ZmEtY2ExNi00MGJmLWJmZWYtMDY4ZmQxN2FmODIzXkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BZDQyNjQ0ZmEtY2ExNi00MGJmLWJmZWYtMDY4ZmQxN2FmODIzXkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "f2c5006de60036f85e218c7fba8fb7aa",
@@ -18874,7 +18894,12 @@
       "Kannada",
       "Hindi",
       "Multi-Lang"
-    ]
+    ],
+    "imdbId": "tt31624258",
+    "name": "Hijack 1971",
+    "year": 1971,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMGNjMDRmYzAtM2QxNS00Njg5LTk2ZGItZDQ1MjgwNzYxMTZiXkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BMGNjMDRmYzAtM2QxNS00Njg5LTk2ZGItZDQ1MjgwNzYxMTZiXkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "99685c60208238a71f29181ef804e8c1",
