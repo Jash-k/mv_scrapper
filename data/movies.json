@@ -17090,7 +17090,19 @@
       "Telugu",
       "Hindi",
       "Multi-Lang"
-    ]
+    ],
+    "imdbId": "tt30395619",
+    "name": "Demon Slayer: Kimetsu No Yaiba - To the Hashira Training",
+    "year": "2024",
+    "poster": "https://images.metahub.space/poster/small/tt30395619/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt30395619/img",
+    "genres": [
+      "Animation",
+      "Action",
+      "Adventure"
+    ],
+    "description": "Tanjiro undergoes rigorous training with the Stone Hashira, Himejima, in his quest to become a Hashira. Meanwhile, Muzan continues to search for Nezuko and Ubuyashiki.",
+    "imdbRating": "7.2"
   },
   {
     "id": "c8ed1675e82a4149b42c9ad6b7bec882",
