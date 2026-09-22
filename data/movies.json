@@ -1975,7 +1975,12 @@
     "rawText": "Iruttarai (2026) Tamil UHD + ESub - [4K, 1080p & 720p - AVC / HEVC - (DD+5.1 - 192Kbps) - 1.6GB + Rips] - [W]",
     "languages": [
       "Tamil"
-    ]
+    ],
+    "imdbId": "tt46067198",
+    "name": "Iruttarai",
+    "year": 2026,
+    "poster": "https://images.metahub.space/poster/small/tt46067198/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt46067198/img"
   },
   {
     "id": "0238b1d4dea3d99a401d030fe19a597b",
@@ -5220,15 +5225,10 @@
     ],
     "imdbId": "tt28096092",
     "name": "Transmorphers: Mech Beasts",
-    "year": "2023",
-    "poster": "https://images.metahub.space/poster/small/tt28096092/img",
-    "thumbnail": "https://images.metahub.space/poster/small/tt28096092/img",
-    "genres": [
-      "Action",
-      "Sci-Fi"
-    ],
-    "description": "20 years after the events of TRANSMORPHERS, a newer, more advanced species of alien robot descends on a rebuilt Earth, threatening once again to destroy the planet.",
-    "imdbRating": "2.3"
+    "year": 2023,
+    "poster": "https://image.tmdb.org/t/p/w500/oqhaffnQqSzdLrYAQA5W4IdAoCX.jpg",
+    "thumbnail": "https://image.tmdb.org/t/p/w500/oqhaffnQqSzdLrYAQA5W4IdAoCX.jpg",
+    "description": "20 years after the events of Transmorphers, a newer, more advanced species of alien robot descends on a rebuilt Earth, threatening once again to destroy the planet."
   },
   {
     "id": "bc4ef6877e320af868700f694a4f5587",
