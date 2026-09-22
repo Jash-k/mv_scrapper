@@ -2170,12 +2170,7 @@
     "languages": [
       "Malayalam",
       "Hindi"
-    ],
-    "imdbId": "tt32634611",
-    "name": "Daayra",
-    "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BYzI4Y2Y0OGMtMTA3Mi00ZTFkLWFjZjAtNGJmMTY3NDMxZGZmXkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BYzI4Y2Y0OGMtMTA3Mi00ZTFkLWFjZjAtNGJmMTY3NDMxZGZmXkEyXkFqcGc@._V1_SX250.jpg"
+    ]
   },
   {
     "id": "87cef1e1a889cf9c607e7de98beb37b4",
@@ -4567,12 +4562,7 @@
     "rawText": "Vivaah (2026) Malayalam HD + ESub - [4K, 1080p & 720p - AVC / HEVC - (DD+5.1 - 192Kbps) - 6GB + Rips]",
     "languages": [
       "Malayalam"
-    ],
-    "imdbId": "tt43675327",
-    "name": "Vivaah",
-    "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BNGY4ZmIzYjAtMjgwMS00ZmU0LWJiYjgtZDVlZGY2ZGU4NjQ1XkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BNGY4ZmIzYjAtMjgwMS00ZmU0LWJiYjgtZDVlZGY2ZGU4NjQ1XkEyXkFqcGc@._V1_SX250.jpg"
+    ]
   },
   {
     "id": "44ddcb4ac93482958a8358368db14ee4",
@@ -5537,7 +5527,12 @@
     "rawText": "The 33 (2015) (BluRay + Org Auds) - [1080p & 720p - x264 - (Tamil + Eng) - 2.1GB + Rips]",
     "languages": [
       "Tamil"
-    ]
+    ],
+    "imdbId": "tt2006295",
+    "name": "The 33",
+    "year": 2015,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTkyNDY3NDc5NF5BMl5BanBnXkFtZTgwMzI1NDM1NjE@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BMTkyNDY3NDc5NF5BMl5BanBnXkFtZTgwMzI1NDM1NjE@._V1_SX250.jpg"
   },
   {
     "id": "1c931b782d16208485003f78536bfdc0",
@@ -5627,18 +5622,7 @@
       "Tamil",
       "Hindi",
       "Multi-Lang"
-    ],
-    "imdbId": "tt28096092",
-    "name": "Transmorphers: Mech Beasts",
-    "year": "2023",
-    "poster": "https://images.metahub.space/poster/small/tt28096092/img",
-    "thumbnail": "https://images.metahub.space/poster/small/tt28096092/img",
-    "genres": [
-      "Action",
-      "Sci-Fi"
-    ],
-    "description": "20 years after the events of TRANSMORPHERS, a newer, more advanced species of alien robot descends on a rebuilt Earth, threatening once again to destroy the planet.",
-    "imdbRating": "2.3"
+    ]
   },
   {
     "id": "bc4ef6877e320af868700f694a4f5587",
@@ -7059,12 +7043,7 @@
     "rawText": "Rakky (2026) Kannada HD + ESub - [1080p & 720p - AVC - (DD+5.1 - 640Kbps) - 6.5GB + Rips]",
     "languages": [
       "Kannada"
-    ],
-    "imdbId": "tt39221192",
-    "name": "Rakky",
-    "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BMGUyZjJjOTgtYTI1MC00YzNkLWE0YzctNDEzZGI0MGI1NTViXkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BMGUyZjJjOTgtYTI1MC00YzNkLWE0YzctNDEzZGI0MGI1NTViXkEyXkFqcGc@._V1_SX250.jpg"
+    ]
   },
   {
     "id": "7377d6226e91a066df3a04b7697cf69b",
@@ -8017,7 +7996,12 @@
       "Tamil",
       "Hindi",
       "Multi-Lang"
-    ]
+    ],
+    "imdbId": "tt0765429",
+    "name": "American Gangster",
+    "year": 2007,
+    "poster": "https://m.media-amazon.com/images/M/MV5BZGExM2MwNjUtNThkNi00ZjBmLWJhZDgtN2ZmOWJiZWEwNGMxXkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BZGExM2MwNjUtNThkNi00ZjBmLWJhZDgtN2ZmOWJiZWEwNGMxXkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "8468f1bb42cfdac7cc52bf9176e82b19",
@@ -9741,12 +9725,7 @@
       "Tamil",
       "Hindi",
       "Multi-Lang"
-    ],
-    "imdbId": "tt32393988",
-    "name": "Insidious: Out of the Further",
-    "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BMTY4YjM1OGItMDlmMi00OTU1LWEzM2MtZGMyZTQ1NzhiM2VhXkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BMTY4YjM1OGItMDlmMi00OTU1LWEzM2MtZGMyZTQ1NzhiM2VhXkEyXkFqcGc@._V1_SX250.jpg"
+    ]
   },
   {
     "id": "64e18d4afe5e242516dae5af9c4a4d9b",
@@ -14013,12 +13992,7 @@
       "Telugu",
       "Hindi",
       "Multi-Lang"
-    ],
-    "imdbId": "tt2369135",
-    "name": "Need for Speed",
-    "year": 2014,
-    "poster": "https://m.media-amazon.com/images/M/MV5BMTQ3ODY4NzYzOF5BMl5BanBnXkFtZTgwNjI3OTE4MDE@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BMTQ3ODY4NzYzOF5BMl5BanBnXkFtZTgwNjI3OTE4MDE@._V1_SX250.jpg"
+    ]
   },
   {
     "id": "9e95f42a03324e5ad44838c309ca3769",
@@ -17075,19 +17049,7 @@
       "Telugu",
       "Hindi",
       "Multi-Lang"
-    ],
-    "imdbId": "tt30395619",
-    "name": "Demon Slayer: Kimetsu No Yaiba - To the Hashira Training",
-    "year": "2024",
-    "poster": "https://images.metahub.space/poster/small/tt30395619/img",
-    "thumbnail": "https://images.metahub.space/poster/small/tt30395619/img",
-    "genres": [
-      "Animation",
-      "Action",
-      "Adventure"
-    ],
-    "description": "Tanjiro undergoes rigorous training with the Stone Hashira, Himejima, in his quest to become a Hashira. Meanwhile, Muzan continues to search for Nezuko and Ubuyashiki.",
-    "imdbRating": "7.2"
+    ]
   },
   {
     "id": "c8ed1675e82a4149b42c9ad6b7bec882",
@@ -17970,12 +17932,7 @@
     "rawText": "Mellisai (2026) Tamil HD + ESub - [1080p & 720p - AVC - (DD+5.1 - 384Kbps) - 3.4GB + Rips]",
     "languages": [
       "Tamil"
-    ],
-    "imdbId": "tt38496328",
-    "name": "Mellisai",
-    "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BZmNiM2Q3ZjgtNGEyYS00ZDcwLTljYzItZGZmYjYzMzJhY2NmXkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BZmNiM2Q3ZjgtNGEyYS00ZDcwLTljYzItZGZmYjYzMzJhY2NmXkEyXkFqcGc@._V1_SX250.jpg"
+    ]
   },
   {
     "id": "a717624a90431f40ed0ca2c73423a9f5",
@@ -18561,12 +18518,7 @@
       "Kannada",
       "Hindi",
       "Multi-Lang"
-    ],
-    "imdbId": "tt0427340",
-    "name": "Masters of the Universe",
-    "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BMTJjYTFkM2EtZjBmNy00OTk2LTg0NTAtNzYxYzlmNjhkMzQ5XkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BMTJjYTFkM2EtZjBmNy00OTk2LTg0NTAtNzYxYzlmNjhkMzQ5XkEyXkFqcGc@._V1_SX250.jpg"
+    ]
   },
   {
     "id": "0dc9b54b6e18c0c47ff5db748294b750",
@@ -19186,7 +19138,12 @@
       "Kannada",
       "Hindi",
       "Multi-Lang"
-    ]
+    ],
+    "imdbId": "tt31624258",
+    "name": "Hijack 1971",
+    "year": 1971,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMGNjMDRmYzAtM2QxNS00Njg5LTk2ZGItZDQ1MjgwNzYxMTZiXkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BMGNjMDRmYzAtM2QxNS00Njg5LTk2ZGItZDQ1MjgwNzYxMTZiXkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "99685c60208238a71f29181ef804e8c1",
@@ -19483,12 +19440,7 @@
       "Telugu",
       "Hindi",
       "Multi-Lang"
-    ],
-    "imdbId": "tt41983440",
-    "name": "23 000 Lives",
-    "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BYTEwNDFmMGQtYTdkYS00NWQ4LWExODAtYWYyZThkNjM4NDZhXkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BYTEwNDFmMGQtYTdkYS00NWQ4LWExODAtYWYyZThkNjM4NDZhXkEyXkFqcGc@._V1_SX250.jpg"
+    ]
   },
   {
     "id": "00e744cf6c1e2e02753ab6fb6af20452",
@@ -19518,18 +19470,7 @@
       "Telugu",
       "Hindi",
       "Multi-Lang"
-    ],
-    "imdbId": "tt13570066",
-    "name": "Desert Warrior",
-    "year": "2026",
-    "poster": "https://images.metahub.space/poster/small/tt13570066/img",
-    "thumbnail": "https://images.metahub.space/poster/small/tt13570066/img",
-    "genres": [
-      "Action",
-      "Adventure",
-      "Drama"
-    ],
-    "description": "An honorable and mysterious rogue, known as Hanzala, makes himself an enemy of the Emperor Kisra after he helps a fugitive king and princess in the desert."
+    ]
   },
   {
     "id": "1664789d14885ef1be1202afd51e1cb7",
@@ -19684,12 +19625,7 @@
     "rawText": "Transfer Trimurthulu (2025) Telugu HD + ESub - [1080p & 720p - AVC / HEVC - (DD+5.1 - 192Kbps) - 2.8GB + Rips]",
     "languages": [
       "Telugu"
-    ],
-    "imdbId": "tt42932774",
-    "name": "Transfer Trimurthulu",
-    "year": 2025,
-    "poster": "https://m.media-amazon.com/images/M/MV5BMDkyODRjYjAtNWQ0Yy00MTRjLTk3ZmYtODA4ZGE3ZWI3MmEyXkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BMDkyODRjYjAtNWQ0Yy00MTRjLTk3ZmYtODA4ZGE3ZWI3MmEyXkEyXkFqcGc@._V1_SX250.jpg"
+    ]
   },
   {
     "id": "fa3434b961a1a852980f1c6bc4b1413f",
@@ -19896,12 +19832,7 @@
     "rawText": "Double Occupancy (2026) Tamil HD + ESub - [1080p & 720p - AVC / HEVC - (DD+5.1 - 640Kbps) - 8GB + Rips] - [W]",
     "languages": [
       "Tamil"
-    ],
-    "imdbId": "tt36853497",
-    "name": "Double Occupancy",
-    "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BM2JlN2QwNTItYzc0Ny00NDQ0LTlhODktNzk1NDlmOWQ5YzdkXkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BM2JlN2QwNTItYzc0Ny00NDQ0LTlhODktNzk1NDlmOWQ5YzdkXkEyXkFqcGc@._V1_SX250.jpg"
+    ]
   },
   {
     "id": "229c7cc4d8db3bdb4b185b84591bcb8b",
