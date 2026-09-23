@@ -4567,7 +4567,12 @@
     "rawText": "Vivaah (2026) Malayalam HD + ESub - [4K, 1080p & 720p - AVC / HEVC - (DD+5.1 - 192Kbps) - 6GB + Rips]",
     "languages": [
       "Malayalam"
-    ]
+    ],
+    "imdbId": "tt43675327",
+    "name": "Vivaah",
+    "year": 2026,
+    "poster": "https://m.media-amazon.com/images/M/MV5BNGY4ZmIzYjAtMjgwMS00ZmU0LWJiYjgtZDVlZGY2ZGU4NjQ1XkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BNGY4ZmIzYjAtMjgwMS00ZmU0LWJiYjgtZDVlZGY2ZGU4NjQ1XkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "44ddcb4ac93482958a8358368db14ee4",
@@ -4954,7 +4959,12 @@
       "Tamil",
       "Malayalam",
       "Telugu"
-    ]
+    ],
+    "imdbId": "tt37535100",
+    "name": "Bethlehem Kudumba Unit",
+    "year": 2026,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTU5OWQ4YTgtZTZiMi00ZjE2LTk1MjgtYjcyNDZiODBjYTQ3XkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BMTU5OWQ4YTgtZTZiMi00ZjE2LTk1MjgtYjcyNDZiODBjYTQ3XkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "10e2e32227b59fe0be91597e209dad78",
@@ -8740,12 +8750,7 @@
       "Kannada",
       "Hindi",
       "Multi-Lang"
-    ],
-    "imdbId": "tt39818587",
-    "name": "Newton's 3rd Law",
-    "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BNzcwNTIyOTctNjFiMi00Yjk3LWI0MmItMTFkODMwNmE4NDRjXkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BNzcwNTIyOTctNjFiMi00Yjk3LWI0MmItMTFkODMwNmE4NDRjXkEyXkFqcGc@._V1_SX250.jpg"
+    ]
   },
   {
     "id": "77e58c87b612df580ec543fc533bd76e",
@@ -9188,12 +9193,7 @@
       "Kannada",
       "Hindi",
       "Multi-Lang"
-    ],
-    "imdbId": "tt37654096",
-    "name": "The Last Sunrise",
-    "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BMjZlMjQxN2MtYjAyOS00YjliLWE3NjEtNDZjOWI5NTAxNTY2XkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BMjZlMjQxN2MtYjAyOS00YjliLWE3NjEtNDZjOWI5NTAxNTY2XkEyXkFqcGc@._V1_SX250.jpg"
+    ]
   },
   {
     "id": "355f43a01a2f34e758091bd4c212e462",
@@ -12071,7 +12071,18 @@
       "Tamil",
       "Hindi",
       "Multi-Lang"
-    ]
+    ],
+    "imdbId": "tt0462023",
+    "name": "Romulus, My Father",
+    "year": "2007",
+    "poster": "https://images.metahub.space/poster/small/tt0462023/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt0462023/img",
+    "genres": [
+      "Biography",
+      "Drama"
+    ],
+    "description": "It tells the story of Romulus, his beautiful wife, Christina, and their struggle in the face of great adversity to bring up their son, Raimond. It is a story of impossible love that ultimately celebrates the unbreakable bond betwe...",
+    "imdbRating": "6.6"
   },
   {
     "id": "1c70adba93dbff83c67f1754ea228b96",
