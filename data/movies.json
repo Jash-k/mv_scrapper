@@ -2101,12 +2101,7 @@
       "Telugu",
       "Hindi",
       "Multi-Lang"
-    ],
-    "imdbId": "tt0025366",
-    "name": "Lady by Choice",
-    "year": 1934,
-    "poster": "https://m.media-amazon.com/images/M/MV5BYzlhY2YyMzMtNGZhZS00ZGMwLTg2NTEtNmUwOWYwNWI4NmY1XkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BYzlhY2YyMzMtNGZhZS00ZGMwLTg2NTEtNmUwOWYwNWI4NmY1XkEyXkFqcGc@._V1_SX250.jpg"
+    ]
   },
   {
     "id": "00cc81ac43e7d164fee4e4eab9ea8db1",
@@ -2262,12 +2257,7 @@
       "Kannada",
       "Hindi",
       "Multi-Lang"
-    ],
-    "imdbId": "tt43056433",
-    "name": "Karmakhya",
-    "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BYTg4NjY2NTctM2I2MC00NzdmLThiNjktMjBhMzk1ZjE2M2M5XkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BYTg4NjY2NTctM2I2MC00NzdmLThiNjktMjBhMzk1ZjE2M2M5XkEyXkFqcGc@._V1_SX250.jpg"
+    ]
   },
   {
     "id": "1727e6e59594aa52f7527c759ba00346",
@@ -2629,12 +2619,7 @@
       "Telugu",
       "Hindi",
       "Multi-Lang"
-    ],
-    "imdbId": "tt39667834",
-    "name": "Lust Stories 3",
-    "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BZDZkNjJjY2YtMjZmYy00MDllLTgxZjItMjc4YjMxODMwZDMzXkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BZDZkNjJjY2YtMjZmYy00MDllLTgxZjItMjc4YjMxODMwZDMzXkEyXkFqcGc@._V1_SX250.jpg"
+    ]
   },
   {
     "id": "bc422afb2c983d69b6212fb7518dad54",
@@ -2846,12 +2831,7 @@
       "Tamil",
       "Hindi",
       "Multi-Lang"
-    ],
-    "imdbId": "tt36926359",
-    "name": "Seven Snipers",
-    "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BZDA0NDRhODAtODFjMS00MzdkLWI2ZDEtNjQxMGM5MTExY2QzXkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BZDA0NDRhODAtODFjMS00MzdkLWI2ZDEtNjQxMGM5MTExY2QzXkEyXkFqcGc@._V1_SX250.jpg"
+    ]
   },
   {
     "id": "65d2c0154f0676fb2460a56da6b33b65",
@@ -3112,7 +3092,20 @@
       "Telugu",
       "Hindi",
       "Multi-Lang"
-    ]
+    ],
+    "imdbId": "tt0443676",
+    "name": "Undisputed 2: Last Man Standing",
+    "year": "2006",
+    "poster": "https://images.metahub.space/poster/small/tt0443676/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt0443676/img",
+    "genres": [
+      "Action",
+      "Crime",
+      "Drama",
+      "Sport"
+    ],
+    "description": "Sequel to the 2002 film. This time, Heavyweight Champ George \"Iceman\" Chambers is sent to a Russian Jail on trumped-up drug charges.",
+    "imdbRating": "7.1"
   },
   {
     "id": "3f755c5a04d75109d91cc73cddea114e",
@@ -5398,7 +5391,19 @@
       "Tamil",
       "Malayalam",
       "Telugu"
-    ]
+    ],
+    "imdbId": "tt36639986",
+    "name": "I'm Frankelda",
+    "year": "2025",
+    "poster": "https://images.metahub.space/poster/small/tt36639986/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt36639986/img",
+    "genres": [
+      "Animation",
+      "Family",
+      "Fantasy"
+    ],
+    "description": "Frankelda, a determined 19th-century Mexican writer, journeys into her subconscious to face the monsters she's written about. Guided by a tormented prince, she must restore the balance between fiction and reality before it's too l...",
+    "imdbRating": "7.3"
   },
   {
     "id": "605e01d3c02c8bc9fadc35f343780d99",
@@ -5748,12 +5753,7 @@
       "Kannada",
       "Hindi",
       "Multi-Lang"
-    ],
-    "imdbId": "tt36073210",
-    "name": "Drawn Together",
-    "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BYjdkMTRlZGItNDdkMS00NDIwLTkyYzktNDNiYjYwNjdkMzEyXkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BYjdkMTRlZGItNDdkMS00NDIwLTkyYzktNDNiYjYwNjdkMzEyXkEyXkFqcGc@._V1_SX250.jpg"
+    ]
   },
   {
     "id": "3878562fb4015855685640a075f9bb9d",
@@ -5845,7 +5845,12 @@
     "rawText": "The 33 (2015) (BluRay + Org Auds) - [1080p & 720p - x264 - (Tamil + Eng) - 2.1GB + Rips]",
     "languages": [
       "Tamil"
-    ]
+    ],
+    "imdbId": "tt2006295",
+    "name": "The 33",
+    "year": 2015,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTkyNDY3NDc5NF5BMl5BanBnXkFtZTgwMzI1NDM1NjE@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BMTkyNDY3NDc5NF5BMl5BanBnXkFtZTgwMzI1NDM1NjE@._V1_SX250.jpg"
   },
   {
     "id": "1c931b782d16208485003f78536bfdc0",
@@ -6327,7 +6332,12 @@
     "rawText": "Last Days (2025) Hindi HD + ESub - [1080p & 720p - AVC - (DD+5.1 - 192Kbps) - 3.5GB + Rips]",
     "languages": [
       "Hindi"
-    ]
+    ],
+    "imdbId": "tt0403217",
+    "name": "Last Days",
+    "year": 2025,
+    "poster": "https://m.media-amazon.com/images/M/MV5BODk1OTUyZmYtNTQxYS00Y2FhLTliNmUtNTM2OTcwZjgzMzI0XkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BODk1OTUyZmYtNTQxYS00Y2FhLTliNmUtNTM2OTcwZjgzMzI0XkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "5de9748c1cfbb42761b6aa2a06712bde",
@@ -8325,7 +8335,12 @@
       "Tamil",
       "Hindi",
       "Multi-Lang"
-    ]
+    ],
+    "imdbId": "tt0765429",
+    "name": "American Gangster",
+    "year": 2007,
+    "poster": "https://m.media-amazon.com/images/M/MV5BZGExM2MwNjUtNThkNi00ZjBmLWJhZDgtN2ZmOWJiZWEwNGMxXkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BZGExM2MwNjUtNThkNi00ZjBmLWJhZDgtN2ZmOWJiZWEwNGMxXkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "8468f1bb42cfdac7cc52bf9176e82b19",
@@ -11501,7 +11516,13 @@
       "Hindi",
       "Tamil",
       "Telugu"
-    ]
+    ],
+    "imdbId": "tt5256640",
+    "name": "Lenin",
+    "year": "2017",
+    "poster": "https://images.metahub.space/poster/small/tt5256640/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt5256640/img",
+    "genres": []
   },
   {
     "id": "68aed7f241b44bdcc1cfca6a6ce1fb99",
@@ -14029,7 +14050,12 @@
       "Telugu",
       "Hindi",
       "Multi-Lang"
-    ]
+    ],
+    "imdbId": "tt32890033",
+    "name": "Minions & Monsters",
+    "year": 2026,
+    "poster": "https://m.media-amazon.com/images/M/MV5BYzBjMDg4YjctYzg3ZS00ZDFmLWI1YjctM2RkZGVjZWEyYWQ0XkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BYzBjMDg4YjctYzg3ZS00ZDFmLWI1YjctM2RkZGVjZWEyYWQ0XkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "5c7095bc9c22b66c4fcda81e4a724b24",
@@ -18114,7 +18140,12 @@
     "rawText": "Kalyanamaram (2026) Malayalam HD + ESub - [1080p & 720p - AVC - (DD+5.1 - 384Kbps) - 2.7GB + Rips]",
     "languages": [
       "Malayalam"
-    ]
+    ],
+    "imdbId": "tt43505958",
+    "name": "Kalyanamaram",
+    "year": 2026,
+    "poster": "https://m.media-amazon.com/images/M/MV5BZDA0ZWJhYzYtMzcxNS00ZWFmLTllODctMmJmNTIxMzhlNTExXkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BZDA0ZWJhYzYtMzcxNS00ZWFmLTllODctMmJmNTIxMzhlNTExXkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "9f49ee247d59fadd80c0807e22bc6c64",
@@ -19377,7 +19408,18 @@
       "Tamil",
       "Hindi",
       "Multi-Lang"
-    ]
+    ],
+    "imdbId": "tt7181546",
+    "name": "Ballerina",
+    "year": "2025",
+    "poster": "https://images.metahub.space/poster/small/tt7181546/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt7181546/img",
+    "genres": [
+      "Action",
+      "Thriller"
+    ],
+    "description": "An assassin trained in the traditions of the Ruska Roma organization sets out to seek revenge after her father's death.",
+    "imdbRating": "6.8"
   },
   {
     "id": "61d6eb958d141e05b0d86f07939ef8be",
@@ -19427,7 +19469,12 @@
       "Kannada",
       "Hindi",
       "Multi-Lang"
-    ]
+    ],
+    "imdbId": "tt31624258",
+    "name": "Hijack 1971",
+    "year": 1971,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMGNjMDRmYzAtM2QxNS00Njg5LTk2ZGItZDQ1MjgwNzYxMTZiXkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BMGNjMDRmYzAtM2QxNS00Njg5LTk2ZGItZDQ1MjgwNzYxMTZiXkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "99685c60208238a71f29181ef804e8c1",
@@ -20254,7 +20301,12 @@
     "rawText": "Tholaivil Oru Kadhal (2026) Tamil HD - [1080p & 720p - AVC - (AAC 2.0) - 1.2GB + Rips]",
     "languages": [
       "Tamil"
-    ]
+    ],
+    "imdbId": "tt42942813",
+    "name": "Tholaivil Oru Kadhal",
+    "year": 2026,
+    "poster": "https://m.media-amazon.com/images/M/MV5BZTYyNmE3ZTUtYzIzNy00ZTE0LWI0NjYtY2U5MDUxZjZjNTIzXkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BZTYyNmE3ZTUtYzIzNy00ZTE0LWI0NjYtY2U5MDUxZjZjNTIzXkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "2acb9cdc086e557e45ff9aab56e969de",
