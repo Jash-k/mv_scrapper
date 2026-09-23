@@ -41,7 +41,19 @@
       "Telugu",
       "Hindi",
       "Multi-Lang"
-    ]
+    ],
+    "imdbId": "tt0259324",
+    "name": "Ghost Rider",
+    "year": "2007",
+    "poster": "https://images.metahub.space/poster/small/tt0259324/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt0259324/img",
+    "genres": [
+      "Action",
+      "Fantasy",
+      "Thriller"
+    ],
+    "description": "A motorcycle stuntman who sold his soul becomes a supernatural agent of vengeance.",
+    "imdbRating": "5.3"
   },
   {
     "id": "1c70adba93dbff83c67f1754ea228b96",
@@ -2428,12 +2440,7 @@
       "Telugu",
       "Hindi",
       "Multi-Lang"
-    ],
-    "imdbId": "tt0064839",
-    "name": "Crime and Punishment",
-    "year": 1935,
-    "poster": "https://m.media-amazon.com/images/M/MV5BODI1NzZlNDItNzhjMC00NzBjLThkNzYtYzE3NzU1Zjk4MmNhXkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BODI1NzZlNDItNzhjMC00NzBjLThkNzYtYzE3NzU1Zjk4MmNhXkEyXkFqcGc@._V1_SX250.jpg"
+    ]
   },
   {
     "id": "62c716ea7d1adee11783a2e7652e3969",
@@ -7743,7 +7750,12 @@
     "rawText": "Once More (2026) Tamil HQ PreDVD (HQ Clean) - [1080p & 720p - x264 - 2.7GB + Rips] - [W]",
     "languages": [
       "Tamil"
-    ]
+    ],
+    "imdbId": "tt32758159",
+    "name": "Once More",
+    "year": 2026,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTIzNjFjMWItM2E2ZS00ZDdmLTkxYmEtMWIxZWY4MGIzZWYwXkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BMTIzNjFjMWItM2E2ZS00ZDdmLTkxYmEtMWIxZWY4MGIzZWYwXkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "3fd13e02362d951a2950672d76002dd1",
@@ -19031,12 +19043,7 @@
       "Telugu",
       "Hindi",
       "Multi-Lang"
-    ],
-    "imdbId": "tt33764258",
-    "name": "The Odyssey",
-    "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BNTcyNmJlZmQtNDUwYy00NDBjLTg1NGQtYTY2Y2UxMWM3NmI1XkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BNTcyNmJlZmQtNDUwYy00NDBjLTg1NGQtYTY2Y2UxMWM3NmI1XkEyXkFqcGc@._V1_SX250.jpg"
+    ]
   },
   {
     "id": "fc78aafc7b42b3a66b5d6954fd0f235d",
