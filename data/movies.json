@@ -25,7 +25,12 @@
       "Tamil",
       "Hindi",
       "Multi-Lang"
-    ]
+    ],
+    "imdbId": "tt33610673",
+    "name": "Mension House Mallesh",
+    "year": 2026,
+    "poster": "https://m.media-amazon.com/images/M/MV5BYWFkNjNhNjktNjM4YS00YTUxLWI0ZDEtYTkyZWJhOWU0OTU0XkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BYWFkNjNhNjktNjM4YS00YTUxLWI0ZDEtYTkyZWJhOWU0OTU0XkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "1bf9a165685747e60ed990a6dd457d9b",
@@ -7886,12 +7891,7 @@
     "rawText": "Once More (2026) Tamil HQ PreDVD (HQ Clean) - [1080p & 720p - x264 - 2.7GB + Rips] - [W]",
     "languages": [
       "Tamil"
-    ],
-    "imdbId": "tt32758159",
-    "name": "Once More",
-    "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BMTIzNjFjMWItM2E2ZS00ZDdmLTkxYmEtMWIxZWY4MGIzZWYwXkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BMTIzNjFjMWItM2E2ZS00ZDdmLTkxYmEtMWIxZWY4MGIzZWYwXkEyXkFqcGc@._V1_SX250.jpg"
+    ]
   },
   {
     "id": "3fd13e02362d951a2950672d76002dd1",
@@ -13516,19 +13516,7 @@
       "Telugu",
       "Hindi",
       "Multi-Lang"
-    ],
-    "imdbId": "tt4419684",
-    "name": "In the Lost Lands",
-    "year": "2025",
-    "poster": "https://images.metahub.space/poster/small/tt4419684/img",
-    "thumbnail": "https://images.metahub.space/poster/small/tt4419684/img",
-    "genres": [
-      "Action",
-      "Adventure",
-      "Fantasy"
-    ],
-    "description": "A queen sends the powerful and feared sorceress Gray Alys to the ghostly wilderness of the Lost Lands in search of a magical power, where the sorceress and her guide, the drifter Boyce, must outwit and outfight man and demon.",
-    "imdbRating": "4.7"
+    ]
   },
   {
     "id": "3dcf65d8a5164c48c8e15d21068c5ca0",
