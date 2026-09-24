@@ -1017,7 +1017,12 @@
       "Telugu",
       "Hindi",
       "Multi-Lang"
-    ]
+    ],
+    "imdbId": "tt30796568",
+    "name": "This Tempting Madness",
+    "year": 2025,
+    "poster": "https://m.media-amazon.com/images/M/MV5BNWE5ZGIyY2ItYmU2Mi00MTA3LTg5YWQtYzhlOGIxODk0OGEwXkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BNWE5ZGIyY2ItYmU2Mi00MTA3LTg5YWQtYzhlOGIxODk0OGEwXkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "8c0801c2d25748a25d796d355177b103",
@@ -1091,12 +1096,7 @@
       "Tamil",
       "Hindi",
       "Multi-Lang"
-    ],
-    "imdbId": "tt33610673",
-    "name": "Mension House Mallesh",
-    "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BYWFkNjNhNjktNjM4YS00YTUxLWI0ZDEtYTkyZWJhOWU0OTU0XkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BYWFkNjNhNjktNjM4YS00YTUxLWI0ZDEtYTkyZWJhOWU0OTU0XkEyXkFqcGc@._V1_SX250.jpg"
+    ]
   },
   {
     "id": "1bf9a165685747e60ed990a6dd457d9b",
@@ -2260,12 +2260,7 @@
       "Telugu",
       "Hindi",
       "Multi-Lang"
-    ],
-    "imdbId": "tt1634106",
-    "name": "Bloodshot",
-    "year": 2020,
-    "poster": "https://m.media-amazon.com/images/M/MV5BNDFjMTI4ZTQtYzNlNS00YmJiLWEyYzYtYWFiYTZjOTI5MDM1XkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BNDFjMTI4ZTQtYzNlNS00YmJiLWEyYzYtYWFiYTZjOTI5MDM1XkEyXkFqcGc@._V1_SX250.jpg"
+    ]
   },
   {
     "id": "a883cc1558ecc35b6f0ab75b0cc4870d",
@@ -3360,20 +3355,7 @@
       "Telugu",
       "Hindi",
       "Multi-Lang"
-    ],
-    "imdbId": "tt0443676",
-    "name": "Undisputed 2: Last Man Standing",
-    "year": "2006",
-    "poster": "https://images.metahub.space/poster/small/tt0443676/img",
-    "thumbnail": "https://images.metahub.space/poster/small/tt0443676/img",
-    "genres": [
-      "Action",
-      "Crime",
-      "Drama",
-      "Sport"
-    ],
-    "description": "Sequel to the 2002 film. This time, Heavyweight Champ George \"Iceman\" Chambers is sent to a Russian Jail on trumped-up drug charges.",
-    "imdbRating": "7.1"
+    ]
   },
   {
     "id": "3f755c5a04d75109d91cc73cddea114e",
@@ -3581,16 +3563,17 @@
       "Multi-Lang",
       "Tamil"
     ],
-    "imdbId": "tt37593831",
-    "name": "Dark Hollow",
-    "year": "2026",
-    "poster": "https://images.metahub.space/poster/small/tt37593831/img",
-    "thumbnail": "https://images.metahub.space/poster/small/tt37593831/img",
+    "imdbId": "tt32491690",
+    "name": "Dark Nuns",
+    "year": "2025",
+    "poster": "https://images.metahub.space/poster/small/tt32491690/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt32491690/img",
     "genres": [
-      "Horror"
+      "Horror",
+      "Mystery",
+      "Thriller"
     ],
-    "description": "When a nightmarish monster emerges from the depths of an Appalachian coal mine, a young mother must hunt down the creature to protect her home and save her family.",
-    "imdbRating": "3.9"
+    "description": "A young boy Hee-Joon is possessed by an evil spirit. Nun Yunia tries to save him, assisted by Nun Mikaela. Priest Paul attempts medical treatment, while Priest Andrew performs an exorcism to rid Hee-Joon of the spirit."
   },
   {
     "id": "1bfb4038bef0546818cdeafe99fdf161",
@@ -3840,12 +3823,7 @@
     "languages": [
       "Tamil",
       "Telugu"
-    ],
-    "imdbId": "tt28541577",
-    "name": "Sardar 2",
-    "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BNTMzNjZkODEtNjRiMS00MjFiLWE0YWYtOGQ5ZGVlODQ1NDVmXkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BNTMzNjZkODEtNjRiMS00MjFiLWE0YWYtOGQ5ZGVlODQ1NDVmXkEyXkFqcGc@._V1_SX250.jpg"
+    ]
   },
   {
     "id": "1e49bfd9e3a59f3ab735ebf8812de407",
@@ -3925,12 +3903,7 @@
     "languages": [
       "Tamil",
       "Telugu"
-    ],
-    "imdbId": "tt36596965",
-    "name": "Mandaadi",
-    "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BYjdjYjVkY2ItOGM4Yy00OGQ3LTg3ZDAtNmYzMWZkYzg3NGZhXkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BYjdjYjVkY2ItOGM4Yy00OGQ3LTg3ZDAtNmYzMWZkYzg3NGZhXkEyXkFqcGc@._V1_SX250.jpg"
+    ]
   },
   {
     "id": "31ef252c299b2ff66e6f5376db509626",
@@ -7446,12 +7419,7 @@
       "Hindi",
       "Multi-Lang",
       "Malayalam"
-    ],
-    "imdbId": "tt33083436",
-    "name": "Ananthan Kaadu",
-    "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BMzc5ZDNlZjgtN2Y2Yi00YjI1LTkxMDktYmRiNGE0Y2I2OWJlXkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BMzc5ZDNlZjgtN2Y2Yi00YjI1LTkxMDktYmRiNGE0Y2I2OWJlXkEyXkFqcGc@._V1_SX250.jpg"
+    ]
   },
   {
     "id": "b502514ac70d2e8ab07a401f970276b8",
@@ -7558,18 +7526,11 @@
       "Hindi",
       "Multi-Lang"
     ],
-    "imdbId": "tt6645614",
-    "name": "Trolls Holiday",
-    "year": "2017",
-    "poster": "https://images.metahub.space/poster/small/tt6645614/img",
-    "thumbnail": "https://images.metahub.space/poster/small/tt6645614/img",
-    "genres": [
-      "Animation",
-      "Adventure",
-      "Comedy"
-    ],
-    "description": "When the Queen of the Trolls, Poppy, finds out that the Bergens do not have holidays, she enlists help from her friends, Branch and the Snack Pack, to help her bring holidays to the Bergens.",
-    "imdbRating": "6.1"
+    "imdbId": "tt1679335",
+    "name": "Trolls",
+    "year": 2016,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTkxNDc3OTcxMV5BMl5BanBnXkFtZTgwODk2NjAzOTE@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BMTkxNDc3OTcxMV5BMl5BanBnXkFtZTgwODk2NjAzOTE@._V1_SX250.jpg"
   },
   {
     "id": "4a5c08ebab7dcc8432868c211dee3cb9",
@@ -8553,12 +8514,7 @@
       "Telugu",
       "Hindi",
       "Multi-Lang"
-    ],
-    "imdbId": "tt35330717",
-    "name": "The Orphans",
-    "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BMTkzNmEyZjItNGM1NC00YWUwLTgwYjktY2IxZmM5YzIzOGY2XkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BMTkzNmEyZjItNGM1NC00YWUwLTgwYjktY2IxZmM5YzIzOGY2XkEyXkFqcGc@._V1_SX250.jpg"
+    ]
   },
   {
     "id": "37c5887fd7d21e617de49a7cd1491766",
@@ -13723,7 +13679,19 @@
       "Telugu",
       "Hindi",
       "Multi-Lang"
-    ]
+    ],
+    "imdbId": "tt4419684",
+    "name": "In the Lost Lands",
+    "year": "2025",
+    "poster": "https://images.metahub.space/poster/small/tt4419684/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt4419684/img",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy"
+    ],
+    "description": "A queen sends the powerful and feared sorceress Gray Alys to the ghostly wilderness of the Lost Lands in search of a magical power, where the sorceress and her guide, the drifter Boyce, must outwit and outfight man and demon.",
+    "imdbRating": "4.7"
   },
   {
     "id": "3dcf65d8a5164c48c8e15d21068c5ca0",
@@ -14324,12 +14292,7 @@
       "Telugu",
       "Hindi",
       "Multi-Lang"
-    ],
-    "imdbId": "tt1800302",
-    "name": "Gold",
-    "year": 2022,
-    "poster": "https://m.media-amazon.com/images/M/MV5BNzI1NjI5OTUyM15BMl5BanBnXkFtZTgwOTM4NzY2MDI@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BNzI1NjI5OTUyM15BMl5BanBnXkFtZTgwOTM4NzY2MDI@._V1_SX250.jpg"
+    ]
   },
   {
     "id": "638cfaa36eb2ea3a8dd1e8fe7af23786",
