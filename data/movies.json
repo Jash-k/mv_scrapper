@@ -3542,16 +3542,17 @@
       "Multi-Lang",
       "Tamil"
     ],
-    "imdbId": "tt37593831",
-    "name": "Dark Hollow",
-    "year": "2026",
-    "poster": "https://images.metahub.space/poster/small/tt37593831/img",
-    "thumbnail": "https://images.metahub.space/poster/small/tt37593831/img",
+    "imdbId": "tt32491690",
+    "name": "Dark Nuns",
+    "year": "2025",
+    "poster": "https://images.metahub.space/poster/small/tt32491690/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt32491690/img",
     "genres": [
-      "Horror"
+      "Horror",
+      "Mystery",
+      "Thriller"
     ],
-    "description": "When a nightmarish monster emerges from the depths of an Appalachian coal mine, a young mother must hunt down the creature to protect her home and save her family.",
-    "imdbRating": "3.9"
+    "description": "A young boy Hee-Joon is possessed by an evil spirit. Nun Yunia tries to save him, assisted by Nun Mikaela. Priest Paul attempts medical treatment, while Priest Andrew performs an exorcism to rid Hee-Joon of the spirit."
   },
   {
     "id": "1bfb4038bef0546818cdeafe99fdf161",
@@ -7519,18 +7520,11 @@
       "Hindi",
       "Multi-Lang"
     ],
-    "imdbId": "tt6645614",
-    "name": "Trolls Holiday",
-    "year": "2017",
-    "poster": "https://images.metahub.space/poster/small/tt6645614/img",
-    "thumbnail": "https://images.metahub.space/poster/small/tt6645614/img",
-    "genres": [
-      "Animation",
-      "Adventure",
-      "Comedy"
-    ],
-    "description": "When the Queen of the Trolls, Poppy, finds out that the Bergens do not have holidays, she enlists help from her friends, Branch and the Snack Pack, to help her bring holidays to the Bergens.",
-    "imdbRating": "6.1"
+    "imdbId": "tt1679335",
+    "name": "Trolls",
+    "year": 2016,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTkxNDc3OTcxMV5BMl5BanBnXkFtZTgwODk2NjAzOTE@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BMTkxNDc3OTcxMV5BMl5BanBnXkFtZTgwODk2NjAzOTE@._V1_SX250.jpg"
   },
   {
     "id": "4a5c08ebab7dcc8432868c211dee3cb9",
@@ -12650,15 +12644,9 @@
     ],
     "imdbId": "tt0088103",
     "name": "Sheena",
-    "year": "1984",
-    "poster": "https://images.metahub.space/poster/small/tt0088103/img",
-    "thumbnail": "https://images.metahub.space/poster/small/tt0088103/img",
-    "genres": [
-      "Adventure",
-      "Fantasy"
-    ],
-    "description": "Sheena grew up in the African wild, raised by a mystical witch woman. When her foster mother is framed for a murder Sheena is forced to flee, helped by her ability to talk to animals and her knowledge of the jungle.",
-    "imdbRating": "4.9"
+    "year": 1984,
+    "poster": "https://m.media-amazon.com/images/M/MV5BZTNkN2I1OTgtMjAyOS00YWUwLTg3NDYtOTlmZjY4ZDE1N2M5XkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BZTNkN2I1OTgtMjAyOS00YWUwLTg3NDYtOTlmZjY4ZDE1N2M5XkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "98b9ce51ad5efdae6d7749f4569cb849",
@@ -17091,7 +17079,12 @@
     "rawText": "Hai Jawani Toh Ishq Hona Hai (2026) Hindi HD + ESub - [4K, 1080p & 720p - AVC / HEVC - (DD+5.1 - 192Kbps) - 8GB + Rips]",
     "languages": [
       "Hindi"
-    ]
+    ],
+    "imdbId": "tt30447822",
+    "name": "Hai Jawani Toh Ishq Hona Hai",
+    "year": 2026,
+    "poster": "https://m.media-amazon.com/images/M/MV5BZWE1OTg5ZDMtYjllZC00YzE2LTg1N2UtZmI0OTBmMWE3NzFkXkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BZWE1OTg5ZDMtYjllZC00YzE2LTg1N2UtZmI0OTBmMWE3NzFkXkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "c1a52c50fc812b4aa540956c9e929e2b",
