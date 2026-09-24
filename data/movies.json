@@ -444,7 +444,10 @@
     "rawText": "Mango Pachcha (2026) Tamil HD + ESub - [1080p & 720p - AVC /HEVC - (DD+5.1 - 192Kbps) - 2.8GB + Rips]",
     "languages": [
       "Tamil",
-      "Kannada"
+      "Kannada",
+      "Malayalam",
+      "Hindi",
+      "Multi-Lang"
     ],
     "imdbId": "tt33293169",
     "name": "Mango",
@@ -2902,12 +2905,7 @@
       "Telugu",
       "Hindi",
       "Multi-Lang"
-    ],
-    "imdbId": "tt1634106",
-    "name": "Bloodshot",
-    "year": 2020,
-    "poster": "https://m.media-amazon.com/images/M/MV5BNDFjMTI4ZTQtYzNlNS00YmJiLWEyYzYtYWFiYTZjOTI5MDM1XkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BNDFjMTI4ZTQtYzNlNS00YmJiLWEyYzYtYWFiYTZjOTI5MDM1XkEyXkFqcGc@._V1_SX250.jpg"
+    ]
   },
   {
     "id": "a883cc1558ecc35b6f0ab75b0cc4870d",
@@ -3568,12 +3566,7 @@
       "Telugu",
       "Hindi",
       "Multi-Lang"
-    ],
-    "imdbId": "tt1687901",
-    "name": "The Awakening",
-    "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BMzk0ODc1NDMxOV5BMl5BanBnXkFtZTcwNTAzMzgwOA@@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BMzk0ODc1NDMxOV5BMl5BanBnXkFtZTcwNTAzMzgwOA@@._V1_SX250.jpg"
+    ]
   },
   {
     "id": "0615a846b3064a77e3c2b7db5e2a95b5",
@@ -4223,16 +4216,17 @@
       "Multi-Lang",
       "Tamil"
     ],
-    "imdbId": "tt37593831",
-    "name": "Dark Hollow",
-    "year": "2026",
-    "poster": "https://images.metahub.space/poster/small/tt37593831/img",
-    "thumbnail": "https://images.metahub.space/poster/small/tt37593831/img",
+    "imdbId": "tt32491690",
+    "name": "Dark Nuns",
+    "year": "2025",
+    "poster": "https://images.metahub.space/poster/small/tt32491690/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt32491690/img",
     "genres": [
-      "Horror"
+      "Horror",
+      "Mystery",
+      "Thriller"
     ],
-    "description": "When a nightmarish monster emerges from the depths of an Appalachian coal mine, a young mother must hunt down the creature to protect her home and save her family.",
-    "imdbRating": "3.9"
+    "description": "A young boy Hee-Joon is possessed by an evil spirit. Nun Yunia tries to save him, assisted by Nun Mikaela. Priest Paul attempts medical treatment, while Priest Andrew performs an exorcism to rid Hee-Joon of the spirit."
   },
   {
     "id": "1bfb4038bef0546818cdeafe99fdf161",
@@ -4262,12 +4256,7 @@
       "Telugu",
       "Hindi",
       "Multi-Lang"
-    ],
-    "imdbId": "tt41228546",
-    "name": "Sultana",
-    "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BNWYxNzhkY2UtYzA0Mi00YjlmLTlkZDEtZGU4OGQ1MTEwNjg4XkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BNWYxNzhkY2UtYzA0Mi00YjlmLTlkZDEtZGU4OGQ1MTEwNjg4XkEyXkFqcGc@._V1_SX250.jpg"
+    ]
   },
   {
     "id": "06f1821a1f25047cf688f7834b20e6a1",
@@ -4482,12 +4471,7 @@
     "languages": [
       "Tamil",
       "Telugu"
-    ],
-    "imdbId": "tt28541577",
-    "name": "Sardar 2",
-    "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BNTMzNjZkODEtNjRiMS00MjFiLWE0YWYtOGQ5ZGVlODQ1NDVmXkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BNTMzNjZkODEtNjRiMS00MjFiLWE0YWYtOGQ5ZGVlODQ1NDVmXkEyXkFqcGc@._V1_SX250.jpg"
+    ]
   },
   {
     "id": "1e49bfd9e3a59f3ab735ebf8812de407",
@@ -4974,12 +4958,7 @@
       "Malayalam",
       "Kannada",
       "Multi-Lang"
-    ],
-    "imdbId": "tt37563829",
-    "name": "Magudam",
-    "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BODNjNzgwNjMtYzJiMy00ODI3LTg3NGQtZWQzNWEyZjA3YjhhXkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BODNjNzgwNjMtYzJiMy00ODI3LTg3NGQtZWQzNWEyZjA3YjhhXkEyXkFqcGc@._V1_SX250.jpg"
+    ]
   },
   {
     "id": "bfb32ffd5bdb85eb7d753cb47b9104d3",
@@ -5160,12 +5139,7 @@
       "Tamil",
       "Hindi",
       "Multi-Lang"
-    ],
-    "imdbId": "tt0297284",
-    "name": "Mindhunters",
-    "year": 2004,
-    "poster": "https://m.media-amazon.com/images/M/MV5BY2EzNGRhYjktOTFkYy00NDdlLTk3NDAtYzFhNzBkZmRhYmE1XkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BY2EzNGRhYjktOTFkYy00NDdlLTk3NDAtYzFhNzBkZmRhYmE1XkEyXkFqcGc@._V1_SX250.jpg"
+    ]
   },
   {
     "id": "0ddbe0ef723b27fe52a37e7127ec8a59",
@@ -5200,7 +5174,12 @@
     "rawText": "Haiwaan (2026) Hindi HQ PreDVD (HQ Clean) - [1080p & 720p - x264 - 2.8GB + Rips] - [W]",
     "languages": [
       "Hindi"
-    ]
+    ],
+    "imdbId": "tt32378175",
+    "name": "Haiwaan",
+    "year": 2026,
+    "poster": "https://m.media-amazon.com/images/M/MV5BNTVjNDc1OTktZmQ0MS00MjBlLTg4NDQtYTM3ZTE1MGUxMjEzXkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BNTVjNDc1OTktZmQ0MS00MjBlLTg4NDQtYTM3ZTE1MGUxMjEzXkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "8e389233fe20c32c5cf350737ea93ca9",
@@ -5337,7 +5316,12 @@
       "Telugu",
       "Hindi",
       "Multi-Lang"
-    ]
+    ],
+    "imdbId": "tt38616652",
+    "name": "Go Team!",
+    "year": 2026,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMWEzOTdmYTYtOTRkNi00MGU5LWIwZWUtNTZkZDFiNTdmOWYyXkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BMWEzOTdmYTYtOTRkNi00MGU5LWIwZWUtNTZkZDFiNTdmOWYyXkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "69bd354f18a3739873ee9f3bf63dc74a",
@@ -5913,12 +5897,7 @@
     "rawText": "Ghamasaan (2026) Hindi HD + ESub - [1080p & 720p - AVC - (DD+5.1 - 192Kbps) - 2.1GB + Rips]",
     "languages": [
       "Hindi"
-    ],
-    "imdbId": "tt33744610",
-    "name": "Ghamasaan",
-    "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BYjMwMzgwMzctNzM0NC00N2VlLTg1MjAtNDczNDIzOTRlYjM0XkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BYjMwMzgwMzctNzM0NC00N2VlLTg1MjAtNDczNDIzOTRlYjM0XkEyXkFqcGc@._V1_SX250.jpg"
+    ]
   },
   {
     "id": "d9adce016441bfd061b09861ed856a95",
@@ -8190,18 +8169,11 @@
       "Hindi",
       "Multi-Lang"
     ],
-    "imdbId": "tt6645614",
-    "name": "Trolls Holiday",
-    "year": "2017",
-    "poster": "https://images.metahub.space/poster/small/tt6645614/img",
-    "thumbnail": "https://images.metahub.space/poster/small/tt6645614/img",
-    "genres": [
-      "Animation",
-      "Adventure",
-      "Comedy"
-    ],
-    "description": "When the Queen of the Trolls, Poppy, finds out that the Bergens do not have holidays, she enlists help from her friends, Branch and the Snack Pack, to help her bring holidays to the Bergens.",
-    "imdbRating": "6.1"
+    "imdbId": "tt1679335",
+    "name": "Trolls",
+    "year": 2016,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTkxNDc3OTcxMV5BMl5BanBnXkFtZTgwODk2NjAzOTE@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BMTkxNDc3OTcxMV5BMl5BanBnXkFtZTgwODk2NjAzOTE@._V1_SX250.jpg"
   },
   {
     "id": "4a5c08ebab7dcc8432868c211dee3cb9",
@@ -13212,15 +13184,9 @@
     ],
     "imdbId": "tt0088103",
     "name": "Sheena",
-    "year": "1984",
-    "poster": "https://images.metahub.space/poster/small/tt0088103/img",
-    "thumbnail": "https://images.metahub.space/poster/small/tt0088103/img",
-    "genres": [
-      "Adventure",
-      "Fantasy"
-    ],
-    "description": "Sheena grew up in the African wild, raised by a mystical witch woman. When her foster mother is framed for a murder Sheena is forced to flee, helped by her ability to talk to animals and her knowledge of the jungle.",
-    "imdbRating": "4.9"
+    "year": 1984,
+    "poster": "https://m.media-amazon.com/images/M/MV5BZTNkN2I1OTgtMjAyOS00YWUwLTg3NDYtOTlmZjY4ZDE1N2M5XkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BZTNkN2I1OTgtMjAyOS00YWUwLTg3NDYtOTlmZjY4ZDE1N2M5XkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "98b9ce51ad5efdae6d7749f4569cb849",
@@ -16962,12 +16928,7 @@
     "rawText": "Objection My Lord (2026) Telugu TRUE WEB-DL - [1080p - 720p - AVC - (AAC 2.0) - 2.4GB + Rips]",
     "languages": [
       "Telugu"
-    ],
-    "imdbId": "tt35094565",
-    "name": "Objection My Lord",
-    "year": 2026,
-    "poster": "https://images.metahub.space/poster/small/tt35094565/img",
-    "thumbnail": "https://images.metahub.space/poster/small/tt35094565/img"
+    ]
   },
   {
     "id": "9f6c34e3c0ee2f1d1c732c5fbe73d755",
@@ -17657,8 +17618,8 @@
     "imdbId": "tt30447822",
     "name": "Hai Jawani Toh Ishq Hona Hai",
     "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BZGZmOGE3OGEtYTRhMC00OWQ2LWE4MzEtNGUyZmRmZmEyNDdhXkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BZGZmOGE3OGEtYTRhMC00OWQ2LWE4MzEtNGUyZmRmZmEyNDdhXkEyXkFqcGc@._V1_SX250.jpg"
+    "poster": "https://m.media-amazon.com/images/M/MV5BZWE1OTg5ZDMtYjllZC00YzE2LTg1N2UtZmI0OTBmMWE3NzFkXkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BZWE1OTg5ZDMtYjllZC00YzE2LTg1N2UtZmI0OTBmMWE3NzFkXkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "c1a52c50fc812b4aa540956c9e929e2b",
