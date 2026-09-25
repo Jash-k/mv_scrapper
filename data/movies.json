@@ -100,12 +100,7 @@
       "Tamil",
       "Telugu",
       "Hindi"
-    ],
-    "imdbId": "tt31969655",
-    "name": "The Paradise",
-    "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BMGI3N2I1ZWUtYzMyZS00MTRlLThlNDUtNWZhY2MxZTlmMDJjXkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BMGI3N2I1ZWUtYzMyZS00MTRlLThlNDUtNWZhY2MxZTlmMDJjXkEyXkFqcGc@._V1_SX250.jpg"
+    ]
   },
   {
     "id": "3fd13e02362d951a2950672d76002dd1",
@@ -2397,12 +2392,7 @@
       "Tamil",
       "Hindi",
       "Multi-Lang"
-    ],
-    "imdbId": "tt35538033",
-    "name": "Resident Evil",
-    "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BZGVmNzRlZTctNTU2OS00MTQwLWI2ZWQtOGViMjc4ODNlNzVmXkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BZGVmNzRlZTctNTU2OS00MTQwLWI2ZWQtOGViMjc4ODNlNzVmXkEyXkFqcGc@._V1_SX250.jpg"
+    ]
   },
   {
     "id": "9e2e6c53396c1d66724bd6c1ddb316ce",
@@ -3299,7 +3289,12 @@
       "Telugu",
       "Hindi",
       "Multi-Lang"
-    ]
+    ],
+    "imdbId": "tt1634106",
+    "name": "Bloodshot",
+    "year": 2020,
+    "poster": "https://m.media-amazon.com/images/M/MV5BNDFjMTI4ZTQtYzNlNS00YmJiLWEyYzYtYWFiYTZjOTI5MDM1XkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BNDFjMTI4ZTQtYzNlNS00YmJiLWEyYzYtYWFiYTZjOTI5MDM1XkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "a883cc1558ecc35b6f0ab75b0cc4870d",
@@ -6276,12 +6271,7 @@
       "Telugu",
       "Hindi",
       "Multi-Lang"
-    ],
-    "imdbId": "tt30887701",
-    "name": "Pinocchio: Unstrung",
-    "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BNGVmODI1N2YtMjBjMC00YmMyLTg1MDYtNDViNTgxMzVhMDU2XkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BNGVmODI1N2YtMjBjMC00YmMyLTg1MDYtNDViNTgxMzVhMDU2XkEyXkFqcGc@._V1_SX250.jpg"
+    ]
   },
   {
     "id": "52164c150caa6dfb37e53efed990834f",
@@ -7202,7 +7192,12 @@
       "Telugu",
       "Hindi",
       "Multi-Lang"
-    ]
+    ],
+    "imdbId": "tt30691214",
+    "name": "Forbidden Fruits",
+    "year": 1932,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMDA1MDRhOTAtMmFjNi00MmUwLWI4MjYtY2ExN2U0YmYwMmQwXkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BMDA1MDRhOTAtMmFjNi00MmUwLWI4MjYtY2ExN2U0YmYwMmQwXkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "c4f3e9906ba378e2e4fffcc735b342ab",
@@ -8587,12 +8582,7 @@
       "Telugu",
       "Hindi",
       "Multi-Lang"
-    ],
-    "imdbId": "tt1679335",
-    "name": "Trolls",
-    "year": 2016,
-    "poster": "https://m.media-amazon.com/images/M/MV5BMTkxNDc3OTcxMV5BMl5BanBnXkFtZTgwODk2NjAzOTE@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BMTkxNDc3OTcxMV5BMl5BanBnXkFtZTgwODk2NjAzOTE@._V1_SX250.jpg"
+    ]
   },
   {
     "id": "4a5c08ebab7dcc8432868c211dee3cb9",
@@ -11640,7 +11630,12 @@
       "Tamil",
       "Hindi",
       "Multi-Lang"
-    ]
+    ],
+    "imdbId": "tt3672618",
+    "name": "Dekh Tamasha Dekh",
+    "year": 2014,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTQxNzAyODkyNV5BMl5BanBnXkFtZTgwMjY1NTA3MTE@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BMTQxNzAyODkyNV5BMl5BanBnXkFtZTgwMjY1NTA3MTE@._V1_SX250.jpg"
   },
   {
     "id": "c3dfd4315fc22a5c7c22d214338669d3",
@@ -14264,15 +14259,10 @@
       "Telugu"
     ],
     "imdbId": "tt32237111",
-    "name": "Maa Inti Bangaaram",
-    "year": "2026",
-    "poster": "https://images.metahub.space/poster/small/tt32237111/img",
-    "thumbnail": "https://images.metahub.space/poster/small/tt32237111/img",
-    "genres": [
-      "Action",
-      "Drama"
-    ],
-    "description": "Through both her moments of fear and bravery, a woman discovers that embracing her vulnerabilities is as vital to her inner strength as facing challenges head-on."
+    "name": "Maa Inti Bangaram",
+    "year": 2026,
+    "poster": "https://m.media-amazon.com/images/M/MV5BZTU4OTNkNzgtMGViYi00ODg3LTg4MGYtMzc4NmIzMzA1ZmNmXkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BZTU4OTNkNzgtMGViYi00ODg3LTg4MGYtMzc4NmIzMzA1ZmNmXkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "0006f0282f5efccc29e551116fc7d442",
@@ -14461,18 +14451,11 @@
       "Hindi",
       "Multi-Lang"
     ],
-    "imdbId": "tt1341338",
-    "name": "Good Luck, Have Fun, Don't Die",
-    "year": "2026",
-    "poster": "https://images.metahub.space/poster/small/tt1341338/img",
-    "thumbnail": "https://images.metahub.space/poster/small/tt1341338/img",
-    "genres": [
-      "Action",
-      "Adventure",
-      "Comedy"
-    ],
-    "description": "A \"Man From the Future\" arrives at a diner in Los Angeles where he must recruit the precise combination of disgruntled patrons to join him on a one-night quest to save the world from the terminal threat of a rogue artificial intel...",
-    "imdbRating": "7.0"
+    "imdbId": "tt36590417",
+    "name": "Don't Say Good Luck",
+    "year": 2026,
+    "poster": "https://m.media-amazon.com/images/M/MV5BN2RiYWI1M2QtZmMzMy00MGNlLWFmNDItMWE0M2RiMDAyNjc0XkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BN2RiYWI1M2QtZmMzMy00MGNlLWFmNDItMWE0M2RiMDAyNjc0XkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "02b3a595f13e6853f6af0c65d4447229",
@@ -14567,7 +14550,12 @@
       "Telugu",
       "Hindi",
       "Multi-Lang"
-    ]
+    ],
+    "imdbId": "tt27681354",
+    "name": "In the Grey",
+    "year": 2026,
+    "poster": "https://m.media-amazon.com/images/M/MV5BOGFlYTk3M2ItNmY4Zi00ZmI2LWIzMjQtY2EyNTY4MzNkOTNiXkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BOGFlYTk3M2ItNmY4Zi00ZmI2LWIzMjQtY2EyNTY4MzNkOTNiXkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "3dcf65d8a5164c48c8e15d21068c5ca0",
@@ -15506,7 +15494,12 @@
       "Tamil",
       "Hindi",
       "Multi-Lang"
-    ]
+    ],
+    "imdbId": "tt7207156",
+    "name": "Sameer",
+    "year": 2017,
+    "poster": "https://m.media-amazon.com/images/M/MV5BODM4YzVjYzYtNjRkMy00NjFlLWI5NDAtYzIwZjVlNzAxNWU3XkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BODM4YzVjYzYtNjRkMy00NjFlLWI5NDAtYzIwZjVlNzAxNWU3XkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "692c6028a575f70475abadcdb9a88044",
@@ -16463,12 +16456,7 @@
       "Kannada",
       "Hindi",
       "Multi-Lang"
-    ],
-    "imdbId": "tt22084616",
-    "name": "Spider-Man: Brand New Day",
-    "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BOWNjYWM3NWItOGE0ZS00MWRjLThiZWEtYjc4ZmNmMmU5ZTVmXkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BOWNjYWM3NWItOGE0ZS00MWRjLThiZWEtYjc4ZmNmMmU5ZTVmXkEyXkFqcGc@._V1_SX250.jpg"
+    ]
   },
   {
     "id": "3e216b0fc045eb3353ba322615d7dd4c",
