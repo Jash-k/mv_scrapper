@@ -2032,12 +2032,7 @@
       "Telugu",
       "Hindi",
       "Multi-Lang"
-    ],
-    "imdbId": "tt30796568",
-    "name": "This Tempting Madness",
-    "year": 2025,
-    "poster": "https://m.media-amazon.com/images/M/MV5BNWE5ZGIyY2ItYmU2Mi00MTA3LTg5YWQtYzhlOGIxODk0OGEwXkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BNWE5ZGIyY2ItYmU2Mi00MTA3LTg5YWQtYzhlOGIxODk0OGEwXkEyXkFqcGc@._V1_SX250.jpg"
+    ]
   },
   {
     "id": "8c0801c2d25748a25d796d355177b103",
@@ -2155,7 +2150,19 @@
       "Telugu",
       "Hindi",
       "Multi-Lang"
-    ]
+    ],
+    "imdbId": "tt0259324",
+    "name": "Ghost Rider",
+    "year": "2007",
+    "poster": "https://images.metahub.space/poster/small/tt0259324/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt0259324/img",
+    "genres": [
+      "Action",
+      "Fantasy",
+      "Thriller"
+    ],
+    "description": "A motorcycle stuntman who sold his soul becomes a supernatural agent of vengeance.",
+    "imdbRating": "5.3"
   },
   {
     "id": "1c70adba93dbff83c67f1754ea228b96",
@@ -7098,12 +7105,7 @@
     "rawText": "Magic Mushrooms (2026) Malayalam HD + ESub - [1080p & 720p - AVC / HEVC - (DD+5.1 - 640Kbps) - 7.3GB + Rips]",
     "languages": [
       "Malayalam"
-    ],
-    "imdbId": "tt37250830",
-    "name": "Magic Mushrooms",
-    "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BMWQzY2NiMjEtYTcyYi00M2M3LWFjNmUtNWRiMTZjNDcwNjg2XkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BMWQzY2NiMjEtYTcyYi00M2M3LWFjNmUtNWRiMTZjNDcwNjg2XkEyXkFqcGc@._V1_SX250.jpg"
+    ]
   },
   {
     "id": "16946a40093d3675ceb76809b515de29",
@@ -7614,7 +7616,12 @@
     "rawText": "Last Days (2025) Hindi HD + ESub - [1080p & 720p - AVC - (DD+5.1 - 192Kbps) - 3.5GB + Rips]",
     "languages": [
       "Hindi"
-    ]
+    ],
+    "imdbId": "tt0403217",
+    "name": "Last Days",
+    "year": 2025,
+    "poster": "https://m.media-amazon.com/images/M/MV5BODk1OTUyZmYtNTQxYS00Y2FhLTliNmUtNTM2OTcwZjgzMzI0XkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BODk1OTUyZmYtNTQxYS00Y2FhLTliNmUtNTM2OTcwZjgzMzI0XkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "5de9748c1cfbb42761b6aa2a06712bde",
@@ -7655,7 +7662,12 @@
       "Tamil",
       "Hindi",
       "Multi-Lang"
-    ]
+    ],
+    "imdbId": "tt2229842",
+    "name": "Table No. 21",
+    "year": 2013,
+    "poster": "https://m.media-amazon.com/images/M/MV5BZDEwOThkNTctZjQ4OS00OGVhLWFkMWEtNTJhNDYyODc4Zjc3XkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BZDEwOThkNTctZjQ4OS00OGVhLWFkMWEtNTJhNDYyODc4Zjc3XkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "83381c6a24dc234d7542ea6884648f27",
@@ -9085,7 +9097,12 @@
     "rawText": "Once More (2026) Tamil HQ PreDVD (HQ Clean) - [1080p & 720p - x264 - 2.7GB + Rips] - [W]",
     "languages": [
       "Tamil"
-    ]
+    ],
+    "imdbId": "tt32758159",
+    "name": "Once More",
+    "year": 2026,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTIzNjFjMWItM2E2ZS00ZDdmLTkxYmEtMWIxZWY4MGIzZWYwXkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BMTIzNjFjMWItM2E2ZS00ZDdmLTkxYmEtMWIxZWY4MGIzZWYwXkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "ec20267ec693917d0eab13a2c93517cd",
@@ -9579,7 +9596,12 @@
     "rawText": "Karavali (2026) Kannada HD + ESub - [1080p & 720p - AVC - (DD+5.1 - 192Kbps) - 2GB + Rips] - [W]",
     "languages": [
       "Kannada"
-    ]
+    ],
+    "imdbId": "tt29521397",
+    "name": "Karavali",
+    "year": 2026,
+    "poster": "https://m.media-amazon.com/images/M/MV5BYjA3OGRjMTgtYjVhNC00NzljLWFkNGMtMzk4NDQxMmI0NDMyXkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BYjA3OGRjMTgtYjVhNC00NzljLWFkNGMtMzk4NDQxMmI0NDMyXkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "b192efc755a93223f712094918290c3d",
@@ -13276,7 +13298,12 @@
       "Kannada",
       "Hindi",
       "Multi-Lang"
-    ]
+    ],
+    "imdbId": "tt37537340",
+    "name": "Srinivasa Mangapuram",
+    "year": 2026,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjBjN2U3MDQtYmVmYi00N2E5LTllOTAtYjk3ZTViZWViM2FjXkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BMjBjN2U3MDQtYmVmYi00N2E5LTllOTAtYjk3ZTViZWViM2FjXkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "d709f6b3c9bdc41325768da41fe19481",
@@ -14270,7 +14297,17 @@
       "Telugu",
       "Hindi",
       "Multi-Lang"
-    ]
+    ],
+    "imdbId": "tt37540328",
+    "name": "Back to the 90s",
+    "year": "2026",
+    "poster": "https://images.metahub.space/poster/small/tt37540328/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt37540328/img",
+    "genres": [
+      "Comedy",
+      "Romance"
+    ],
+    "description": "When a glitch hurls the hottest rising boy band of five friends into the year 1995, they must find a way back — together."
   },
   {
     "id": "817160c860a260baaedd05f8d2a2282d",
@@ -14355,7 +14392,12 @@
       "Kannada",
       "Hindi",
       "Multi-Lang"
-    ]
+    ],
+    "imdbId": "tt39910244",
+    "name": "Achyuta Avataaram",
+    "year": 2026,
+    "poster": "https://m.media-amazon.com/images/M/MV5BY2Q3YzVlMTMtOTk4MC00M2I5LWE3MDQtZDQ0NWIxZDQyOTE1XkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BY2Q3YzVlMTMtOTk4MC00M2I5LWE3MDQtZDQ0NWIxZDQyOTE1XkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "866a0aff7d3541a1fa009e45ac327479",
@@ -14456,11 +14498,13 @@
       "Hindi",
       "Multi-Lang"
     ],
-    "imdbId": "tt32478708",
-    "name": "Close to Me",
-    "year": 2025,
-    "poster": "https://m.media-amazon.com/images/M/MV5BMTdlN2FiYmUtNDgzNS00ZDRkLTg1ZjgtY2JiZThkYjg0YmZkXkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BMTdlN2FiYmUtNDgzNS00ZDRkLTg1ZjgtY2JiZThkYjg0YmZkXkEyXkFqcGc@._V1_SX250.jpg"
+    "imdbId": "tt34682204",
+    "name": "Swim to Me",
+    "year": "2025",
+    "poster": "https://images.metahub.space/poster/small/tt34682204/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt34682204/img",
+    "genres": [],
+    "description": "Estela, a young woman from rural Chile, embarks on a journey to Santiago, leaving her family behind to work as a maid for an affluent household."
   },
   {
     "id": "0c1b4475bd05c1ca61add24f07e0467a",
@@ -16165,7 +16209,12 @@
       "Telugu",
       "Hindi",
       "Multi-Lang"
-    ]
+    ],
+    "imdbId": "tt0096259",
+    "name": "Things Change",
+    "year": 1988,
+    "poster": "https://m.media-amazon.com/images/M/MV5BN2NlNTY0MTctYjRkMi00YTE3LWJkMGUtYjY3MmFmNzUwMTVjXkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BN2NlNTY0MTctYjRkMi00YTE3LWJkMGUtYjY3MmFmNzUwMTVjXkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "184db1ff1216c7761cd58e941c06f4cf",
