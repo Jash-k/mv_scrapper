@@ -3632,12 +3632,7 @@
       "Kannada",
       "Hindi",
       "Multi-Lang"
-    ],
-    "imdbId": "tt43056433",
-    "name": "Karmakhya",
-    "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BYTg4NjY2NTctM2I2MC00NzdmLThiNjktMjBhMzk1ZjE2M2M5XkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BYTg4NjY2NTctM2I2MC00NzdmLThiNjktMjBhMzk1ZjE2M2M5XkEyXkFqcGc@._V1_SX250.jpg"
+    ]
   },
   {
     "id": "1727e6e59594aa52f7527c759ba00346",
@@ -11455,12 +11450,7 @@
       "Telugu",
       "Hindi",
       "Multi-Lang"
-    ],
-    "imdbId": "tt31170389",
-    "name": "Evil Dead Burn",
-    "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BZTljMTZjZTItZjMzZi00NDBhLWFmMzAtOGNiNTlhY2MxMzg5XkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BZTljMTZjZTItZjMzZi00NDBhLWFmMzAtOGNiNTlhY2MxMzg5XkEyXkFqcGc@._V1_SX250.jpg"
+    ]
   },
   {
     "id": "e550b472667db2fd998bf8b5cca5b413",
@@ -14610,11 +14600,13 @@
       "Hindi",
       "Multi-Lang"
     ],
-    "imdbId": "tt32478708",
-    "name": "Close to Me",
-    "year": 2025,
-    "poster": "https://m.media-amazon.com/images/M/MV5BMTdlN2FiYmUtNDgzNS00ZDRkLTg1ZjgtY2JiZThkYjg0YmZkXkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BMTdlN2FiYmUtNDgzNS00ZDRkLTg1ZjgtY2JiZThkYjg0YmZkXkEyXkFqcGc@._V1_SX250.jpg"
+    "imdbId": "tt34682204",
+    "name": "Swim to Me",
+    "year": "2025",
+    "poster": "https://images.metahub.space/poster/small/tt34682204/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt34682204/img",
+    "genres": [],
+    "description": "Estela, a young woman from rural Chile, embarks on a journey to Santiago, leaving her family behind to work as a maid for an affluent household."
   },
   {
     "id": "0c1b4475bd05c1ca61add24f07e0467a",
@@ -19164,7 +19156,18 @@
       "Tamil",
       "Hindi",
       "Multi-Lang"
-    ]
+    ],
+    "imdbId": "tt3614516",
+    "name": "Ankhon Dekhi",
+    "year": "2013",
+    "poster": "https://images.metahub.space/poster/small/tt3614516/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt3614516/img",
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "description": "After a distressing incident, a Delhi man vows to believe only what he can see, but his new ideals soon take his life in extreme directions.",
+    "imdbRating": "7.9"
   },
   {
     "id": "96dd1e8efb081065eac6d45cc7df2749",
