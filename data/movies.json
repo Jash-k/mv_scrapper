@@ -5009,12 +5009,7 @@
     "languages": [
       "Tamil",
       "Telugu"
-    ],
-    "imdbId": "tt36596965",
-    "name": "Mandaadi",
-    "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BYjdjYjVkY2ItOGM4Yy00OGQ3LTg3ZDAtNmYzMWZkYzg3NGZhXkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BYjdjYjVkY2ItOGM4Yy00OGQ3LTg3ZDAtNmYzMWZkYzg3NGZhXkEyXkFqcGc@._V1_SX250.jpg"
+    ]
   },
   {
     "id": "31ef252c299b2ff66e6f5376db509626",
@@ -5970,12 +5965,7 @@
       "Kannada",
       "Hindi",
       "Multi-Lang"
-    ],
-    "imdbId": "tt43665767",
-    "name": "Maharaja Hostel",
-    "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BNDY3ZjA2ZWYtZjg2Yy00ZDhhLTk4NDgtMDk0N2QyYTE1MDJjXkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BNDY3ZjA2ZWYtZjg2Yy00ZDhhLTk4NDgtMDk0N2QyYTE1MDJjXkEyXkFqcGc@._V1_SX250.jpg"
+    ]
   },
   {
     "id": "dfa074a62da17bdcbba5de2651429159",
@@ -7554,12 +7544,7 @@
       "Kannada",
       "Hindi",
       "Multi-Lang"
-    ],
-    "imdbId": "tt35712605",
-    "name": "G.D.N.",
-    "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BNWUwZTJkOTktMTBjYi00MWEzLThlY2QtNWU0MWM2OTU2ZjI1XkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BNWUwZTJkOTktMTBjYi00MWEzLThlY2QtNWU0MWM2OTU2ZjI1XkEyXkFqcGc@._V1_SX250.jpg"
+    ]
   },
   {
     "id": "29c33bb94fa856871719063cd2f6a5ff",
@@ -9787,12 +9772,7 @@
       "Telugu",
       "Hindi",
       "Multi-Lang"
-    ],
-    "imdbId": "tt29262075",
-    "name": "Monster Island",
-    "year": 2025,
-    "poster": "https://m.media-amazon.com/images/M/MV5BMGRmYjNlNjMtMzIxOS00ZDY2LTk5NjAtZTQ2MGZlNWJjZDViXkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BMGRmYjNlNjMtMzIxOS00ZDY2LTk5NjAtZTQ2MGZlNWJjZDViXkEyXkFqcGc@._V1_SX250.jpg"
+    ]
   },
   {
     "id": "0019c0008b44b5a6620305ee41a9071b",
@@ -9884,12 +9864,7 @@
     "rawText": "Angikaaram (2026) Tamil HD - [1080p & 720p - AVC / HEVC - (DD5.1 - 384Kbps) - 4.2GB + Rips] - [W]",
     "languages": [
       "Tamil"
-    ],
-    "imdbId": "tt37174734",
-    "name": "Angikaaram",
-    "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BMjI4MjAyOWYtYjJjNS00YzQzLWI0YWItZDQyMDFmYzRkYjRiXkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BMjI4MjAyOWYtYjJjNS00YzQzLWI0YWItZDQyMDFmYzRkYjRiXkEyXkFqcGc@._V1_SX250.jpg"
+    ]
   },
   {
     "id": "943bc40018a7279b4b3a52e7683167aa",
@@ -18028,12 +18003,7 @@
     "rawText": "Hai Jawani Toh Ishq Hona Hai (2026) Hindi HD + ESub - [4K, 1080p & 720p - AVC / HEVC - (DD+5.1 - 192Kbps) - 8GB + Rips]",
     "languages": [
       "Hindi"
-    ],
-    "imdbId": "tt30447822",
-    "name": "Hai Jawani Toh Ishq Hona Hai",
-    "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BZGZmOGE3OGEtYTRhMC00OWQ2LWE4MzEtNGUyZmRmZmEyNDdhXkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BZGZmOGE3OGEtYTRhMC00OWQ2LWE4MzEtNGUyZmRmZmEyNDdhXkEyXkFqcGc@._V1_SX250.jpg"
+    ]
   },
   {
     "id": "c1a52c50fc812b4aa540956c9e929e2b",
@@ -20493,7 +20463,12 @@
       "Telugu",
       "Hindi",
       "Multi-Lang"
-    ]
+    ],
+    "imdbId": "tt0102817",
+    "name": "Rubin and Ed",
+    "year": 1991,
+    "poster": "https://m.media-amazon.com/images/M/MV5BYWYzMjliZmQtN2UwMS00YTllLWEzNzEtOTcwNGQyOWJkYzM2XkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BYWYzMjliZmQtN2UwMS00YTllLWEzNzEtOTcwNGQyOWJkYzM2XkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "cde4a20fc1ec9271a6ab9ec1db51a6e0",
@@ -20897,7 +20872,12 @@
       "Telugu",
       "Hindi",
       "Multi-Lang"
-    ]
+    ],
+    "imdbId": "tt41983440",
+    "name": "23 000 Lives",
+    "year": 2026,
+    "poster": "https://m.media-amazon.com/images/M/MV5BYTEwNDFmMGQtYTdkYS00NWQ4LWExODAtYWYyZThkNjM4NDZhXkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BYTEwNDFmMGQtYTdkYS00NWQ4LWExODAtYWYyZThkNjM4NDZhXkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "00e744cf6c1e2e02753ab6fb6af20452",
