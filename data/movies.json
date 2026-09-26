@@ -12731,7 +12731,13 @@
       "Hindi",
       "Tamil",
       "Telugu"
-    ]
+    ],
+    "imdbId": "tt5256640",
+    "name": "Lenin",
+    "year": "2017",
+    "poster": "https://images.metahub.space/poster/small/tt5256640/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt5256640/img",
+    "genres": []
   },
   {
     "id": "68aed7f241b44bdcc1cfca6a6ce1fb99",
@@ -14415,7 +14421,12 @@
       "Kannada",
       "Hindi",
       "Multi-Lang"
-    ]
+    ],
+    "imdbId": "tt39910244",
+    "name": "Achyuta Avataaram",
+    "year": 2026,
+    "poster": "https://m.media-amazon.com/images/M/MV5BY2Q3YzVlMTMtOTk4MC00M2I5LWE3MDQtZDQ0NWIxZDQyOTE1XkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BY2Q3YzVlMTMtOTk4MC00M2I5LWE3MDQtZDQ0NWIxZDQyOTE1XkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "866a0aff7d3541a1fa009e45ac327479",
