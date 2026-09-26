@@ -1968,7 +1968,12 @@
       "Telugu",
       "Hindi",
       "Multi-Lang"
-    ]
+    ],
+    "imdbId": "tt39528902",
+    "name": "Don't Be Shy",
+    "year": 2026,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjRiNmNlMjItNDQzNy00ZmY2LThlYTgtOTA4MzY4MzI5MTQ2XkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BMjRiNmNlMjItNDQzNy00ZmY2LThlYTgtOTA4MzY4MzI5MTQ2XkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "58deb6dfb62e77f3a5cfae3e3b0449e4",
@@ -9114,12 +9119,7 @@
       "Malayalam",
       "Kannada",
       "Multi-Lang"
-    ],
-    "imdbId": "tt43685971",
-    "name": "Pallaburusu",
-    "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BZjUwNmRkY2QtMWNlYS00NWE3LWJiYzktZGE4ZTU5YjA5YTNlXkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BZjUwNmRkY2QtMWNlYS00NWE3LWJiYzktZGE4ZTU5YjA5YTNlXkEyXkFqcGc@._V1_SX250.jpg"
+    ]
   },
   {
     "id": "ddcb2883b075d3276ac7f6d4eb211e6e",
@@ -9828,7 +9828,12 @@
       "Tamil",
       "Hindi",
       "Multi-Lang"
-    ]
+    ],
+    "imdbId": "tt26658360",
+    "name": "DC Down",
+    "year": 2023,
+    "poster": "https://m.media-amazon.com/images/M/MV5BZmU0YWE2ODctZjAzMC00NzUzLTgwZWMtMDE3ZjU2NjRkYzM4XkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BZmU0YWE2ODctZjAzMC00NzUzLTgwZWMtMDE3ZjU2NjRkYzM4XkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "4789a72364c302c07c38c91a6631f5b8",
@@ -10307,7 +10312,12 @@
       "Kannada",
       "Hindi",
       "Multi-Lang"
-    ]
+    ],
+    "imdbId": "tt39818587",
+    "name": "Newton's 3rd Law",
+    "year": 2026,
+    "poster": "https://m.media-amazon.com/images/M/MV5BNzcwNTIyOTctNjFiMi00Yjk3LWI0MmItMTFkODMwNmE4NDRjXkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BNzcwNTIyOTctNjFiMi00Yjk3LWI0MmItMTFkODMwNmE4NDRjXkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "77e58c87b612df580ec543fc533bd76e",
@@ -10750,7 +10760,12 @@
       "Kannada",
       "Hindi",
       "Multi-Lang"
-    ]
+    ],
+    "imdbId": "tt37654096",
+    "name": "The Last Sunrise",
+    "year": 2026,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjZlMjQxN2MtYjAyOS00YjliLWE3NjEtNDZjOWI5NTAxNTY2XkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BMjZlMjQxN2MtYjAyOS00YjliLWE3NjEtNDZjOWI5NTAxNTY2XkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "355f43a01a2f34e758091bd4c212e462",
@@ -11442,7 +11457,12 @@
       "Tamil",
       "Hindi",
       "Multi-Lang"
-    ]
+    ],
+    "imdbId": "tt1105709",
+    "name": "8 x 10 Tasveer",
+    "year": 2009,
+    "poster": "https://m.media-amazon.com/images/M/MV5BZGE0OTcyOGEtNjdlMS00ZjEzLThmN2MtNDVmMzQxMzc5NGM1XkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BZGE0OTcyOGEtNjdlMS00ZjEzLThmN2MtNDVmMzQxMzc5NGM1XkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "8258fca40f1a279af2c4f0dc63e59f2c",
@@ -14546,11 +14566,13 @@
       "Hindi",
       "Multi-Lang"
     ],
-    "imdbId": "tt32478708",
-    "name": "Close to Me",
-    "year": 2025,
-    "poster": "https://m.media-amazon.com/images/M/MV5BMTdlN2FiYmUtNDgzNS00ZDRkLTg1ZjgtY2JiZThkYjg0YmZkXkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BMTdlN2FiYmUtNDgzNS00ZDRkLTg1ZjgtY2JiZThkYjg0YmZkXkEyXkFqcGc@._V1_SX250.jpg"
+    "imdbId": "tt34682204",
+    "name": "Swim to Me",
+    "year": "2025",
+    "poster": "https://images.metahub.space/poster/small/tt34682204/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt34682204/img",
+    "genres": [],
+    "description": "Estela, a young woman from rural Chile, embarks on a journey to Santiago, leaving her family behind to work as a maid for an affluent household."
   },
   {
     "id": "0c1b4475bd05c1ca61add24f07e0467a",
