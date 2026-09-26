@@ -1,0 +1,51 @@
+name: MoviesDa Auto-Scraper (direct MP4 + embeds)
+
+# Additive module — the 1TamilMV workflow (scrape.yml) is untouched.
+# Every 4 hours: scrape moviesda (Tamil movies), byte-verify every MP4,
+# commit moviesda.json + embeds.json + moviesda.m3u + stremio/ Pages output.
+
+on:
+  schedule:
+    - cron: '0 */4 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: moviesda
+  cancel-in-progress: false
+
+jobs:
+  moviesda:
+    runs-on: ubuntu-latest
+    timeout-minutes: 90
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Install deps (cheerio)
+        run: npm install --no-save cheerio
+
+      - name: Scrape + verify + build
+        env:
+          MOVIESDA_YEARS_BACK: '1'
+          MOVIESDA_MAX_MOVIES: '24'
+          MOVIESDA_LATEST: '25'
+          TMDB_API_KEY: ${{ secrets.TMDB_API_KEY }}
+        run: node src/moviesda-cli.js
+
+      - name: Commit data (only if changed)
+        run: |
+          git config user.name "moviesda-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add data/moviesda.json data/embeds.json data/moviesda.m3u data/moviesda-stats.json stremio/ || true
+          if git diff --cached --quiet; then
+            echo "No changes — skipping commit."
+          else
+            git commit -m "moviesda: auto update $(date -u +'%Y-%m-%d %H:%M UTC')"
+            git push
+          fi

@@ -1,0 +1,45 @@
+{
+  "id": "jash-moviesda-pages",
+  "version": "1.0.0",
+  "name": "MoviesDa Direct (Jash)",
+  "description": "Tamil movies — direct MP4 + magnet streams. Static, serverless, rebuilt by GitHub Actions.",
+  "types": [
+    "movie"
+  ],
+  "catalogs": [
+    {
+      "type": "movie",
+      "id": "moviesda-tamil",
+      "name": "MoviesDa Tamil"
+    }
+  ],
+  "resources": [
+    {
+      "name": "catalog",
+      "types": [
+        "movie"
+      ],
+      "idPrefixes": [
+        "tmdb"
+      ]
+    },
+    {
+      "name": "stream",
+      "types": [
+        "movie"
+      ],
+      "idPrefixes": [
+        "tt",
+        "tmdb"
+      ]
+    }
+  ],
+  "idPrefixes": [
+    "tt",
+    "tmdb"
+  ],
+  "background": "https://images.unsplash.com/photo-1440404653325-ab127d49abc1",
+  "behaviorHints": {
+    "configurable": false
+  }
+}
