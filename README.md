@@ -6,6 +6,47 @@ Filters out unwanted low-res 400MB / 480p rips and bloated 4K releases, keeping 
 
 ---
 
+## 🎯 Repo scope — 1TamilMV only
+
+This repository does **one** job: scrape 1TamilMV. It used to also carry a
+MoviesDa scraper (`src/moviesda/`, `moviesda.yml`, `README-moviesda.md`); that was
+**removed on 29 Sep 2026** because MoviesDa embeds are now handled properly by the
+`mv_vault` repo (paginated series, daily refresh, posters).
+
+What remains here:
+
+| path | what it is |
+|---|---|
+| `src/scrape-cli.js` | entry point — scrape → enrich → write |
+| `src/scraper/tamilmv.js` | the scraper (mirror failover, quality filter, magnets) |
+| `src/services/{filter,imdb}.js` | quality filtering + Cinemeta enrichment |
+| `src/config.js` | mirrors, limits, headers, trackers (reads `.env`) |
+| `src/check.js` | `npm run check` — verifies every import is a declared dependency |
+| `data/movies.json`, `data/stats.json` | this scraper's output, committed by the workflow |
+| `.github/workflows/scrape.yml` | the 30-minute scheduled run |
+
+**Frozen legacy files** (kept on purpose, no longer updated by anything here):
+
+- `data/moviesda.json`, `data/embeds.json` — still read by the JaSH ViBeS app
+  (`lib/moviesdaSource.js`). Deleting them breaks that screen, so they stay until
+  the app is pointed at `mv_vault` instead.
+- `data/moviesda.m3u`, `data/moviesda-stats.json`, `stremio/` — the old MoviesDa
+  outputs / static Stremio addon.
+
+Once the app reads the vault, those can go in one line:
+
+```bash
+git rm data/moviesda.json data/embeds.json data/moviesda.m3u data/moviesda-stats.json
+git rm -r stremio/
+git commit -m "drop frozen MoviesDa outputs (mv_vault is the source now)"
+```
+
+⚠️ **Do not rename `.github/workflows/scrape.yml`** — the external (Koyeb)
+dispatcher triggers this workflow by name. Renaming it would silently stop the
+30-minute cadence.
+
+---
+
 ## ⚡ Key Highlights
 
 - 🎯 **Strict Quality Filter**: Captures **720p and 1080p** magnet links exclusively. Drops 4K, 2160p, 480p, and SD mobile rips.
@@ -86,11 +127,35 @@ Filters out unwanted low-res 400MB / 480p rips and bloated 4K releases, keeping 
 
 ```bash
 # 1. Install dependencies
-npm install
+npm ci            # or: npm install
 
-# 2. Run scraper
+# 2. Optional: verify every import has a declared dependency (~2s)
+npm run check
+
+# 3. Run the scraper
 npm run scrape
+
+# …or a quick smoke test without overwriting the real dataset
+MAX_SCRAPE_LIMIT=3 node src/scrape-cli.js
 ```
+
+### Dependencies (why `npm run check` exists)
+
+The scraper needs **axios**, **cheerio** and **dotenv**. All three are declared in
+`package.json` and locked in `package-lock.json`, and the workflow installs them
+with `npm ci` before running `npm run check`.
+
+That guard is not decoration. On 29 Sep 2026 the Actions run died with:
+
+```
+Error [ERR_MODULE_NOT_FOUND]: Cannot find package 'axios'
+  imported from src/scraper/tamilmv.js
+```
+
+`axios` (and `dotenv`) were imported in code but missing from `package.json`, so
+`npm ci` installed a dependency set that could not run. If you ever see that error
+again, `npm run check` now names the missing package and the exact `npm install`
+line — and remember to commit **both** `package.json` and `package-lock.json`.
 
 ---
 

@@ -31,7 +31,13 @@ jobs:
           cache: 'npm'
 
       - name: 📦 Install Dependencies
-        run: npm ci
+        run: npm ci --no-audit --no-fund
+
+      # Fails in ~2s with the package name if an import is not declared in
+      # package.json (this is exactly how the 29 Sep run died: the scraper
+      # imported axios/dotenv that `npm ci` never installed).
+      - name: 🔎 Check every import resolves
+        run: npm run check
 
       - name: 🚀 Run 1TamilMV Scraper (720p & 1080p Filter)
         run: node src/scrape-cli.js
