@@ -1,22 +1,29 @@
 {
-  "name": "1tamilmv-scraper",
-  "version": "2.0.0",
+  "name": "mv-scrapper",
+  "version": "1.0.0",
+  "description": "1TamilMV magnet scraper (720p/1080p) + MoviesDa direct-MP4/embed scraper",
+  "type": "module",
   "main": "src/scrape-cli.js",
   "scripts": {
     "scrape": "node src/scrape-cli.js",
-    "check": "node src/check.js"
+    "scrape:tamilmv": "node src/scrape-cli.js",
+    "scrape:moviesda": "node src/moviesda-cli.js",
+    "start": "node src/scrape-cli.js"
   },
-  "keywords": [],
+  "keywords": [
+    "scraper",
+    "tamilmv",
+    "moviesda",
+    "stremio"
+  ],
   "author": "",
   "license": "ISC",
-  "description": "1TamilMV scraper — 720p/1080p magnet links only, enriched via Cinemeta. Runs on GitHub Actions every 30 minutes.",
-  "type": "module",
-  "dependencies": {
-    "axios": "^1.20.0",
-    "cheerio": "^1.2.0",
-    "dotenv": "^18.0.4"
-  },
   "engines": {
-    "node": ">=20"
+    "node": ">=20.18.1"
+  },
+  "dependencies": {
+    "axios": "^1.12.2",
+    "cheerio": "^1.2.0",
+    "dotenv": "^16.6.1"
   }
 }

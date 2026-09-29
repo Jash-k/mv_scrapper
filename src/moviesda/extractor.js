@@ -1,26 +1,21 @@
 /**
- * MoviesDa extractor — Tamil movies → direct MP4 + embed tiers.
+ * MoviesDa extractor — Tamil MOVIES only → direct MP4 links (720p + 1080p).
  *
- * Ported and hardened from the working pipeline in Roshan00008/moviesdastream
- * (MIT), reduced to the MOVIES-ONLY scope this repo ships, and extended with:
- *   - mirror fallback (moviesda34.com -> movies.downloadpage.xyz)
- *   - per-request timeout + retry (2 attempts, polite delay)
- *   - iframe-tier capture: onestream player pages become { type: 'iframe' }
- *     entries for JaSH ViBeS' watch page (Stremio never sees them)
- *   - strict quality allowlist kept consistent with the TamilMV scraper
+ * No embeds / onestream / iframe tier.
  *
- * Pipeline (verified working 2026-09):
+ * Pipeline:
  *   /tamil-latest-updates/ or /tamil-YYYY-movies/
- *     -> movie folders -> resolution subfolders (360p/720p/1080p)
- *     -> download.moviespage.xyz server list
- *     -> fastbytes/download.php links --302--> Cloudflare R2 direct .mp4
- *   onestream.today/stream/page/<id> links are captured as embeds instead.
+ *     -> movie folders -> resolution subfolders (720p/1080p only)
+ *     -> /download/<id> server list
+ *     -> fastbytes/download.php or bare .mp4 hosts
+ *     -> 302 / direct Cloudflare R2 (or durable hotshare/biggshare) MP4 URL
  */
 import * as cheerio from 'cheerio';
 
 const BASES = ['https://moviesda34.com', 'https://movies.downloadpage.xyz'];
 const HEADERS = {
-  'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36',
+  'User-Agent':
+    'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36',
   Accept: 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
   'Accept-Language': 'en-US,en;q=0.9,ta;q=0.8',
 };
@@ -28,14 +23,32 @@ const DELAY_MS = Number(process.env.MOVIESDA_DELAY_MS || 900);
 const TIMEOUT_MS = Number(process.env.MOVIESDA_TIMEOUT_MS || 15000);
 const RETRIES = 2;
 
+/** Strict quality allowlist (matches TamilMV scraper). */
+const ALLOWED_QUALITIES = new Set(['720p', '1080p']);
+
 const sleep = (ms) => new Promise((resolve) => setTimeout(resolve, ms));
+
+function isWebSeries(text = '') {
+  return /web[- ]?series|\bseason\b|\bS\d{2}\b|\bepi(?:sode)?\b/i.test(String(text));
+}
+
+function qualityFromText(text = '') {
+  const t = String(text);
+  if (/1080p/i.test(t)) return '1080p';
+  if (/720p/i.test(t)) return '720p';
+  return null;
+}
 
 async function fetchWithRetry(url, { attempt = 0 } = {}) {
   try {
     const controller = new AbortController();
     const timer = setTimeout(() => controller.abort(), TIMEOUT_MS);
     try {
-      const res = await fetch(url, { headers: HEADERS, redirect: 'follow', signal: controller.signal });
+      const res = await fetch(url, {
+        headers: HEADERS,
+        redirect: 'follow',
+        signal: controller.signal,
+      });
       if (!res.ok) throw new Error(`HTTP ${res.status}`);
       return await res.text();
     } finally {
@@ -68,7 +81,20 @@ async function fetchFromMirrors(path) {
 
 function absolute(base, href) {
   if (!href) return '';
-  try { return new URL(href, base).href; } catch { return ''; }
+  try {
+    return new URL(href, base).href;
+  } catch {
+    return '';
+  }
+}
+
+/** Fetch a path (mirrored) or an absolute URL (as-is). */
+async function fetchPage(urlOrPath) {
+  if (/^https?:\/\//i.test(urlOrPath)) {
+    const u = new URL(urlOrPath);
+    return { html: await fetchWithRetry(urlOrPath), base: u.origin };
+  }
+  return fetchFromMirrors(urlOrPath);
 }
 
 /** Stage 1: folder links from a listing/movie page (div.f blocks). */
@@ -83,21 +109,15 @@ export async function getMovieFolders(listPath) {
     const a = $(el).find('a').first();
     const href = absolute(base, a.attr('href') || '');
     const text = $(el).text().replace(/\s+/g, ' ').trim();
-    if (href && text) folders.push({ url: href, label: text.slice(0, 160) });
+    if (!href || !text) return;
+    // Hard skip web series / seasons / episodes at listing level
+    if (isWebSeries(text) || isWebSeries(href)) return;
+    folders.push({ url: href, label: text.slice(0, 160) });
   });
   return folders;
 }
 
-/** Fetch a path (mirrored) or an absolute URL (as-is). */
-async function fetchPage(urlOrPath) {
-  if (/^https?:\/\//i.test(urlOrPath)) {
-    const u = new URL(urlOrPath);
-    return { html: await fetchWithRetry(urlOrPath), base: u.origin };
-  }
-  return fetchFromMirrors(urlOrPath);
-}
-
-/** Stage 2: resolution subfolder links inside one movie folder page. */
+/** Stage 2: resolution subfolder links — 720p / 1080p only. */
 export async function getResolutionSubfolders(movieUrl) {
   const { html, base } = await fetchPage(movieUrl);
   const $ = cheerio.load(html);
@@ -108,13 +128,20 @@ export async function getResolutionSubfolders(movieUrl) {
     if (!href || href === '/' || href.startsWith('#') || href.startsWith('mailto:')) return;
     if (/telegram|t\.me|whatsapp|instagram/i.test(label + href)) return;
     if (href.includes('-movies/') || href.includes('collection') || href.includes('isaidub')) return;
-    const hasQuality = /\d+p|hd|predvd|dvd|blu/i.test(label) || /\d+p|hd-|predvd|dvd|blu/i.test(href);
-    if (!hasQuality) return;
+    if (isWebSeries(label) || isWebSeries(href)) return;
+
+    const quality = qualityFromText(`${label} ${href}`);
+    if (!quality || !ALLOWED_QUALITIES.has(quality)) return;
+
     const abs = absolute(base, href);
-    if (abs) out.push({ url: abs, label });
+    if (abs) out.push({ url: abs, label, quality });
   });
+
+  // Prefer 1080p first, then 720p; dedupe by URL
   const seen = new Set();
-  return out.filter((r) => (seen.has(r.url) ? false : (seen.add(r.url), true)));
+  return out
+    .filter((r) => (seen.has(r.url) ? false : (seen.add(r.url), true)))
+    .sort((a, b) => (b.quality === '1080p' ? 1 : 0) - (a.quality === '1080p' ? 1 : 0));
 }
 
 /** Stage 3: /download/<id> selection links on a resolution page. */
@@ -143,7 +170,32 @@ export async function getIntermediateServerUrls(selectionUrl) {
   return [...new Set(out)];
 }
 
-/** Stage 4: candidate file links on a download/file or download/page URL. */
+/**
+ * Rank candidates so durable bare-.mp4 hosts win over short-lived token gates.
+ * Higher score = preferred.
+ */
+function candidateScore(url) {
+  let score = 0;
+  const u = String(url);
+  // Bare durable CDNs (no htag/etag expiry)
+  if (/biggshare|hotshare\.(cyou|link)|r2\.cloudflarestorage\.com/i.test(u)) score += 50;
+  if (/\.mp4(\?|$)/i.test(u) && !/[?&](htag|etag|ztag|token|exp)=/i.test(u)) score += 30;
+  // Signed R2 from fastbytes is real video but expires ~48h — still good within cron
+  if (/cloudflarestorage\.com|X-Amz-Signature/i.test(u)) score += 20;
+  if (/fastbytes|download\.php/i.test(u)) score += 10;
+  // Tokenized gate hosts (often rot into HTML between runs)
+  if (/[?&](htag|etag|ztag)=/i.test(u)) score -= 15;
+  if (/kollybytes|skyvault|fileraja|cloudbytes|fastspot|datapulse|pixelharbor|orbitcore|streamnest|cloudforge/i.test(u)) {
+    score -= 5;
+  }
+  return score;
+}
+
+/**
+ * Stage 4: candidate DIRECT file links only.
+ * Skips onestream / watch-online / iframe hosts entirely.
+ * Sorted durable-first so scrapeMovie prefers long-lived URLs.
+ */
 export async function getServerCandidates(serverPageUrl) {
   const extract = (html, base) => {
     const $ = cheerio.load(html);
@@ -151,7 +203,13 @@ export async function getServerCandidates(serverPageUrl) {
     $('a').each((_, el) => {
       const href = $(el).attr('href') || '';
       const label = $(el).text().replace(/\s+/g, ' ').trim();
-      if (href && (/\.mp4/i.test(href) || /cdnserver|download\.php|fastbytes|onestream|uptodl/i.test(href))) {
+      if (!href) return;
+      // Explicitly reject embed / watch-online hosts
+      if (/onestream|watch\s*online|iframe|embed/i.test(href + ' ' + label)) return;
+      if (
+        /\.mp4(\?|$)/i.test(href) ||
+        /cdnserver|download\.php|fastbytes|uptodl|biggshare|hotshare/i.test(href)
+      ) {
         out.push({ url: absolute(base, href), label: label || 'server' });
       }
     });
@@ -171,19 +229,28 @@ export async function getServerCandidates(serverPageUrl) {
       candidates = extract(inner, pageUrl);
     }
   }
-  return candidates;
+  // Dedupe by URL, then durable hosts first
+  const seen = new Set();
+  return candidates
+    .filter((c) => (seen.has(c.url) ? false : (seen.add(c.url), true)))
+    .sort((a, b) => candidateScore(b.url) - candidateScore(a.url));
 }
 
 /**
- * Stage 5: resolve the final file. fastbytes/download.php/uptodl links answer
- * a plain GET with a 302 straight to the MP4 on Cloudflare R2 (verified).
- * onestream links are NOT resolvable server-side (browser-gated) — returned
- * as embed candidates instead.
+ * Stage 5: resolve the final direct MP4.
+ * - onestream / iframe → rejected (null)
+ * - fastbytes/download.php → follow 302 Location to R2 MP4
+ * - bare .mp4 URL → keep as-is (verified later)
  */
 export async function resolveServerLink(url) {
-  if (/onestream\.today/i.test(url)) {
-    return { type: 'iframe', url: url.includes('/stream/page/') ? url : url };
+  if (!url) return null;
+  if (/onestream\.today|play\.onestream|iframe|embed/i.test(url)) return null;
+
+  // Already a bare/direct mp4 host — keep (byte-verify later)
+  if (/\.mp4(\?|$)/i.test(url) && !/download\.php/i.test(url)) {
+    return { type: 'mp4', url };
   }
+
   for (let attempt = 0; attempt <= 1; attempt += 1) {
     try {
       const controller = new AbortController();
@@ -197,17 +264,32 @@ export async function resolveServerLink(url) {
         });
         const location = res.headers.get('location');
         if (location && /^https?:\/\//.test(location)) {
+          // Follow one more hop if still a gateway, else return
+          if (/download\.php|fastbytes|uptodl/i.test(location) && !/\.mp4/i.test(location)) {
+            const hop = await fetch(location, {
+              method: 'GET',
+              headers: { ...HEADERS, Referer: url },
+              redirect: 'manual',
+              signal: AbortSignal.timeout(TIMEOUT_MS),
+            });
+            const loc2 = hop.headers.get('location');
+            if (loc2 && /^https?:\/\//.test(loc2)) return { type: 'mp4', url: loc2 };
+          }
           return { type: 'mp4', url: location };
         }
         // Some servers 200 with the FILE itself — never buffer a video body.
         const ctype = (res.headers.get('content-type') || '').toLowerCase();
         if (res.ok && /video\/|octet-stream/.test(ctype)) {
-          try { await res.body.cancel(); } catch { /* already drained */ }
+          try {
+            await res.body.cancel();
+          } catch {
+            /* already drained */
+          }
           return { type: 'mp4', url };
         }
         // Otherwise 200 with a meta-refresh or HTML page; sniff the first 4 KiB.
         if (res.ok) {
-          const body = (await readCapped(res, 4096));
+          const body = await readCapped(res, 4096);
           const meta = body.match(/https?:\/\/[^"'\s]+\.mp4[^"'\s]*/i);
           if (meta) return { type: 'mp4', url: meta[0] };
         }
@@ -226,7 +308,9 @@ export async function resolveServerLink(url) {
 export function parseTitleYear(text) {
   const t = String(text || '').replace(/\s+/g, ' ').trim();
   const m = t.match(/(.+?)[\s_-]*[\(\[]?((19|20)\d{2})[\)\]]?/);
-  return m ? { title: m[1].replace(/[-–]\s*$/, '').trim(), year: Number(m[2]) } : { title: t, year: '' };
+  return m
+    ? { title: m[1].replace(/[-–]\s*$/, '').trim(), year: Number(m[2]) }
+    : { title: t, year: '' };
 }
 
 /** Read at most `max` bytes of a response body (CDNs ignore Range sometimes). */
@@ -240,15 +324,16 @@ async function readCapped(res, max) {
     chunks.push(value);
     got += value.length;
   }
-  try { await reader.cancel(); } catch { /* closed */ }
+  try {
+    await reader.cancel();
+  } catch {
+    /* closed */
+  }
   return Buffer.concat(chunks).subarray(0, max).toString('utf8');
 }
 
 /**
- * Full extraction for one movie page:
- *   item page -> folder groups -> resolution pages -> /download/<id> ->
- *   download/file pages -> server candidates -> 302-resolved direct MP4
- *   (onestream candidates become embeds instead).
+ * Full extraction for one movie page → direct MP4s only (720p/1080p).
  */
 export async function scrapeMovie(moviePage, { maxQualities = 4, maxPerRes = 3 } = {}) {
   const parsed = parseTitleYear(moviePage.label);
@@ -259,14 +344,24 @@ export async function scrapeMovie(moviePage, { maxQualities = 4, maxPerRes = 3 }
     year: parsed.year,
     poster: '',
     mp4s: [],
-    embeds: [],
   };
+
+  // Bail early on series that slipped past listing filter
+  if (isWebSeries(moviePage.label) || isWebSeries(moviePage.url)) {
+    base.error = 'web-series-skipped';
+    return base;
+  }
 
   try {
     let folderGroups = [];
     try {
       folderGroups = await getMovieFolders(moviePage.url);
-    } catch { /* some item pages link resolutions directly */ }
+    } catch {
+      /* some item pages link resolutions directly */
+    }
+    // Also filter folder groups
+    folderGroups = folderGroups.filter((g) => !isWebSeries(g.label) && !isWebSeries(g.url));
+
     const groupPages = folderGroups.length
       ? folderGroups.slice(0, 2)
       : [{ url: moviePage.url, label: moviePage.label }];
@@ -277,42 +372,55 @@ export async function scrapeMovie(moviePage, { maxQualities = 4, maxPerRes = 3 }
       let resolutions = [];
       try {
         resolutions = await getResolutionSubfolders(group.url);
-      } catch { continue; }
+      } catch {
+        continue;
+      }
 
       for (const res of resolutions.slice(0, maxQualities)) {
         await sleep(DELAY_MS);
-        const quality = (res.label.match(/(1080p|720p|480p|360p)/i) || ['HD'])[0];
+        const quality = res.quality || qualityFromText(res.label) || 'HD';
+        if (!ALLOWED_QUALITIES.has(quality)) continue;
 
         let selections = [];
         try {
           selections = await getDownloadSelectionUrls(res.url);
-        } catch { continue; }
+        } catch {
+          continue;
+        }
 
         for (const selection of selections.slice(0, 2)) {
           await sleep(400);
           let serverPages = [];
           try {
             serverPages = await getIntermediateServerUrls(selection);
-          } catch { continue; }
+          } catch {
+            continue;
+          }
 
           for (const serverPage of serverPages.slice(0, 2)) {
             await sleep(400);
             let candidates = [];
             try {
               candidates = await getServerCandidates(serverPage);
-            } catch { continue; }
+            } catch {
+              continue;
+            }
 
             for (const candidate of candidates.slice(0, maxPerRes)) {
               try {
                 const resolved = await resolveServerLink(candidate.url);
-                if (!resolved || seen.has(resolved.url)) continue;
+                if (!resolved || resolved.type !== 'mp4') continue;
+                if (seen.has(resolved.url)) continue;
                 seen.add(resolved.url);
-                if (resolved.type === 'mp4') {
-                  base.mp4s.push({ quality, size: '', type: 'mp4', url: resolved.url });
-                } else {
-                  base.embeds.push({ quality, size: '', type: 'iframe', url: resolved.url });
-                }
-              } catch { /* dead server — skip */ }
+                base.mp4s.push({
+                  quality,
+                  size: '',
+                  type: 'mp4',
+                  url: resolved.url,
+                });
+              } catch {
+                /* dead server — skip */
+              }
             }
           }
         }
@@ -324,15 +432,15 @@ export async function scrapeMovie(moviePage, { maxQualities = 4, maxPerRes = 3 }
   return base;
 }
 
-/** Latest-updates listing (the freshest Tamil drops). */
+/** Latest-updates listing (movies only). */
 export async function scrapeLatest({ limit = 25 } = {}) {
   const folders = await getMovieFolders('/tamil-latest-updates/');
-  return folders.slice(0, limit);
+  return folders.filter((f) => !isWebSeries(f.label) && !isWebSeries(f.url)).slice(0, limit);
 }
 
-/** Year listing (/tamil-YYYY-movies/). */
+/** Year listing (/tamil-YYYY-movies/) — movies only. */
 export async function scrapeYear(year, { limit = 30, page = 1 } = {}) {
   const path = page > 1 ? `/tamil-${year}-movies/?page=${page}` : `/tamil-${year}-movies/`;
   const folders = await getMovieFolders(path);
-  return folders.slice(0, limit);
+  return folders.filter((f) => !isWebSeries(f.label) && !isWebSeries(f.url)).slice(0, limit);
 }

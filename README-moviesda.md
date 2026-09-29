@@ -1,88 +1,73 @@
-# MoviesDa Module — for `mv_scrapper` (additive, non-invasive)
+# MoviesDa Module — direct MP4 only (for `mv_scrapper`)
 
-Adds a **second scraper** to this repo: MoviesDa Tamil movies → **direct MP4**
-links (byte-verified) + **iframe embeds**, committed as static files every
-4 hours by its own workflow. **Nothing existing is touched** — `scrape.yml`,
-`src/scraper/*`, `src/scrape-cli.js` and `data/movies.json` stay exactly as they are.
+Adds a **second scraper** to this repo: MoviesDa **Tamil movies only** →
+**direct 720p/1080p MP4** links (byte-verified), committed as static files every
+4 hours by its own workflow.
 
-## What gets added (copy into the repo root)
+**Nothing existing is touched** — `scrape.yml`, `src/scraper/*`,
+`src/scrape-cli.js` and `data/movies.json` stay exactly as they are.
 
-```
-src/moviesda/extractor.js      scraper pipeline (mirror fallback, retries, polite delays)
-src/moviesda/verify.js         byte-verify MP4s (ftyp check) + embed probes
-src/moviesda/build.js          emits all output files
-src/moviesda-cli.js            orchestrator (node src/moviesda-cli.js)
-.github/workflows/moviesda.yml its own cron (0 */4 * * *) — separate from TamilMV
-```
+## Mode (locked)
 
-## Outputs (all new files; existing data files are read-only to this module)
+| Setting | Value |
+|---|---|
+| Content | **Movies only** (web series / seasons / episodes skipped) |
+| Qualities | **720p + 1080p only** (360p/480p dropped) |
+| Stream type | **Direct MP4 only** (onestream / embeds disabled) |
+| Catalog | **Fresh rebuild every run** (no carry-over of expired token URLs) |
+| Verify | Ranged GET must return real `ftyp` MP4 bytes or the URL is dropped |
 
-| File | Tier | Eaten by |
-|---|---|---|
-| `data/moviesda.json` | direct MP4s (verified) | **JaSH ViBeS** ReTro (JSON source) + Stremio builder |
-| `data/embeds.json`   | iframe player pages | **JaSH ViBeS** watch page ONLY (embed tier) |
-| `data/moviesda.m3u`  | M3U twin of the MP4 tier | JaSH ViBeS ReTro (alternative ingest) |
-| `stremio/manifest.json` + `stremio/catalog/**` + `stremio/stream/**` | static Stremio addon (MP4 + your existing TamilMV magnets merged by title+year) | Stremio via GitHub Pages |
-| `data/moviesda-stats.json` | run metadata | humans |
+## Outputs
 
-Guarantees baked into the build:
-- **No magnet ever enters moviesda.json / embeds.json / moviesda.m3u.** Magnets
-  are read from `data/movies.json` and only appear in the `stremio/` output.
-  (Render prohibits torrent traffic — the app-side sync additionally rejects
-  any `magnet:` URL at parse time.)
+| File | Contents |
+|---|---|
+| `data/moviesda.json` | Direct MP4 tier (verified 720p/1080p) |
+| `data/embeds.json` | Always `[]` (embeds removed) |
+| `data/moviesda.m3u` | M3U twin of the MP4 tier |
+| `stremio/**` | Static Stremio addon (MP4 + TamilMV magnets merged by title+year) |
+| `data/moviesda-stats.json` | Run metadata |
+
+Guarantees:
+- **No magnet ever enters moviesda.json / moviesda.m3u.** Magnets are read from
+  `data/movies.json` and only appear in the `stremio/` output.
 - **Zero unverified streams**: an MP4 ships only if a ranged GET just now
-  returned real `ftyp` bytes; an embed ships only if its page still serves a
-  `<video>` player and sends no `X-Frame-Options`.
-- If a run verifies **zero** MP4s (upstream layout change), the CLI exits
-  non-zero and commits nothing — your good data is never overwritten with junk.
+  returned real `ftyp` bytes (HTML gate pages are rejected).
+- If a run verifies **zero** MP4s, the CLI exits non-zero and commits nothing.
 
-## Install (5 minutes)
+## Run locally
 
 ```bash
-cd mv_scrapper
-# copy the files from this package (same relative paths), then:
-npm install            # adds cheerio (already in package.json deps)
-node src/moviesda-cli.js --limit=3     # small test run
-git add -A && git commit -m "add moviesda module (additive)" && git push
+npm install
+node src/moviesda-cli.js --limit=5     # small test
+node src/moviesda-cli.js               # full run
+# or:
+npm run scrape:moviesda
 ```
 
-Add the TMDB key for Stremio ids (repo Settings → Secrets → Actions):
-`TMDB_API_KEY` — without it the scraper still works; only the Stremio
-catalog/stream files are skipped (they need tmdb/imdb ids). The
-`moviesda.json` / `embeds.json` / `moviesda.m3u` outputs are unaffected.
+Env knobs:
 
-Then enable **Settings → Pages → Deploy from branch → main → / (root)** (or
-`/docs` if you prefer) — GitHub Pages serves `stremio/manifest.json` at
-`https://<user>.github.io/mv_scrapper/stremio/manifest.json`.
+| Env | Default | Meaning |
+|---|---|---|
+| `MOVIESDA_YEARS_BACK` | `2` | Crawl `/tamil-YYYY-movies/` for last N years |
+| `MOVIESDA_MAX_MOVIES` | `60` | Cap movie pages per run |
+| `MOVIESDA_LATEST` | `25` | Cap items from `/tamil-latest-updates/` |
+| `TMDB_API_KEY` | — | Enables TMDB id/poster for Stremio catalog |
+| `MOVIESDA_SKIP_VERIFY` | — | Emergency only — never in CI |
 
-## JaSH ViBeS wiring
+## GitHub Actions
 
-1. Admin → ReTro → Add source →
-   `https://raw.githubusercontent.com/Jash-k/mv_scrapper/main/data/moviesda.json`
-   (JSON source — supported since v10.4.0; magnets auto-rejected at parse)
-2. Optionally also the m3u twin — pick ONE of the two, not both.
-3. Admin → Stremio → pin `https://<user>.github.io/mv_scrapper/stremio/manifest.json`
-4. Watch page: MP4s play in JashPlayer; embeds (from embeds.json) render in the
-   sandboxed embed tier with a one-tap "next source" escape.
+`.github/workflows/moviesda.yml` runs every 4 hours (`0 */4 * * *`) and on
+manual `workflow_dispatch`. It installs via `npm ci` and runs
+`node src/moviesda-cli.js`.
 
-## Telegram-Stremio loop — untouched
+## Why links used to "not work"
 
-`data/movies.json` (TamilMV magnets) keeps feeding `PREDVD_FEED_URL` exactly as
-before. This module never writes it. The leech → Telegram → Stremio pipeline
-is unaffected.
+1. **Token hosts expire** (`htag`/`etag` on kollybytes, skyvault, fileraja, …)
+   and start serving HTML gate pages — the old verifier only checked status
+   codes loosely and carry-over re-kept half-dead URLs.
+2. **Embeds** (`play.onestream.today`) were mixed into the pipeline even though
+   you only wanted direct links.
+3. **Web series** flooded the latest listing and wasted scrape budget.
 
-## Ops notes
-
-- Cadence: every 4 h (`0 */4 * * *`), ~6–8 min per run, 60 movies/run cap.
-  Tune via `MOVIESDA_YEARS_BACK`, `MOVIESDA_MAX_MOVIES`, `MOVIESDA_LATEST`,
-  `MOVIESDA_KEEP` (default 120 — how many previous-run movies are carried
-  forward, after re-verifying their URLs, so the catalog grows across runs).
-
-  Each run: scrape the newest movies → byte-verify every URL → merge with
-  still-alive entries from the previous `data/moviesda.json` + `data/embeds.json`
-  (fresh scrape wins on conflicts) → commit. If ZERO MP4s verify, the run exits 2
-  and overwrites nothing.
-- R2 hotlinks rotate: that's fine — each run re-verifies and rewrites the
-  files; the app's own deep check catches anything that dies between runs.
-- If moviesda changes their HTML, the CLI fails loudly (exit 2) instead of
-  shipping silent junk.
+This rewrite fixes all three: durable hosts preferred (biggshare/hotshare),
+HTML gates rejected, embeds removed, movies-only, fresh rebuild each run.

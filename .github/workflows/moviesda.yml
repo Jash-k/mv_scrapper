@@ -1,8 +1,9 @@
-name: MoviesDa Auto-Scraper (direct MP4 + embeds)
+name: MoviesDa Auto-Scraper (direct MP4 only)
 
 # Additive module — the 1TamilMV workflow (scrape.yml) is untouched.
-# Every 4 hours: scrape moviesda (Tamil movies), byte-verify every MP4,
-# commit moviesda.json + embeds.json + moviesda.m3u + stremio/ Pages output.
+# Every 4 hours: scrape moviesda (Tamil MOVIES only), byte-verify every
+# 720p/1080p direct MP4, fresh-rebuild moviesda.json + m3u + stremio/.
+# Embeds are disabled (embeds.json always written as []).
 
 on:
   schedule:
@@ -26,11 +27,12 @@ jobs:
       - uses: actions/setup-node@v4
         with:
           node-version: 20
+          cache: 'npm'
 
-      - name: Install deps (cheerio)
-        run: npm install --no-save cheerio
+      - name: Install Dependencies
+        run: npm ci
 
-      - name: Scrape + verify + build
+      - name: Scrape + verify + build (direct MP4 only)
         env:
           MOVIESDA_YEARS_BACK: '1'
           MOVIESDA_MAX_MOVIES: '24'
@@ -46,6 +48,6 @@ jobs:
           if git diff --cached --quiet; then
             echo "No changes — skipping commit."
           else
-            git commit -m "moviesda: auto update $(date -u +'%Y-%m-%d %H:%M UTC')"
+            git commit -m "moviesda: direct-mp4 refresh $(date -u +'%Y-%m-%d %H:%M UTC')"
             git push
           fi

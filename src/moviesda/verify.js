@@ -1,11 +1,11 @@
 /**
- * Build-time verification — the reason this feed stays trustworthy.
+ * Build-time verification — only real direct MP4 bytes may enter moviesda.json.
  *
  * Every 'mp4' URL must answer a ranged GET with real MP4 bytes (ftyp box)
- * before it is allowed into moviesda.json / the M3U twin. Every 'iframe' URL
- * must serve a player page containing a <video> tag. Anything that fails is
- * dropped and counted — the committed files only ever contain streams that
- * were provably alive minutes earlier.
+ * before it is allowed into moviesda.json / the M3U twin. Anything that fails
+ * (HTML gate pages, expired tokens, timeouts) is dropped.
+ *
+ * Embed / iframe verification removed — this module is direct-links only.
  */
 const TIMEOUT_MS = 20000;
 
@@ -33,10 +33,21 @@ async function rangedHead(url, bytes = 131072) {
       chunks.push(value);
       got += value.length;
     }
-    try { await reader.cancel(); } catch { /* stream already closed */ }
-    try { res.body.destroy(); } catch { /* node compat */ }
-    return { status: res.status, buf: Buffer.concat(chunks).subarray(0, bytes) };
-    return { status: res.status, buf };
+    try {
+      await reader.cancel();
+    } catch {
+      /* stream already closed */
+    }
+    try {
+      res.body.destroy?.();
+    } catch {
+      /* node compat */
+    }
+    return {
+      status: res.status,
+      ctype: (res.headers.get('content-type') || '').toLowerCase(),
+      buf: Buffer.concat(chunks).subarray(0, bytes),
+    };
   } finally {
     clearTimeout(timer);
   }
@@ -44,34 +55,19 @@ async function rangedHead(url, bytes = 131072) {
 
 export async function verifyMp4(url) {
   try {
-    const { status, buf } = await rangedHead(url);
+    // Reject known embed / HTML gate hosts up front
+    if (/onestream\.today|play\.onestream/i.test(url)) {
+      return { ok: false, error: 'embed-host-rejected' };
+    }
+    const { status, ctype, buf } = await rangedHead(url);
+    // HTML gate pages often answer 200/206 with text/html — reject hard
+    if (ctype.includes('text/html') || ctype.includes('text/plain')) {
+      return { ok: false, status, error: 'html-gate', bytes: buf.length };
+    }
     const isMp4 = buf.length > 64 && buf.slice(4, 8).toString('latin1') === 'ftyp';
     const isTs = buf.length > 376 && buf[0] === 0x47 && buf[188] === 0x47;
-    return { ok: (status === 200 || status === 206) && (isMp4 || isTs), status, bytes: buf.length };
-  } catch (error) {
-    return { ok: false, error: error.message };
-  }
-}
-
-export async function verifyEmbed(url) {
-  try {
-    const controller = new AbortController();
-    const timer = setTimeout(() => controller.abort(), TIMEOUT_MS);
-    try {
-      const res = await fetch(url, {
-        headers: { 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/124.0' },
-        redirect: 'follow',
-        signal: controller.signal,
-      });
-      const body = (await res.text()).slice(0, 40000);
-      const hasPlayer = res.ok && (body.includes('<video') || body.includes('?stream=1'));
-      const xfo = (res.headers.get('x-frame-options') || '').toLowerCase();
-      const csp = (res.headers.get('content-security-policy') || '').toLowerCase();
-      const framed = !xfo && !csp.includes('frame-ancestors');
-      return { ok: hasPlayer && framed, status: res.status, framed };
-    } finally {
-      clearTimeout(timer);
-    }
+    const ok = (status === 200 || status === 206) && (isMp4 || isTs);
+    return { ok, status, bytes: buf.length, ctype };
   } catch (error) {
     return { ok: false, error: error.message };
   }
@@ -92,6 +88,6 @@ export async function verifyAll(items, checker, { concurrency = 4, onProgress } 
       if (onProgress && done % 10 === 0) onProgress(done, items.length);
     }
   }
-  await Promise.all(Array.from({ length: Math.min(concurrency, items.length) }, worker));
+  await Promise.all(Array.from({ length: Math.min(concurrency, items.length || 1) }, worker));
   return results;
 }
