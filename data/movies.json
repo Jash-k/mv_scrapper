@@ -1849,18 +1849,7 @@
       "Malayalam",
       "Hindi",
       "Multi-Lang"
-    ],
-    "imdbId": "tt33293169",
-    "name": "Mango",
-    "year": "2025",
-    "poster": "https://images.metahub.space/poster/small/tt33293169/img",
-    "thumbnail": "https://images.metahub.space/poster/small/tt33293169/img",
-    "genres": [
-      "Comedy",
-      "Drama",
-      "Romance"
-    ],
-    "description": "Lærke, an ambitious hotel manager, is sent to Malaga to develop a hotel on Alex's mango farm. Lærke's daughter joins, expecting a rare holiday. Unexpected feelings arise between Lærke and Alex, forcing them to make life-altering c..."
+    ]
   },
   {
     "id": "7b4eef4d62712004e892bef5c6eb1e30",
@@ -3683,17 +3672,7 @@
     "rawText": "Boys (2003) Tamil Remastered UHD + ESub - [4K, 1080p & 720p - AVC / HEVC - (DD+5.1 - 192Kbps) - 8.2GB + Rips]",
     "languages": [
       "Tamil"
-    ],
-    "imdbId": "tt0279781",
-    "name": "Sorority Boys",
-    "year": "2002",
-    "poster": "https://images.metahub.space/poster/small/tt0279781/img",
-    "thumbnail": "https://images.metahub.space/poster/small/tt0279781/img",
-    "genres": [
-      "Comedy"
-    ],
-    "description": "Strapped for cash, three fraternity playboys make one last attempt to live the high life - cheaply - by masquerading as girls. But their chauvinistic ways come back to haunt them as they get a crash course in the opposite sex.",
-    "imdbRating": "5.5"
+    ]
   },
   {
     "id": "3d4641fd0bfdeee21b865c7e7d0f95e9",
@@ -16120,7 +16099,12 @@
       "Malayalam",
       "Kannada",
       "Multi-Lang"
-    ]
+    ],
+    "imdbId": "tt38907371",
+    "name": "Oh..! Sukumari",
+    "year": 2026,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMzBlYWY1OTItYzMxNC00YzExLTllODQtZmI3YWYwZDA4NzcxXkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BMzBlYWY1OTItYzMxNC00YzExLTllODQtZmI3YWYwZDA4NzcxXkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "bf7fbef1a2d6882640a03af31ad32a18",
@@ -16327,12 +16311,7 @@
     "rawText": "Dark Giant (2026) Tamil UHD + ESub - [4K, 1080p & 720p - AVC / HEVC - (DD+5.1 - 192Kbps) - 2.5GB + Rips]",
     "languages": [
       "Tamil"
-    ],
-    "imdbId": "tt42803237",
-    "name": "Dark Giant",
-    "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BYTVlZWUwMTktZDQ3NC00YWFhLWE5MDEtM2VkOWFlOWZkMzQwXkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BYTVlZWUwMTktZDQ3NC00YWFhLWE5MDEtM2VkOWFlOWZkMzQwXkEyXkFqcGc@._V1_SX250.jpg"
+    ]
   },
   {
     "id": "09690fd6e21b9820a0bd916c6cbe946e",
@@ -18308,12 +18287,7 @@
       "Telugu",
       "Hindi",
       "Multi-Lang"
-    ],
-    "imdbId": "tt34881854",
-    "name": "Son of Sara",
-    "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BNjJiZTgyYTctMzJiNy00M2E0LWFjYTgtZTI1YWUwN2NhZTlkXkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BNjJiZTgyYTctMzJiNy00M2E0LWFjYTgtZTI1YWUwN2NhZTlkXkEyXkFqcGc@._V1_SX250.jpg"
+    ]
   },
   {
     "id": "4a2dff407d698710e6a1de5ea3b21a5e",
@@ -20921,7 +20895,12 @@
       "Telugu",
       "Hindi",
       "Multi-Lang"
-    ]
+    ],
+    "imdbId": "tt0102817",
+    "name": "Rubin and Ed",
+    "year": 1991,
+    "poster": "https://m.media-amazon.com/images/M/MV5BYWYzMjliZmQtN2UwMS00YTllLWEzNzEtOTcwNGQyOWJkYzM2XkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BYWYzMjliZmQtN2UwMS00YTllLWEzNzEtOTcwNGQyOWJkYzM2XkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "cde4a20fc1ec9271a6ab9ec1db51a6e0",
