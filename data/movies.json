@@ -10204,7 +10204,12 @@
       "Tamil",
       "Hindi",
       "Multi-Lang"
-    ]
+    ],
+    "imdbId": "tt0765429",
+    "name": "American Gangster",
+    "year": 2007,
+    "poster": "https://m.media-amazon.com/images/M/MV5BZGExM2MwNjUtNThkNi00ZjBmLWJhZDgtN2ZmOWJiZWEwNGMxXkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BZGExM2MwNjUtNThkNi00ZjBmLWJhZDgtN2ZmOWJiZWEwNGMxXkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "8468f1bb42cfdac7cc52bf9176e82b19",
@@ -13488,7 +13493,12 @@
     "rawText": "Raja the Raja (2026) Telugu HD + ESub - [1080p & 720p - AVC / HEVC - (DD+5.1 - 640Kbps) - 5.7GB + Rips]",
     "languages": [
       "Telugu"
-    ]
+    ],
+    "imdbId": "tt42643672",
+    "name": "Raja the Raja",
+    "year": 2026,
+    "poster": "https://images.metahub.space/poster/small/tt42643672/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt42643672/img"
   },
   {
     "id": "a609550fc9b826a641d06ee1c5153666",
@@ -14014,7 +14024,19 @@
       "Telugu",
       "Hindi",
       "Multi-Lang"
-    ]
+    ],
+    "imdbId": "tt1591095",
+    "name": "Insidious",
+    "year": "2011",
+    "poster": "https://images.metahub.space/poster/small/tt1591095/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt1591095/img",
+    "genres": [
+      "Horror",
+      "Mystery",
+      "Thriller"
+    ],
+    "description": "A family looks to prevent evil spirits from trapping their comatose child in a realm called The Further.",
+    "imdbRating": "6.8"
   },
   {
     "id": "dbea502be1829bce69de58bffcf5b73a",
@@ -16808,7 +16830,12 @@
       "Telugu",
       "Hindi",
       "Multi-Lang"
-    ]
+    ],
+    "imdbId": "tt0096259",
+    "name": "Things Change",
+    "year": 1988,
+    "poster": "https://m.media-amazon.com/images/M/MV5BN2NlNTY0MTctYjRkMi00YTE3LWJkMGUtYjY3MmFmNzUwMTVjXkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BN2NlNTY0MTctYjRkMi00YTE3LWJkMGUtYjY3MmFmNzUwMTVjXkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "184db1ff1216c7761cd58e941c06f4cf",
@@ -16956,7 +16983,12 @@
     "languages": [
       "Tamil",
       "Malayalam"
-    ]
+    ],
+    "imdbId": "tt37458495",
+    "name": "Gatta Kusthi 2",
+    "year": 2026,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMGFhZDkxYjYtZGViYy00MTgyLTliNWQtOWFlZmNmZmI4MWZkXkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BMGFhZDkxYjYtZGViYy00MTgyLTliNWQtOWFlZmNmZmI4MWZkXkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "5db5b2233485c3ff4d68829c872a1f04",
@@ -18469,7 +18501,12 @@
     "rawText": "Police Complaint (2026) Telugu UHD + ESub - [4K, 1080p & 720p - AVC / HEVC - (DD+5.1 - 640Kbps) - 8.4GB + Rips]",
     "languages": [
       "Telugu"
-    ]
+    ],
+    "imdbId": "tt42577497",
+    "name": "Police Complaint",
+    "year": 2026,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjBjOTZhODEtOThjYi00MDU0LWJiZDctYTQ5ZjUxYTBjYWEyXkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BMjBjOTZhODEtOThjYi00MDU0LWJiZDctYTQ5ZjUxYTBjYWEyXkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "1e2e496c10a3c0ea3abe573e15210072",
