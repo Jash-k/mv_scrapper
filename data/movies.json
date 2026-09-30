@@ -6506,7 +6506,12 @@
       "Telugu",
       "Kannada",
       "Multi-Lang"
-    ]
+    ],
+    "imdbId": "tt37963237",
+    "name": "Varavu",
+    "year": 2026,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTVmZGQwYjAtMWVhNS00NDc2LWJjZDMtYmRiOGYyNzJhZTI4XkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BMTVmZGQwYjAtMWVhNS00NDc2LWJjZDMtYmRiOGYyNzJhZTI4XkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "409e68a3d65ae2c7d1c72876cd448513",
@@ -6563,7 +6568,12 @@
     "rawText": "Vengeance (2026) Tamil HD + ESub - [4K, 1080p & 720p - AVC / HEVC - (DD+5.1 - 192Kbps) - 4.4GB + Rips]",
     "languages": [
       "Tamil"
-    ]
+    ],
+    "imdbId": "tt11976532",
+    "name": "Vengeance",
+    "year": 2026,
+    "poster": "https://m.media-amazon.com/images/M/MV5BYmI2MmZlNTctYjIyMy00N2MxLTllZWQtNmEyOGZhMGQ3NThiXkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BYmI2MmZlNTctYjIyMy00N2MxLTllZWQtNmEyOGZhMGQ3NThiXkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "afa28110a7a2cd0bef854557946bfadf",
@@ -6691,7 +6701,12 @@
       "Telugu",
       "Hindi",
       "Multi-Lang"
-    ]
+    ],
+    "imdbId": "tt30887701",
+    "name": "Pinocchio: Unstrung",
+    "year": 2026,
+    "poster": "https://m.media-amazon.com/images/M/MV5BNGVmODI1N2YtMjBjMC00YmMyLTg1MDYtNDViNTgxMzVhMDU2XkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BNGVmODI1N2YtMjBjMC00YmMyLTg1MDYtNDViNTgxMzVhMDU2XkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "52164c150caa6dfb37e53efed990834f",
@@ -11637,7 +11652,12 @@
     "rawText": "The Breed (2006) (BluRay + Org Auds) - [1080p & 720p - x264 - (Tamil + Eng) - 1.4GB + Rips]",
     "languages": [
       "Tamil"
-    ]
+    ],
+    "imdbId": "tt0455362",
+    "name": "The Breed",
+    "year": 2006,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjg5ODA5MzAxMV5BMl5BanBnXkFtZTgwMzkyNDM2MTI@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BMjg5ODA5MzAxMV5BMl5BanBnXkFtZTgwMzkyNDM2MTI@._V1_SX250.jpg"
   },
   {
     "id": "44113667cb04be2483cc9ef0ad75e2c3",
@@ -13456,7 +13476,18 @@
       "Tamil",
       "Hindi",
       "Multi-Lang"
-    ]
+    ],
+    "imdbId": "tt0462023",
+    "name": "Romulus, My Father",
+    "year": "2007",
+    "poster": "https://images.metahub.space/poster/small/tt0462023/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt0462023/img",
+    "genres": [
+      "Biography",
+      "Drama"
+    ],
+    "description": "It tells the story of Romulus, his beautiful wife, Christina, and their struggle in the face of great adversity to bring up their son, Raimond. It is a story of impossible love that ultimately celebrates the unbreakable bond betwe...",
+    "imdbRating": "6.6"
   },
   {
     "id": "7b16269ddb88cda122f7179463e4d71e",
@@ -13812,7 +13843,12 @@
       "Telugu",
       "Hindi",
       "Multi-Lang"
-    ]
+    ],
+    "imdbId": "tt32273171",
+    "name": "The Death of Robin Hood",
+    "year": 2026,
+    "poster": "https://m.media-amazon.com/images/M/MV5BYTRmNzlmZjEtYjkzMC00MmNjLThiOGYtZjM5MjFiZDQyM2IwXkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BYTRmNzlmZjEtYjkzMC00MmNjLThiOGYtZjM5MjFiZDQyM2IwXkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "1b407c9c7ad622ecd591d4c7623b9cf7",
@@ -14242,7 +14278,17 @@
       "Telugu",
       "Hindi",
       "Multi-Lang"
-    ]
+    ],
+    "imdbId": "tt37540328",
+    "name": "Back to the 90s",
+    "year": "2026",
+    "poster": "https://images.metahub.space/poster/small/tt37540328/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt37540328/img",
+    "genres": [
+      "Comedy",
+      "Romance"
+    ],
+    "description": "When a glitch hurls the hottest rising boy band of five friends into the year 1995, they must find a way back — together."
   },
   {
     "id": "817160c860a260baaedd05f8d2a2282d",
@@ -14717,7 +14763,12 @@
     "rawText": "Nooru Saami (2026) Tamil UHD + ESub - [4K, 1080p & 720p - AVC / HEVC - (DD+5.1 - 192Kbps) - 7GB + Rips] - [W]",
     "languages": [
       "Tamil"
-    ]
+    ],
+    "imdbId": "tt38267486",
+    "name": "Nooru Saami",
+    "year": 2026,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMmU5YzAyMDItMTc2Yy00NzdhLWI4MzItYTk3NDhmODBmZjM3XkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BMmU5YzAyMDItMTc2Yy00NzdhLWI4MzItYTk3NDhmODBmZjM3XkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "c7d29abbeb2dfd5c30308881341a87de",
@@ -15239,7 +15290,12 @@
       "Telugu",
       "Hindi",
       "Multi-Lang"
-    ]
+    ],
+    "imdbId": "tt2369135",
+    "name": "Need for Speed",
+    "year": 2014,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTQ3ODY4NzYzOF5BMl5BanBnXkFtZTgwNjI3OTE4MDE@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BMTQ3ODY4NzYzOF5BMl5BanBnXkFtZTgwNjI3OTE4MDE@._V1_SX250.jpg"
   },
   {
     "id": "9e95f42a03324e5ad44838c309ca3769",
@@ -15648,7 +15704,12 @@
       "Kannada",
       "Hindi",
       "Multi-Lang"
-    ]
+    ],
+    "imdbId": "tt41993585",
+    "name": "M.R.P - Neekentha Naakentha?",
+    "year": 2026,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMzZiY2FmZmUtOTI3My00NjU1LTk1NWQtN2IyZGYwNzFlM2JkXkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BMzZiY2FmZmUtOTI3My00NjU1LTk1NWQtN2IyZGYwNzFlM2JkXkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "88d8e0db432b2d027a9a54fea1b6a771",
@@ -15789,7 +15850,12 @@
       "Telugu",
       "Hindi",
       "Multi-Lang"
-    ]
+    ],
+    "imdbId": "tt32268156",
+    "name": "The Last House",
+    "year": 2026,
+    "poster": "https://m.media-amazon.com/images/M/MV5BNGVlY2E3YjYtMDI3OC00OTZjLWE5MTgtNzQ2NDdlNjMwMzVhXkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BNGVlY2E3YjYtMDI3OC00OTZjLWE5MTgtNzQ2NDdlNjMwMzVhXkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "3e5bf3c573012aca969359fda676b7a1",
@@ -20214,7 +20280,12 @@
       "Telugu",
       "Hindi",
       "Multi-Lang"
-    ]
+    ],
+    "imdbId": "tt0102817",
+    "name": "Rubin and Ed",
+    "year": 1991,
+    "poster": "https://m.media-amazon.com/images/M/MV5BYWYzMjliZmQtN2UwMS00YTllLWEzNzEtOTcwNGQyOWJkYzM2XkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BYWYzMjliZmQtN2UwMS00YTllLWEzNzEtOTcwNGQyOWJkYzM2XkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "cde4a20fc1ec9271a6ab9ec1db51a6e0",
