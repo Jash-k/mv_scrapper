@@ -281,6 +281,17 @@
         "leechers": 10
       },
       {
+        "quality": "1080p HEVC",
+        "size": "",
+        "type": "magnet",
+        "url": "magnet:?xt=urn:btih:df7761c2063cb98a477b1dfb242945ef032bb67c&dn=www.1TamilMV.lease%20-%20Mahendragiri%20Vaaraahi%20%282026%29%20Tamil%20HQ%20HDRip%20-%201080p%20-%20HEVC%20-%20x265%20-%20%28DD%2B5.1%20-%20192Kbps%20%26%20AAC%202.0%29.mkv&xl=1969582238&tr=udp%3A%2F%2Ftracker.dler.com%3A6969%2Fannounce&tr=http%3A%2F%2Ftracker.bt4g.com%3A2095%2Fannounce&tr=udp%3A%2F%2Ftracker-udp.gbitt.info%3A80%2Fannounce&tr=http%3A%2F%2Fipv4announce.sktorrent.eu%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=http%3A%2F%2Ftracker.mywaifu.best%3A6969%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=udp%3A%2F%2Fevan.im%3A6969%2Fannounce&tr=https%3A%2F%2Ftracker.leechshield.link%3A443%2Fannounce&tr=http%3A%2F%2Ftracker.dhitechnical.com%3A6969%2Fannounce&tr=https%3A%2F%2Ftorrents.tmtime.dev%3A443%2Fannounce&tr=udp%3A%2F%2Ftorrentclub.online%3A1984%2Fannounce&tr=udp%3A%2F%2Ftracker.wildkat.net%3A6969%2Fannounce&tr=http%3A%2F%2Fbt1.archive.org%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.publictracker.xyz%3A6969%2Fannounce&tr=http%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.wildkat.net%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.qu.ax%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.peerfect.org%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.opentorrent.top%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.filemail.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Fexplodie.org%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.filebase.online%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.moeking.me%3A6969%2Fannounce&tr=udp%3A%2F%2Fp4p.arenabg.com%3A1337%2Fannounce",
+        "languages": [
+          "Tamil"
+        ],
+        "seeders": 100,
+        "leechers": 10
+      },
+      {
         "quality": "1080p AVC",
         "size": "3GB",
         "type": "magnet",
@@ -18680,12 +18691,7 @@
     "rawText": "Police Complaint (2026) Telugu UHD + ESub - [4K, 1080p & 720p - AVC / HEVC - (DD+5.1 - 640Kbps) - 8.4GB + Rips]",
     "languages": [
       "Telugu"
-    ],
-    "imdbId": "tt42577497",
-    "name": "Police Complaint",
-    "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BMjBjOTZhODEtOThjYi00MDU0LWJiZDctYTQ5ZjUxYTBjYWEyXkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BMjBjOTZhODEtOThjYi00MDU0LWJiZDctYTQ5ZjUxYTBjYWEyXkEyXkFqcGc@._V1_SX250.jpg"
+    ]
   },
   {
     "id": "1e2e496c10a3c0ea3abe573e15210072",
@@ -18946,12 +18952,7 @@
       "Kannada",
       "Hindi",
       "Multi-Lang"
-    ],
-    "imdbId": "tt36958312",
-    "name": "The Devil's Mouth",
-    "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BOWMyNGRhZDctMTIzNC00MDc3LTkzYTctNGJjZmU4MjgzMzEwXkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BOWMyNGRhZDctMTIzNC00MDc3LTkzYTctNGJjZmU4MjgzMzEwXkEyXkFqcGc@._V1_SX250.jpg"
+    ]
   },
   {
     "id": "94c3bdcf942ca06829cbb91eebb2d768",
@@ -20266,12 +20267,7 @@
       "Telugu",
       "Hindi",
       "Multi-Lang"
-    ],
-    "imdbId": "tt36304003",
-    "name": "72 Hours",
-    "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BOTRkOTUxZDctOThmNC00ZWVkLTljMjMtNGVjYjVmMDFkZmMyXkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BOTRkOTUxZDctOThmNC00ZWVkLTljMjMtNGVjYjVmMDFkZmMyXkEyXkFqcGc@._V1_SX250.jpg"
+    ]
   },
   {
     "id": "36c7199848ae472ff1e8d50d38a194c6",
@@ -20364,19 +20360,7 @@
       "Telugu",
       "Hindi",
       "Multi-Lang"
-    ],
-    "imdbId": "tt34471850",
-    "name": "Protector",
-    "year": "2026",
-    "poster": "https://images.metahub.space/poster/small/tt34471850/img",
-    "thumbnail": "https://images.metahub.space/poster/small/tt34471850/img",
-    "genres": [
-      "Action",
-      "Crime",
-      "Drama"
-    ],
-    "description": "Former war hero Nikki's peaceful life is shattered when her daughter is kidnapped. Thrust into the criminal underworld while hunted by cops and military, she must fight to rescue her child.",
-    "imdbRating": "5.3"
+    ]
   },
   {
     "id": "1ae57f0cd26497d36dc748817c69a251",
