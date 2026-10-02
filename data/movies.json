@@ -3412,15 +3412,9 @@
     ],
     "imdbId": "tt35672862",
     "name": "Hokum",
-    "year": "2026",
-    "poster": "https://images.metahub.space/poster/small/tt35672862/img",
-    "thumbnail": "https://images.metahub.space/poster/small/tt35672862/img",
-    "genres": [
-      "Horror",
-      "Thriller"
-    ],
-    "description": "A horror writer visits an Irish inn to scatter his parents' ashes, unaware the property is said to be haunted by a witch.",
-    "imdbRating": "7.3"
+    "year": 2026,
+    "poster": "https://m.media-amazon.com/images/M/MV5BZjA1ZjFlZGItNTVjZC00NTFhLTg2YTEtODMzODRmNGFiNTdmXkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BZjA1ZjFlZGItNTVjZC00NTFhLTg2YTEtODMzODRmNGFiNTdmXkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "ca09bfbc9c0bc4be1a156757acb82f3e",
@@ -4463,12 +4457,7 @@
     "rawText": "Boys Never Compromise (2026) Kannada HD + ESub - [1080p & 720p - AVC - (DD+2.0 - 224Kbps) - 8GB + Rips]",
     "languages": [
       "Kannada"
-    ],
-    "imdbId": "tt33363258",
-    "name": "Boys Never Compromise",
-    "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BY2M1MzUzYWYtYzAzNC00MzRlLTgzOGEtZjQ0MmNhZWM1M2MyXkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BY2M1MzUzYWYtYzAzNC00MzRlLTgzOGEtZjQ0MmNhZWM1M2MyXkEyXkFqcGc@._V1_SX250.jpg"
+    ]
   },
   {
     "id": "25c64a5b2528ecd49031c0ee1bdacc87",
@@ -11110,7 +11099,12 @@
     "rawText": "Karavali (2026) Kannada HD + ESub - [1080p & 720p - AVC - (DD+5.1 - 192Kbps) - 2GB + Rips] - [W]",
     "languages": [
       "Kannada"
-    ]
+    ],
+    "imdbId": "tt29521397",
+    "name": "Karavali",
+    "year": 2026,
+    "poster": "https://m.media-amazon.com/images/M/MV5BYjA3OGRjMTgtYjVhNC00NzljLWFkNGMtMzk4NDQxMmI0NDMyXkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BYjA3OGRjMTgtYjVhNC00NzljLWFkNGMtMzk4NDQxMmI0NDMyXkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "b192efc755a93223f712094918290c3d",
@@ -11521,7 +11515,12 @@
       "Telugu",
       "Hindi",
       "Multi-Lang"
-    ]
+    ],
+    "imdbId": "tt1713476",
+    "name": "The Bay",
+    "year": 2026,
+    "poster": "https://m.media-amazon.com/images/M/MV5BNDEzMWU2YWUtOWVkMy00OTg0LTkyMjctMDA3MDc2NGViYjU5XkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BNDEzMWU2YWUtOWVkMy00OTg0LTkyMjctMDA3MDc2NGViYjU5XkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "bdf03a76e9c799cf6fdcbaebe38dd32c",
@@ -16524,7 +16523,12 @@
       "Tamil",
       "Hindi",
       "Multi-Lang"
-    ]
+    ],
+    "imdbId": "tt29794968",
+    "name": "Planetquake",
+    "year": 2024,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMzc5OTQwZjEtNDc5OC00YmZmLWJlNzQtM2FmNWY0Njg4OTUxXkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BMzc5OTQwZjEtNDc5OC00YmZmLWJlNzQtM2FmNWY0Njg4OTUxXkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "eecd4f37aac24cd6fdf0138bf4c91575",
@@ -16998,7 +17002,12 @@
       "Telugu",
       "Hindi",
       "Multi-Lang"
-    ]
+    ],
+    "imdbId": "tt32268156",
+    "name": "The Last House",
+    "year": 2026,
+    "poster": "https://m.media-amazon.com/images/M/MV5BNGVlY2E3YjYtMDI3OC00OTZjLWE5MTgtNzQ2NDdlNjMwMzVhXkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BNGVlY2E3YjYtMDI3OC00OTZjLWE5MTgtNzQ2NDdlNjMwMzVhXkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "3e5bf3c573012aca969359fda676b7a1",
