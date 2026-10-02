@@ -2943,9 +2943,15 @@
     ],
     "imdbId": "tt35672862",
     "name": "Hokum",
-    "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BZjA1ZjFlZGItNTVjZC00NTFhLTg2YTEtODMzODRmNGFiNTdmXkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BZjA1ZjFlZGItNTVjZC00NTFhLTg2YTEtODMzODRmNGFiNTdmXkEyXkFqcGc@._V1_SX250.jpg"
+    "year": "2026",
+    "poster": "https://images.metahub.space/poster/small/tt35672862/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt35672862/img",
+    "genres": [
+      "Horror",
+      "Thriller"
+    ],
+    "description": "A horror writer visits an Irish inn to scatter his parents' ashes, unaware the property is said to be haunted by a witch.",
+    "imdbRating": "7.3"
   },
   {
     "id": "ca09bfbc9c0bc4be1a156757acb82f3e",
@@ -12664,7 +12670,12 @@
     "rawText": "Pluto (2026) Malayalam HD + ESub - [1080p & 720p - AVC - (AAC 2.0) - 2.4GB + Rips] - [W]",
     "languages": [
       "Malayalam"
-    ]
+    ],
+    "imdbId": "tt36580813",
+    "name": "Pluto",
+    "year": 2026,
+    "poster": "https://m.media-amazon.com/images/M/MV5BYWRhNzBmZDUtZWJjYi00ZDNjLTg1YTgtOTBlZjA1ZmYyYTQwXkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BYWRhNzBmZDUtZWJjYi00ZDNjLTg1YTgtOTBlZjA1ZmYyYTQwXkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "71dfc4011cc07a00e4eba0920b98bb40",
