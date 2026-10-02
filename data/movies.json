@@ -3165,15 +3165,9 @@
     ],
     "imdbId": "tt35672862",
     "name": "Hokum",
-    "year": "2026",
-    "poster": "https://images.metahub.space/poster/small/tt35672862/img",
-    "thumbnail": "https://images.metahub.space/poster/small/tt35672862/img",
-    "genres": [
-      "Horror",
-      "Thriller"
-    ],
-    "description": "A horror writer visits an Irish inn to scatter his parents' ashes, unaware the property is said to be haunted by a witch.",
-    "imdbRating": "7.3"
+    "year": 2026,
+    "poster": "https://m.media-amazon.com/images/M/MV5BZjA1ZjFlZGItNTVjZC00NTFhLTg2YTEtODMzODRmNGFiNTdmXkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BZjA1ZjFlZGItNTVjZC00NTFhLTg2YTEtODMzODRmNGFiNTdmXkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "ca09bfbc9c0bc4be1a156757acb82f3e",
@@ -4216,12 +4210,7 @@
     "rawText": "Boys Never Compromise (2026) Kannada HD + ESub - [1080p & 720p - AVC - (DD+2.0 - 224Kbps) - 8GB + Rips]",
     "languages": [
       "Kannada"
-    ],
-    "imdbId": "tt33363258",
-    "name": "Boys Never Compromise",
-    "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BY2M1MzUzYWYtYzAzNC00MzRlLTgzOGEtZjQ0MmNhZWM1M2MyXkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BY2M1MzUzYWYtYzAzNC00MzRlLTgzOGEtZjQ0MmNhZWM1M2MyXkEyXkFqcGc@._V1_SX250.jpg"
+    ]
   },
   {
     "id": "25c64a5b2528ecd49031c0ee1bdacc87",
@@ -4595,15 +4584,9 @@
     ],
     "imdbId": "tt35538033",
     "name": "Resident Evil",
-    "year": "2026",
-    "poster": "https://images.metahub.space/poster/small/tt35538033/img",
-    "thumbnail": "https://images.metahub.space/poster/small/tt35538033/img",
-    "genres": [
-      "Action",
-      "Horror",
-      "Sci-Fi"
-    ],
-    "description": "Follows a hapless courier tasked with delivering a package to a remote hospital. He soon finds himself caught in the middle of an outbreak and must fight through hordes of mutated creatures to survive."
+    "year": 2026,
+    "poster": "https://m.media-amazon.com/images/M/MV5BOGZjZWI1NTItOGUwZC00YWZkLWIxZWEtNzE2ZTIxODdjNmZmXkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BOGZjZWI1NTItOGUwZC00YWZkLWIxZWEtNzE2ZTIxODdjNmZmXkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "9e2e6c53396c1d66724bd6c1ddb316ce",
@@ -13576,7 +13559,12 @@
       "Tamil",
       "Hindi",
       "Multi-Lang"
-    ]
+    ],
+    "imdbId": "tt1570417",
+    "name": "Accident on Hill Road",
+    "year": 2009,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMDQzMzJiYTctMWNkZi00Yjk2LWJkOGUtNWYzMTU0MjNmOWI4XkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BMDQzMzJiYTctMWNkZi00Yjk2LWJkOGUtNWYzMTU0MjNmOWI4XkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "fb7bb80cdeb67ccd1279dacda128f37d",
