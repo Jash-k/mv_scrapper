@@ -200,18 +200,7 @@
       "Kannada",
       "Telugu",
       "Hindi"
-    ],
-    "imdbId": "tt27530512",
-    "name": "Toxic",
-    "year": "2026",
-    "poster": "https://images.metahub.space/poster/small/tt27530512/img",
-    "thumbnail": "https://images.metahub.space/poster/small/tt27530512/img",
-    "genres": [
-      "Action",
-      "Crime",
-      "Drama"
-    ],
-    "description": "As Portuguese rule crumbles in Goa, Raya rises through betrayal and bloodshed to claim the city's underworld, only to learn that power always demands a price."
+    ]
   },
   {
     "id": "1e49bfd9e3a59f3ab735ebf8812de407",
@@ -3423,9 +3412,15 @@
     ],
     "imdbId": "tt35672862",
     "name": "Hokum",
-    "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BZjA1ZjFlZGItNTVjZC00NTFhLTg2YTEtODMzODRmNGFiNTdmXkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BZjA1ZjFlZGItNTVjZC00NTFhLTg2YTEtODMzODRmNGFiNTdmXkEyXkFqcGc@._V1_SX250.jpg"
+    "year": "2026",
+    "poster": "https://images.metahub.space/poster/small/tt35672862/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt35672862/img",
+    "genres": [
+      "Horror",
+      "Thriller"
+    ],
+    "description": "A horror writer visits an Irish inn to scatter his parents' ashes, unaware the property is said to be haunted by a witch.",
+    "imdbRating": "7.3"
   },
   {
     "id": "ca09bfbc9c0bc4be1a156757acb82f3e",
@@ -4468,7 +4463,12 @@
     "rawText": "Boys Never Compromise (2026) Kannada HD + ESub - [1080p & 720p - AVC - (DD+2.0 - 224Kbps) - 8GB + Rips]",
     "languages": [
       "Kannada"
-    ]
+    ],
+    "imdbId": "tt33363258",
+    "name": "Boys Never Compromise",
+    "year": 2026,
+    "poster": "https://m.media-amazon.com/images/M/MV5BY2M1MzUzYWYtYzAzNC00MzRlLTgzOGEtZjQ0MmNhZWM1M2MyXkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BY2M1MzUzYWYtYzAzNC00MzRlLTgzOGEtZjQ0MmNhZWM1M2MyXkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "25c64a5b2528ecd49031c0ee1bdacc87",
@@ -5434,18 +5434,7 @@
       "Telugu",
       "Hindi",
       "Multi-Lang"
-    ],
-    "imdbId": "tt0944835",
-    "name": "Salt",
-    "year": "2010",
-    "poster": "https://images.metahub.space/poster/small/tt0944835/img",
-    "thumbnail": "https://images.metahub.space/poster/small/tt0944835/img",
-    "genres": [
-      "Action",
-      "Thriller"
-    ],
-    "description": "A CIA agent goes on the run after a defector accuses her of being a Russian spy.",
-    "imdbRating": "6.5"
+    ]
   },
   {
     "id": "ce344907bd91f2925ff0f6ef818fdc4a",
@@ -8032,7 +8021,12 @@
       "Telugu",
       "Kannada",
       "Multi-Lang"
-    ]
+    ],
+    "imdbId": "tt37963237",
+    "name": "Varavu",
+    "year": 2026,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTVmZGQwYjAtMWVhNS00NDc2LWJjZDMtYmRiOGYyNzJhZTI4XkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BMTVmZGQwYjAtMWVhNS00NDc2LWJjZDMtYmRiOGYyNzJhZTI4XkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "409e68a3d65ae2c7d1c72876cd448513",
@@ -8700,14 +8694,9 @@
     ],
     "imdbId": "tt37501035",
     "name": "DC",
-    "year": "2026",
-    "poster": "https://images.metahub.space/poster/small/tt37501035/img",
-    "thumbnail": "https://images.metahub.space/poster/small/tt37501035/img",
-    "genres": [
-      "Action",
-      "Crime",
-      "Drama"
-    ]
+    "year": 2026,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTc0MDYyNmYtZDJkNi00YzllLWJlNTctZDU3NTY1MzRhMWEzXkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BMTc0MDYyNmYtZDJkNi00YzllLWJlNTctZDU3NTY1MzRhMWEzXkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "c757af58a30b9790a46a4f6f65bc69bd",
@@ -12922,12 +12911,7 @@
     "rawText": "Pluto (2026) Malayalam HD + ESub - [1080p & 720p - AVC - (AAC 2.0) - 2.4GB + Rips] - [W]",
     "languages": [
       "Malayalam"
-    ],
-    "imdbId": "tt36580813",
-    "name": "Pluto",
-    "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BYWRhNzBmZDUtZWJjYi00ZDNjLTg1YTgtOTBlZjA1ZmYyYTQwXkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BYWRhNzBmZDUtZWJjYi00ZDNjLTg1YTgtOTBlZjA1ZmYyYTQwXkEyXkFqcGc@._V1_SX250.jpg"
+    ]
   },
   {
     "id": "71dfc4011cc07a00e4eba0920b98bb40",
@@ -13982,12 +13966,11 @@
       "Tamil",
       "Telugu"
     ],
-    "imdbId": "tt5256640",
-    "name": "Lenin",
-    "year": "2017",
-    "poster": "https://images.metahub.space/poster/small/tt5256640/img",
-    "thumbnail": "https://images.metahub.space/poster/small/tt5256640/img",
-    "genres": []
+    "imdbId": "tt38916037",
+    "name": "Lenin Pandiyan",
+    "year": 2026,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMDkwMGE4MDctZDUxNS00MTYwLWFjNTQtNDZhMmMzYTg2OTViXkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BMDkwMGE4MDctZDUxNS00MTYwLWFjNTQtNDZhMmMzYTg2OTViXkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "68aed7f241b44bdcc1cfca6a6ce1fb99",
@@ -18260,19 +18243,7 @@
       "Telugu",
       "Hindi",
       "Multi-Lang"
-    ],
-    "imdbId": "tt7708226",
-    "name": "Beast",
-    "year": "2026",
-    "poster": "https://images.metahub.space/poster/small/tt7708226/img",
-    "thumbnail": "https://images.metahub.space/poster/small/tt7708226/img",
-    "genres": [
-      "Action",
-      "Drama",
-      "Sport"
-    ],
-    "description": "MMA legend Patton James, now a commercial fisherman, is pulled back into the cage when his brother is in danger. Reuniting with his old coach Sammy, he commits to one final fight in ONE Championship against its brutal champion Xavier Grau.",
-    "imdbRating": "6.2"
+    ]
   },
   {
     "id": "f62b5b011aa6f065b46cecc7af7911d7",
@@ -19149,15 +19120,9 @@
     ],
     "imdbId": "tt23865918",
     "name": "Peddi",
-    "year": "2026",
-    "poster": "https://images.metahub.space/poster/small/tt23865918/img",
-    "thumbnail": "https://images.metahub.space/poster/small/tt23865918/img",
-    "genres": [
-      "Action",
-      "Drama",
-      "Sport"
-    ],
-    "description": "In 1980s rural Andhra Pradesh, A spirited villager unites his community through sports to defend their pride against a powerful rival."
+    "year": 2026,
+    "poster": "https://m.media-amazon.com/images/M/MV5BY2U5MzM2MDAtNjIxZC00Yzk5LWFiZjctNjllN2IyMzI2NTc0XkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BY2U5MzM2MDAtNjIxZC00Yzk5LWFiZjctNjllN2IyMzI2NTc0XkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "fd0a221ff51eeecc11d6e59392d2a550",
