@@ -3036,15 +3036,9 @@
     ],
     "imdbId": "tt35672862",
     "name": "Hokum",
-    "year": "2026",
-    "poster": "https://images.metahub.space/poster/small/tt35672862/img",
-    "thumbnail": "https://images.metahub.space/poster/small/tt35672862/img",
-    "genres": [
-      "Horror",
-      "Thriller"
-    ],
-    "description": "A horror writer visits an Irish inn to scatter his parents' ashes, unaware the property is said to be haunted by a witch.",
-    "imdbRating": "7.3"
+    "year": 2026,
+    "poster": "https://m.media-amazon.com/images/M/MV5BZjA1ZjFlZGItNTVjZC00NTFhLTg2YTEtODMzODRmNGFiNTdmXkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BZjA1ZjFlZGItNTVjZC00NTFhLTg2YTEtODMzODRmNGFiNTdmXkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "ca09bfbc9c0bc4be1a156757acb82f3e",
@@ -3871,12 +3865,7 @@
       "Malayalam",
       "Kannada",
       "Multi-Lang"
-    ],
-    "imdbId": "tt41790460",
-    "name": "Agadha",
-    "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BNjYwOWQ1NjMtYTRmYS00ZDc2LTkwNjAtN2JhYjE3NmVjMTA4XkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BNjYwOWQ1NjMtYTRmYS00ZDc2LTkwNjAtN2JhYjE3NmVjMTA4XkEyXkFqcGc@._V1_SX250.jpg"
+    ]
   },
   {
     "id": "c6ab20197830c7845b17a59ef25aad6c",
@@ -8786,12 +8775,7 @@
     "rawText": "Sardar (2022) Tamil HD + ESub - [1080p & 720p - AVC / HEVC - (DD+5.1 - 640Kbps) - 9.8GB + Rips]",
     "languages": [
       "Tamil"
-    ],
-    "imdbId": "tt28541577",
-    "name": "Sardar 2",
-    "year": 2022,
-    "poster": "https://m.media-amazon.com/images/M/MV5BNTMzNjZkODEtNjRiMS00MjFiLWE0YWYtOGQ5ZGVlODQ1NDVmXkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BNTMzNjZkODEtNjRiMS00MjFiLWE0YWYtOGQ5ZGVlODQ1NDVmXkEyXkFqcGc@._V1_SX250.jpg"
+    ]
   },
   {
     "id": "af226ba194a8d9bb0150b04241ec1e33",
@@ -13475,7 +13459,12 @@
       "Tamil",
       "Hindi",
       "Multi-Lang"
-    ]
+    ],
+    "imdbId": "tt4794022",
+    "name": "Udanchhoo",
+    "year": 2018,
+    "poster": "https://m.media-amazon.com/images/M/MV5BNjhlMDQ5NGItNjUwMy00OTNmLWI0YzAtOTVjMTQ1YWY2ODJhXkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BNjhlMDQ5NGItNjUwMy00OTNmLWI0YzAtOTVjMTQ1YWY2ODJhXkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "02dc80a8d875815d406d19cc96035ab4",
@@ -15596,7 +15585,12 @@
     "rawText": "Mr. Work from Home (2026) Telugu HD + ESub - [4K, 1080p & 720p - AVC / HEVC - (DD+5.1 - 192Kbps) - 4GB + Rips]",
     "languages": [
       "Telugu"
-    ]
+    ],
+    "imdbId": "tt40036552",
+    "name": "Mr. Work from Home",
+    "year": 2026,
+    "poster": "https://m.media-amazon.com/images/M/MV5BOTc2OWJiYTItOGYxZS00NWNjLWI3MjItOGQxZDFlYmUwMWZkXkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BOTc2OWJiYTItOGYxZS00NWNjLWI3MjItOGQxZDFlYmUwMWZkXkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "bab9f44f84f20bb230812a8d119ccd0a",
@@ -15946,7 +15940,12 @@
       "Kannada",
       "Hindi",
       "Multi-Lang"
-    ]
+    ],
+    "imdbId": "tt35723557",
+    "name": "Idhayam Murali",
+    "year": 2026,
+    "poster": "https://m.media-amazon.com/images/M/MV5BZTFjOTAwZjYtMjdiMC00NmY4LWE2ZWUtNGY3Zjk4Yjk2MGZjXkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BZTFjOTAwZjYtMjdiMC00NmY4LWE2ZWUtNGY3Zjk4Yjk2MGZjXkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "21bfe13d9a73abc37245e1c7ce17c5a8",
@@ -19903,12 +19902,7 @@
       "Telugu",
       "Hindi",
       "Multi-Lang"
-    ],
-    "imdbId": "tt0140282",
-    "name": "In God's Hands",
-    "year": 1998,
-    "poster": "https://m.media-amazon.com/images/M/MV5BYWFhYTFiMjAtODhhMi00NjdiLTk1ZmUtMzExNDM2NTViMzM0XkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BYWFhYTFiMjAtODhhMi00NjdiLTk1ZmUtMzExNDM2NTViMzM0XkEyXkFqcGc@._V1_SX250.jpg"
+    ]
   },
   {
     "id": "3c7971c6a8379772aeab8df4a73982fb",
@@ -20312,7 +20306,12 @@
     "rawText": "Mylanji (2026) Tamil UHD + ESub - [4K, 1080p & 720p - AVC / HEVC - (DD+5.1 - 192Kbps) - 4.3GB + Rips] - [W]",
     "languages": [
       "Tamil"
-    ]
+    ],
+    "imdbId": "tt29996704",
+    "name": "Mylanji",
+    "year": 2026,
+    "poster": "https://m.media-amazon.com/images/M/MV5BOTIzMWU3YjMtMTc3YS00ZWJhLThjMzgtZmRlZGVkYzU2ZGRkXkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BOTIzMWU3YjMtMTc3YS00ZWJhLThjMzgtZmRlZGVkYzU2ZGRkXkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "30ea10299049a7790d860feae3ae5b82",
@@ -20356,7 +20355,12 @@
       "Telugu",
       "Hindi",
       "Multi-Lang"
-    ]
+    ],
+    "imdbId": "tt36304003",
+    "name": "72 Hours",
+    "year": 2026,
+    "poster": "https://m.media-amazon.com/images/M/MV5BOTRkOTUxZDctOThmNC00ZWVkLTljMjMtNGVjYjVmMDFkZmMyXkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BOTRkOTUxZDctOThmNC00ZWVkLTljMjMtNGVjYjVmMDFkZmMyXkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "36c7199848ae472ff1e8d50d38a194c6",
@@ -21043,7 +21047,12 @@
       "Telugu",
       "Hindi",
       "Multi-Lang"
-    ]
+    ],
+    "imdbId": "tt33764258",
+    "name": "The Odyssey",
+    "year": 2026,
+    "poster": "https://m.media-amazon.com/images/M/MV5BNTcyNmJlZmQtNDUwYy00NDBjLTg1NGQtYTY2Y2UxMWM3NmI1XkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BNTcyNmJlZmQtNDUwYy00NDBjLTg1NGQtYTY2Y2UxMWM3NmI1XkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "fc78aafc7b42b3a66b5d6954fd0f235d",
