@@ -3036,9 +3036,15 @@
     ],
     "imdbId": "tt35672862",
     "name": "Hokum",
-    "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BZjA1ZjFlZGItNTVjZC00NTFhLTg2YTEtODMzODRmNGFiNTdmXkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BZjA1ZjFlZGItNTVjZC00NTFhLTg2YTEtODMzODRmNGFiNTdmXkEyXkFqcGc@._V1_SX250.jpg"
+    "year": "2026",
+    "poster": "https://images.metahub.space/poster/small/tt35672862/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt35672862/img",
+    "genres": [
+      "Horror",
+      "Thriller"
+    ],
+    "description": "A horror writer visits an Irish inn to scatter his parents' ashes, unaware the property is said to be haunted by a witch.",
+    "imdbRating": "7.3"
   },
   {
     "id": "ca09bfbc9c0bc4be1a156757acb82f3e",
@@ -13469,12 +13475,7 @@
       "Tamil",
       "Hindi",
       "Multi-Lang"
-    ],
-    "imdbId": "tt4794022",
-    "name": "Udanchhoo",
-    "year": 2018,
-    "poster": "https://m.media-amazon.com/images/M/MV5BNjhlMDQ5NGItNjUwMy00OTNmLWI0YzAtOTVjMTQ1YWY2ODJhXkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BNjhlMDQ5NGItNjUwMy00OTNmLWI0YzAtOTVjMTQ1YWY2ODJhXkEyXkFqcGc@._V1_SX250.jpg"
+    ]
   },
   {
     "id": "02dc80a8d875815d406d19cc96035ab4",
@@ -15595,12 +15596,7 @@
     "rawText": "Mr. Work from Home (2026) Telugu HD + ESub - [4K, 1080p & 720p - AVC / HEVC - (DD+5.1 - 192Kbps) - 4GB + Rips]",
     "languages": [
       "Telugu"
-    ],
-    "imdbId": "tt40036552",
-    "name": "Mr. Work from Home",
-    "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BOTc2OWJiYTItOGYxZS00NWNjLWI3MjItOGQxZDFlYmUwMWZkXkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BOTc2OWJiYTItOGYxZS00NWNjLWI3MjItOGQxZDFlYmUwMWZkXkEyXkFqcGc@._V1_SX250.jpg"
+    ]
   },
   {
     "id": "bab9f44f84f20bb230812a8d119ccd0a",
@@ -15950,12 +15946,7 @@
       "Kannada",
       "Hindi",
       "Multi-Lang"
-    ],
-    "imdbId": "tt35723557",
-    "name": "Idhayam Murali",
-    "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BZTFjOTAwZjYtMjdiMC00NmY4LWE2ZWUtNGY3Zjk4Yjk2MGZjXkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BZTFjOTAwZjYtMjdiMC00NmY4LWE2ZWUtNGY3Zjk4Yjk2MGZjXkEyXkFqcGc@._V1_SX250.jpg"
+    ]
   },
   {
     "id": "21bfe13d9a73abc37245e1c7ce17c5a8",
@@ -19326,7 +19317,19 @@
       "Telugu",
       "Hindi",
       "Multi-Lang"
-    ]
+    ],
+    "imdbId": "tt30395619",
+    "name": "Demon Slayer: Kimetsu No Yaiba - To the Hashira Training",
+    "year": "2024",
+    "poster": "https://images.metahub.space/poster/small/tt30395619/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt30395619/img",
+    "genres": [
+      "Animation",
+      "Action",
+      "Adventure"
+    ],
+    "description": "Tanjiro undergoes rigorous training with the Stone Hashira, Himejima, in his quest to become a Hashira. Meanwhile, Muzan continues to search for Nezuko and Ubuyashiki.",
+    "imdbRating": "7.2"
   },
   {
     "id": "c8ed1675e82a4149b42c9ad6b7bec882",
@@ -20446,7 +20449,19 @@
       "Telugu",
       "Hindi",
       "Multi-Lang"
-    ]
+    ],
+    "imdbId": "tt34471850",
+    "name": "Protector",
+    "year": "2026",
+    "poster": "https://images.metahub.space/poster/small/tt34471850/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt34471850/img",
+    "genres": [
+      "Action",
+      "Crime",
+      "Drama"
+    ],
+    "description": "Former war hero Nikki's peaceful life is shattered when her daughter is kidnapped. Thrust into the criminal underworld while hunted by cops and military, she must fight to rescue her child.",
+    "imdbRating": "5.3"
   },
   {
     "id": "1ae57f0cd26497d36dc748817c69a251",
@@ -20514,7 +20529,12 @@
     "rawText": "Anomie (2026) Malayalam HD + ESub - [1080p & 720p - AVC / HEVC - (DD+5.1 - 640Kbps) - 5GB + Rips] - [W]",
     "languages": [
       "Malayalam"
-    ]
+    ],
+    "imdbId": "tt27541778",
+    "name": "Anomie",
+    "year": 2026,
+    "poster": "https://m.media-amazon.com/images/M/MV5BOWM2YTg4NGQtMGQxMS00ZmQwLWFlOWYtY2JhMTZhNDJiYjRlXkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BOWM2YTg4NGQtMGQxMS00ZmQwLWFlOWYtY2JhMTZhNDJiYjRlXkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "dfd058497a29d18a4c42c7df6d688deb",
@@ -20582,7 +20602,12 @@
     "rawText": "Purushaha (2026) Telugu HD + ESub - [1080p & 720p - AVC / HEVC - (DD+5.1 - 640Kbps) - 5.5GB + Rips]",
     "languages": [
       "Telugu"
-    ]
+    ],
+    "imdbId": "tt39388107",
+    "name": "Purushaha",
+    "year": 2026,
+    "poster": "https://m.media-amazon.com/images/M/MV5BM2YyNDJiODUtMTEzMy00ZTljLWJhODEtNmJlOTUwMGJkYmMyXkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BM2YyNDJiODUtMTEzMy00ZTljLWJhODEtNmJlOTUwMGJkYmMyXkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "5cfa907fc3aefbed61a0164def1b1446",
@@ -20617,7 +20642,12 @@
     "rawText": "Secret of Kalinga (2026) Malayalam HD + ESub - [4K, 1080p & 720p - AVC / HEVC - (DD+5.1 - 192Kbps) - 2.9GB + Rips]",
     "languages": [
       "Malayalam"
-    ]
+    ],
+    "imdbId": "tt41944664",
+    "name": "Secret of Kalinga",
+    "year": 2026,
+    "poster": "https://m.media-amazon.com/images/M/MV5BZjM5MWQ5MDMtMWQyYy00MGE3LWJmNmEtZDlhZTUwMjYzMDU4XkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BZjM5MWQ5MDMtMWQyYy00MGE3LWJmNmEtZDlhZTUwMjYzMDU4XkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "b35c854d67f198d079a1cd51799c3a6c",
@@ -20641,7 +20671,12 @@
     "rawText": "Lo Naveena (2026) Kannada HD + ESub - [1080p & 720p - AVC - (DD+2.0 - 224Kbps) - 2.3GB + Rips]",
     "languages": [
       "Kannada"
-    ]
+    ],
+    "imdbId": "tt39088994",
+    "name": "Lo Naveena",
+    "year": 2026,
+    "poster": "https://m.media-amazon.com/images/M/MV5BYWY2NDk1ZGMtN2Y1OC00YzdmLTg3MzUtZjhiMzU4NTM5YjA0XkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BYWY2NDk1ZGMtN2Y1OC00YzdmLTg3MzUtZjhiMzU4NTM5YjA0XkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "11fa97e04d4f1e81276acf1f3b3f17ee",
@@ -20769,7 +20804,12 @@
       "Tamil",
       "Hindi",
       "Multi-Lang"
-    ]
+    ],
+    "imdbId": "tt0119349",
+    "name": "The Ice Storm",
+    "year": 2023,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMzljZTk2MzMtOTAwNi00MTBlLWI0ODYtODgwYTE4NmM1YWIwXkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BMzljZTk2MzMtOTAwNi00MTBlLWI0ODYtODgwYTE4NmM1YWIwXkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "4402fbff71df89a19b90960b1f40987b",
@@ -20954,7 +20994,12 @@
     "rawText": "Sannidhanam P.O. (2026) Tamil HD + ESub - [1080p & 720p - AVC / HEVC - (DD+5.1 - 640Kbps) - 4.6GB + Rips] - [W]",
     "languages": [
       "Tamil"
-    ]
+    ],
+    "imdbId": "tt29429839",
+    "name": "Sannidhanam P.O.",
+    "year": 2026,
+    "poster": "https://m.media-amazon.com/images/M/MV5BZjRlMTY2NzktZTM2Yi00MDVkLWJiMjQtMDM5YWNhYTE2ZTY2XkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BZjRlMTY2NzktZTM2Yi00MDVkLWJiMjQtMDM5YWNhYTE2ZTY2XkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "ce16434fe3e50344f7a5be87f415d773",
@@ -20998,12 +21043,7 @@
       "Telugu",
       "Hindi",
       "Multi-Lang"
-    ],
-    "imdbId": "tt33764258",
-    "name": "The Odyssey",
-    "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BNTcyNmJlZmQtNDUwYy00NDBjLTg1NGQtYTY2Y2UxMWM3NmI1XkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BNTcyNmJlZmQtNDUwYy00NDBjLTg1NGQtYTY2Y2UxMWM3NmI1XkEyXkFqcGc@._V1_SX250.jpg"
+    ]
   },
   {
     "id": "fc78aafc7b42b3a66b5d6954fd0f235d",
@@ -21044,6 +21084,11 @@
       "Tamil",
       "Hindi",
       "Multi-Lang"
-    ]
+    ],
+    "imdbId": "tt32990776",
+    "name": "Shark Warning",
+    "year": 2024,
+    "poster": "https://m.media-amazon.com/images/M/MV5BYjFmYTAyY2QtZWM5Ny00OGNkLWFhZTMtYzcxOThjNGY0MWQyXkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BYjFmYTAyY2QtZWM5Ny00OGNkLWFhZTMtYzcxOThjNGY0MWQyXkEyXkFqcGc@._V1_SX250.jpg"
   }
 ]
