@@ -84,6 +84,17 @@
         "leechers": 10
       },
       {
+        "quality": "720p HEVC",
+        "size": "1.1GB",
+        "type": "magnet",
+        "url": "magnet:?xt=urn:btih:eb381a29d09aa6f5fa670902ea5d944cae8edbc0&dn=www.1TamilMV.capital%20-%20Toxic%20%282026%29%20Tamil%20HDRip%20-%20720p%20-%20x265%20-%20HEVC%20-%20AAC%20-%201.1GB%20-%20HC-ESub.mkv&xl=1330848962&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Ftracker.dler.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=https%3A%2F%2Ftracker.moeblog.cn%3A443%2Fannounce&tr=udp%3A%2F%2Fopen.dstud.io%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.srv00.com%3A6969%2Fannounce&tr=https%3A%2F%2Ftracker.zhuqiy.com%3A443%2Fannounce&tr=https%3A%2F%2Ftracker.pmman.tech%3A443%2Fannounce&tr=udp%3A%2F%2Ftracker.publictracker.xyz%3A6969%2Fannounce&tr=http%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.wildkat.net%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.qu.ax%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.peerfect.org%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.opentorrent.top%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.filemail.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Fexplodie.org%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.filebase.online%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.moeking.me%3A6969%2Fannounce&tr=udp%3A%2F%2Fp4p.arenabg.com%3A1337%2Fannounce",
+        "languages": [
+          "Tamil"
+        ],
+        "seeders": 100,
+        "leechers": 10
+      },
+      {
         "quality": "720p AVC",
         "size": "1.8GB",
         "type": "magnet",
@@ -3335,9 +3346,15 @@
     ],
     "imdbId": "tt35672862",
     "name": "Hokum",
-    "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BZjA1ZjFlZGItNTVjZC00NTFhLTg2YTEtODMzODRmNGFiNTdmXkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BZjA1ZjFlZGItNTVjZC00NTFhLTg2YTEtODMzODRmNGFiNTdmXkEyXkFqcGc@._V1_SX250.jpg"
+    "year": "2026",
+    "poster": "https://images.metahub.space/poster/small/tt35672862/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt35672862/img",
+    "genres": [
+      "Horror",
+      "Thriller"
+    ],
+    "description": "A horror writer visits an Irish inn to scatter his parents' ashes, unaware the property is said to be haunted by a witch.",
+    "imdbRating": "7.3"
   },
   {
     "id": "ca09bfbc9c0bc4be1a156757acb82f3e",
@@ -5982,12 +5999,7 @@
       "Kannada",
       "Hindi",
       "Multi-Lang"
-    ],
-    "imdbId": "tt37510017",
-    "name": "Thudakkam",
-    "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BZjM5NGFiNzctOWFlOS00N2ZkLThhNmEtNDNiYWUyMGZhODFhXkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BZjM5NGFiNzctOWFlOS00N2ZkLThhNmEtNDNiYWUyMGZhODFhXkEyXkFqcGc@._V1_SX250.jpg"
+    ]
   },
   {
     "id": "9938e5f7e5fcfc8413737cbc75f939b2",
@@ -6852,18 +6864,7 @@
       "Hindi",
       "Multi-Lang",
       "Tamil"
-    ],
-    "imdbId": "tt32491690",
-    "name": "Dark Nuns",
-    "year": "2025",
-    "poster": "https://images.metahub.space/poster/small/tt32491690/img",
-    "thumbnail": "https://images.metahub.space/poster/small/tt32491690/img",
-    "genres": [
-      "Horror",
-      "Mystery",
-      "Thriller"
-    ],
-    "description": "A young boy Hee-Joon is possessed by an evil spirit. Nun Yunia tries to save him, assisted by Nun Mikaela. Priest Paul attempts medical treatment, while Priest Andrew performs an exorcism to rid Hee-Joon of the spirit."
+    ]
   },
   {
     "id": "1bfb4038bef0546818cdeafe99fdf161",
@@ -14139,12 +14140,7 @@
     "rawText": "Sanjeev (2026) Telugu HD + ESub - [1080p & 720p - AVC - (DD+5.1 - 192Kbps) - 1GB + Rips]",
     "languages": [
       "Telugu"
-    ],
-    "imdbId": "tt36653351",
-    "name": "Sanjeev",
-    "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BNzk3MTQ2ODEtNTQyZi00YmQ4LTkzOTYtNzE0NTJkYjJlNDdkXkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BNzk3MTQ2ODEtNTQyZi00YmQ4LTkzOTYtNzE0NTJkYjJlNDdkXkEyXkFqcGc@._V1_SX250.jpg"
+    ]
   },
   {
     "id": "84d8021ef91767958fc9306f6aa3e1b0",
@@ -14499,19 +14495,7 @@
       "Telugu",
       "Hindi",
       "Multi-Lang"
-    ],
-    "imdbId": "tt1591095",
-    "name": "Insidious",
-    "year": "2011",
-    "poster": "https://images.metahub.space/poster/small/tt1591095/img",
-    "thumbnail": "https://images.metahub.space/poster/small/tt1591095/img",
-    "genres": [
-      "Horror",
-      "Mystery",
-      "Thriller"
-    ],
-    "description": "A family looks to prevent evil spirits from trapping their comatose child in a realm called The Further.",
-    "imdbRating": "6.8"
+    ]
   },
   {
     "id": "9b030e910fab62dfe83b84885ab72bd8",
@@ -18925,12 +18909,7 @@
     "rawText": "Hai Jawani Toh Ishq Hona Hai (2026) Hindi HD + ESub - [4K, 1080p & 720p - AVC / HEVC - (DD+5.1 - 192Kbps) - 8GB + Rips]",
     "languages": [
       "Hindi"
-    ],
-    "imdbId": "tt30447822",
-    "name": "Hai Jawani Toh Ishq Hona Hai",
-    "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BZGZmOGE3OGEtYTRhMC00OWQ2LWE4MzEtNGUyZmRmZmEyNDdhXkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BZGZmOGE3OGEtYTRhMC00OWQ2LWE4MzEtNGUyZmRmZmEyNDdhXkEyXkFqcGc@._V1_SX250.jpg"
+    ]
   },
   {
     "id": "c1a52c50fc812b4aa540956c9e929e2b",
