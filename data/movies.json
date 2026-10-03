@@ -3462,7 +3462,19 @@
       "Telugu",
       "Hindi",
       "Multi-Lang"
-    ]
+    ],
+    "imdbId": "tt3322940",
+    "name": "Annabelle",
+    "year": "2014",
+    "poster": "https://images.metahub.space/poster/small/tt3322940/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt3322940/img",
+    "genres": [
+      "Horror",
+      "Mystery",
+      "Thriller"
+    ],
+    "description": "A couple begins to experience terrifying supernatural occurrences involving a vintage doll shortly after their home is invaded by satanic cultists.",
+    "imdbRating": "5.5"
   },
   {
     "id": "a3beb508f8d55d3e4663f657d5a8442d",
@@ -4540,7 +4552,12 @@
     "rawText": "Boys Never Compromise (2026) Kannada HD + ESub - [1080p & 720p - AVC - (DD+2.0 - 224Kbps) - 8GB + Rips]",
     "languages": [
       "Kannada"
-    ]
+    ],
+    "imdbId": "tt33363258",
+    "name": "Boys Never Compromise",
+    "year": 2026,
+    "poster": "https://m.media-amazon.com/images/M/MV5BY2M1MzUzYWYtYzAzNC00MzRlLTgzOGEtZjQ0MmNhZWM1M2MyXkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BY2M1MzUzYWYtYzAzNC00MzRlLTgzOGEtZjQ0MmNhZWM1M2MyXkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "25c64a5b2528ecd49031c0ee1bdacc87",
@@ -12983,12 +13000,7 @@
     "rawText": "Pluto (2026) Malayalam HD + ESub - [1080p & 720p - AVC - (AAC 2.0) - 2.4GB + Rips] - [W]",
     "languages": [
       "Malayalam"
-    ],
-    "imdbId": "tt36580813",
-    "name": "Pluto",
-    "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BYWRhNzBmZDUtZWJjYi00ZDNjLTg1YTgtOTBlZjA1ZmYyYTQwXkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BYWRhNzBmZDUtZWJjYi00ZDNjLTg1YTgtOTBlZjA1ZmYyYTQwXkEyXkFqcGc@._V1_SX250.jpg"
+    ]
   },
   {
     "id": "71dfc4011cc07a00e4eba0920b98bb40",
