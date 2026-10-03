@@ -3488,7 +3488,12 @@
       "Telugu",
       "Hindi",
       "Multi-Lang"
-    ]
+    ],
+    "imdbId": "tt44568097",
+    "name": "The Widower: 'Til Death Do Us Part",
+    "year": 2026,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjMyODRmODYtNGM1MS00MzQ5LWFkM2MtY2E0NTM3NWNhOWEwXkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BMjMyODRmODYtNGM1MS00MzQ5LWFkM2MtY2E0NTM3NWNhOWEwXkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "37e142ff762b07a691256337bee5367a",
@@ -8237,7 +8242,12 @@
     "rawText": "Vengeance (2026) Tamil HD + ESub - [4K, 1080p & 720p - AVC / HEVC - (DD+5.1 - 192Kbps) - 4.4GB + Rips]",
     "languages": [
       "Tamil"
-    ]
+    ],
+    "imdbId": "tt11976532",
+    "name": "Vengeance",
+    "year": 2026,
+    "poster": "https://m.media-amazon.com/images/M/MV5BYmI2MmZlNTctYjIyMy00N2MxLTllZWQtNmEyOGZhMGQ3NThiXkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BYmI2MmZlNTctYjIyMy00N2MxLTllZWQtNmEyOGZhMGQ3NThiXkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "afa28110a7a2cd0bef854557946bfadf",
@@ -19629,19 +19639,7 @@
       "Telugu",
       "Hindi",
       "Multi-Lang"
-    ],
-    "imdbId": "tt30395619",
-    "name": "Demon Slayer: Kimetsu No Yaiba - To the Hashira Training",
-    "year": "2024",
-    "poster": "https://images.metahub.space/poster/small/tt30395619/img",
-    "thumbnail": "https://images.metahub.space/poster/small/tt30395619/img",
-    "genres": [
-      "Animation",
-      "Action",
-      "Adventure"
-    ],
-    "description": "Tanjiro undergoes rigorous training with the Stone Hashira, Himejima, in his quest to become a Hashira. Meanwhile, Muzan continues to search for Nezuko and Ubuyashiki.",
-    "imdbRating": "7.2"
+    ]
   },
   {
     "id": "c8ed1675e82a4149b42c9ad6b7bec882",
