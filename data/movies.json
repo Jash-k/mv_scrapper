@@ -3367,19 +3367,7 @@
       "Telugu",
       "Hindi",
       "Multi-Lang"
-    ],
-    "imdbId": "tt3322940",
-    "name": "Annabelle",
-    "year": "2014",
-    "poster": "https://images.metahub.space/poster/small/tt3322940/img",
-    "thumbnail": "https://images.metahub.space/poster/small/tt3322940/img",
-    "genres": [
-      "Horror",
-      "Mystery",
-      "Thriller"
-    ],
-    "description": "A couple begins to experience terrifying supernatural occurrences involving a vintage doll shortly after their home is invaded by satanic cultists.",
-    "imdbRating": "5.5"
+    ]
   },
   {
     "id": "a3beb508f8d55d3e4663f657d5a8442d",
@@ -6337,12 +6325,7 @@
     "rawText": "Iruttarai (2026) Tamil UHD + ESub - [4K, 1080p & 720p - AVC / HEVC - (DD+5.1 - 192Kbps) - 1.6GB + Rips] - [W]",
     "languages": [
       "Tamil"
-    ],
-    "imdbId": "tt46067198",
-    "name": "Iruttarai",
-    "year": 2026,
-    "poster": "https://images.metahub.space/poster/small/tt46067198/img",
-    "thumbnail": "https://images.metahub.space/poster/small/tt46067198/img"
+    ]
   },
   {
     "id": "0238b1d4dea3d99a401d030fe19a597b",
@@ -6541,12 +6524,7 @@
       "Telugu",
       "Hindi",
       "Multi-Lang"
-    ],
-    "imdbId": "tt16478058",
-    "name": "Best of the Best",
-    "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BMWJiYzQ5MmMtNzIyNS00YzQ0LTkyNmQtZmQ0NWQ4MmFhMzU5XkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BMWJiYzQ5MmMtNzIyNS00YzQ0LTkyNmQtZmQ0NWQ4MmFhMzU5XkEyXkFqcGc@._V1_SX250.jpg"
+    ]
   },
   {
     "id": "63e9c7bd531e1c03a010f41d394ef26e",
@@ -10510,7 +10488,12 @@
       "Kannada",
       "Hindi",
       "Multi-Lang"
-    ]
+    ],
+    "imdbId": "tt34564059",
+    "name": "The Runner",
+    "year": 2026,
+    "poster": "https://m.media-amazon.com/images/M/MV5BYzgzYzVhY2QtNjIzNi00Zjk5LWE1ZmQtYmJkNGY3YmExNDdlXkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BYzgzYzVhY2QtNjIzNi00Zjk5LWE1ZmQtYmJkNGY3YmExNDdlXkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "c358c5ea53ed0bb622382c47e0061c95",
@@ -12895,7 +12878,12 @@
     "rawText": "Pluto (2026) Malayalam HD + ESub - [1080p & 720p - AVC - (AAC 2.0) - 2.4GB + Rips] - [W]",
     "languages": [
       "Malayalam"
-    ]
+    ],
+    "imdbId": "tt36580813",
+    "name": "Pluto",
+    "year": 2026,
+    "poster": "https://m.media-amazon.com/images/M/MV5BYWRhNzBmZDUtZWJjYi00ZDNjLTg1YTgtOTBlZjA1ZmYyYTQwXkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BYWRhNzBmZDUtZWJjYi00ZDNjLTg1YTgtOTBlZjA1ZmYyYTQwXkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "71dfc4011cc07a00e4eba0920b98bb40",
@@ -13653,12 +13641,7 @@
       "Tamil",
       "Hindi",
       "Multi-Lang"
-    ],
-    "imdbId": "tt1570417",
-    "name": "Accident on Hill Road",
-    "year": 2009,
-    "poster": "https://m.media-amazon.com/images/M/MV5BMDQzMzJiYTctMWNkZi00Yjk2LWJkOGUtNWYzMTU0MjNmOWI4XkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BMDQzMzJiYTctMWNkZi00Yjk2LWJkOGUtNWYzMTU0MjNmOWI4XkEyXkFqcGc@._V1_SX250.jpg"
+    ]
   },
   {
     "id": "fb7bb80cdeb67ccd1279dacda128f37d",
@@ -14997,7 +14980,12 @@
     "rawText": "Interstellar (2014) (BluRay + Org Auds) - [4K, 1080p & 720p - x264 - (Tamil + Eng) - 9GB + Rips] - [W]",
     "languages": [
       "Tamil"
-    ]
+    ],
+    "imdbId": "tt0816692",
+    "name": "Interstellar",
+    "year": 2014,
+    "poster": "https://m.media-amazon.com/images/M/MV5BYzdjMDAxZGItMjI2My00ODA1LTlkNzItOWFjMDU5ZDJlYWY3XkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BYzdjMDAxZGItMjI2My00ODA1LTlkNzItOWFjMDU5ZDJlYWY3XkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "f42519060da766e1d9983a454c481371",
@@ -15160,7 +15148,12 @@
       "Tamil",
       "Malayalam",
       "Hindi"
-    ]
+    ],
+    "imdbId": "tt43612978",
+    "name": "Aroopi",
+    "year": 2026,
+    "poster": "https://m.media-amazon.com/images/M/MV5BM2E1NDA0YTYtZWI3Mi00YmY2LTljYmEtMzg4MmQ5MWIyOWQ2XkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BM2E1NDA0YTYtZWI3Mi00YmY2LTljYmEtMzg4MmQ5MWIyOWQ2XkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "94c69308ca805b26e5da371ece84d44d",
@@ -15559,7 +15552,19 @@
       "Telugu",
       "Hindi",
       "Multi-Lang"
-    ]
+    ],
+    "imdbId": "tt1341338",
+    "name": "Good Luck, Have Fun, Don't Die",
+    "year": "2026",
+    "poster": "https://images.metahub.space/poster/small/tt1341338/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt1341338/img",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Comedy"
+    ],
+    "description": "A \"Man From the Future\" arrives at a diner in Los Angeles where he must recruit the precise combination of disgruntled patrons to join him on a one-night quest to save the world from the terminal threat of a rogue artificial intel...",
+    "imdbRating": "7.0"
   },
   {
     "id": "02b3a595f13e6853f6af0c65d4447229",
@@ -16253,7 +16258,12 @@
       "Telugu",
       "Hindi",
       "Multi-Lang"
-    ]
+    ],
+    "imdbId": "tt2461132",
+    "name": "Happy New Year",
+    "year": 1987,
+    "poster": "https://m.media-amazon.com/images/M/MV5BYjc3MjY0NzctMGYwNy00ZGYyLThiOTctMjI1MWRkNmU3ZWNiXkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BYjc3MjY0NzctMGYwNy00ZGYyLThiOTctMjI1MWRkNmU3ZWNiXkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "3ece34ce58c65c1a88bb3898238d3004",
@@ -16921,7 +16931,12 @@
     "rawText": "Nizhal (2026) Tamil UHD + ESub - [4K, 1080p & 720p - AVC / HEVC - (DD+5.1 - 192Kbps) - 4.4GB + Rips]",
     "languages": [
       "Tamil"
-    ]
+    ],
+    "imdbId": "tt43437351",
+    "name": "Nizhal",
+    "year": 2026,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMzkwOTdiZDQtMTVkNS00YmM4LWJjMmEtZjgxMDljNGYwZDhjXkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BMzkwOTdiZDQtMTVkNS00YmM4LWJjMmEtZjgxMDljNGYwZDhjXkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "23464183b6f9833f5182b9cbd11febbf",
@@ -17254,7 +17269,12 @@
       "Telugu",
       "Hindi",
       "Multi-Lang"
-    ]
+    ],
+    "imdbId": "tt0096259",
+    "name": "Things Change",
+    "year": 1988,
+    "poster": "https://m.media-amazon.com/images/M/MV5BN2NlNTY0MTctYjRkMi00YTE3LWJkMGUtYjY3MmFmNzUwMTVjXkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BN2NlNTY0MTctYjRkMi00YTE3LWJkMGUtYjY3MmFmNzUwMTVjXkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "184db1ff1216c7761cd58e941c06f4cf",
@@ -17402,7 +17422,12 @@
     "languages": [
       "Tamil",
       "Malayalam"
-    ]
+    ],
+    "imdbId": "tt37458495",
+    "name": "Gatta Kusthi 2",
+    "year": 2026,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMGFhZDkxYjYtZGViYy00MTgyLTliNWQtOWFlZmNmZmI4MWZkXkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BMGFhZDkxYjYtZGViYy00MTgyLTliNWQtOWFlZmNmZmI4MWZkXkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "5db5b2233485c3ff4d68829c872a1f04",
@@ -17479,7 +17504,12 @@
       "Kannada",
       "Hindi",
       "Multi-Lang"
-    ]
+    ],
+    "imdbId": "tt22084616",
+    "name": "Spider-Man: Brand New Day",
+    "year": 2026,
+    "poster": "https://m.media-amazon.com/images/M/MV5BOWNjYWM3NWItOGE0ZS00MWRjLThiZWEtYjc4ZmNmMmU5ZTVmXkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BOWNjYWM3NWItOGE0ZS00MWRjLThiZWEtYjc4ZmNmMmU5ZTVmXkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "3e216b0fc045eb3353ba322615d7dd4c",
