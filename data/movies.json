@@ -3367,7 +3367,19 @@
       "Telugu",
       "Hindi",
       "Multi-Lang"
-    ]
+    ],
+    "imdbId": "tt3322940",
+    "name": "Annabelle",
+    "year": "2014",
+    "poster": "https://images.metahub.space/poster/small/tt3322940/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt3322940/img",
+    "genres": [
+      "Horror",
+      "Mystery",
+      "Thriller"
+    ],
+    "description": "A couple begins to experience terrifying supernatural occurrences involving a vintage doll shortly after their home is invaded by satanic cultists.",
+    "imdbRating": "5.5"
   },
   {
     "id": "a3beb508f8d55d3e4663f657d5a8442d",
@@ -6325,7 +6337,12 @@
     "rawText": "Iruttarai (2026) Tamil UHD + ESub - [4K, 1080p & 720p - AVC / HEVC - (DD+5.1 - 192Kbps) - 1.6GB + Rips] - [W]",
     "languages": [
       "Tamil"
-    ]
+    ],
+    "imdbId": "tt46067198",
+    "name": "Iruttarai",
+    "year": 2026,
+    "poster": "https://images.metahub.space/poster/small/tt46067198/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt46067198/img"
   },
   {
     "id": "0238b1d4dea3d99a401d030fe19a597b",
@@ -6524,7 +6541,12 @@
       "Telugu",
       "Hindi",
       "Multi-Lang"
-    ]
+    ],
+    "imdbId": "tt16478058",
+    "name": "Best of the Best",
+    "year": 2026,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMWJiYzQ5MmMtNzIyNS00YzQ0LTkyNmQtZmQ0NWQ4MmFhMzU5XkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BMWJiYzQ5MmMtNzIyNS00YzQ0LTkyNmQtZmQ0NWQ4MmFhMzU5XkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "63e9c7bd531e1c03a010f41d394ef26e",
@@ -13641,7 +13663,12 @@
       "Tamil",
       "Hindi",
       "Multi-Lang"
-    ]
+    ],
+    "imdbId": "tt1570417",
+    "name": "Accident on Hill Road",
+    "year": 2009,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMDQzMzJiYTctMWNkZi00Yjk2LWJkOGUtNWYzMTU0MjNmOWI4XkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BMDQzMzJiYTctMWNkZi00Yjk2LWJkOGUtNWYzMTU0MjNmOWI4XkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "fb7bb80cdeb67ccd1279dacda128f37d",
