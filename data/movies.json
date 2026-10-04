@@ -2889,8 +2889,8 @@
     "imdbId": "tt21378820",
     "name": "Pooja Meri Jaan",
     "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BYWExY2JhYWItM2NlZS00ZjBkLWFkOTEtN2NiMTc5YjU0NzI3XkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BYWExY2JhYWItM2NlZS00ZjBkLWFkOTEtN2NiMTc5YjU0NzI3XkEyXkFqcGc@._V1_SX250.jpg"
+    "poster": "https://m.media-amazon.com/images/M/MV5BZGU2NjA3MjEtYWI1Mi00ZThhLTkzZTQtNDg4ZDI5YmE2NzVkXkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BZGU2NjA3MjEtYWI1Mi00ZThhLTkzZTQtNDg4ZDI5YmE2NzVkXkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "2134ef82fa406599934527b976be3ad5",
@@ -3023,7 +3023,12 @@
       "Telugu",
       "Hindi",
       "Multi-Lang"
-    ]
+    ],
+    "imdbId": "tt38682795",
+    "name": "Ip Man: Kung Fu Legend",
+    "year": 2026,
+    "poster": "https://m.media-amazon.com/images/M/MV5BYzAzMTk4YjQtMzc2OC00MWJlLTkxOWMtYzgxMDFiM2Q2MjU5XkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BYzAzMTk4YjQtMzc2OC00MWJlLTkxOWMtYzgxMDFiM2Q2MjU5XkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "2de105be5ed1a21d486933736f50375c",
