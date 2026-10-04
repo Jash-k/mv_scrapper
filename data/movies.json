@@ -6874,7 +6874,20 @@
       "Telugu",
       "Hindi",
       "Multi-Lang"
-    ]
+    ],
+    "imdbId": "tt0443676",
+    "name": "Undisputed 2: Last Man Standing",
+    "year": "2006",
+    "poster": "https://images.metahub.space/poster/small/tt0443676/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt0443676/img",
+    "genres": [
+      "Action",
+      "Crime",
+      "Drama",
+      "Sport"
+    ],
+    "description": "Sequel to the 2002 film. This time, Heavyweight Champ George \"Iceman\" Chambers is sent to a Russian Jail on trumped-up drug charges.",
+    "imdbRating": "7.1"
   },
   {
     "id": "3f755c5a04d75109d91cc73cddea114e",
@@ -19576,8 +19589,8 @@
     "imdbId": "tt8814476",
     "name": "Supergirl",
     "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BMmJkOTE0MWUtY2E5OS00NzEyLWI4NjEtYzQzYzFmMjk5ODE3XkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BMmJkOTE0MWUtY2E5OS00NzEyLWI4NjEtYzQzYzFmMjk5ODE3XkEyXkFqcGc@._V1_SX250.jpg"
+    "poster": "https://m.media-amazon.com/images/M/MV5BNWQzNjU2MDMtNzgxOS00YzcxLWE2YjYtMzY3OTAyOGJlMmQ5XkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BNWQzNjU2MDMtNzgxOS00YzcxLWE2YjYtMzY3OTAyOGJlMmQ5XkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "5918aa09ed3ce14f83bedea38e1603e0",
