@@ -5915,12 +5915,7 @@
       "Telugu",
       "Hindi",
       "Multi-Lang"
-    ],
-    "imdbId": "tt0944835",
-    "name": "Salt",
-    "year": 2010,
-    "poster": "https://m.media-amazon.com/images/M/MV5BMjIyODA2NDg4NV5BMl5BanBnXkFtZTcwMjg4NDAwMw@@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BMjIyODA2NDg4NV5BMl5BanBnXkFtZTcwMjg4NDAwMw@@._V1_SX250.jpg"
+    ]
   },
   {
     "id": "ce344907bd91f2925ff0f6ef818fdc4a",
@@ -9860,11 +9855,11 @@
     "languages": [
       "Hindi"
     ],
-    "imdbId": "tt27977862",
+    "imdbId": "tt0403217",
     "name": "Last Days",
     "year": 2025,
-    "poster": "https://m.media-amazon.com/images/M/MV5BMWFkYTM1NWUtMzU1Yi00NjEwLThmZGItNjQwZTZjMzBhMDZkXkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BMWFkYTM1NWUtMzU1Yi00NjEwLThmZGItNjQwZTZjMzBhMDZkXkEyXkFqcGc@._V1_SX250.jpg"
+    "poster": "https://m.media-amazon.com/images/M/MV5BODk1OTUyZmYtNTQxYS00Y2FhLTliNmUtNTM2OTcwZjgzMzI0XkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BODk1OTUyZmYtNTQxYS00Y2FhLTliNmUtNTM2OTcwZjgzMzI0XkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "5de9748c1cfbb42761b6aa2a06712bde",
@@ -10923,9 +10918,16 @@
     ],
     "imdbId": "tt26657236",
     "name": "Backrooms",
-    "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BYzQyYjZmMjctMzIyZi00MDI0LWJhNGQtMzQ3MTFlNDgwNGM5XkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BYzQyYjZmMjctMzIyZi00MDI0LWJhNGQtMzQ3MTFlNDgwNGM5XkEyXkFqcGc@._V1_SX250.jpg"
+    "year": "2026",
+    "poster": "https://images.metahub.space/poster/small/tt26657236/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt26657236/img",
+    "genres": [
+      "Horror",
+      "Sci-Fi",
+      "Thriller"
+    ],
+    "description": "After a therapist's patient disappears into a dimension beyond reality, she must venture into the unknown to save him.",
+    "imdbRating": "6.8"
   },
   {
     "id": "01ea657718d327c2e3c7899d7586fe13",
@@ -11968,7 +11970,12 @@
       "Telugu",
       "Hindi",
       "Multi-Lang"
-    ]
+    ],
+    "imdbId": "tt0087022",
+    "name": "Calendar Girl Murders",
+    "year": 1993,
+    "poster": "https://m.media-amazon.com/images/M/MV5BY2IxODg0NTgtOTFkOC00MjdiLWE4M2EtZDkwMjE5M2FlMGMwXkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BY2IxODg0NTgtOTFkOC00MjdiLWE4M2EtZDkwMjE5M2FlMGMwXkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "a36b081511e4fad13dac6e070fc4697c",
@@ -12013,11 +12020,11 @@
       "Hindi",
       "Multi-Lang"
     ],
-    "imdbId": "tt1713476",
+    "imdbId": "tt30217600",
     "name": "The Bay",
     "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BNDEzMWU2YWUtOWVkMy00OTg0LTkyMjctMDA3MDc2NGViYjU5XkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BNDEzMWU2YWUtOWVkMy00OTg0LTkyMjctMDA3MDc2NGViYjU5XkEyXkFqcGc@._V1_SX250.jpg"
+    "poster": "https://m.media-amazon.com/images/M/MV5BY2ZlZDc3YjItNjMxNi00ZGQwLWFkMzUtMDVlODg5NDI4NGZlXkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BY2ZlZDc3YjItNjMxNi00ZGQwLWFkMzUtMDVlODg5NDI4NGZlXkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "bdf03a76e9c799cf6fdcbaebe38dd32c",
@@ -14451,7 +14458,12 @@
       "Hindi",
       "Tamil",
       "Telugu"
-    ]
+    ],
+    "imdbId": "tt38916037",
+    "name": "Lenin Pandiyan",
+    "year": 2026,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMDkwMGE4MDctZDUxNS00MTYwLWFjNTQtNDZhMmMzYTg2OTViXkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BMDkwMGE4MDctZDUxNS00MTYwLWFjNTQtNDZhMmMzYTg2OTViXkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "68aed7f241b44bdcc1cfca6a6ce1fb99",
@@ -16144,12 +16156,7 @@
       "Telugu",
       "Hindi",
       "Multi-Lang"
-    ],
-    "imdbId": "tt27681354",
-    "name": "In the Grey",
-    "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BOGFlYTk3M2ItNmY4Zi00ZmI2LWIzMjQtY2EyNTY4MzNkOTNiXkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BOGFlYTk3M2ItNmY4Zi00ZmI2LWIzMjQtY2EyNTY4MzNkOTNiXkEyXkFqcGc@._V1_SX250.jpg"
+    ]
   },
   {
     "id": "3dcf65d8a5164c48c8e15d21068c5ca0",
@@ -16822,11 +16829,11 @@
     "languages": [
       "Tamil"
     ],
-    "imdbId": "tt0316369",
+    "imdbId": "tt1956589",
     "name": "Padikkathavan",
     "year": 2009,
-    "poster": "https://m.media-amazon.com/images/M/MV5BYzEzMjY2YjgtZmJmZC00MjVkLTg2ZGQtMjRjYzgzMGViZjkxXkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BYzEzMjY2YjgtZmJmZC00MjVkLTg2ZGQtMjRjYzgzMGViZjkxXkEyXkFqcGc@._V1_SX250.jpg"
+    "poster": "https://m.media-amazon.com/images/M/MV5BNjRiNjhjOGQtZTBkMC00YmM0LThjMjAtNWVkMjQ3OGNlYzdmXkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BNjRiNjhjOGQtZTBkMC00YmM0LThjMjAtNWVkMjQ3OGNlYzdmXkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "e1bf1c7251e211ba161e76954b49af05",
@@ -18951,9 +18958,13 @@
     ],
     "imdbId": "tt35254624",
     "name": "Balan: The Boy",
-    "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BMTQ5OThmM2MtYzRhNC00ODM4LTg3YWItNTE5YmViZjk2MGNiXkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BMTQ5OThmM2MtYzRhNC00ODM4LTg3YWItNTE5YmViZjk2MGNiXkEyXkFqcGc@._V1_SX250.jpg"
+    "year": "2026",
+    "poster": "https://images.metahub.space/poster/small/tt35254624/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt35254624/img",
+    "genres": [
+      "Drama"
+    ],
+    "description": "Follows a teenage boy searching for his missing mother following a turbulent childhood and her subsequent disappearance, exploring his search for closure and the truth about his past."
   },
   {
     "id": "b98575ebb21be9807358442af830cf45",
