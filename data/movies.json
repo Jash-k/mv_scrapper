@@ -16573,12 +16573,7 @@
       "Malayalam",
       "Hindi",
       "Multi-Lang"
-    ],
-    "imdbId": "tt38748101",
-    "name": "Moda Kavida Vaatavarana",
-    "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BNmZkYzkxMjMtNWEwMi00M2U5LThjYmEtNDc4MjAwODgwYjBjXkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BNmZkYzkxMjMtNWEwMi00M2U5LThjYmEtNDc4MjAwODgwYjBjXkEyXkFqcGc@._V1_SX250.jpg"
+    ]
   },
   {
     "id": "92ce5167cff46d7e3818e3f5f78b2424",
@@ -17065,17 +17060,7 @@
       "Telugu",
       "Hindi",
       "Multi-Lang"
-    ],
-    "imdbId": "tt37540328",
-    "name": "Back to the 90s",
-    "year": "2026",
-    "poster": "https://images.metahub.space/poster/small/tt37540328/img",
-    "thumbnail": "https://images.metahub.space/poster/small/tt37540328/img",
-    "genres": [
-      "Comedy",
-      "Romance"
-    ],
-    "description": "When a glitch hurls the hottest rising boy band of five friends into the year 1995, they must find a way back — together."
+    ]
   },
   {
     "id": "817160c860a260baaedd05f8d2a2282d",
@@ -17160,12 +17145,7 @@
       "Kannada",
       "Hindi",
       "Multi-Lang"
-    ],
-    "imdbId": "tt39910244",
-    "name": "Achyuta Avataaram",
-    "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BY2Q3YzVlMTMtOTk4MC00M2I5LWE3MDQtZDQ0NWIxZDQyOTE1XkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BY2Q3YzVlMTMtOTk4MC00M2I5LWE3MDQtZDQ0NWIxZDQyOTE1XkEyXkFqcGc@._V1_SX250.jpg"
+    ]
   },
   {
     "id": "866a0aff7d3541a1fa009e45ac327479",
@@ -20386,7 +20366,7 @@
       "Adventure",
       "Sci-Fi"
     ],
-    "description": "After being bitten by a genetically-modified spider, a shy teenager gains spider-like abilities that he uses to fight injustice as a masked superhero and face a vengeful enemy.",
+    "description": "A shy teenager is bitten by a genetically modified spider and uses his new spider-like abilities to fight injustice as a masked superhero.",
     "imdbRating": "7.4"
   },
   {
