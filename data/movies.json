@@ -6309,7 +6309,12 @@
       "Tamil",
       "Hindi",
       "Multi-Lang"
-    ]
+    ],
+    "imdbId": "tt33610673",
+    "name": "Mension House Mallesh",
+    "year": 2026,
+    "poster": "https://m.media-amazon.com/images/M/MV5BYWFkNjNhNjktNjM4YS00YTUxLWI0ZDEtYTkyZWJhOWU0OTU0XkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BYWFkNjNhNjktNjM4YS00YTUxLWI0ZDEtYTkyZWJhOWU0OTU0XkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "1bf9a165685747e60ed990a6dd457d9b",
@@ -6519,18 +6524,11 @@
       "Hindi",
       "Multi-Lang"
     ],
-    "imdbId": "tt33381401",
-    "name": "The Love That Remains",
-    "year": "2026",
-    "poster": "https://images.metahub.space/poster/small/tt33381401/img",
-    "thumbnail": "https://images.metahub.space/poster/small/tt33381401/img",
-    "genres": [
-      "Comedy",
-      "Drama",
-      "Family"
-    ],
-    "description": "Captures a year in the life of a family as the parents navigate their separation. Through intimate vignettes and strange occurrences, the film explores the complexities of family, love, and the impact of shared memories.",
-    "imdbRating": "6.8"
+    "imdbId": "tt22526100",
+    "name": "The Love Hypothesis",
+    "year": 2026,
+    "poster": "https://m.media-amazon.com/images/M/MV5BYWI2ZWZjZGItZDFiMi00ODBmLThmODktY2FlZmNkNmU4YTEzXkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BYWI2ZWZjZGItZDFiMi00ODBmLThmODktY2FlZmNkNmU4YTEzXkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "b2fc9db1113e722e3f5830c157013f29",
@@ -19159,12 +19157,7 @@
       "Telugu",
       "Hindi",
       "Multi-Lang"
-    ],
-    "imdbId": "tt39444607",
-    "name": "Second Case of Seetharam",
-    "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BMjE0YTE4MTYtMDhjNC00OTgzLTg3MjctM2ExYWQ4MjhlYmQzXkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BMjE0YTE4MTYtMDhjNC00OTgzLTg3MjctM2ExYWQ4MjhlYmQzXkEyXkFqcGc@._V1_SX250.jpg"
+    ]
   },
   {
     "id": "49802c54db93fffbcecc55f1034d291f",
@@ -20286,7 +20279,7 @@
       "Adventure",
       "Sci-Fi"
     ],
-    "description": "After being bitten by a genetically-modified spider, a shy teenager gains spider-like abilities that he uses to fight injustice as a masked superhero and face a vengeful enemy.",
+    "description": "A shy teenager is bitten by a genetically modified spider and uses his new spider-like abilities to fight injustice as a masked superhero.",
     "imdbRating": "7.4"
   },
   {
