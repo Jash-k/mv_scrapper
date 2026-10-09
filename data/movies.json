@@ -15613,7 +15613,18 @@
     "rawText": "The Town (2010) (BluRay + Org Auds) - [1080p & 720p - x264 - (Tamil + Eng) - 2.5GB + Rips]",
     "languages": [
       "Tamil"
-    ]
+    ],
+    "imdbId": "tt1720276",
+    "name": "The Town Christmas Forgot",
+    "year": "2010",
+    "poster": "https://images.metahub.space/poster/small/tt1720276/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt1720276/img",
+    "genres": [
+      "Comedy",
+      "Family"
+    ],
+    "description": "When an urban family gets stranded in an impoverished lumber town two days before Christmas, they become involved in the town's home-grown Christmas pageant just in time for the holidays.",
+    "imdbRating": "5.7"
   },
   {
     "id": "8812cf00a3a866a5fd92de36534e7d40",
@@ -15847,11 +15858,11 @@
     "languages": [
       "Telugu"
     ],
-    "imdbId": "tt42643672",
-    "name": "Raja the Raja",
+    "imdbId": "tt23790696",
+    "name": "The Raja Saab",
     "year": 2026,
-    "poster": "https://images.metahub.space/poster/small/tt42643672/img",
-    "thumbnail": "https://images.metahub.space/poster/small/tt42643672/img"
+    "poster": "https://m.media-amazon.com/images/M/MV5BOTc5Mjk4ZDQtM2Y4Zi00YTZmLTkxYmUtYWMwNzk3NDBkOGQzXkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BOTc5Mjk4ZDQtM2Y4Zi00YTZmLTkxYmUtYWMwNzk3NDBkOGQzXkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "a609550fc9b826a641d06ee1c5153666",
@@ -18985,12 +18996,7 @@
       "Telugu",
       "Hindi",
       "Multi-Lang"
-    ],
-    "imdbId": "tt0096259",
-    "name": "Things Change",
-    "year": 1988,
-    "poster": "https://m.media-amazon.com/images/M/MV5BN2NlNTY0MTctYjRkMi00YTE3LWJkMGUtYjY3MmFmNzUwMTVjXkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BN2NlNTY0MTctYjRkMi00YTE3LWJkMGUtYjY3MmFmNzUwMTVjXkEyXkFqcGc@._V1_SX250.jpg"
+    ]
   },
   {
     "id": "184db1ff1216c7761cd58e941c06f4cf",
@@ -19318,12 +19324,7 @@
       "Telugu",
       "Hindi",
       "Multi-Lang"
-    ],
-    "imdbId": "tt39444607",
-    "name": "Second Case of Seetharam",
-    "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BMjE0YTE4MTYtMDhjNC00OTgzLTg3MjctM2ExYWQ4MjhlYmQzXkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BMjE0YTE4MTYtMDhjNC00OTgzLTg3MjctM2ExYWQ4MjhlYmQzXkEyXkFqcGc@._V1_SX250.jpg"
+    ]
   },
   {
     "id": "49802c54db93fffbcecc55f1034d291f",
@@ -21040,9 +21041,16 @@
     ],
     "imdbId": "tt8814476",
     "name": "Supergirl",
-    "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BNWQzNjU2MDMtNzgxOS00YzcxLWE2YjYtMzY3OTAyOGJlMmQ5XkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BNWQzNjU2MDMtNzgxOS00YzcxLWE2YjYtMzY3OTAyOGJlMmQ5XkEyXkFqcGc@._V1_SX250.jpg"
+    "year": "2026",
+    "poster": "https://images.metahub.space/poster/small/tt8814476/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt8814476/img",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Drama"
+    ],
+    "description": "Kara Zor-El, aka Supergirl, joins forces with an unlikely companion on an interstellar journey of vengeance and justice when an unexpected adversary strikes too close to home.",
+    "imdbRating": "5.8"
   },
   {
     "id": "5918aa09ed3ce14f83bedea38e1603e0",
