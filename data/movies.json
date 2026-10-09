@@ -906,17 +906,11 @@
       "Hindi",
       "Multi-Lang"
     ],
-    "imdbId": "tt32299316",
-    "name": "Dangerous Animals",
-    "year": "2025",
-    "poster": "https://images.metahub.space/poster/small/tt32299316/img",
-    "thumbnail": "https://images.metahub.space/poster/small/tt32299316/img",
-    "genres": [
-      "Horror",
-      "Thriller"
-    ],
-    "description": "When Zephyr, a savvy and free-spirited surfer, is abducted by a shark-obsessed serial killer and held captive on his boat, she must figure out how to escape before he carries out a ritualistic feeding to the sharks below.",
-    "imdbRating": "6.4"
+    "imdbId": "tt31049299",
+    "name": "Animals",
+    "year": 2026,
+    "poster": "https://m.media-amazon.com/images/M/MV5BZmY3MmZiZjctOTgyYy00OGIxLTkwMDUtNDU3MGNkMGI3YWJlXkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BZmY3MmZiZjctOTgyYy00OGIxLTkwMDUtNDU3MGNkMGI3YWJlXkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "633b3e4707982f2c011b6cca7cf812b5",
@@ -3741,9 +3735,15 @@
     ],
     "imdbId": "tt22084616",
     "name": "Spider-Man: Brand New Day",
-    "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BOWNjYWM3NWItOGE0ZS00MWRjLThiZWEtYjc4ZmNmMmU5ZTVmXkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BOWNjYWM3NWItOGE0ZS00MWRjLThiZWEtYjc4ZmNmMmU5ZTVmXkEyXkFqcGc@._V1_SX250.jpg"
+    "year": "2026",
+    "poster": "https://images.metahub.space/poster/small/tt22084616/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt22084616/img",
+    "genres": [
+      "Action",
+      "Adventure"
+    ],
+    "description": "A forgotten Peter Parker lives alone as a full-time Spider-Man until mounting pressure triggers a dangerous change and a powerful new enemy emerges.",
+    "imdbRating": "8.0"
   },
   {
     "id": "29be35e17ea4dc135c46173e72601795",
@@ -4515,9 +4515,16 @@
     ],
     "imdbId": "tt27165187",
     "name": "The End of Oak Street",
-    "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BZDQ1MDhmZWQtNjdhOS00MGE0LTkxMTItN2Q4NjIyYzUzZmRlXkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BZDQ1MDhmZWQtNjdhOS00MGE0LTkxMTItN2Q4NjIyYzUzZmRlXkEyXkFqcGc@._V1_SX250.jpg"
+    "year": "2026",
+    "poster": "https://images.metahub.space/poster/small/tt27165187/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt27165187/img",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Mystery"
+    ],
+    "description": "The Platt family bands together to navigate their new surroundings after a cosmic event transports their suburban neighborhood to someplace unknown.",
+    "imdbRating": "6.5"
   },
   {
     "id": "7c788a67964f218f1294a8bb842de86e",
@@ -4621,11 +4628,16 @@
       "Telugu",
       "Hindi"
     ],
-    "imdbId": "tt31969655",
-    "name": "The Paradise",
-    "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BMGI3N2I1ZWUtYzMyZS00MTRlLThlNDUtNWZhY2MxZTlmMDJjXkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BMGI3N2I1ZWUtYzMyZS00MTRlLThlNDUtNWZhY2MxZTlmMDJjXkEyXkFqcGc@._V1_SX250.jpg"
+    "imdbId": "tt4246894",
+    "name": "The Paradise Suite",
+    "year": "2015",
+    "poster": "https://images.metahub.space/poster/small/tt4246894/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt4246894/img",
+    "genres": [
+      "Drama"
+    ],
+    "description": "The jarring lives of six immigrant residents of Amsterdam intertwine in a poetic mosaic.",
+    "imdbRating": "7.2"
   },
   {
     "id": "dca00e6048c8eb696be11cf083594bbd",
@@ -6352,12 +6364,7 @@
       "Telugu",
       "Hindi",
       "Multi-Lang"
-    ],
-    "imdbId": "tt39528902",
-    "name": "Don't Be Shy",
-    "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BMjRiNmNlMjItNDQzNy00ZmY2LThlYTgtOTA4MzY4MzI5MTQ2XkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BMjRiNmNlMjItNDQzNy00ZmY2LThlYTgtOTA4MzY4MzI5MTQ2XkEyXkFqcGc@._V1_SX250.jpg"
+    ]
   },
   {
     "id": "58deb6dfb62e77f3a5cfae3e3b0449e4",
@@ -7887,6 +7894,28 @@
       },
       {
         "quality": "1080p AVC",
+        "size": "2.9GB",
+        "type": "magnet",
+        "url": "magnet:?xt=urn:btih:834ea26fb49ce2770d42799317733e348789e426&dn=www.1TamilMV.rocks%20-%20Thudakkam%20%282026%29%20Malayalam%20HQ%20HDRip%20-%201080p%20-%20x264%20-%20%28DD%2B5.1%20-%20ATMOS%20768Kbps%20%26%20AAC%202.0%29%20-%202.9GB%20-%20ESub.mkv&xl=3220184191&tr=udp%3A%2F%2Ftracker.dler.com%3A6969%2Fannounce&tr=http%3A%2F%2Ftracker.bt4g.com%3A2095%2Fannounce&tr=udp%3A%2F%2Ftracker-udp.gbitt.info%3A80%2Fannounce&tr=http%3A%2F%2Fipv4announce.sktorrent.eu%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=http%3A%2F%2Ftracker.mywaifu.best%3A6969%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=udp%3A%2F%2Fevan.im%3A6969%2Fannounce&tr=https%3A%2F%2Ftracker.leechshield.link%3A443%2Fannounce&tr=http%3A%2F%2Ftracker.dhitechnical.com%3A6969%2Fannounce&tr=https%3A%2F%2Ftorrents.tmtime.dev%3A443%2Fannounce&tr=udp%3A%2F%2Ftorrentclub.online%3A1984%2Fannounce&tr=udp%3A%2F%2Ftracker.wildkat.net%3A6969%2Fannounce&tr=http%3A%2F%2Fbt1.archive.org%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.publictracker.xyz%3A6969%2Fannounce&tr=http%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.wildkat.net%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.qu.ax%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.peerfect.org%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.opentorrent.top%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.filemail.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Fexplodie.org%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.filebase.online%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.moeking.me%3A6969%2Fannounce&tr=udp%3A%2F%2Fp4p.arenabg.com%3A1337%2Fannounce",
+        "languages": [
+          "Malayalam"
+        ],
+        "seeders": 100,
+        "leechers": 10
+      },
+      {
+        "quality": "1080p HEVC",
+        "size": "1.7GB",
+        "type": "magnet",
+        "url": "magnet:?xt=urn:btih:ef96ab83a0afb82e9d728a792429854c5a3feeca&dn=www.1TamilMV.rocks%20-%20Thudakkam%20%282026%29%20Malayalam%20HQ%20HDRip%20-%201080p%20-%C2%A0HEVC%C2%A0-%C2%A0x265%C2%A0-%20%28DD%2B5.1%20-%20192Kbps%20%26%20AAC%202.0%29%20-%201.7GB%20-%20ESub.mkv&xl=1827313373&tr=udp%3A%2F%2Ftracker.dler.com%3A6969%2Fannounce&tr=http%3A%2F%2Ftracker.bt4g.com%3A2095%2Fannounce&tr=udp%3A%2F%2Ftracker-udp.gbitt.info%3A80%2Fannounce&tr=http%3A%2F%2Fipv4announce.sktorrent.eu%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=http%3A%2F%2Ftracker.mywaifu.best%3A6969%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=udp%3A%2F%2Fevan.im%3A6969%2Fannounce&tr=https%3A%2F%2Ftracker.leechshield.link%3A443%2Fannounce&tr=http%3A%2F%2Ftracker.dhitechnical.com%3A6969%2Fannounce&tr=https%3A%2F%2Ftorrents.tmtime.dev%3A443%2Fannounce&tr=udp%3A%2F%2Ftorrentclub.online%3A1984%2Fannounce&tr=udp%3A%2F%2Ftracker.wildkat.net%3A6969%2Fannounce&tr=http%3A%2F%2Fbt1.archive.org%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.publictracker.xyz%3A6969%2Fannounce&tr=http%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.wildkat.net%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.qu.ax%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.peerfect.org%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.opentorrent.top%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.filemail.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Fexplodie.org%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.filebase.online%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.moeking.me%3A6969%2Fannounce&tr=udp%3A%2F%2Fp4p.arenabg.com%3A1337%2Fannounce",
+        "languages": [
+          "Malayalam"
+        ],
+        "seeders": 100,
+        "leechers": 10
+      },
+      {
+        "quality": "1080p AVC",
         "size": "2.7GB",
         "type": "magnet",
         "url": "magnet:?xt=urn:btih:6e75924ebe7ca64b5adf0bdf58df2415fa9a83b5&dn=www.1TamilMV.rocks%20-%20Thudakkam%20%282026%29%20HQ%20HDRip%20-%201080p%20-%20x264%20-%20%5BTelugu%20%2B%20Hindi%20%2B%20Kannada%5D%20-%C2%A0%28DD%2B5.1%20-%20192Kbps%29%20-%202.7GB%20-%20ESub.mkv&xl=2956527971&tr=udp%3A%2F%2Ftracker.dler.com%3A6969%2Fannounce&tr=http%3A%2F%2Ftracker.bt4g.com%3A2095%2Fannounce&tr=udp%3A%2F%2Ftracker-udp.gbitt.info%3A80%2Fannounce&tr=http%3A%2F%2Fipv4announce.sktorrent.eu%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=http%3A%2F%2Ftracker.mywaifu.best%3A6969%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=udp%3A%2F%2Fevan.im%3A6969%2Fannounce&tr=https%3A%2F%2Ftracker.leechshield.link%3A443%2Fannounce&tr=http%3A%2F%2Ftracker.dhitechnical.com%3A6969%2Fannounce&tr=https%3A%2F%2Ftorrents.tmtime.dev%3A443%2Fannounce&tr=udp%3A%2F%2Ftorrentclub.online%3A1984%2Fannounce&tr=udp%3A%2F%2Ftracker.wildkat.net%3A6969%2Fannounce&tr=http%3A%2F%2Fbt1.archive.org%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.publictracker.xyz%3A6969%2Fannounce&tr=http%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.wildkat.net%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.qu.ax%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.peerfect.org%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.opentorrent.top%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.filemail.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Fexplodie.org%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.filebase.online%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.moeking.me%3A6969%2Fannounce&tr=udp%3A%2F%2Fp4p.arenabg.com%3A1337%2Fannounce",
@@ -7931,6 +7960,28 @@
         "url": "magnet:?xt=urn:btih:de5ba97fa0cdba904c2a6b209737fa2d798bbd0c&dn=www.1TamilMV.rocks%20-%20Thudakkam%20%282026%29%20Tamil%C2%A0HQ%20HDRip%20-%20720p%20-%C2%A0HEVC%C2%A0-%C2%A0x265%C2%A0-%20%28DD%2B5.1%20-%20192Kbps%20%26%20AAC%202.0%29%20-%20950MB%20-%20ESub.mkv&xl=1046999577&tr=udp%3A%2F%2Ftracker.dler.com%3A6969%2Fannounce&tr=http%3A%2F%2Ftracker.bt4g.com%3A2095%2Fannounce&tr=udp%3A%2F%2Ftracker-udp.gbitt.info%3A80%2Fannounce&tr=http%3A%2F%2Fipv4announce.sktorrent.eu%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=http%3A%2F%2Ftracker.mywaifu.best%3A6969%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=udp%3A%2F%2Fevan.im%3A6969%2Fannounce&tr=https%3A%2F%2Ftracker.leechshield.link%3A443%2Fannounce&tr=http%3A%2F%2Ftracker.dhitechnical.com%3A6969%2Fannounce&tr=https%3A%2F%2Ftorrents.tmtime.dev%3A443%2Fannounce&tr=udp%3A%2F%2Ftorrentclub.online%3A1984%2Fannounce&tr=udp%3A%2F%2Ftracker.wildkat.net%3A6969%2Fannounce&tr=http%3A%2F%2Fbt1.archive.org%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.publictracker.xyz%3A6969%2Fannounce&tr=http%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.wildkat.net%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.qu.ax%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.peerfect.org%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.opentorrent.top%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.filemail.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Fexplodie.org%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.filebase.online%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.moeking.me%3A6969%2Fannounce&tr=udp%3A%2F%2Fp4p.arenabg.com%3A1337%2Fannounce",
         "languages": [
           "Tamil"
+        ],
+        "seeders": 100,
+        "leechers": 10
+      },
+      {
+        "quality": "720p AVC",
+        "size": "1.4GB",
+        "type": "magnet",
+        "url": "magnet:?xt=urn:btih:4145084bb14603dbe8d39a1057eb2c177bd0d989&dn=www.1TamilMV.rocks%20-%20Thudakkam%20%282026%29%20Malayalam%20HQ%20HDRip%20-%20720p%20-%20x264%20-%20%28DD%2B5.1%20-%20192Kbps%20%26%20AAC%202.0%29%20-%201.4GB%20-%20ESub.mkv&xl=1550507419&tr=udp%3A%2F%2Ftracker.dler.com%3A6969%2Fannounce&tr=http%3A%2F%2Ftracker.bt4g.com%3A2095%2Fannounce&tr=udp%3A%2F%2Ftracker-udp.gbitt.info%3A80%2Fannounce&tr=http%3A%2F%2Fipv4announce.sktorrent.eu%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=http%3A%2F%2Ftracker.mywaifu.best%3A6969%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=udp%3A%2F%2Fevan.im%3A6969%2Fannounce&tr=https%3A%2F%2Ftracker.leechshield.link%3A443%2Fannounce&tr=http%3A%2F%2Ftracker.dhitechnical.com%3A6969%2Fannounce&tr=https%3A%2F%2Ftorrents.tmtime.dev%3A443%2Fannounce&tr=udp%3A%2F%2Ftorrentclub.online%3A1984%2Fannounce&tr=udp%3A%2F%2Ftracker.wildkat.net%3A6969%2Fannounce&tr=http%3A%2F%2Fbt1.archive.org%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.publictracker.xyz%3A6969%2Fannounce&tr=http%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.wildkat.net%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.qu.ax%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.peerfect.org%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.opentorrent.top%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.filemail.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Fexplodie.org%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.filebase.online%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.moeking.me%3A6969%2Fannounce&tr=udp%3A%2F%2Fp4p.arenabg.com%3A1337%2Fannounce",
+        "languages": [
+          "Malayalam"
+        ],
+        "seeders": 100,
+        "leechers": 10
+      },
+      {
+        "quality": "720p HEVC",
+        "size": "950MB",
+        "type": "magnet",
+        "url": "magnet:?xt=urn:btih:6970819e4bbc162248e4b1f09e591ccc0def9609&dn=www.1TamilMV.rocks%20-%20Thudakkam%20%282026%29%20Malayalam%20HQ%20HDRip%20-%20720p%20-%C2%A0HEVC%C2%A0-%C2%A0x265%C2%A0-%20%28DD%2B5.1%20-%20192Kbps%20%26%20AAC%202.0%29%20-%20950MB%20-%20ESub.mkv&xl=1046013171&tr=udp%3A%2F%2Ftracker.dler.com%3A6969%2Fannounce&tr=http%3A%2F%2Ftracker.bt4g.com%3A2095%2Fannounce&tr=udp%3A%2F%2Ftracker-udp.gbitt.info%3A80%2Fannounce&tr=http%3A%2F%2Fipv4announce.sktorrent.eu%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=http%3A%2F%2Ftracker.mywaifu.best%3A6969%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=udp%3A%2F%2Fevan.im%3A6969%2Fannounce&tr=https%3A%2F%2Ftracker.leechshield.link%3A443%2Fannounce&tr=http%3A%2F%2Ftracker.dhitechnical.com%3A6969%2Fannounce&tr=https%3A%2F%2Ftorrents.tmtime.dev%3A443%2Fannounce&tr=udp%3A%2F%2Ftorrentclub.online%3A1984%2Fannounce&tr=udp%3A%2F%2Ftracker.wildkat.net%3A6969%2Fannounce&tr=http%3A%2F%2Fbt1.archive.org%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.publictracker.xyz%3A6969%2Fannounce&tr=http%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.wildkat.net%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.qu.ax%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.peerfect.org%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.opentorrent.top%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.filemail.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Fexplodie.org%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.filebase.online%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.moeking.me%3A6969%2Fannounce&tr=udp%3A%2F%2Fp4p.arenabg.com%3A1337%2Fannounce",
+        "languages": [
+          "Malayalam"
         ],
         "seeders": 100,
         "leechers": 10
@@ -8323,12 +8374,7 @@
     "rawText": "Photographer (2026) Tamil HD + ESub - [1080p & 720p - AVC - (DD+5.1 - 640Kbps) - 6GB + Rips]",
     "languages": [
       "Tamil"
-    ],
-    "imdbId": "tt43727339",
-    "name": "Photographer",
-    "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BN2UzMWExOWYtZjE2My00MDVkLWE5ZGUtY2JjYjc3MzdkNjI2XkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BN2UzMWExOWYtZjE2My00MDVkLWE5ZGUtY2JjYjc3MzdkNjI2XkEyXkFqcGc@._V1_SX250.jpg"
+    ]
   },
   {
     "id": "fa0c602dffcdae7e5c32eda345f2b2c5",
@@ -8356,7 +8402,12 @@
       "Tamil",
       "Hindi",
       "Multi-Lang"
-    ]
+    ],
+    "imdbId": "tt36926359",
+    "name": "Seven Snipers",
+    "year": 2026,
+    "poster": "https://m.media-amazon.com/images/M/MV5BZDA0NDRhODAtODFjMS00MzdkLWI2ZDEtNjQxMGM5MTExY2QzXkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BZDA0NDRhODAtODFjMS00MzdkLWI2ZDEtNjQxMGM5MTExY2QzXkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "65d2c0154f0676fb2460a56da6b33b65",
@@ -8403,9 +8454,14 @@
     ],
     "imdbId": "tt32321803",
     "name": "The Get Out",
-    "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BZjhkMzcyMDktNjY0ZC00NjQxLTgyMjYtMTA1ODE4OGVkMDk1XkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BZjhkMzcyMDktNjY0ZC00NjQxLTgyMjYtMTA1ODE4OGVkMDk1XkEyXkFqcGc@._V1_SX250.jpg"
+    "year": "2026",
+    "poster": "https://images.metahub.space/poster/small/tt32321803/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt32321803/img",
+    "genres": [
+      "Action",
+      "Thriller"
+    ],
+    "description": "A nightclub owner is on the verge of leaving his dangerous past behind for retirement. After masked gunmen rob him and he finds himself squeezed by ruthless cartels, a mysterious newcomer arrives with an interest in buying the bus..."
   },
   {
     "id": "abd465397ae4d2d7a76805b4e4d1d235",
@@ -8617,7 +8673,20 @@
       "Telugu",
       "Hindi",
       "Multi-Lang"
-    ]
+    ],
+    "imdbId": "tt0443676",
+    "name": "Undisputed 2: Last Man Standing",
+    "year": "2006",
+    "poster": "https://images.metahub.space/poster/small/tt0443676/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt0443676/img",
+    "genres": [
+      "Action",
+      "Crime",
+      "Drama",
+      "Sport"
+    ],
+    "description": "Sequel to the 2002 film. This time, Heavyweight Champ George \"Iceman\" Chambers is sent to a Russian Jail on trumped-up drug charges.",
+    "imdbRating": "7.1"
   },
   {
     "id": "3f755c5a04d75109d91cc73cddea114e",
@@ -8755,7 +8824,12 @@
       "Tamil",
       "Malayalam",
       "Kannada"
-    ]
+    ],
+    "imdbId": "tt35668756",
+    "name": "Kattalan",
+    "year": 2026,
+    "poster": "https://m.media-amazon.com/images/M/MV5BZTFjYzIxNDUtMGJjNy00OTdmLWExNGUtM2FkNzhlYmUzYzk0XkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BZTFjYzIxNDUtMGJjNy00OTdmLWExNGUtM2FkNzhlYmUzYzk0XkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "758bee937eee394dbbe442270e64de2e",
@@ -9134,7 +9208,12 @@
       "Kannada",
       "Hindi",
       "Multi-Lang"
-    ]
+    ],
+    "imdbId": "tt35836025",
+    "name": "Vishwanath and Sons",
+    "year": 2026,
+    "poster": "https://m.media-amazon.com/images/M/MV5BOGRkYWFjNzAtODFhNS00NzM4LTk3NTAtNzgwMDg0OTE2ZTIzXkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BOGRkYWFjNzAtODFhNS00NzM4LTk3NTAtNzgwMDg0OTE2ZTIzXkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "8b6739c376ffb53ce1c4f71fcf5230ce",
@@ -9346,9 +9425,16 @@
     ],
     "imdbId": "tt0325805",
     "name": "Matchstick Men",
-    "year": 2003,
-    "poster": "https://m.media-amazon.com/images/M/MV5BMjA3NjMyNjIyMF5BMl5BanBnXkFtZTYwOTgzMDI3._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BMjA3NjMyNjIyMF5BMl5BanBnXkFtZTYwOTgzMDI3._V1_SX250.jpg"
+    "year": "2003",
+    "poster": "https://images.metahub.space/poster/small/tt0325805/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt0325805/img",
+    "genres": [
+      "Comedy",
+      "Crime",
+      "Drama"
+    ],
+    "description": "A phobic con artist and his protégé are on the verge of pulling off a lucrative swindle when the former's teenage daughter arrives unexpectedly.",
+    "imdbRating": "7.3"
   },
   {
     "id": "f3fb46e73174783e272f83347bb63ec5",
@@ -9571,12 +9657,7 @@
       "Telugu",
       "Hindi",
       "Multi-Lang"
-    ],
-    "imdbId": "tt38616652",
-    "name": "Go Team!",
-    "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BMWEzOTdmYTYtOTRkNi00MGU5LWIwZWUtNTZkZDFiNTdmOWYyXkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BMWEzOTdmYTYtOTRkNi00MGU5LWIwZWUtNTZkZDFiNTdmOWYyXkEyXkFqcGc@._V1_SX250.jpg"
+    ]
   },
   {
     "id": "69bd354f18a3739873ee9f3bf63dc74a",
@@ -9736,11 +9817,16 @@
       "Hindi",
       "Multi-Lang"
     ],
-    "imdbId": "tt43665767",
-    "name": "Maharaja Hostel",
-    "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BNDY3ZjA2ZWYtZjg2Yy00ZDhhLTk4NDgtMDk0N2QyYTE1MDJjXkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BNDY3ZjA2ZWYtZjg2Yy00ZDhhLTk4NDgtMDk0N2QyYTE1MDJjXkEyXkFqcGc@._V1_SX250.jpg"
+    "imdbId": "tt0450278",
+    "name": "Hostel",
+    "year": "2005",
+    "poster": "https://images.metahub.space/poster/small/tt0450278/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt0450278/img",
+    "genres": [
+      "Horror"
+    ],
+    "description": "Three backpackers head to a Slovak city that promises to meet their hedonistic expectations, with no idea of the hell that awaits them.",
+    "imdbRating": "5.9"
   },
   {
     "id": "dfa074a62da17bdcbba5de2651429159",
@@ -10957,11 +11043,18 @@
     "languages": [
       "Tamil"
     ],
-    "imdbId": "tt28541577",
-    "name": "Sardar 2",
-    "year": 2022,
-    "poster": "https://m.media-amazon.com/images/M/MV5BNTMzNjZkODEtNjRiMS00MjFiLWE0YWYtOGQ5ZGVlODQ1NDVmXkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BNTMzNjZkODEtNjRiMS00MjFiLWE0YWYtOGQ5ZGVlODQ1NDVmXkEyXkFqcGc@._V1_SX250.jpg"
+    "imdbId": "tt14526318",
+    "name": "Sardar",
+    "year": "2022",
+    "poster": "https://images.metahub.space/poster/small/tt14526318/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt14526318/img",
+    "genres": [
+      "Action",
+      "Drama",
+      "Thriller"
+    ],
+    "description": "A spy, who is estranged from his family due to a mission, suddenly meets his police officer son.",
+    "imdbRating": "7.5"
   },
   {
     "id": "af226ba194a8d9bb0150b04241ec1e33",
@@ -11431,7 +11524,20 @@
       "Telugu",
       "Hindi",
       "Multi-Lang"
-    ]
+    ],
+    "imdbId": "tt1156466",
+    "name": "Undisputed 3: Redemption",
+    "year": "2010",
+    "poster": "https://images.metahub.space/poster/small/tt1156466/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt1156466/img",
+    "genres": [
+      "Action",
+      "Crime",
+      "Drama",
+      "Sport"
+    ],
+    "description": "Boyka is back. This time he is fighting in the first ever inter-prison tournament with one knee.",
+    "imdbRating": "7.4"
   },
   {
     "id": "d4edf3677d3e574bc83bdb38d6065fa2",
@@ -12240,7 +12346,19 @@
       "Telugu",
       "Hindi",
       "Multi-Lang"
-    ]
+    ],
+    "imdbId": "tt33354945",
+    "name": "Gandhari",
+    "year": "2026",
+    "poster": "https://images.metahub.space/poster/small/tt33354945/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt33354945/img",
+    "genres": [
+      "Action",
+      "Drama",
+      "Thriller"
+    ],
+    "description": "Follows a mother's relentless pursuit to find and rescue her kidnapped daughter, exploring themes of revenge and redemption amidst her harrowing journey.",
+    "imdbRating": "5.3"
   },
   {
     "id": "0af1eb22731df625fd13df2b680d3a06",
@@ -12417,7 +12535,12 @@
     "rawText": "Kaa: The Forest (2026) Telugu HD - [1080p & 720p - AVC - (AAC 5.1 - 192Kbps) - 2.3GB + Rips]",
     "languages": [
       "Telugu"
-    ]
+    ],
+    "imdbId": "tt8665778",
+    "name": "Kaa: The Forest",
+    "year": 2026,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMWVmNGVmNDYtOGU0NC00MTY1LThlOWUtNTg1ZjhkYjJlODM5XkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BMWVmNGVmNDYtOGU0NC00MTY1LThlOWUtNTg1ZjhkYjJlODM5XkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "bb9ff5a2f432c4019a4fd40325f8ad6f",
@@ -12643,7 +12766,19 @@
       "Tamil",
       "Hindi",
       "Multi-Lang"
-    ]
+    ],
+    "imdbId": "tt0425061",
+    "name": "Get Smart",
+    "year": "2008",
+    "poster": "https://images.metahub.space/poster/small/tt0425061/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt0425061/img",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Comedy"
+    ],
+    "description": "Maxwell Smart, a highly intellectual but bumbling spy working for the CONTROL agency, is tasked with preventing a terrorist attack from rival spy agency KAOS.",
+    "imdbRating": "6.5"
   },
   {
     "id": "d10ea48dc129099bf90a0046537b2f18",
@@ -12897,7 +13032,12 @@
     "rawText": "Karavali (2026) Kannada HD + ESub - [1080p & 720p - AVC - (DD+5.1 - 192Kbps) - 2GB + Rips] - [W]",
     "languages": [
       "Kannada"
-    ]
+    ],
+    "imdbId": "tt29521397",
+    "name": "Karavali",
+    "year": 2026,
+    "poster": "https://m.media-amazon.com/images/M/MV5BYjA3OGRjMTgtYjVhNC00NzljLWFkNGMtMzk4NDQxMmI0NDMyXkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BYjA3OGRjMTgtYjVhNC00NzljLWFkNGMtMzk4NDQxMmI0NDMyXkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "b192efc755a93223f712094918290c3d",
@@ -13211,11 +13351,18 @@
       "Hindi",
       "Multi-Lang"
     ],
-    "imdbId": "tt39300072",
-    "name": "Anbe Diana",
-    "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BMDg3NGQ0MGQtMWI2Ny00YjE3LTgxNzctZjJjZDVkMmQ5NzFlXkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BMDg3NGQ0MGQtMWI2Ny00YjE3LTgxNzctZjJjZDVkMmQ5NzFlXkEyXkFqcGc@._V1_SX250.jpg"
+    "imdbId": "tt1758595",
+    "name": "Diana",
+    "year": "2013",
+    "poster": "https://images.metahub.space/poster/small/tt1758595/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt1758595/img",
+    "genres": [
+      "Biography",
+      "Drama",
+      "Romance"
+    ],
+    "description": "During the last two years of her life, Princess Diana embarks on a final rite of passage: a secret love affair with Pakistani heart surgeon Hasnat Khan.",
+    "imdbRating": "5.6"
   },
   {
     "id": "d455ab9b0dd0a92cbf55150ca83f409f",
@@ -13259,7 +13406,12 @@
       "Telugu",
       "Hindi",
       "Multi-Lang"
-    ]
+    ],
+    "imdbId": "tt0106505",
+    "name": "Calendar Girl",
+    "year": 1993,
+    "poster": "https://m.media-amazon.com/images/M/MV5BZTQ1NTZhYzAtZDAxZi00YTI4LTljMzEtN2E3Y2RlM2M0YjBmXkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BZTQ1NTZhYzAtZDAxZi00YTI4LTljMzEtN2E3Y2RlM2M0YjBmXkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "a36b081511e4fad13dac6e070fc4697c",
@@ -13355,9 +13507,15 @@
     ],
     "imdbId": "tt11561116",
     "name": "The Whisper Man",
-    "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BOTI1YmY3YTQtYTg2Zi00OTZkLTk3NzQtNjcxNzIzMjk2ODZlXkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BOTI1YmY3YTQtYTg2Zi00OTZkLTk3NzQtNjcxNzIzMjk2ODZlXkEyXkFqcGc@._V1_SX250.jpg"
+    "year": "2026",
+    "poster": "https://images.metahub.space/poster/small/tt11561116/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt11561116/img",
+    "genres": [
+      "Crime",
+      "Drama",
+      "Thriller"
+    ],
+    "description": "A grieving father and his young son relocate to the quiet town of Featherbank, which was terrorized by a serial killer known as The Whisper Man 15 years earlier, while rumors circulated that Whisper Man worked with an accomplice."
   },
   {
     "id": "ac7c0531077218f69041654a3101335c",
@@ -13502,7 +13660,18 @@
       "Kannada",
       "Hindi",
       "Multi-Lang"
-    ]
+    ],
+    "imdbId": "tt0206588",
+    "name": "Beethoven's 3rd",
+    "year": "2000",
+    "poster": "https://images.metahub.space/poster/small/tt0206588/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt0206588/img",
+    "genres": [
+      "Family",
+      "Comedy"
+    ],
+    "description": "The Newton family from the first two Beethoven movies are on vacation in Europe, but do plan to join a Newton family reunion, and to make sure one of their family members definitely makes ...",
+    "imdbRating": "4.2"
   },
   {
     "id": "77e58c87b612df580ec543fc533bd76e",
@@ -13726,7 +13895,12 @@
     "rawText": "Bandar (2026) Hindi HD + ESub - [1080p & 720p - AVC - (DD+5.1 ATMOS - 448Kbps) - 2.4GB + Rips]",
     "languages": [
       "Hindi"
-    ]
+    ],
+    "imdbId": "tt32389930",
+    "name": "Bandar",
+    "year": 2026,
+    "poster": "https://m.media-amazon.com/images/M/MV5BOThjOTk0N2MtMjQyMC00MDg5LWExNzItYTgyMjQ2MGZlNTIxXkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BOThjOTk0N2MtMjQyMC00MDg5LWExNzItYTgyMjQ2MGZlNTIxXkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "a3368a6f500db49476f1eddd0ebadc8f",
@@ -14066,11 +14240,17 @@
       "Multi-Lang",
       "Telugu"
     ],
-    "imdbId": "tt43123022",
-    "name": "Mister Middle Class",
-    "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BOWViNjg3Y2EtYzUxNC00YTUxLThkMjQtYzdlNGFkMTBmZDJkXkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BOWViNjg3Y2EtYzUxNC00YTUxLThkMjQtYzdlNGFkMTBmZDJkXkEyXkFqcGc@._V1_SX250.jpg"
+    "imdbId": "tt7516778",
+    "name": "MCA Middle Class Abbayi",
+    "year": "2017",
+    "poster": "https://images.metahub.space/poster/small/tt7516778/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt7516778/img",
+    "genres": [
+      "Action",
+      "Comedy"
+    ],
+    "description": "A youngster tries to protect his sister-in-law, a transport official, from a dreaded goon who runs an illegal road transport business.",
+    "imdbRating": "6.1"
   },
   {
     "id": "e81cbf356ea4b22919ea6992f31c082c",
@@ -15252,7 +15432,19 @@
     "rawText": "Mother (2026) Tamil HD + ESub - [1080p & 720p - AVC - (DD+5.1 - 192Kbps) - 2.2GB + Rips] - [W]",
     "languages": [
       "Tamil"
-    ]
+    ],
+    "imdbId": "tt27200708",
+    "name": "Mother Mary",
+    "year": "2026",
+    "poster": "https://images.metahub.space/poster/small/tt27200708/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt27200708/img",
+    "genres": [
+      "Drama",
+      "Music",
+      "Thriller"
+    ],
+    "description": "Long-buried wounds rise to the surface when iconic pop star Mother Mary reunites with her estranged best friend and former costume designer, Sam Anselm, on the eve of her comeback performance.",
+    "imdbRating": "4.0"
   },
   {
     "id": "a4aac7d8bc34909c2c1793389d80111a",
@@ -15499,18 +15691,7 @@
     "rawText": "The Town (2010) (BluRay + Org Auds) - [1080p & 720p - x264 - (Tamil + Eng) - 2.5GB + Rips]",
     "languages": [
       "Tamil"
-    ],
-    "imdbId": "tt1720276",
-    "name": "The Town Christmas Forgot",
-    "year": "2010",
-    "poster": "https://images.metahub.space/poster/small/tt1720276/img",
-    "thumbnail": "https://images.metahub.space/poster/small/tt1720276/img",
-    "genres": [
-      "Comedy",
-      "Family"
-    ],
-    "description": "When an urban family gets stranded in an impoverished lumber town two days before Christmas, they become involved in the town's home-grown Christmas pageant just in time for the holidays.",
-    "imdbRating": "5.7"
+    ]
   },
   {
     "id": "8812cf00a3a866a5fd92de36534e7d40",
@@ -15670,7 +15851,12 @@
     "rawText": "Pagida Kali (2026) Malayalam HD + ESub - [1080p & 720p - AVC - (DD+5.1 - 192Kbps) - 2.2GB + Rips]",
     "languages": [
       "Malayalam"
-    ]
+    ],
+    "imdbId": "tt40620387",
+    "name": "Pagida Kali",
+    "year": 2026,
+    "poster": "https://images.metahub.space/poster/small/tt40620387/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt40620387/img"
   },
   {
     "id": "66765d7aa3ab5e3df6c70a33ab5ca2b2",
@@ -15739,11 +15925,11 @@
     "languages": [
       "Telugu"
     ],
-    "imdbId": "tt42643672",
-    "name": "Raja the Raja",
+    "imdbId": "tt23790696",
+    "name": "The Raja Saab",
     "year": 2026,
-    "poster": "https://images.metahub.space/poster/small/tt42643672/img",
-    "thumbnail": "https://images.metahub.space/poster/small/tt42643672/img"
+    "poster": "https://m.media-amazon.com/images/M/MV5BOTc5Mjk4ZDQtM2Y4Zi00YTZmLTkxYmUtYWMwNzk3NDBkOGQzXkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BOTc5Mjk4ZDQtM2Y4Zi00YTZmLTkxYmUtYWMwNzk3NDBkOGQzXkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "a609550fc9b826a641d06ee1c5153666",
@@ -16020,7 +16206,12 @@
     "rawText": "Mutiny (2026) English HD + ESub - [1080p & 720p - AVC - (DD+5.1 - 640Kbps) - 1.8GB + Rips]",
     "languages": [
       "Tamil"
-    ]
+    ],
+    "imdbId": "tt32338669",
+    "name": "Mutiny",
+    "year": 2026,
+    "poster": "https://m.media-amazon.com/images/M/MV5BY2FhN2NlNWMtZDM3OC00MjQzLWEwYzYtMmJhNTY1YmRjZTNmXkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BY2FhN2NlNWMtZDM3OC00MjQzLWEwYzYtMmJhNTY1YmRjZTNmXkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "5be2ec68f603004dd5c6c7cadd426662",
@@ -16298,7 +16489,18 @@
       "Telugu",
       "Hindi",
       "Multi-Lang"
-    ]
+    ],
+    "imdbId": "tt21955196",
+    "name": "Stolen",
+    "year": "2024",
+    "poster": "https://images.metahub.space/poster/small/tt21955196/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt21955196/img",
+    "genres": [
+      "Drama",
+      "Thriller"
+    ],
+    "description": "A young woman's struggle to defend her indigenous heritage in a world where xenophobia is on the rise, climate change is threatening reindeer herding, and young people choose suicide in the face of collective desperation.",
+    "imdbRating": "5.7"
   },
   {
     "id": "58e9d246ab5b1120a0e749cdbb93ab8f",
@@ -16385,7 +16587,12 @@
     "rawText": "Sheena (1984) (BluRay + Org Auds) - [1080p & 720p - x264 - (Tamil + Eng) - 2GB + Rips]",
     "languages": [
       "Tamil"
-    ]
+    ],
+    "imdbId": "tt0088103",
+    "name": "Sheena",
+    "year": 1984,
+    "poster": "https://m.media-amazon.com/images/M/MV5BZTNkN2I1OTgtMjAyOS00YWUwLTg3NDYtOTlmZjY4ZDE1N2M5XkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BZTNkN2I1OTgtMjAyOS00YWUwLTg3NDYtOTlmZjY4ZDE1N2M5XkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "98b9ce51ad5efdae6d7749f4569cb849",
@@ -16941,7 +17148,17 @@
     "rawText": "Maa Inti Bangaaram (2026) Hindi HD + ESub - [1080p & 720p - AVC - (DD+5.1 - 192Kbps) - 3.7GB + Rips]",
     "languages": [
       "Hindi"
-    ]
+    ],
+    "imdbId": "tt32237111",
+    "name": "Maa Inti Bangaaram",
+    "year": "2026",
+    "poster": "https://images.metahub.space/poster/small/tt32237111/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt32237111/img",
+    "genres": [
+      "Action",
+      "Drama"
+    ],
+    "description": "Through both her moments of fear and bravery, a woman discovers that embracing her vulnerabilities is as vital to her inner strength as facing challenges head-on."
   },
   {
     "id": "0006f0282f5efccc29e551116fc7d442",
@@ -17080,12 +17297,7 @@
       "Kannada",
       "Hindi",
       "Multi-Lang"
-    ],
-    "imdbId": "tt39910244",
-    "name": "Achyuta Avataaram",
-    "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BY2Q3YzVlMTMtOTk4MC00M2I5LWE3MDQtZDQ0NWIxZDQyOTE1XkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BY2Q3YzVlMTMtOTk4MC00M2I5LWE3MDQtZDQ0NWIxZDQyOTE1XkEyXkFqcGc@._V1_SX250.jpg"
+    ]
   },
   {
     "id": "866a0aff7d3541a1fa009e45ac327479",
@@ -17835,12 +18047,7 @@
       "Telugu",
       "Hindi",
       "Multi-Lang"
-    ],
-    "imdbId": "tt2461132",
-    "name": "Happy New Year",
-    "year": 1987,
-    "poster": "https://m.media-amazon.com/images/M/MV5BYjc3MjY0NzctMGYwNy00ZGYyLThiOTctMjI1MWRkNmU3ZWNiXkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BYjc3MjY0NzctMGYwNy00ZGYyLThiOTctMjI1MWRkNmU3ZWNiXkEyXkFqcGc@._V1_SX250.jpg"
+    ]
   },
   {
     "id": "3ece34ce58c65c1a88bb3898238d3004",
@@ -17948,12 +18155,7 @@
     "rawText": "Sabina: Tortured for Christ - The Nazi Years (2021) (HD + Org Auds) - [1080p & 720p - x264 - (Tamil + Eng) - 2GB + Rips]",
     "languages": [
       "Tamil"
-    ],
-    "imdbId": "tt8716196",
-    "name": "Sabina: Tortured for Christ - The Nazi Years",
-    "year": 2021,
-    "poster": "https://m.media-amazon.com/images/M/MV5BOWQzMWE3YzctNmI1Mi00MjgyLTg2ZDQtYzIxMzk0ZmRiNWZhXkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BOWQzMWE3YzctNmI1Mi00MjgyLTg2ZDQtYzIxMzk0ZmRiNWZhXkEyXkFqcGc@._V1_SX250.jpg"
+    ]
   },
   {
     "id": "4152b971cedb3527fecdf4d7e91cde97",
@@ -18508,12 +18710,7 @@
     "rawText": "Nizhal (2026) Tamil UHD + ESub - [4K, 1080p & 720p - AVC / HEVC - (DD+5.1 - 192Kbps) - 4.4GB + Rips]",
     "languages": [
       "Tamil"
-    ],
-    "imdbId": "tt43437351",
-    "name": "Nizhal",
-    "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BMzkwOTdiZDQtMTVkNS00YmM4LWJjMmEtZjgxMDljNGYwZDhjXkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BMzkwOTdiZDQtMTVkNS00YmM4LWJjMmEtZjgxMDljNGYwZDhjXkEyXkFqcGc@._V1_SX250.jpg"
+    ]
   },
   {
     "id": "23464183b6f9833f5182b9cbd11febbf",
@@ -18670,12 +18867,7 @@
     "rawText": "Maggi Pusthaka (2026) Kannada HD + ESub - [1080p & 720p - AVC - (DD+2.0 - 224Kbps) - 2.4GB + Rips]",
     "languages": [
       "Kannada"
-    ],
-    "imdbId": "tt39386092",
-    "name": "Maggi Pusthaka",
-    "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BMzMxN2Y5NmYtYmM3Zi00MzU1LTg1MmMtNmIzNTVmOGFkMDk0XkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BMzMxN2Y5NmYtYmM3Zi00MzU1LTg1MmMtNmIzNTVmOGFkMDk0XkEyXkFqcGc@._V1_SX250.jpg"
+    ]
   },
   {
     "id": "a5a8f804a59329d9e4c233b1e46237a0",
@@ -18846,12 +19038,7 @@
       "Telugu",
       "Hindi",
       "Multi-Lang"
-    ],
-    "imdbId": "tt0096259",
-    "name": "Things Change",
-    "year": 1988,
-    "poster": "https://m.media-amazon.com/images/M/MV5BN2NlNTY0MTctYjRkMi00YTE3LWJkMGUtYjY3MmFmNzUwMTVjXkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BN2NlNTY0MTctYjRkMi00YTE3LWJkMGUtYjY3MmFmNzUwMTVjXkEyXkFqcGc@._V1_SX250.jpg"
+    ]
   },
   {
     "id": "184db1ff1216c7761cd58e941c06f4cf",
@@ -19329,12 +19516,7 @@
       "Kannada",
       "Hindi",
       "Multi-Lang"
-    ],
-    "imdbId": "tt37079110",
-    "name": "Uyir",
-    "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BMmZhMzRjMzYtZjcxZS00YmI5LWI0YmQtYzVlMmZmMzkyYzIyXkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BMmZhMzRjMzYtZjcxZS00YmI5LWI0YmQtYzVlMmZmMzkyYzIyXkEyXkFqcGc@._V1_SX250.jpg"
+    ]
   },
   {
     "id": "6d8647ffb29fa43adf5c1742883ed4db",
@@ -19789,7 +19971,12 @@
     "rawText": "Objection My Lord (2026) Telugu TRUE WEB-DL - [1080p - 720p - AVC - (AAC 2.0) - 2.4GB + Rips]",
     "languages": [
       "Telugu"
-    ]
+    ],
+    "imdbId": "tt35094565",
+    "name": "Objection My Lord",
+    "year": 2026,
+    "poster": "https://images.metahub.space/poster/small/tt35094565/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt35094565/img"
   },
   {
     "id": "9f6c34e3c0ee2f1d1c732c5fbe73d755",
@@ -20238,7 +20425,12 @@
       "Kannada",
       "Hindi",
       "Multi-Lang"
-    ]
+    ],
+    "imdbId": "tt37895011",
+    "name": "Rao Bahadur",
+    "year": 2026,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMGM4MTlmODYtMWVkMi00MWM0LThlYTQtZDc5OTg1MDI5MGJlXkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BMGM4MTlmODYtMWVkMi00MWM0LThlYTQtZDc5OTg1MDI5MGJlXkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "94f0bf8e75fa5e710ee0228cabf2fa90",
@@ -20285,7 +20477,19 @@
       "Telugu",
       "Hindi",
       "Multi-Lang"
-    ]
+    ],
+    "imdbId": "tt0145487",
+    "name": "Spider-Man",
+    "year": "2002",
+    "poster": "https://images.metahub.space/poster/small/tt0145487/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt0145487/img",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Sci-Fi"
+    ],
+    "description": "A shy teenager is bitten by a genetically modified spider and uses his new spider-like abilities to fight injustice as a masked superhero.",
+    "imdbRating": "7.4"
   },
   {
     "id": "a3e186caee77fd5d626fc0d56bc1a081",
@@ -20383,7 +20587,12 @@
     "rawText": "Police Complaint (2026) Telugu UHD + ESub - [4K, 1080p & 720p - AVC / HEVC - (DD+5.1 - 640Kbps) - 8.4GB + Rips]",
     "languages": [
       "Telugu"
-    ]
+    ],
+    "imdbId": "tt42577497",
+    "name": "Police Complaint",
+    "year": 2026,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjBjOTZhODEtOThjYi00MDU0LWJiZDctYTQ5ZjUxYTBjYWEyXkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BMjBjOTZhODEtOThjYi00MDU0LWJiZDctYTQ5ZjUxYTBjYWEyXkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "1e2e496c10a3c0ea3abe573e15210072",
