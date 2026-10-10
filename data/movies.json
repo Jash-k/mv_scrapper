@@ -43,12 +43,7 @@
     "rawText": "Dorothy (2026) Tamil HQ PreDVD (HQ Clean) - [1080p & 720p - x264 - 2.9GB + Rips] - [W]",
     "languages": [
       "Tamil"
-    ],
-    "imdbId": "tt38915678",
-    "name": "Dorothy",
-    "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BZGZmZmEyZjMtYTJkZC00ZmVjLTg1OGEtOGUwMjgzNGQ4MGYxXkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BZGZmZmEyZjMtYTJkZC00ZmVjLTg1OGEtOGUwMjgzNGQ4MGYxXkEyXkFqcGc@._V1_SX250.jpg"
+    ]
   },
   {
     "id": "461fa9203a7a2c00b4868a5f92e93b42",
@@ -469,7 +464,12 @@
     "rawText": "Paris Cafe (2026) Tamil UHD + ESub - [4K, 1080p & 720p - AVC / HEVC - (DD+5.1 - 640Kbps) - 12GB + Rips]",
     "languages": [
       "Tamil"
-    ]
+    ],
+    "imdbId": "tt38126135",
+    "name": "Paris Cafe",
+    "year": 2026,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMzFjZWZmYjgtY2QwZC00ZjE3LWJjMzctNzhiYmI1ODJhNDJiXkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BMzFjZWZmYjgtY2QwZC00ZjE3LWJjMzctNzhiYmI1ODJhNDJiXkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "4d49d139ff6a339599277d575459e711",
@@ -682,7 +682,12 @@
     "rawText": "Pradhama Drishtiya Kuttakkar (2026) Malayalam HD + ESub - [1080p & 720p - AVC / HEVC - (DD+5.1 - 640Kbps) - 5.4GB + Rips]",
     "languages": [
       "Malayalam"
-    ]
+    ],
+    "imdbId": "tt38265603",
+    "name": "Pradhama Drishtiya Kuttakkar",
+    "year": 2026,
+    "poster": "https://m.media-amazon.com/images/M/MV5BZmViMzIwM2ItZGUxNi00MmM5LTk0Y2EtNWI5ZWY0MjA2YmZjXkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BZmViMzIwM2ItZGUxNi00MmM5LTk0Y2EtNWI5ZWY0MjA2YmZjXkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "5e71909ac1fca0cea35868ba6c7c015b",
@@ -1000,7 +1005,12 @@
       "Kannada",
       "Hindi",
       "Multi-Lang"
-    ]
+    ],
+    "imdbId": "tt36596965",
+    "name": "Mandaadi",
+    "year": 2026,
+    "poster": "https://m.media-amazon.com/images/M/MV5BYjdjYjVkY2ItOGM4Yy00OGQ3LTg3ZDAtNmYzMWZkYzg3NGZhXkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BYjdjYjVkY2ItOGM4Yy00OGQ3LTg3ZDAtNmYzMWZkYzg3NGZhXkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "6ca05e54a008901820c7fd2dfa34ac44",
@@ -3877,7 +3887,12 @@
       "Kannada",
       "Hindi",
       "Multi-Lang"
-    ]
+    ],
+    "imdbId": "tt22084616",
+    "name": "Spider-Man: Brand New Day",
+    "year": 2026,
+    "poster": "https://m.media-amazon.com/images/M/MV5BOWNjYWM3NWItOGE0ZS00MWRjLThiZWEtYjc4ZmNmMmU5ZTVmXkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BOWNjYWM3NWItOGE0ZS00MWRjLThiZWEtYjc4ZmNmMmU5ZTVmXkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "29be35e17ea4dc135c46173e72601795",
@@ -3918,7 +3933,21 @@
       "Tamil",
       "Hindi",
       "Multi-Lang"
-    ]
+    ],
+    "imdbId": "tt0462482",
+    "name": "Population 436",
+    "year": "2006",
+    "poster": "https://images.metahub.space/poster/small/tt0462482/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt0462482/img",
+    "genres": [
+      "Drama",
+      "Horror",
+      "Mystery",
+      "Romance",
+      "Thriller"
+    ],
+    "description": "A census-taker (Sisto) is sent to investigate why a certain small town has had the same population -- 436 residents -- for the last 100 years.",
+    "imdbRating": "5.7"
   },
   {
     "id": "4cf63f7d107ef4e977657b18cc083af9",
@@ -4054,19 +4083,7 @@
       "Telugu",
       "Hindi",
       "Multi-Lang"
-    ],
-    "imdbId": "tt2461150",
-    "name": "Masterminds",
-    "year": "2015",
-    "poster": "https://images.metahub.space/poster/small/tt2461150/img",
-    "thumbnail": "https://images.metahub.space/poster/small/tt2461150/img",
-    "genres": [
-      "Biography",
-      "Comedy",
-      "Crime"
-    ],
-    "description": "A guard at an armored car company in the Southern U.S. organizes one of the biggest bank heists in American history.",
-    "imdbRating": "5.8"
+    ]
   },
   {
     "id": "9a8c506202079398b78b09bf0892c64d",
@@ -4878,7 +4895,12 @@
       "Telugu",
       "Hindi",
       "Multi-Lang"
-    ]
+    ],
+    "imdbId": "tt32222964",
+    "name": "The Indian Story",
+    "year": 2026,
+    "poster": "https://m.media-amazon.com/images/M/MV5BYzFkOTk1OWUtNDFjMi00ZDIzLWI3M2UtZWRmNmM1ZWNmMGM5XkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BYzFkOTk1OWUtNDFjMi00ZDIzLWI3M2UtZWRmNmM1ZWNmMGM5XkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "00a9577e57f255c926488fc8aef41b2a",
@@ -5359,7 +5381,12 @@
     "rawText": "Eeram (2009) Tamil BluRay - [1080p & 720p - AVC / HEVC - (AAC 2.0) - 7.6GB + Rips]",
     "languages": [
       "Tamil"
-    ]
+    ],
+    "imdbId": "tt1670635",
+    "name": "Eeram",
+    "year": 2009,
+    "poster": "https://m.media-amazon.com/images/M/MV5BYTIxNmRjODctMDZlNS00Yzc4LWI4MjQtMmRhZDc3MGRmNDk2XkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BYTIxNmRjODctMDZlNS00Yzc4LWI4MjQtMmRhZDc3MGRmNDk2XkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "7d11b931844ca7ed76b8b6684502a885",
@@ -6773,7 +6800,12 @@
       "Telugu",
       "Hindi",
       "Multi-Lang"
-    ]
+    ],
+    "imdbId": "tt29355505",
+    "name": "Toy Story 5",
+    "year": 2026,
+    "poster": "https://m.media-amazon.com/images/M/MV5BZTI1YTBiNmEtYWUxZi00YzFkLWIzNjMtMmZjMmY2NzM0ZWMzXkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BZTI1YTBiNmEtYWUxZi00YzFkLWIzNjMtMmZjMmY2NzM0ZWMzXkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "8cad3b891452a84adec960f8bb6bf008",
@@ -7081,7 +7113,12 @@
       "Malayalam",
       "Kannada",
       "Multi-Lang"
-    ]
+    ],
+    "imdbId": "tt39073377",
+    "name": "Ram and Leela",
+    "year": 2026,
+    "poster": "https://m.media-amazon.com/images/M/MV5BZTJkZmQxYWUtMTIzNS00OTQzLTg3N2EtOTA2NmMwODhjNTQ5XkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BZTJkZmQxYWUtMTIzNS00OTQzLTg3N2EtOTA2NmMwODhjNTQ5XkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "35aad325755f013c6825bd9493394d40",
@@ -7498,7 +7535,12 @@
       "Telugu",
       "Hindi",
       "Multi-Lang"
-    ]
+    ],
+    "imdbId": "tt0944835",
+    "name": "Salt",
+    "year": 2010,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjIyODA2NDg4NV5BMl5BanBnXkFtZTcwMjg4NDAwMw@@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BMjIyODA2NDg4NV5BMl5BanBnXkFtZTcwMjg4NDAwMw@@._V1_SX250.jpg"
   },
   {
     "id": "ce344907bd91f2925ff0f6ef818fdc4a",
@@ -8495,7 +8537,12 @@
       "Tamil",
       "Hindi",
       "Multi-Lang"
-    ]
+    ],
+    "imdbId": "tt36926359",
+    "name": "Seven Snipers",
+    "year": 2026,
+    "poster": "https://m.media-amazon.com/images/M/MV5BZDA0NDRhODAtODFjMS00MzdkLWI2ZDEtNjQxMGM5MTExY2QzXkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BZDA0NDRhODAtODFjMS00MzdkLWI2ZDEtNjQxMGM5MTExY2QzXkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "65d2c0154f0676fb2460a56da6b33b65",
@@ -8539,7 +8586,12 @@
       "Telugu",
       "Hindi",
       "Multi-Lang"
-    ]
+    ],
+    "imdbId": "tt32321803",
+    "name": "The Get Out",
+    "year": 2026,
+    "poster": "https://m.media-amazon.com/images/M/MV5BZjhkMzcyMDktNjY0ZC00NjQxLTgyMjYtMTA1ODE4OGVkMDk1XkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BZjhkMzcyMDktNjY0ZC00NjQxLTgyMjYtMTA1ODE4OGVkMDk1XkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "abd465397ae4d2d7a76805b4e4d1d235",
@@ -8583,7 +8635,12 @@
       "Telugu",
       "Hindi",
       "Multi-Lang"
-    ]
+    ],
+    "imdbId": "tt16478058",
+    "name": "Best of the Best",
+    "year": 2026,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMWJiYzQ5MmMtNzIyNS00YzQ0LTkyNmQtZmQ0NWQ4MmFhMzU5XkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BMWJiYzQ5MmMtNzIyNS00YzQ0LTkyNmQtZmQ0NWQ4MmFhMzU5XkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "63e9c7bd531e1c03a010f41d394ef26e",
@@ -8627,12 +8684,7 @@
       "Telugu",
       "Hindi",
       "Multi-Lang"
-    ],
-    "imdbId": "tt0103855",
-    "name": "The Bodyguard",
-    "year": 2024,
-    "poster": "https://m.media-amazon.com/images/M/MV5BNTM4ZWNjZmItMmUxNy00Y2M2LTlhZmItMjc0NjQzZmNiOWY5XkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BNTM4ZWNjZmItMmUxNy00Y2M2LTlhZmItMjc0NjQzZmNiOWY5XkEyXkFqcGc@._V1_SX250.jpg"
+    ]
   },
   {
     "id": "62483b0d475d2c2febba62d838137f73",
@@ -8746,7 +8798,20 @@
       "Telugu",
       "Hindi",
       "Multi-Lang"
-    ]
+    ],
+    "imdbId": "tt0443676",
+    "name": "Undisputed 2: Last Man Standing",
+    "year": "2006",
+    "poster": "https://images.metahub.space/poster/small/tt0443676/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt0443676/img",
+    "genres": [
+      "Action",
+      "Crime",
+      "Drama",
+      "Sport"
+    ],
+    "description": "Sequel to the 2002 film. This time, Heavyweight Champ George \"Iceman\" Chambers is sent to a Russian Jail on trumped-up drug charges.",
+    "imdbRating": "7.1"
   },
   {
     "id": "3f755c5a04d75109d91cc73cddea114e",
@@ -8884,7 +8949,12 @@
       "Tamil",
       "Malayalam",
       "Kannada"
-    ]
+    ],
+    "imdbId": "tt35668756",
+    "name": "Kattalan",
+    "year": 2026,
+    "poster": "https://m.media-amazon.com/images/M/MV5BZTFjYzIxNDUtMGJjNy00OTdmLWExNGUtM2FkNzhlYmUzYzk0XkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BZTFjYzIxNDUtMGJjNy00OTdmLWExNGUtM2FkNzhlYmUzYzk0XkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "758bee937eee394dbbe442270e64de2e",
@@ -8948,7 +9018,18 @@
       "Hindi",
       "Multi-Lang",
       "Tamil"
-    ]
+    ],
+    "imdbId": "tt32491690",
+    "name": "Dark Nuns",
+    "year": "2025",
+    "poster": "https://images.metahub.space/poster/small/tt32491690/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt32491690/img",
+    "genres": [
+      "Horror",
+      "Mystery",
+      "Thriller"
+    ],
+    "description": "A young boy Hee-Joon is possessed by an evil spirit. Nun Yunia tries to save him, assisted by Nun Mikaela. Priest Paul attempts medical treatment, while Priest Andrew performs an exorcism to rid Hee-Joon of the spirit."
   },
   {
     "id": "1bfb4038bef0546818cdeafe99fdf161",
@@ -9466,7 +9547,12 @@
     "rawText": "Matchstick Men (2003) (BluRay + Org Auds) - [1080p & 720p - x264 - (Tamil + Eng) - 2GB + Rips]",
     "languages": [
       "Tamil"
-    ]
+    ],
+    "imdbId": "tt0325805",
+    "name": "Matchstick Men",
+    "year": 2003,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjA3NjMyNjIyMF5BMl5BanBnXkFtZTYwOTgzMDI3._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BMjA3NjMyNjIyMF5BMl5BanBnXkFtZTYwOTgzMDI3._V1_SX250.jpg"
   },
   {
     "id": "f3fb46e73174783e272f83347bb63ec5",
@@ -9507,7 +9593,12 @@
       "Tamil",
       "Hindi",
       "Multi-Lang"
-    ]
+    ],
+    "imdbId": "tt0297284",
+    "name": "Mindhunters",
+    "year": 2004,
+    "poster": "https://m.media-amazon.com/images/M/MV5BY2EzNGRhYjktOTFkYy00NDdlLTk3NDAtYzFhNzBkZmRhYmE1XkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BY2EzNGRhYjktOTFkYy00NDdlLTk3NDAtYzFhNzBkZmRhYmE1XkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "0ddbe0ef723b27fe52a37e7127ec8a59",
@@ -9542,7 +9633,12 @@
     "rawText": "Haiwaan (2026) Hindi HQ PreDVD (HQ Clean) - [1080p & 720p - x264 - 2.8GB + Rips] - [W]",
     "languages": [
       "Hindi"
-    ]
+    ],
+    "imdbId": "tt32378175",
+    "name": "Haiwaan",
+    "year": 2026,
+    "poster": "https://m.media-amazon.com/images/M/MV5BNTVjNDc1OTktZmQ0MS00MjBlLTg4NDQtYTM3ZTE1MGUxMjEzXkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BNTVjNDc1OTktZmQ0MS00MjBlLTg4NDQtYTM3ZTE1MGUxMjEzXkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "8e389233fe20c32c5cf350737ea93ca9",
@@ -9586,7 +9682,12 @@
       "Telugu",
       "Hindi",
       "Multi-Lang"
-    ]
+    ],
+    "imdbId": "tt0265212",
+    "name": "Grateful Dawg",
+    "year": 2000,
+    "poster": "https://m.media-amazon.com/images/M/MV5BZTgyYThjOTUtMDQ3YS00OWI4LWI5N2ItMTA1ZDAyYWVjY2JlXkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BZTgyYThjOTUtMDQ3YS00OWI4LWI5N2ItMTA1ZDAyYWVjY2JlXkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "b43bd07964f8ed1b97aa7f663665b69c",
@@ -9674,7 +9775,12 @@
       "Telugu",
       "Hindi",
       "Multi-Lang"
-    ]
+    ],
+    "imdbId": "tt38616652",
+    "name": "Go Team!",
+    "year": 2026,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMWEzOTdmYTYtOTRkNi00MGU5LWIwZWUtNTZkZDFiNTdmOWYyXkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BMWEzOTdmYTYtOTRkNi00MGU5LWIwZWUtNTZkZDFiNTdmOWYyXkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "69bd354f18a3739873ee9f3bf63dc74a",
@@ -10144,7 +10250,12 @@
       "Telugu",
       "Hindi",
       "Multi-Lang"
-    ]
+    ],
+    "imdbId": "tt39833109",
+    "name": "Salmokji: Whispering Water",
+    "year": 2026,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTE5Nzg1MzYtMDg5YS00ZjYyLTg2ZWYtNmYwOWExYjE0MGEzXkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BMTE5Nzg1MzYtMDg5YS00ZjYyLTg2ZWYtNmYwOWExYjE0MGEzXkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "ece7bcc5d7782e7363ffa749872cb894",
@@ -10228,7 +10339,12 @@
     "rawText": "Ghamasaan (2026) Hindi HD + ESub - [1080p & 720p - AVC - (DD+5.1 - 192Kbps) - 2.1GB + Rips]",
     "languages": [
       "Hindi"
-    ]
+    ],
+    "imdbId": "tt33744610",
+    "name": "Ghamasaan",
+    "year": 2026,
+    "poster": "https://m.media-amazon.com/images/M/MV5BYjMwMzgwMzctNzM0NC00N2VlLTg1MjAtNDczNDIzOTRlYjM0XkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BYjMwMzgwMzctNzM0NC00N2VlLTg1MjAtNDczNDIzOTRlYjM0XkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "d9adce016441bfd061b09861ed856a95",
@@ -10493,7 +10609,19 @@
       "Tamil",
       "Malayalam",
       "Telugu"
-    ]
+    ],
+    "imdbId": "tt36639986",
+    "name": "I'm Frankelda",
+    "year": "2025",
+    "poster": "https://images.metahub.space/poster/small/tt36639986/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt36639986/img",
+    "genres": [
+      "Animation",
+      "Family",
+      "Fantasy"
+    ],
+    "description": "Frankelda, a determined 19th-century Mexican writer, journeys into her subconscious to face the monsters she's written about. Guided by a tormented prince, she must restore the balance between fiction and reality before it's too l...",
+    "imdbRating": "7.3"
   },
   {
     "id": "605e01d3c02c8bc9fadc35f343780d99",
@@ -11215,7 +11343,12 @@
       "Kannada",
       "Hindi",
       "Multi-Lang"
-    ]
+    ],
+    "imdbId": "tt35712605",
+    "name": "G.D.N.",
+    "year": 2026,
+    "poster": "https://m.media-amazon.com/images/M/MV5BNWUwZTJkOTktMTBjYi00MWEzLThlY2QtNWU0MWM2OTU2ZjI1XkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BNWUwZTJkOTktMTBjYi00MWEzLThlY2QtNWU0MWM2OTU2ZjI1XkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "29c33bb94fa856871719063cd2f6a5ff",
@@ -11458,7 +11591,12 @@
     "rawText": "Moana (2026) English HD + ESub - [1080p & 720p - AVC - (DD+5.1 - 640Kbps) - 2.2GB + Rips]",
     "languages": [
       "Tamil"
-    ]
+    ],
+    "imdbId": "tt27419466",
+    "name": "Moana",
+    "year": 2026,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTQ1OTQ2Y2UtMzllNS00ODFiLWFkNGItNGRjOWRlMjIwNTRlXkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BMTQ1OTQ2Y2UtMzllNS00ODFiLWFkNGItNGRjOWRlMjIwNTRlXkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "7f002f77a49c81c741dd5a2b4f67afb4",
@@ -12064,7 +12202,12 @@
       "Hindi",
       "Multi-Lang",
       "Malayalam"
-    ]
+    ],
+    "imdbId": "tt33083436",
+    "name": "Ananthan Kaadu",
+    "year": 2026,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMzc5ZDNlZjgtN2Y2Yi00YjI1LTkxMDktYmRiNGE0Y2I2OWJlXkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BMzc5ZDNlZjgtN2Y2Yi00YjI1LTkxMDktYmRiNGE0Y2I2OWJlXkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "b502514ac70d2e8ab07a401f970276b8",
@@ -13309,7 +13452,12 @@
       "Kannada",
       "Hindi",
       "Multi-Lang"
-    ]
+    ],
+    "imdbId": "tt39300072",
+    "name": "Anbe Diana",
+    "year": 2026,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMDg3NGQ0MGQtMWI2Ny00YjE3LTgxNzctZjJjZDVkMmQ5NzFlXkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BMDg3NGQ0MGQtMWI2Ny00YjE3LTgxNzctZjJjZDVkMmQ5NzFlXkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "d455ab9b0dd0a92cbf55150ca83f409f",
@@ -13402,7 +13550,12 @@
       "Telugu",
       "Hindi",
       "Multi-Lang"
-    ]
+    ],
+    "imdbId": "tt30217600",
+    "name": "The Bay",
+    "year": 2026,
+    "poster": "https://m.media-amazon.com/images/M/MV5BY2ZlZDc3YjItNjMxNi00ZGQwLWFkMzUtMDVlODg5NDI4NGZlXkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BY2ZlZDc3YjItNjMxNi00ZGQwLWFkMzUtMDVlODg5NDI4NGZlXkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "bdf03a76e9c799cf6fdcbaebe38dd32c",
@@ -13446,7 +13599,12 @@
       "Telugu",
       "Hindi",
       "Multi-Lang"
-    ]
+    ],
+    "imdbId": "tt11561116",
+    "name": "The Whisper Man",
+    "year": 2026,
+    "poster": "https://m.media-amazon.com/images/M/MV5BOTI1YmY3YTQtYTg2Zi00OTZkLTk3NzQtNjcxNzIzMjk2ODZlXkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BOTI1YmY3YTQtYTg2Zi00OTZkLTk3NzQtNjcxNzIzMjk2ODZlXkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "ac7c0531077218f69041654a3101335c",
@@ -13591,7 +13749,12 @@
       "Kannada",
       "Hindi",
       "Multi-Lang"
-    ]
+    ],
+    "imdbId": "tt39818587",
+    "name": "Newton's 3rd Law",
+    "year": 2026,
+    "poster": "https://m.media-amazon.com/images/M/MV5BNzcwNTIyOTctNjFiMi00Yjk3LWI0MmItMTFkODMwNmE4NDRjXkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BNzcwNTIyOTctNjFiMi00Yjk3LWI0MmItMTFkODMwNmE4NDRjXkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "77e58c87b612df580ec543fc533bd76e",
@@ -13735,7 +13898,12 @@
     "rawText": "Alpha (2026) Hindi HD + ESub - [1080p & 720p - AVC - (DD+5.1 - 640Kbps) - 5.5GB + Rips]",
     "languages": [
       "Hindi"
-    ]
+    ],
+    "imdbId": "tt28363783",
+    "name": "Alpha",
+    "year": 2026,
+    "poster": "https://m.media-amazon.com/images/M/MV5BOGQ1NzJlYzQtOTA0Yy00N2RiLTlkY2UtZWJlNzlmMzFmZjk0XkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BOGQ1NzJlYzQtOTA0Yy00N2RiLTlkY2UtZWJlNzlmMzFmZjk0XkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "93d7c1868a81be1beacdd64907a736d4",
@@ -13983,7 +14151,12 @@
       "Kannada",
       "Hindi",
       "Multi-Lang"
-    ]
+    ],
+    "imdbId": "tt37654096",
+    "name": "The Last Sunrise",
+    "year": 2026,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjZlMjQxN2MtYjAyOS00YjliLWE3NjEtNDZjOWI5NTAxNTY2XkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BMjZlMjQxN2MtYjAyOS00YjliLWE3NjEtNDZjOWI5NTAxNTY2XkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "355f43a01a2f34e758091bd4c212e462",
@@ -14212,7 +14385,12 @@
       "Telugu",
       "Hindi",
       "Multi-Lang"
-    ]
+    ],
+    "imdbId": "tt39294728",
+    "name": "Boonie Bears: The Hidden Protector",
+    "year": 2026,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMDM1MzYxZWItYTliNS00NzYxLTg5ZWItNWRhNTNiYmRlMGQ4XkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BMDM1MzYxZWItYTliNS00NzYxLTg5ZWItNWRhNTNiYmRlMGQ4XkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "318550cc97d280afa34650e01a7f90e0",
@@ -14371,7 +14549,12 @@
       "Kannada",
       "Hindi",
       "Multi-Lang"
-    ]
+    ],
+    "imdbId": "tt26445387",
+    "name": "I, Nobody",
+    "year": 2026,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMWIxMjk3MmItOTRlZC00NWRhLTllNWItYzU2OGI4ZmZjOTUzXkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BMWIxMjk3MmItOTRlZC00NWRhLTllNWItYzU2OGI4ZmZjOTUzXkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "a868f6ba97cf0fef6b61db27b46b273a",
@@ -14472,12 +14655,7 @@
       "Telugu",
       "Hindi",
       "Multi-Lang"
-    ],
-    "imdbId": "tt31170389",
-    "name": "Evil Dead Burn",
-    "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BZTljMTZjZTItZjMzZi00NDBhLWFmMzAtOGNiNTlhY2MxMzg5XkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BZTljMTZjZTItZjMzZi00NDBhLWFmMzAtOGNiNTlhY2MxMzg5XkEyXkFqcGc@._V1_SX250.jpg"
+    ]
   },
   {
     "id": "e550b472667db2fd998bf8b5cca5b413",
@@ -14580,7 +14758,12 @@
     "rawText": "Lurk (2026) Malayalam UHD + ESub - [4K, 1080p & 720p - AVC / HEVC - (DD+5.1 - 192Kbps) - 6.4GB + Rips]",
     "languages": [
       "Malayalam"
-    ]
+    ],
+    "imdbId": "tt36670542",
+    "name": "Lurk",
+    "year": 2026,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMzE4MzhlZWEtNzkzMC00YTE5LWE3N2YtZjZmMGIzZjE3ZmYyXkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BMzE4MzhlZWEtNzkzMC00YTE5LWE3N2YtZjZmMGIzZjE3ZmYyXkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "3557c47cd839300068a14614ded1d92a",
@@ -14615,7 +14798,12 @@
     "rawText": "The Breed (2006) (BluRay + Org Auds) - [1080p & 720p - x264 - (Tamil + Eng) - 1.4GB + Rips]",
     "languages": [
       "Tamil"
-    ]
+    ],
+    "imdbId": "tt0455362",
+    "name": "The Breed",
+    "year": 2006,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjg5ODA5MzAxMV5BMl5BanBnXkFtZTgwMzkyNDM2MTI@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BMjg5ODA5MzAxMV5BMl5BanBnXkFtZTgwMzkyNDM2MTI@._V1_SX250.jpg"
   },
   {
     "id": "44113667cb04be2483cc9ef0ad75e2c3",
@@ -15126,7 +15314,12 @@
       "Tamil",
       "Telugu",
       "Kannada"
-    ]
+    ],
+    "imdbId": "tt33379543",
+    "name": "Jana Nayagan",
+    "year": 2026,
+    "poster": "https://m.media-amazon.com/images/M/MV5BZWFmMGQ4YjUtNmNjYS00MWRlLWI1YzMtMmMyZGIzMmE1NWYwXkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BZWFmMGQ4YjUtNmNjYS00MWRlLWI1YzMtMmMyZGIzMmE1NWYwXkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "3704c30bedaef73569f5d5f475ca59c0",
@@ -15940,7 +16133,12 @@
     "rawText": "Sanjeev (2026) Telugu HD + ESub - [1080p & 720p - AVC - (DD+5.1 - 192Kbps) - 1GB + Rips]",
     "languages": [
       "Telugu"
-    ]
+    ],
+    "imdbId": "tt36653351",
+    "name": "Sanjeev",
+    "year": 2026,
+    "poster": "https://m.media-amazon.com/images/M/MV5BNzk3MTQ2ODEtNTQyZi00YmQ4LTkzOTYtNzE0NTJkYjJlNDdkXkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BNzk3MTQ2ODEtNTQyZi00YmQ4LTkzOTYtNzE0NTJkYjJlNDdkXkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "84d8021ef91767958fc9306f6aa3e1b0",
@@ -16351,7 +16549,18 @@
       "Telugu",
       "Hindi",
       "Multi-Lang"
-    ]
+    ],
+    "imdbId": "tt21955196",
+    "name": "Stolen",
+    "year": "2024",
+    "poster": "https://images.metahub.space/poster/small/tt21955196/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt21955196/img",
+    "genres": [
+      "Drama",
+      "Thriller"
+    ],
+    "description": "A young woman's struggle to defend her indigenous heritage in a world where xenophobia is on the rise, climate change is threatening reindeer herding, and young people choose suicide in the face of collective desperation.",
+    "imdbRating": "5.7"
   },
   {
     "id": "58e9d246ab5b1120a0e749cdbb93ab8f",
@@ -16392,7 +16601,18 @@
       "Tamil",
       "Hindi",
       "Multi-Lang"
-    ]
+    ],
+    "imdbId": "tt0462023",
+    "name": "Romulus, My Father",
+    "year": "2007",
+    "poster": "https://images.metahub.space/poster/small/tt0462023/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt0462023/img",
+    "genres": [
+      "Biography",
+      "Drama"
+    ],
+    "description": "It tells the story of Romulus, his beautiful wife, Christina, and their struggle in the face of great adversity to bring up their son, Raimond. It is a story of impossible love that ultimately celebrates the unbreakable bond betwe...",
+    "imdbRating": "6.6"
   },
   {
     "id": "7b16269ddb88cda122f7179463e4d71e",
@@ -16699,12 +16919,7 @@
     "rawText": "Interstellar (2014) (BluRay + Org Auds) - [4K, 1080p & 720p - x264 - (Tamil + Eng) - 9GB + Rips] - [W]",
     "languages": [
       "Tamil"
-    ],
-    "imdbId": "tt0816692",
-    "name": "Interstellar",
-    "year": 2014,
-    "poster": "https://m.media-amazon.com/images/M/MV5BYzdjMDAxZGItMjI2My00ODA1LTlkNzItOWFjMDU5ZDJlYWY3XkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BYzdjMDAxZGItMjI2My00ODA1LTlkNzItOWFjMDU5ZDJlYWY3XkEyXkFqcGc@._V1_SX250.jpg"
+    ]
   },
   {
     "id": "f42519060da766e1d9983a454c481371",
@@ -16988,7 +17203,17 @@
     "rawText": "Maa Inti Bangaaram (2026) Hindi HD + ESub - [1080p & 720p - AVC - (DD+5.1 - 192Kbps) - 3.7GB + Rips]",
     "languages": [
       "Hindi"
-    ]
+    ],
+    "imdbId": "tt32237111",
+    "name": "Maa Inti Bangaaram",
+    "year": "2026",
+    "poster": "https://images.metahub.space/poster/small/tt32237111/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt32237111/img",
+    "genres": [
+      "Action",
+      "Drama"
+    ],
+    "description": "Through both her moments of fear and bravery, a woman discovers that embracing her vulnerabilities is as vital to her inner strength as facing challenges head-on."
   },
   {
     "id": "0006f0282f5efccc29e551116fc7d442",
@@ -17455,7 +17680,12 @@
     "rawText": "Bharat Bhhagya Viddhaata (2026) Hindi HD + ESub - [4K, 1080p & 720p - AVC / HEVC - (DD+5.1 - 192Kbps) - 2GB + Rips]",
     "languages": [
       "Hindi"
-    ]
+    ],
+    "imdbId": "tt33334267",
+    "name": "Bharat Bhhagya Viddhaata",
+    "year": 2026,
+    "poster": "https://m.media-amazon.com/images/M/MV5BOTUwMjIwY2YtZTUyNy00MjhlLTk2OTItMDg0NWY1ZmFmNzNmXkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BOTUwMjIwY2YtZTUyNy00MjhlLTk2OTItMDg0NWY1ZmFmNzNmXkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "52737abb6ce057de057053681ec235e6",
@@ -17877,7 +18107,12 @@
       "Telugu",
       "Hindi",
       "Multi-Lang"
-    ]
+    ],
+    "imdbId": "tt2461132",
+    "name": "Happy New Year",
+    "year": 1987,
+    "poster": "https://m.media-amazon.com/images/M/MV5BYjc3MjY0NzctMGYwNy00ZGYyLThiOTctMjI1MWRkNmU3ZWNiXkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BYjc3MjY0NzctMGYwNy00ZGYyLThiOTctMjI1MWRkNmU3ZWNiXkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "3ece34ce58c65c1a88bb3898238d3004",
@@ -18115,7 +18350,12 @@
       "Tamil",
       "Hindi",
       "Multi-Lang"
-    ]
+    ],
+    "imdbId": "tt29794968",
+    "name": "Planetquake",
+    "year": 2024,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMzc5OTQwZjEtNDc5OC00YmZmLWJlNzQtM2FmNWY0Njg4OTUxXkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BMzc5OTQwZjEtNDc5OC00YmZmLWJlNzQtM2FmNWY0Njg4OTUxXkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "eecd4f37aac24cd6fdf0138bf4c91575",
@@ -18702,7 +18942,12 @@
     "rawText": "Maggi Pusthaka (2026) Kannada HD + ESub - [1080p & 720p - AVC - (DD+2.0 - 224Kbps) - 2.4GB + Rips]",
     "languages": [
       "Kannada"
-    ]
+    ],
+    "imdbId": "tt39386092",
+    "name": "Maggi Pusthaka",
+    "year": 2026,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMzMxN2Y5NmYtYmM3Zi00MzU1LTg1MmMtNmIzNTVmOGFkMDk0XkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BMzMxN2Y5NmYtYmM3Zi00MzU1LTg1MmMtNmIzNTVmOGFkMDk0XkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "a5a8f804a59329d9e4c233b1e46237a0",
@@ -18873,7 +19118,12 @@
       "Telugu",
       "Hindi",
       "Multi-Lang"
-    ]
+    ],
+    "imdbId": "tt0096259",
+    "name": "Things Change",
+    "year": 1988,
+    "poster": "https://m.media-amazon.com/images/M/MV5BN2NlNTY0MTctYjRkMi00YTE3LWJkMGUtYjY3MmFmNzUwMTVjXkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BN2NlNTY0MTctYjRkMi00YTE3LWJkMGUtYjY3MmFmNzUwMTVjXkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "184db1ff1216c7761cd58e941c06f4cf",
@@ -19021,7 +19271,12 @@
     "languages": [
       "Tamil",
       "Malayalam"
-    ]
+    ],
+    "imdbId": "tt37458495",
+    "name": "Gatta Kusthi 2",
+    "year": 2026,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMGFhZDkxYjYtZGViYy00MTgyLTliNWQtOWFlZmNmZmI4MWZkXkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BMGFhZDkxYjYtZGViYy00MTgyLTliNWQtOWFlZmNmZmI4MWZkXkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "3e216b0fc045eb3353ba322615d7dd4c",
