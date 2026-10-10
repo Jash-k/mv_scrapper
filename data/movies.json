@@ -16030,11 +16030,11 @@
     "languages": [
       "Telugu"
     ],
-    "imdbId": "tt23790696",
-    "name": "The Raja Saab",
+    "imdbId": "tt42643672",
+    "name": "Raja the Raja",
     "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BOTc5Mjk4ZDQtM2Y4Zi00YTZmLTkxYmUtYWMwNzk3NDBkOGQzXkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BOTc5Mjk4ZDQtM2Y4Zi00YTZmLTkxYmUtYWMwNzk3NDBkOGQzXkEyXkFqcGc@._V1_SX250.jpg"
+    "poster": "https://images.metahub.space/poster/small/tt42643672/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt42643672/img"
   },
   {
     "id": "a609550fc9b826a641d06ee1c5153666",
@@ -18270,7 +18270,12 @@
     "rawText": "Sabina: Tortured for Christ - The Nazi Years (2021) (HD + Org Auds) - [1080p & 720p - x264 - (Tamil + Eng) - 2GB + Rips]",
     "languages": [
       "Tamil"
-    ]
+    ],
+    "imdbId": "tt8716196",
+    "name": "Sabina: Tortured for Christ - The Nazi Years",
+    "year": 2021,
+    "poster": "https://m.media-amazon.com/images/M/MV5BOWQzMWE3YzctNmI1Mi00MjgyLTg2ZDQtYzIxMzk0ZmRiNWZhXkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BOWQzMWE3YzctNmI1Mi00MjgyLTg2ZDQtYzIxMzk0ZmRiNWZhXkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "4152b971cedb3527fecdf4d7e91cde97",
@@ -19646,7 +19651,12 @@
       "Kannada",
       "Hindi",
       "Multi-Lang"
-    ]
+    ],
+    "imdbId": "tt37079110",
+    "name": "Uyir",
+    "year": 2026,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMmZhMzRjMzYtZjcxZS00YmI5LWI0YmQtYzVlMmZmMzkyYzIyXkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BMmZhMzRjMzYtZjcxZS00YmI5LWI0YmQtYzVlMmZmMzkyYzIyXkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "6d8647ffb29fa43adf5c1742883ed4db",
@@ -20555,7 +20565,12 @@
       "Kannada",
       "Hindi",
       "Multi-Lang"
-    ]
+    ],
+    "imdbId": "tt37895011",
+    "name": "Rao Bahadur",
+    "year": 2026,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMGM4MTlmODYtMWVkMi00MWM0LThlYTQtZDc5OTg1MDI5MGJlXkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BMGM4MTlmODYtMWVkMi00MWM0LThlYTQtZDc5OTg1MDI5MGJlXkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "94f0bf8e75fa5e710ee0228cabf2fa90",
@@ -20891,7 +20906,12 @@
     "rawText": "Peddi (2026) Hindi HD + ESub - [1080p & 720p - AVC / HEVC - (DD+5.1 - 640Kbps) - 3.3GB + Rips]",
     "languages": [
       "Hindi"
-    ]
+    ],
+    "imdbId": "tt23865918",
+    "name": "Peddi",
+    "year": 2026,
+    "poster": "https://m.media-amazon.com/images/M/MV5BY2U5MzM2MDAtNjIxZC00Yzk5LWFiZjctNjllN2IyMzI2NTc0XkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BY2U5MzM2MDAtNjIxZC00Yzk5LWFiZjctNjllN2IyMzI2NTc0XkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "fd0a221ff51eeecc11d6e59392d2a550",
@@ -21604,6 +21624,11 @@
       "Telugu",
       "Hindi",
       "Multi-Lang"
-    ]
+    ],
+    "imdbId": "tt0140282",
+    "name": "In God's Hands",
+    "year": 1998,
+    "poster": "https://m.media-amazon.com/images/M/MV5BYWFhYTFiMjAtODhhMi00NjdiLTk1ZmUtMzExNDM2NTViMzM0XkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BYWFhYTFiMjAtODhhMi00NjdiLTk1ZmUtMzExNDM2NTViMzM0XkEyXkFqcGc@._V1_SX250.jpg"
   }
 ]
