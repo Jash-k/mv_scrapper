@@ -6613,12 +6613,7 @@
       "Malayalam",
       "Kannada",
       "Multi-Lang"
-    ],
-    "imdbId": "tt41790460",
-    "name": "Agadha",
-    "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BNjYwOWQ1NjMtYTRmYS00ZDc2LTkwNjAtN2JhYjE3NmVjMTA4XkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BNjYwOWQ1NjMtYTRmYS00ZDc2LTkwNjAtN2JhYjE3NmVjMTA4XkEyXkFqcGc@._V1_SX250.jpg"
+    ]
   },
   {
     "id": "c6ab20197830c7845b17a59ef25aad6c",
@@ -8020,12 +8015,7 @@
     "rawText": "Idi Mazha Kaattu (2026) Malayalam HD + ESub - [1080p & 720p - AVC - (AAC 2.0) - 2.8GB + Rips]",
     "languages": [
       "Malayalam"
-    ],
-    "imdbId": "tt10908160",
-    "name": "Idi Mazha Kaattu",
-    "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BYWRmNWM5ZDQtMDlmYS00MmZjLWI5MTItYmMzNDcxZDYyNmJhXkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BYWRmNWM5ZDQtMDlmYS00MmZjLWI5MTItYmMzNDcxZDYyNmJhXkEyXkFqcGc@._V1_SX250.jpg"
+    ]
   },
   {
     "id": "b51c4eb66c0dd2581edb454956da5f90",
@@ -8230,7 +8220,12 @@
       "Kannada",
       "Hindi",
       "Multi-Lang"
-    ]
+    ],
+    "imdbId": "tt43056433",
+    "name": "Karmakhya",
+    "year": 2026,
+    "poster": "https://m.media-amazon.com/images/M/MV5BYTg4NjY2NTctM2I2MC00NzdmLThiNjktMjBhMzk1ZjE2M2M5XkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BYTg4NjY2NTctM2I2MC00NzdmLThiNjktMjBhMzk1ZjE2M2M5XkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "1727e6e59594aa52f7527c759ba00346",
@@ -9273,7 +9268,18 @@
       "Hindi",
       "Multi-Lang",
       "Tamil"
-    ]
+    ],
+    "imdbId": "tt32491690",
+    "name": "Dark Nuns",
+    "year": "2025",
+    "poster": "https://images.metahub.space/poster/small/tt32491690/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt32491690/img",
+    "genres": [
+      "Horror",
+      "Mystery",
+      "Thriller"
+    ],
+    "description": "A young boy Hee-Joon is possessed by an evil spirit. Nun Yunia tries to save him, assisted by Nun Mikaela. Priest Paul attempts medical treatment, while Priest Andrew performs an exorcism to rid Hee-Joon of the spirit."
   },
   {
     "id": "1bfb4038bef0546818cdeafe99fdf161",
@@ -9877,7 +9883,12 @@
     "rawText": "Haiwaan (2026) Hindi HQ PreDVD (HQ Clean) - [1080p & 720p - x264 - 2.8GB + Rips] - [W]",
     "languages": [
       "Hindi"
-    ]
+    ],
+    "imdbId": "tt32378175",
+    "name": "Haiwaan",
+    "year": 2026,
+    "poster": "https://m.media-amazon.com/images/M/MV5BNTVjNDc1OTktZmQ0MS00MjBlLTg4NDQtYTM3ZTE1MGUxMjEzXkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BNTVjNDc1OTktZmQ0MS00MjBlLTg4NDQtYTM3ZTE1MGUxMjEzXkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "8e389233fe20c32c5cf350737ea93ca9",
@@ -10338,7 +10349,12 @@
       "Telugu",
       "Kannada",
       "Multi-Lang"
-    ]
+    ],
+    "imdbId": "tt37963237",
+    "name": "Varavu",
+    "year": 2026,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTVmZGQwYjAtMWVhNS00NDc2LWJjZDMtYmRiOGYyNzJhZTI4XkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BMTVmZGQwYjAtMWVhNS00NDc2LWJjZDMtYmRiOGYyNzJhZTI4XkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "409e68a3d65ae2c7d1c72876cd448513",
@@ -14155,7 +14171,12 @@
     "rawText": "Ankam Attahasam (2026) Malayalam HD + ESub - [4K, 1080p & 720p - AVC / HEVC - (DD+5.1 - 192Kbps) - 6.6GB + Rips]",
     "languages": [
       "Malayalam"
-    ]
+    ],
+    "imdbId": "tt35815094",
+    "name": "Ankam Attahasam",
+    "year": 2026,
+    "poster": "https://m.media-amazon.com/images/M/MV5BNzk4NzI1MWUtZTA4NS00ZjEzLTk2OTYtZjc3ZDJlNmQ1MTY5XkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BNzk4NzI1MWUtZTA4NS00ZjEzLTk2OTYtZjc3ZDJlNmQ1MTY5XkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "d14522bd289de925cb39524b65b06e4a",
@@ -15194,7 +15215,12 @@
     "rawText": "Sweety Naughty Crazy (2026) Tamil UHD + ESub - [4K, 1080p & 720p - AVC - (DD+5.1 - 192Kbps) - 5GB + Rips] - [W]",
     "languages": [
       "Tamil"
-    ]
+    ],
+    "imdbId": "tt39398861",
+    "name": "Sweety Naughty Crazy",
+    "year": 2026,
+    "poster": "https://m.media-amazon.com/images/M/MV5BNjI1ODkwNGUtMzRhNS00NzRmLWIzZTQtNTM2NjRiMjA1Y2IyXkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BNjI1ODkwNGUtMzRhNS00NzRmLWIzZTQtNTM2NjRiMjA1Y2IyXkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "1645c0156b34eb943fa0c0433f8ca86f",
@@ -16197,11 +16223,11 @@
     "languages": [
       "Telugu"
     ],
-    "imdbId": "tt42643672",
-    "name": "Raja the Raja",
+    "imdbId": "tt23790696",
+    "name": "The Raja Saab",
     "year": 2026,
-    "poster": "https://images.metahub.space/poster/small/tt42643672/img",
-    "thumbnail": "https://images.metahub.space/poster/small/tt42643672/img"
+    "poster": "https://m.media-amazon.com/images/M/MV5BOTc5Mjk4ZDQtM2Y4Zi00YTZmLTkxYmUtYWMwNzk3NDBkOGQzXkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BOTc5Mjk4ZDQtM2Y4Zi00YTZmLTkxYmUtYWMwNzk3NDBkOGQzXkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "a609550fc9b826a641d06ee1c5153666",
@@ -16720,61 +16746,6 @@
     "imdbRating": "6.8"
   },
   {
-    "id": "9b030e910fab62dfe83b84885ab72bd8",
-    "rawTitle": "Stolen Girl (2025)",
-    "titleGuess": "Stolen Girl",
-    "yearGuess": 2025,
-    "pageUrl": "https://www.1tamilmv.capital/index.php?/forums/topic/199323-stolen-girl-2025-bluray-original-audios-1080p-720p-x264-dd51-640kbps-tamil-telugu-hindi-eng-24gb-14gb-x264-tamil-telugu-hindi-450mb-esub/",
-    "qualities": [
-      {
-        "quality": "1080p AVC",
-        "size": "2.9GB",
-        "type": "magnet",
-        "url": "magnet:?xt=urn:btih:b6c4abd4d07b68669883258f6026f651615c2aa4&dn=www.1TamilMV.ing%20-%20Stolen%20Girl%20%282025%29%20BluRay%20-%201080p%20-%20x264%20-%20%5BTam%20%2B%20Tel%20%2B%20Hin%20%2B%20Eng%5D%20-%20%28DD%2B5.1%20-%20640Kbps%29%20-%202.9GB%20-%20ESub.mkv&xl=3190358716&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Ftracker.dler.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=https%3A%2F%2Ftracker.zhuqiy.com%3A443%2Fannounce&tr=https%3A%2F%2Ftracker.pmman.tech%3A443%2Fannounce&tr=udp%3A%2F%2Ftracker.corpscorp.online%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentorrent.top%3A6969%2Fannounce&tr=http%3A%2F%2Ftracker.mywaifu.best%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.dler.com%3A6969%2Fannounce&tr=http%3A%2F%2Ftracker.ipv6tracker.ru%3A80%2Fannounce&tr=udp%3A%2F%2Fbittorrent-tracker.e-n-c-r-y-p-t.net%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.publictracker.xyz%3A6969%2Fannounce&tr=http%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.wildkat.net%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.qu.ax%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.peerfect.org%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.opentorrent.top%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.filemail.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Fexplodie.org%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.filebase.online%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.moeking.me%3A6969%2Fannounce&tr=udp%3A%2F%2Fp4p.arenabg.com%3A1337%2Fannounce",
-        "languages": [
-          "Tamil",
-          "Telugu",
-          "Hindi",
-          "Multi-Lang"
-        ],
-        "seeders": 100,
-        "leechers": 10
-      },
-      {
-        "quality": "720p AVC",
-        "size": "1.4GB",
-        "type": "magnet",
-        "url": "magnet:?xt=urn:btih:d91146cfe17f21fb227e5ee2ad9651efa646d5c1&dn=www.1TamilMV.ing%20-%20Stolen%20Girl%20%282025%29%20BluRay%20-%20720p%20-%20x264%20-%20%5BTam%20%2B%20Tel%20%2B%20Hin%20%2B%20Eng%5D%20-%20%28DD%2B5.1%20-%20192Kbps%29%20-%201.4GB%20-%20ESub.mkv&xl=1531355316&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Ftracker.dler.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=https%3A%2F%2Ftracker.zhuqiy.com%3A443%2Fannounce&tr=https%3A%2F%2Ftracker.pmman.tech%3A443%2Fannounce&tr=udp%3A%2F%2Ftracker.corpscorp.online%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentorrent.top%3A6969%2Fannounce&tr=http%3A%2F%2Ftracker.mywaifu.best%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.dler.com%3A6969%2Fannounce&tr=http%3A%2F%2Ftracker.ipv6tracker.ru%3A80%2Fannounce&tr=udp%3A%2F%2Fbittorrent-tracker.e-n-c-r-y-p-t.net%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.publictracker.xyz%3A6969%2Fannounce&tr=http%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.wildkat.net%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.qu.ax%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.peerfect.org%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.opentorrent.top%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.filemail.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Fexplodie.org%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.filebase.online%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.moeking.me%3A6969%2Fannounce&tr=udp%3A%2F%2Fp4p.arenabg.com%3A1337%2Fannounce",
-        "languages": [
-          "Tamil",
-          "Telugu",
-          "Hindi",
-          "Multi-Lang"
-        ],
-        "seeders": 100,
-        "leechers": 10
-      }
-    ],
-    "rawText": "Stolen Girl (2025) (BluRay + Org Auds) - [1080p & 720p - x264 - (Tamil + Telugu + Hindi + Eng) - 2.9GB + Rips]",
-    "languages": [
-      "Tamil",
-      "Telugu",
-      "Hindi",
-      "Multi-Lang"
-    ],
-    "imdbId": "tt21955196",
-    "name": "Stolen",
-    "year": "2024",
-    "poster": "https://images.metahub.space/poster/small/tt21955196/img",
-    "thumbnail": "https://images.metahub.space/poster/small/tt21955196/img",
-    "genres": [
-      "Drama",
-      "Thriller"
-    ],
-    "description": "A young woman's struggle to defend her indigenous heritage in a world where xenophobia is on the rise, climate change is threatening reindeer herding, and young people choose suicide in the face of collective desperation.",
-    "imdbRating": "5.7"
-  },
-  {
     "id": "58e9d246ab5b1120a0e749cdbb93ab8f",
     "rawTitle": "Gandhi, My Father (2007)",
     "titleGuess": "Gandhi, My Father",
@@ -17180,7 +17151,12 @@
       "Telugu",
       "Hindi",
       "Multi-Lang"
-    ]
+    ],
+    "imdbId": "tt32273171",
+    "name": "The Death of Robin Hood",
+    "year": 2026,
+    "poster": "https://m.media-amazon.com/images/M/MV5BYTRmNzlmZjEtYjkzMC00MmNjLThiOGYtZjM5MjFiZDQyM2IwXkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BYTRmNzlmZjEtYjkzMC00MmNjLThiOGYtZjM5MjFiZDQyM2IwXkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "1b407c9c7ad622ecd591d4c7623b9cf7",
@@ -20727,7 +20703,12 @@
       "Kannada",
       "Hindi",
       "Multi-Lang"
-    ]
+    ],
+    "imdbId": "tt37895011",
+    "name": "Rao Bahadur",
+    "year": 2026,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMGM4MTlmODYtMWVkMi00MWM0LThlYTQtZDc5OTg1MDI5MGJlXkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BMGM4MTlmODYtMWVkMi00MWM0LThlYTQtZDc5OTg1MDI5MGJlXkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "94f0bf8e75fa5e710ee0228cabf2fa90",
