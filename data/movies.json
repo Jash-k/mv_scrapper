@@ -1098,6 +1098,39 @@
     "thumbnail": "https://m.media-amazon.com/images/M/MV5BYjdjYjVkY2ItOGM4Yy00OGQ3LTg3ZDAtNmYzMWZkYzg3NGZhXkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
+    "id": "d1b96c22cafd621765969cb7e73e1fdf",
+    "rawTitle": "Training Day (2001)",
+    "titleGuess": "Training Day",
+    "yearGuess": 2001,
+    "pageUrl": "https://www.1tamilmv.capital/index.php?/forums/topic/200277-training-day-2001%C2%A0remastered-bluray-original-audios-1080p-720p-x264-dd20-224kbps-tamil-hindi-eng-24gb-14gb-x264-tamil-hindi-450mb-esub/",
+    "qualities": [
+      {
+        "quality": "720p AVC",
+        "size": "1.3GB",
+        "type": "magnet",
+        "url": "magnet:?xt=urn:btih:deeea8635dd41cefbfba6e800ecb8fb6f5608145&dn=www.1TamilMV.capital%20-%20Training%20Day%20%282001%29%20REMASTERED%20BluRay%C2%A0-%20720p%20-%20x264%20-%20%5BTamil%20%2B%20Hindi%20%2B%20Eng%5D%20-%20%28AAC%202.0%29%20-%201.3GB%20-%20ESub.mkv&xl=1461066568&tr=udp%3A%2F%2Ftracker.dler.com%3A6969%2Fannounce&tr=http%3A%2F%2Ftracker.bt4g.com%3A2095%2Fannounce&tr=udp%3A%2F%2Ftracker-udp.gbitt.info%3A80%2Fannounce&tr=http%3A%2F%2Fipv4announce.sktorrent.eu%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=http%3A%2F%2Ftracker.mywaifu.best%3A6969%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=udp%3A%2F%2Fevan.im%3A6969%2Fannounce&tr=https%3A%2F%2Ftracker.leechshield.link%3A443%2Fannounce&tr=http%3A%2F%2Ftracker.dhitechnical.com%3A6969%2Fannounce&tr=https%3A%2F%2Ftorrents.tmtime.dev%3A443%2Fannounce&tr=udp%3A%2F%2Ftorrentclub.online%3A1984%2Fannounce&tr=udp%3A%2F%2Ftracker.wildkat.net%3A6969%2Fannounce&tr=http%3A%2F%2Fbt1.archive.org%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.publictracker.xyz%3A6969%2Fannounce&tr=http%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.wildkat.net%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.qu.ax%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.peerfect.org%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.opentorrent.top%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.filemail.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Fexplodie.org%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.filebase.online%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.moeking.me%3A6969%2Fannounce&tr=udp%3A%2F%2Fp4p.arenabg.com%3A1337%2Fannounce",
+        "languages": [
+          "Tamil",
+          "Hindi",
+          "Multi-Lang"
+        ],
+        "seeders": 100,
+        "leechers": 10
+      }
+    ],
+    "rawText": "Training Day (2001) (REMASTERED BluRay + Org Auds) - [1080p & 720p - x264 - (Tamil + Hindi + Eng) - 3.1GB + Rips]",
+    "languages": [
+      "Tamil",
+      "Hindi",
+      "Multi-Lang"
+    ],
+    "imdbId": "tt0139654",
+    "name": "Training Day",
+    "year": 2001,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjRlNjUwOGYtNGQxZS00ZjhkLTg0NDgtYjcwNzZlNDU2YjBlXkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BMjRlNjUwOGYtNGQxZS00ZjhkLTg0NDgtYjcwNzZlNDU2YjBlXkEyXkFqcGc@._V1_SX250.jpg"
+  },
+  {
     "id": "29e8d2d69039dde54476fb0c2e98fdfb",
     "rawTitle": "BIGG BOSS Tamil (2026)",
     "titleGuess": "BIGG BOSS Tamil",
@@ -3678,7 +3711,12 @@
     "rawText": "Sigma (2026) Tamil HQ PreDVD (HQ Clean) - [1080p & 720p - x264 - 2.6GB + Rips] - [W]",
     "languages": [
       "Tamil"
-    ]
+    ],
+    "imdbId": "tt39239754",
+    "name": "Sigma",
+    "year": 2026,
+    "poster": "https://m.media-amazon.com/images/M/MV5BY2VmZDc4ZTQtMTAxNi00MGVkLTk5OTUtMmE4ZjdjMmZjZWYyXkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BY2VmZDc4ZTQtMTAxNi00MGVkLTk5OTUtMmE4ZjdjMmZjZWYyXkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "e13c88fd1a6e5e0bccf05c464c4d023c",
@@ -4108,7 +4146,21 @@
       "Tamil",
       "Hindi",
       "Multi-Lang"
-    ]
+    ],
+    "imdbId": "tt0462482",
+    "name": "Population 436",
+    "year": "2006",
+    "poster": "https://images.metahub.space/poster/small/tt0462482/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt0462482/img",
+    "genres": [
+      "Drama",
+      "Horror",
+      "Mystery",
+      "Romance",
+      "Thriller"
+    ],
+    "description": "A census-taker (Sisto) is sent to investigate why a certain small town has had the same population -- 436 residents -- for the last 100 years.",
+    "imdbRating": "5.7"
   },
   {
     "id": "4cf63f7d107ef4e977657b18cc083af9",
@@ -5235,7 +5287,12 @@
     "rawText": "Ameer Log (2026) Telugu HD + ESub - [1080p & 720p - AVC / HEVC - (DD+5.1 - 640Kbps) - 2.9GB + Rips]",
     "languages": [
       "Telugu"
-    ]
+    ],
+    "imdbId": "tt43635242",
+    "name": "Ameer Log",
+    "year": 2026,
+    "poster": "https://m.media-amazon.com/images/M/MV5BNDMyODIxMTYtMzQ4YS00OThkLTljM2EtZWNkN2I0NWI4OTI5XkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BNDMyODIxMTYtMzQ4YS00OThkLTljM2EtZWNkN2I0NWI4OTI5XkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "3fd13e02362d951a2950672d76002dd1",
@@ -6080,7 +6137,18 @@
       "Malayalam",
       "Hindi",
       "Multi-Lang"
-    ]
+    ],
+    "imdbId": "tt33293169",
+    "name": "Mango",
+    "year": "2025",
+    "poster": "https://images.metahub.space/poster/small/tt33293169/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt33293169/img",
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance"
+    ],
+    "description": "Lærke, an ambitious hotel manager, is sent to Malaga to develop a hotel on Alex's mango farm. Lærke's daughter joins, expecting a rare holiday. Unexpected feelings arise between Lærke and Alex, forcing them to make life-altering c..."
   },
   {
     "id": "7b4eef4d62712004e892bef5c6eb1e30",
@@ -7265,7 +7333,12 @@
       "Malayalam",
       "Kannada",
       "Multi-Lang"
-    ]
+    ],
+    "imdbId": "tt39073377",
+    "name": "Ram and Leela",
+    "year": 2026,
+    "poster": "https://m.media-amazon.com/images/M/MV5BZTJkZmQxYWUtMTIzNS00OTQzLTg3N2EtOTA2NmMwODhjNTQ5XkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BZTJkZmQxYWUtMTIzNS00OTQzLTg3N2EtOTA2NmMwODhjNTQ5XkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "35aad325755f013c6825bd9493394d40",
@@ -11734,6 +11807,63 @@
     "thumbnail": "https://m.media-amazon.com/images/M/MV5BMTQ1OTQ2Y2UtMzllNS00ODFiLWFkNGItNGRjOWRlMjIwNTRlXkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
+    "id": "7f002f77a49c81c741dd5a2b4f67afb4",
+    "rawTitle": "Undisputed III: Redemption (2010)",
+    "titleGuess": "Undisputed III: Redemption",
+    "yearGuess": 2010,
+    "pageUrl": "https://www.1tamilmv.capital/index.php?/forums/topic/199651-undisputed-iii-redemption-2010-bluray-original-audios-1080p-720p-x264-aac-20-192kbps-tamil-telugu-hindi-eng-2gb-1gb-x264-tamil-telugu-hindi-450mb-esub/",
+    "qualities": [
+      {
+        "quality": "1080p AVC",
+        "size": "2GB",
+        "type": "magnet",
+        "url": "magnet:?xt=urn:btih:25cd616d2b9271cb36d1075263958de7652cd3c1&dn=www.1TamilMV.meme%20-%20Undisputed%20III%20Redemption%20%282010%29%20BluRay%20-%201080p%20-%20x264%20-%20%5BTam%20%2B%20Tel%20%2B%20Hin%20%2B%20Eng%5D%20-%20AAC%20-%202GB%20-%20ESub.mkv&xl=2314239717&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.tracker.cl%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=http%3A%2F%2Ftracker.bt4g.com%3A2095%2Fannounce&tr=http%3A%2F%2Ftracker.renfei.net%3A8080%2Fannounce&tr=http%3A%2F%2Fipv4.rer.lol%3A2710%2Fannounce&tr=udp%3A%2F%2Ftracker.bittor.pw%3A1337%2Fannounce&tr=udp%3A%2F%2Fopentracker.io%3A6969%2Fannounce&tr=http%3A%2F%2Fwww.torrentsnipe.info%3A2701%2Fannounce&tr=https%3A%2F%2Ftr.zukizuki.org%3A443%2Fannounce&tr=http%3A%2F%2Ftracker810.xyz%3A11450%2Fannounce&tr=http%3A%2F%2Ftracker.vanitycore.co%3A6969%2Fannounce&tr=http%3A%2F%2Ftracker.sbsub.com%3A2710%2Fannounce&tr=http%3A%2F%2Ftracker.moxing.party%3A6969%2Fannounce&tr=http%3A%2F%2Ftracker.lintk.me%3A2710%2Fannounce&tr=udp%3A%2F%2Ftracker.publictracker.xyz%3A6969%2Fannounce&tr=http%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.wildkat.net%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.qu.ax%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.peerfect.org%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.opentorrent.top%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.filemail.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Fexplodie.org%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.filebase.online%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.moeking.me%3A6969%2Fannounce&tr=udp%3A%2F%2Fp4p.arenabg.com%3A1337%2Fannounce",
+        "languages": [
+          "Tamil",
+          "Telugu",
+          "Hindi",
+          "Multi-Lang"
+        ],
+        "seeders": 100,
+        "leechers": 10
+      },
+      {
+        "quality": "720p AVC",
+        "size": "1GB",
+        "type": "magnet",
+        "url": "magnet:?xt=urn:btih:f75d3bcb272a1d4833362130a17584b3dd6c6fd2&dn=www.1TamilMV.meme%20-%20Undisputed%20III%20Redemption%20%282010%29%20BluRay%20-%20720p%20-%20x264%20-%20%5BTam%20%2B%20Tel%20%2B%20Hin%20%2B%20Eng%5D%20-%20AAC%20-%201GB%20-%20ESub.mkv&xl=1201310299&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.tracker.cl%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=http%3A%2F%2Ftracker.bt4g.com%3A2095%2Fannounce&tr=http%3A%2F%2Ftracker.renfei.net%3A8080%2Fannounce&tr=http%3A%2F%2Fipv4.rer.lol%3A2710%2Fannounce&tr=udp%3A%2F%2Ftracker.bittor.pw%3A1337%2Fannounce&tr=udp%3A%2F%2Fopentracker.io%3A6969%2Fannounce&tr=http%3A%2F%2Fwww.torrentsnipe.info%3A2701%2Fannounce&tr=https%3A%2F%2Ftr.zukizuki.org%3A443%2Fannounce&tr=http%3A%2F%2Ftracker810.xyz%3A11450%2Fannounce&tr=http%3A%2F%2Ftracker.vanitycore.co%3A6969%2Fannounce&tr=http%3A%2F%2Ftracker.sbsub.com%3A2710%2Fannounce&tr=http%3A%2F%2Ftracker.moxing.party%3A6969%2Fannounce&tr=http%3A%2F%2Ftracker.lintk.me%3A2710%2Fannounce&tr=udp%3A%2F%2Ftracker.publictracker.xyz%3A6969%2Fannounce&tr=http%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.wildkat.net%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.qu.ax%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.peerfect.org%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.opentorrent.top%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.filemail.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Fexplodie.org%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.filebase.online%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.moeking.me%3A6969%2Fannounce&tr=udp%3A%2F%2Fp4p.arenabg.com%3A1337%2Fannounce",
+        "languages": [
+          "Tamil",
+          "Telugu",
+          "Hindi",
+          "Multi-Lang"
+        ],
+        "seeders": 100,
+        "leechers": 10
+      }
+    ],
+    "rawText": "Undisputed III: Redemption (2010) (BluRay + Org Auds) - [1080p & 720p - x264 - (Tamil + Telugu + Hindi + Eng) - 2GB + Rips]",
+    "languages": [
+      "Tamil",
+      "Telugu",
+      "Hindi",
+      "Multi-Lang"
+    ],
+    "imdbId": "tt1156466",
+    "name": "Undisputed 3: Redemption",
+    "year": "2010",
+    "poster": "https://images.metahub.space/poster/small/tt1156466/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt1156466/img",
+    "genres": [
+      "Action",
+      "Crime",
+      "Drama",
+      "Sport"
+    ],
+    "description": "Boyka is back. This time he is fighting in the first ever inter-prison tournament with one knee.",
+    "imdbRating": "7.4"
+  },
+  {
     "id": "d4edf3677d3e574bc83bdb38d6065fa2",
     "rawTitle": "A Company Man (2012)",
     "titleGuess": "A Company Man",
@@ -11812,7 +11942,19 @@
     "rawText": "The Yellow Elephant (2026) Tamil HD + ESub - [4K, 1080p & 720p - AVC - (DD+5.1 - 192Kbps) - 2.2GB + Rips]",
     "languages": [
       "Tamil"
-    ]
+    ],
+    "imdbId": "tt5335774",
+    "name": "The Yellow Tie",
+    "year": "2025",
+    "poster": "https://images.metahub.space/poster/small/tt5335774/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt5335774/img",
+    "genres": [
+      "Adventure",
+      "Biography",
+      "Drama"
+    ],
+    "description": "The extraordinary life of Sergiu Celibidache. From his childhood in Romania, to his exile in pursuit of a career in music, his struggle for survival in wartime Germany and his rise, fall and rise again, in an unimaginable life jou...",
+    "imdbRating": "8.9"
   },
   {
     "id": "eec3bc22a81ed955989293711e0e8909",
@@ -12676,6 +12818,46 @@
     "year": 2026,
     "poster": "https://m.media-amazon.com/images/M/MV5BYzgzYzVhY2QtNjIzNi00Zjk5LWE1ZmQtYmJkNGY3YmExNDdlXkEyXkFqcGc@._V1_SX250.jpg",
     "thumbnail": "https://m.media-amazon.com/images/M/MV5BYzgzYzVhY2QtNjIzNi00Zjk5LWE1ZmQtYmJkNGY3YmExNDdlXkEyXkFqcGc@._V1_SX250.jpg"
+  },
+  {
+    "id": "c358c5ea53ed0bb622382c47e0061c95",
+    "rawTitle": "Kaa: The Forest (2026)",
+    "titleGuess": "Kaa: The Forest",
+    "yearGuess": 2026,
+    "pageUrl": "https://www.1tamilmv.capital/index.php?/forums/topic/199567-kaa-the-forest-2026-telugu-true-web-dl-1080p-720p-avc-aac-51-192kbps-23gb-12gb-x264-700mb-400mb-250mb/",
+    "qualities": [
+      {
+        "quality": "1080p AVC",
+        "size": "2.3GB",
+        "type": "magnet",
+        "url": "magnet:?xt=urn:btih:c289520a8952071def9a7670d9c134f784ab2e33&dn=www.1TamilMV.meme%20-%20Kaa%20The%20Forest%20%282026%29%20Telugu%20HQ%20HDRip%20-%201080p%20-%20x264%20-%20%28AAC%205.1%20-%20192Kbps%29%20-%202.3GB.mkv&xl=2511452332&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.tracker.cl%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=http%3A%2F%2Ftracker.bt4g.com%3A2095%2Fannounce&tr=http%3A%2F%2Ftracker.renfei.net%3A8080%2Fannounce&tr=http%3A%2F%2Fipv4.rer.lol%3A2710%2Fannounce&tr=udp%3A%2F%2Ftracker.bittor.pw%3A1337%2Fannounce&tr=udp%3A%2F%2Fopentracker.io%3A6969%2Fannounce&tr=http%3A%2F%2Fwww.torrentsnipe.info%3A2701%2Fannounce&tr=https%3A%2F%2Ftr.zukizuki.org%3A443%2Fannounce&tr=http%3A%2F%2Ftracker810.xyz%3A11450%2Fannounce&tr=http%3A%2F%2Ftracker.vanitycore.co%3A6969%2Fannounce&tr=http%3A%2F%2Ftracker.sbsub.com%3A2710%2Fannounce&tr=http%3A%2F%2Ftracker.moxing.party%3A6969%2Fannounce&tr=http%3A%2F%2Ftracker.lintk.me%3A2710%2Fannounce&tr=udp%3A%2F%2Ftracker.publictracker.xyz%3A6969%2Fannounce&tr=http%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.wildkat.net%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.qu.ax%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.peerfect.org%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.opentorrent.top%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.filemail.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Fexplodie.org%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.filebase.online%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.moeking.me%3A6969%2Fannounce&tr=udp%3A%2F%2Fp4p.arenabg.com%3A1337%2Fannounce",
+        "languages": [
+          "Telugu"
+        ],
+        "seeders": 100,
+        "leechers": 10
+      },
+      {
+        "quality": "720p AVC",
+        "size": "1.3GB",
+        "type": "magnet",
+        "url": "magnet:?xt=urn:btih:258fbd6e7ad33fe4f1a7f7d6977238c06991826a&dn=www.1TamilMV.meme%20-%20Kaa%20The%20Forest%20%282026%29%20Telugu%20HQ%20HDRip%20-%20720p%20-%20x264%20-%20%28AAC%205.1%20-%20192Kbps%29%20-%201.3GB.mkv&xl=1420693088&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.tracker.cl%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=http%3A%2F%2Ftracker.bt4g.com%3A2095%2Fannounce&tr=http%3A%2F%2Ftracker.renfei.net%3A8080%2Fannounce&tr=http%3A%2F%2Fipv4.rer.lol%3A2710%2Fannounce&tr=udp%3A%2F%2Ftracker.bittor.pw%3A1337%2Fannounce&tr=udp%3A%2F%2Fopentracker.io%3A6969%2Fannounce&tr=http%3A%2F%2Fwww.torrentsnipe.info%3A2701%2Fannounce&tr=https%3A%2F%2Ftr.zukizuki.org%3A443%2Fannounce&tr=http%3A%2F%2Ftracker810.xyz%3A11450%2Fannounce&tr=http%3A%2F%2Ftracker.vanitycore.co%3A6969%2Fannounce&tr=http%3A%2F%2Ftracker.sbsub.com%3A2710%2Fannounce&tr=http%3A%2F%2Ftracker.moxing.party%3A6969%2Fannounce&tr=http%3A%2F%2Ftracker.lintk.me%3A2710%2Fannounce&tr=udp%3A%2F%2Ftracker.publictracker.xyz%3A6969%2Fannounce&tr=http%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.wildkat.net%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.qu.ax%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.peerfect.org%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.opentorrent.top%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.filemail.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Fexplodie.org%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.filebase.online%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.moeking.me%3A6969%2Fannounce&tr=udp%3A%2F%2Fp4p.arenabg.com%3A1337%2Fannounce",
+        "languages": [
+          "Telugu"
+        ],
+        "seeders": 100,
+        "leechers": 10
+      }
+    ],
+    "rawText": "Kaa: The Forest (2026) Telugu HD - [1080p & 720p - AVC - (AAC 5.1 - 192Kbps) - 2.3GB + Rips]",
+    "languages": [
+      "Telugu"
+    ],
+    "imdbId": "tt8665778",
+    "name": "Kaa: The Forest",
+    "year": 2026,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMWVmNGVmNDYtOGU0NC00MTY1LThlOWUtNTg1ZjhkYjJlODM5XkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BMWVmNGVmNDYtOGU0NC00MTY1LThlOWUtNTg1ZjhkYjJlODM5XkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "bb9ff5a2f432c4019a4fd40325f8ad6f",
@@ -14348,7 +14530,12 @@
       "Kannada",
       "Multi-Lang",
       "Telugu"
-    ]
+    ],
+    "imdbId": "tt43123022",
+    "name": "Mister Middle Class",
+    "year": 2026,
+    "poster": "https://m.media-amazon.com/images/M/MV5BOWViNjg3Y2EtYzUxNC00YTUxLThkMjQtYzdlNGFkMTBmZDJkXkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BOWViNjg3Y2EtYzUxNC00YTUxLThkMjQtYzdlNGFkMTBmZDJkXkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "e81cbf356ea4b22919ea6992f31c082c",
@@ -15777,7 +15964,18 @@
     "rawText": "The Town (2010) (BluRay + Org Auds) - [1080p & 720p - x264 - (Tamil + Eng) - 2.5GB + Rips]",
     "languages": [
       "Tamil"
-    ]
+    ],
+    "imdbId": "tt1720276",
+    "name": "The Town Christmas Forgot",
+    "year": "2010",
+    "poster": "https://images.metahub.space/poster/small/tt1720276/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt1720276/img",
+    "genres": [
+      "Comedy",
+      "Family"
+    ],
+    "description": "When an urban family gets stranded in an impoverished lumber town two days before Christmas, they become involved in the town's home-grown Christmas pageant just in time for the holidays.",
+    "imdbRating": "5.7"
   },
   {
     "id": "8812cf00a3a866a5fd92de36534e7d40",
@@ -21386,74 +21584,6 @@
       }
     ],
     "rawText": "Con City (2026) Tamil UHD + ESub - [4K, 1080p & 720p - AVC / HEVC - (DD+5.1 - 640Kbps) - 8GB + Rips] - [W]",
-    "languages": [
-      "Tamil"
-    ]
-  },
-  {
-    "id": "2223466307128886c3e8c2c9ab64741c",
-    "rawTitle": "Nagabandham (2026)",
-    "titleGuess": "Nagabandham",
-    "yearGuess": 2026,
-    "pageUrl": "https://www.1tamilmv.capital/index.php?/forums/topic/199001-nagabandham-2026-tamil-true-web-dl-4k-1080p-720p-avc-hevc-dd51-640kbps-6gb-28gb-14gb-950mb-x264-700mb-400mb-250mb-esub/",
-    "qualities": [
-      {
-        "quality": "1080p AVC",
-        "size": "10GB",
-        "type": "magnet",
-        "url": "magnet:?xt=urn:btih:fcb6d198f4abeed6fc73b232c8626f4533ed98c4&dn=www.1TamilMV.promo%20-%20Nagabandham%20%282026%29%20TRUE%20WEB-DL%20-%201080p%20-%20AVC%20-%20%5BTam%20%2B%20Tel%20%2B%20Mal%20%2B%20Kan%5D%20-%C2%A0%28DD%2B5.1%20-%20640Kbps%20%26%20AAC%29%20-%2010GB%20-%20ESub.mkv&xl=11488729368&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Ftracker.dler.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=https%3A%2F%2Ftracker.zhuqiy.com%3A443%2Fannounce&tr=https%3A%2F%2Ftracker.pmman.tech%3A443%2Fannounce&tr=udp%3A%2F%2Ftracker.corpscorp.online%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentorrent.top%3A6969%2Fannounce&tr=http%3A%2F%2Ftracker.mywaifu.best%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.dler.com%3A6969%2Fannounce&tr=http%3A%2F%2Ftracker.ipv6tracker.ru%3A80%2Fannounce&tr=udp%3A%2F%2Fbittorrent-tracker.e-n-c-r-y-p-t.net%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.publictracker.xyz%3A6969%2Fannounce&tr=http%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.wildkat.net%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.qu.ax%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.peerfect.org%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.opentorrent.top%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.filemail.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Fexplodie.org%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.filebase.online%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.moeking.me%3A6969%2Fannounce&tr=udp%3A%2F%2Fp4p.arenabg.com%3A1337%2Fannounce",
-        "languages": [
-          "Tamil"
-        ],
-        "seeders": 100,
-        "leechers": 10
-      },
-      {
-        "quality": "1080p AVC",
-        "size": "3.3GB",
-        "type": "magnet",
-        "url": "magnet:?xt=urn:btih:2e52a1b6c8faf3e34852e2abea1ba57545b4d1ad&dn=www.1TamilMV.promo%20-%20Nagabandham%20%282026%29%C2%A0Tamil%20TRUE%20WEB-DL%20-%201080p%20-%20AVC%20-%20%28DD%2B5.1%20-%20192Kbps%20%26%20AAC%29%20-%203.3GB%20-%20ESub.mkv&xl=3809721252&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Ftracker.dler.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=https%3A%2F%2Ftracker.zhuqiy.com%3A443%2Fannounce&tr=https%3A%2F%2Ftracker.pmman.tech%3A443%2Fannounce&tr=udp%3A%2F%2Ftracker.corpscorp.online%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentorrent.top%3A6969%2Fannounce&tr=http%3A%2F%2Ftracker.mywaifu.best%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.dler.com%3A6969%2Fannounce&tr=http%3A%2F%2Ftracker.ipv6tracker.ru%3A80%2Fannounce&tr=udp%3A%2F%2Fbittorrent-tracker.e-n-c-r-y-p-t.net%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.publictracker.xyz%3A6969%2Fannounce&tr=http%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.wildkat.net%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.qu.ax%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.peerfect.org%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.opentorrent.top%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.filemail.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Fexplodie.org%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.filebase.online%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.moeking.me%3A6969%2Fannounce&tr=udp%3A%2F%2Fp4p.arenabg.com%3A1337%2Fannounce",
-        "languages": [
-          "Tamil"
-        ],
-        "seeders": 100,
-        "leechers": 10
-      },
-      {
-        "quality": "1080p HEVC",
-        "size": "2.2GB",
-        "type": "magnet",
-        "url": "magnet:?xt=urn:btih:bc0dd7c9dae41a50705954b7273d9718f17912f6&dn=www.1TamilMV.promo%20-%20Nagabandham%20%282026%29%C2%A0Tamil%20HQ%20HDRip%20-%201080p%20-%20x265%20-%20HEVC%20-%20%28DD%2B5.1%20-%20192Kbps%20%26%20AAC%29%20-%202.2GB%20-%20ESub.mkv&xl=2473383418&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Ftracker.dler.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=https%3A%2F%2Ftracker.zhuqiy.com%3A443%2Fannounce&tr=https%3A%2F%2Ftracker.pmman.tech%3A443%2Fannounce&tr=udp%3A%2F%2Ftracker.corpscorp.online%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentorrent.top%3A6969%2Fannounce&tr=http%3A%2F%2Ftracker.mywaifu.best%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.dler.com%3A6969%2Fannounce&tr=http%3A%2F%2Ftracker.ipv6tracker.ru%3A80%2Fannounce&tr=udp%3A%2F%2Fbittorrent-tracker.e-n-c-r-y-p-t.net%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.publictracker.xyz%3A6969%2Fannounce&tr=http%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.wildkat.net%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.qu.ax%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.peerfect.org%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.opentorrent.top%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.filemail.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Fexplodie.org%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.filebase.online%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.moeking.me%3A6969%2Fannounce&tr=udp%3A%2F%2Fp4p.arenabg.com%3A1337%2Fannounce",
-        "languages": [
-          "Tamil"
-        ],
-        "seeders": 100,
-        "leechers": 10
-      },
-      {
-        "quality": "720p AVC",
-        "size": "1.7GB",
-        "type": "magnet",
-        "url": "magnet:?xt=urn:btih:d092e017ebd9755965f5b122648058f64db70f05&dn=www.1TamilMV.promo%20-%20Nagabandham%20%282026%29%C2%A0Tamil%20HQ%20HDRip%20-%20720p%20-%20x264%20-%20%28DD%2B5.1%20-%20192Kbps%20%26%20AAC%29%20-%201.7GB%20-%20ESub.mkv&xl=2024861497&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Ftracker.dler.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=https%3A%2F%2Ftracker.zhuqiy.com%3A443%2Fannounce&tr=https%3A%2F%2Ftracker.pmman.tech%3A443%2Fannounce&tr=udp%3A%2F%2Ftracker.corpscorp.online%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentorrent.top%3A6969%2Fannounce&tr=http%3A%2F%2Ftracker.mywaifu.best%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.dler.com%3A6969%2Fannounce&tr=http%3A%2F%2Ftracker.ipv6tracker.ru%3A80%2Fannounce&tr=udp%3A%2F%2Fbittorrent-tracker.e-n-c-r-y-p-t.net%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.publictracker.xyz%3A6969%2Fannounce&tr=http%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.wildkat.net%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.qu.ax%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.peerfect.org%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.opentorrent.top%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.filemail.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Fexplodie.org%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.filebase.online%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.moeking.me%3A6969%2Fannounce&tr=udp%3A%2F%2Fp4p.arenabg.com%3A1337%2Fannounce",
-        "languages": [
-          "Tamil"
-        ],
-        "seeders": 100,
-        "leechers": 10
-      },
-      {
-        "quality": "720p HEVC",
-        "size": "1.2GB",
-        "type": "magnet",
-        "url": "magnet:?xt=urn:btih:ee8d5510f0769a3cc5c993f97fbee5ce85883af0&dn=www.1TamilMV.promo%20-%20Nagabandham%20%282026%29%C2%A0Tamil%20HQ%20HDRip%20-%20720p%20-%20x265%20-%20HEVC%20-%20%28DD%2B5.1%20-%20192Kbps%20%26%20AAC%29%20-%201.2GB%20-%20ESub.mkv&xl=1327799619&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Ftracker.dler.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=https%3A%2F%2Ftracker.zhuqiy.com%3A443%2Fannounce&tr=https%3A%2F%2Ftracker.pmman.tech%3A443%2Fannounce&tr=udp%3A%2F%2Ftracker.corpscorp.online%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentorrent.top%3A6969%2Fannounce&tr=http%3A%2F%2Ftracker.mywaifu.best%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.dler.com%3A6969%2Fannounce&tr=http%3A%2F%2Ftracker.ipv6tracker.ru%3A80%2Fannounce&tr=udp%3A%2F%2Fbittorrent-tracker.e-n-c-r-y-p-t.net%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.publictracker.xyz%3A6969%2Fannounce&tr=http%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.wildkat.net%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.qu.ax%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.peerfect.org%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.opentorrent.top%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.filemail.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Fexplodie.org%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.filebase.online%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.moeking.me%3A6969%2Fannounce&tr=udp%3A%2F%2Fp4p.arenabg.com%3A1337%2Fannounce",
-        "languages": [
-          "Tamil"
-        ],
-        "seeders": 100,
-        "leechers": 10
-      }
-    ],
-    "rawText": "Nagabandham (2026) Tamil HD + ESub - [1080p & 720p - AVC / HEVC - (DD+5.1 - 640Kbps) - 10GB + Rips] - [W]",
     "languages": [
       "Tamil"
     ]
