@@ -1395,12 +1395,7 @@
     "rawText": "BIGG BOSS Tamil (2026) S010 EP35 - DAY 34 - TRUE WEB-DL - [1080p, 720p, 480p - AVC - 1GB & 500MB]",
     "languages": [
       "Tamil"
-    ],
-    "imdbId": "tt26930115",
-    "name": "Bigg Boss Tamil Season 6",
-    "year": 2026,
-    "poster": "https://images.metahub.space/poster/small/tt26930115/img",
-    "thumbnail": "https://images.metahub.space/poster/small/tt26930115/img"
+    ]
   },
   {
     "id": "d190b9e333cf7284007d2249f7b15cd3",
@@ -4186,21 +4181,7 @@
       "Tamil",
       "Hindi",
       "Multi-Lang"
-    ],
-    "imdbId": "tt0462482",
-    "name": "Population 436",
-    "year": "2006",
-    "poster": "https://images.metahub.space/poster/small/tt0462482/img",
-    "thumbnail": "https://images.metahub.space/poster/small/tt0462482/img",
-    "genres": [
-      "Drama",
-      "Horror",
-      "Mystery",
-      "Romance",
-      "Thriller"
-    ],
-    "description": "A census-taker (Sisto) is sent to investigate why a certain small town has had the same population -- 436 residents -- for the last 100 years.",
-    "imdbRating": "5.7"
+    ]
   },
   {
     "id": "4cf63f7d107ef4e977657b18cc083af9",
@@ -4835,12 +4816,7 @@
       "Telugu",
       "Hindi",
       "Multi-Lang"
-    ],
-    "imdbId": "tt36429458",
-    "name": "Doing Life",
-    "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BYmNlYzg5NmMtMWZlMi00MWMwLWJmODEtMzVhOTQ3NjEzOGM2XkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BYmNlYzg5NmMtMWZlMi00MWMwLWJmODEtMzVhOTQ3NjEzOGM2XkEyXkFqcGc@._V1_SX250.jpg"
+    ]
   },
   {
     "id": "bfb32ffd5bdb85eb7d753cb47b9104d3",
@@ -5861,12 +5837,7 @@
     "rawText": "Bombay Stories (2026) Hindi HD + ESub - [1080p & 720p - AVC - (DD+5.1 - 640Kbps) - 2.2GB + Rips]",
     "languages": [
       "Hindi"
-    ],
-    "imdbId": "tt42481138",
-    "name": "Bombay Stories",
-    "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BNmViYjA1ODAtZmZiYy00NzJlLTk2MzQtOWE2NDE0YTc2ZTBlXkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BNmViYjA1ODAtZmZiYy00NzJlLTk2MzQtOWE2NDE0YTc2ZTBlXkEyXkFqcGc@._V1_SX250.jpg"
+    ]
   },
   {
     "id": "5a4a96066d58c59fb8ad071b09afdf17",
@@ -12647,12 +12618,7 @@
     "rawText": "Rakky (2026) Kannada HD + ESub - [1080p & 720p - AVC - (DD+5.1 - 640Kbps) - 6.5GB + Rips]",
     "languages": [
       "Kannada"
-    ],
-    "imdbId": "tt39221192",
-    "name": "Rakky",
-    "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BMGUyZjJjOTgtYTI1MC00YzNkLWE0YzctNDEzZGI0MGI1NTViXkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BMGUyZjJjOTgtYTI1MC00YzNkLWE0YzctNDEzZGI0MGI1NTViXkEyXkFqcGc@._V1_SX250.jpg"
+    ]
   },
   {
     "id": "7377d6226e91a066df3a04b7697cf69b",
@@ -13090,12 +13056,7 @@
     "rawText": "Once More (2026) Tamil HQ PreDVD (HQ Clean) - [1080p & 720p - x264 - 2.7GB + Rips] - [W]",
     "languages": [
       "Tamil"
-    ],
-    "imdbId": "tt32758159",
-    "name": "Once More",
-    "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BMTIzNjFjMWItM2E2ZS00ZDdmLTkxYmEtMWIxZWY4MGIzZWYwXkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BMTIzNjFjMWItM2E2ZS00ZDdmLTkxYmEtMWIxZWY4MGIzZWYwXkEyXkFqcGc@._V1_SX250.jpg"
+    ]
   },
   {
     "id": "ac10477ad6a26c29666c689cfcae44e6",
@@ -16004,7 +15965,18 @@
     "rawText": "The Town (2010) (BluRay + Org Auds) - [1080p & 720p - x264 - (Tamil + Eng) - 2.5GB + Rips]",
     "languages": [
       "Tamil"
-    ]
+    ],
+    "imdbId": "tt1720276",
+    "name": "The Town Christmas Forgot",
+    "year": "2010",
+    "poster": "https://images.metahub.space/poster/small/tt1720276/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt1720276/img",
+    "genres": [
+      "Comedy",
+      "Family"
+    ],
+    "description": "When an urban family gets stranded in an impoverished lumber town two days before Christmas, they become involved in the town's home-grown Christmas pageant just in time for the holidays.",
+    "imdbRating": "5.7"
   },
   {
     "id": "8812cf00a3a866a5fd92de36534e7d40",
@@ -16238,11 +16210,11 @@
     "languages": [
       "Telugu"
     ],
-    "imdbId": "tt23790696",
-    "name": "The Raja Saab",
+    "imdbId": "tt42643672",
+    "name": "Raja the Raja",
     "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BOTc5Mjk4ZDQtM2Y4Zi00YTZmLTkxYmUtYWMwNzk3NDBkOGQzXkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BOTc5Mjk4ZDQtM2Y4Zi00YTZmLTkxYmUtYWMwNzk3NDBkOGQzXkEyXkFqcGc@._V1_SX250.jpg"
+    "poster": "https://images.metahub.space/poster/small/tt42643672/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt42643672/img"
   },
   {
     "id": "a609550fc9b826a641d06ee1c5153666",
@@ -19136,12 +19108,7 @@
       "Telugu",
       "Hindi",
       "Multi-Lang"
-    ],
-    "imdbId": "tt28650488",
-    "name": "The Super Mario Galaxy Movie",
-    "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BMGIzMGI4OWYtNzdkMy00MjJlLWJiMDMtZjY1Y2UwMzQ0YzY3XkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BMGIzMGI4OWYtNzdkMy00MjJlLWJiMDMtZjY1Y2UwMzQ0YzY3XkEyXkFqcGc@._V1_SX250.jpg"
+    ]
   },
   {
     "id": "83a6fe3908d859002f3582921053d90f",
