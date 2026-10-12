@@ -7953,12 +7953,7 @@
       "Telugu",
       "Hindi",
       "Multi-Lang"
-    ],
-    "imdbId": "tt0944835",
-    "name": "Salt",
-    "year": 2010,
-    "poster": "https://m.media-amazon.com/images/M/MV5BMjIyODA2NDg4NV5BMl5BanBnXkFtZTcwMjg4NDAwMw@@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BMjIyODA2NDg4NV5BMl5BanBnXkFtZTcwMjg4NDAwMw@@._V1_SX250.jpg"
+    ]
   },
   {
     "id": "ce344907bd91f2925ff0f6ef818fdc4a",
@@ -16096,7 +16091,18 @@
     "rawText": "The Town (2010) (BluRay + Org Auds) - [1080p & 720p - x264 - (Tamil + Eng) - 2.5GB + Rips]",
     "languages": [
       "Tamil"
-    ]
+    ],
+    "imdbId": "tt1720276",
+    "name": "The Town Christmas Forgot",
+    "year": "2010",
+    "poster": "https://images.metahub.space/poster/small/tt1720276/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt1720276/img",
+    "genres": [
+      "Comedy",
+      "Family"
+    ],
+    "description": "When an urban family gets stranded in an impoverished lumber town two days before Christmas, they become involved in the town's home-grown Christmas pageant just in time for the holidays.",
+    "imdbRating": "5.7"
   },
   {
     "id": "8812cf00a3a866a5fd92de36534e7d40",
@@ -19137,11 +19143,11 @@
     "languages": [
       "Tamil"
     ],
-    "imdbId": "tt13298992",
+    "imdbId": "tt43437351",
     "name": "Nizhal",
     "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BZGIzNDc5NTItM2U5NC00ZWNlLWJmMmYtODQ4MTUyMmY5ZDNkXkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BZGIzNDc5NTItM2U5NC00ZWNlLWJmMmYtODQ4MTUyMmY5ZDNkXkEyXkFqcGc@._V1_SX250.jpg"
+    "poster": "https://m.media-amazon.com/images/M/MV5BMzkwOTdiZDQtMTVkNS00YmM4LWJjMmEtZjgxMDljNGYwZDhjXkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BMzkwOTdiZDQtMTVkNS00YmM4LWJjMmEtZjgxMDljNGYwZDhjXkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "23464183b6f9833f5182b9cbd11febbf",
@@ -20377,7 +20383,12 @@
       "Malayalam",
       "Hindi",
       "Multi-Lang"
-    ]
+    ],
+    "imdbId": "tt0155892",
+    "name": "Muthassi",
+    "year": 2026,
+    "poster": "https://m.media-amazon.com/images/M/MV5BYzkwMGRkZmItOGRkZC00MjAzLTkyOGYtMTY4NTM0N2Q5YTE1XkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BYzkwMGRkZmItOGRkZC00MjAzLTkyOGYtMTY4NTM0N2Q5YTE1XkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "0950ca14c80dbd186f87869d585c4dc4",
