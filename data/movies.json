@@ -2838,11 +2838,11 @@
     "languages": [
       "Tamil"
     ],
-    "imdbId": "tt39052798",
+    "imdbId": "tt0091795",
     "name": "Promise",
     "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BNjI2YjYxNjQtMDk5My00YWU2LTkzNTQtODkyNTFkMjBiOGY0XkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BNjI2YjYxNjQtMDk5My00YWU2LTkzNTQtODkyNTFkMjBiOGY0XkEyXkFqcGc@._V1_SX250.jpg"
+    "poster": "https://m.media-amazon.com/images/M/MV5BNjhlM2MyMTMtNjAwOS00NzNlLTk1YTEtZmVhN2ZhZmUyYWYxXkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BNjhlM2MyMTMtNjAwOS00NzNlLTk1YTEtZmVhN2ZhZmUyYWYxXkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "d93e7f04e35dc441595909e577d4c308",
@@ -6331,7 +6331,12 @@
     "rawText": "Bombay Stories (2026) Hindi HD + ESub - [1080p & 720p - AVC - (DD+5.1 - 640Kbps) - 2.2GB + Rips]",
     "languages": [
       "Hindi"
-    ]
+    ],
+    "imdbId": "tt42481138",
+    "name": "Bombay Stories",
+    "year": 2026,
+    "poster": "https://m.media-amazon.com/images/M/MV5BNmViYjA1ODAtZmZiYy00NzJlLTk2MzQtOWE2NDE0YTc2ZTBlXkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BNmViYjA1ODAtZmZiYy00NzJlLTk2MzQtOWE2NDE0YTc2ZTBlXkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "5a4a96066d58c59fb8ad071b09afdf17",
@@ -7219,18 +7224,7 @@
       "Telugu",
       "Hindi",
       "Multi-Lang"
-    ],
-    "imdbId": "tt29630464",
-    "name": "Don't Move",
-    "year": "2026",
-    "poster": "https://images.metahub.space/poster/small/tt29630464/img",
-    "thumbnail": "https://images.metahub.space/poster/small/tt29630464/img",
-    "genres": [
-      "Horror",
-      "Thriller"
-    ],
-    "description": "Follows a prehistoric arachnid that terrifies a stranded group of campers who hike into the wrong woods. Based on the spine-tingling horror novel from the actor best known as \"Murr\" on TV's Impractical Jokers.",
-    "imdbRating": "6.7"
+    ]
   },
   {
     "id": "58deb6dfb62e77f3a5cfae3e3b0449e4",
@@ -12465,7 +12459,7 @@
       "Drama"
     ],
     "description": "The extraordinary life of Sergiu Celibidache. From his childhood in Romania, to his exile in pursuit of a career in music, his struggle for survival in wartime Germany and his rise, fall and rise again, in an unimaginable life jou...",
-    "imdbRating": "8.3"
+    "imdbRating": "8.9"
   },
   {
     "id": "eec3bc22a81ed955989293711e0e8909",
