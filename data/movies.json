@@ -1921,7 +1921,12 @@
     "rawText": "BIGG BOSS Tamil (2026) S010 EP40 - DAY 39 - TRUE WEB-DL - [1080p, 720p, 480p - AVC - 1GB & 500MB]",
     "languages": [
       "Tamil"
-    ]
+    ],
+    "imdbId": "tt26930115",
+    "name": "Bigg Boss Tamil Season 6",
+    "year": 2026,
+    "poster": "https://images.metahub.space/poster/small/tt26930115/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt26930115/img"
   },
   {
     "id": "d190b9e333cf7284007d2249f7b15cd3",
@@ -3572,7 +3577,12 @@
     "rawText": "Vasudheva Sutham (2026) Telugu UHD + ESub - [4K, 1080p & 720p - AVC / HEVC - (DD+5.1 - 448Kbps) - 5GB + Rips]",
     "languages": [
       "Telugu"
-    ]
+    ],
+    "imdbId": "tt43383993",
+    "name": "Vasudheva Sutham",
+    "year": 2026,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjg3ZWU2MTUtOGFhOS00ZTZmLWI0MGItYmQxZjNkOTFmNzFhXkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BMjg3ZWU2MTUtOGFhOS00ZTZmLWI0MGItYmQxZjNkOTFmNzFhXkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "cf8831765fc3b97594c6df12b3d6fed4",
@@ -3938,7 +3948,12 @@
     "rawText": "Comrade Kalyan (2026) Telugu PreDVD (HQ Clean) - [1080p & 720p - x264 - 2.7GB + Rips]",
     "languages": [
       "Telugu"
-    ]
+    ],
+    "imdbId": "tt32089596",
+    "name": "Comrade Kalyan",
+    "year": 2026,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjcyOTYxN2MtMDMyNy00MTQwLTkzYjAtMGQ5MzYzNzc1NDRmXkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BMjcyOTYxN2MtMDMyNy00MTQwLTkzYjAtMGQ5MzYzNzc1NDRmXkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "3e353098ff3feff4b764acbe24642eeb",
@@ -19242,16 +19257,17 @@
       "Hindi",
       "Multi-Lang"
     ],
-    "imdbId": "tt37540328",
-    "name": "Back to the 90s",
+    "imdbId": "tt28540171",
+    "name": "Welcome to the Jungle",
     "year": "2026",
-    "poster": "https://images.metahub.space/poster/small/tt37540328/img",
-    "thumbnail": "https://images.metahub.space/poster/small/tt37540328/img",
+    "poster": "https://images.metahub.space/poster/small/tt28540171/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt28540171/img",
     "genres": [
-      "Comedy",
-      "Romance"
+      "Action",
+      "Adventure",
+      "Comedy"
     ],
-    "description": "When a glitch hurls the hottest rising boy band of five friends into the year 1995, they must find a way back — together."
+    "description": "Police officers Jay Bakshi and Sandhya hunt notorious criminal Raj Solanki, but Jai discovers Raj has an important connection to his own life."
   },
   {
     "id": "817160c860a260baaedd05f8d2a2282d",
