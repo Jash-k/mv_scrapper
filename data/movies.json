@@ -543,7 +543,12 @@
       "Kannada",
       "Hindi",
       "Multi-Lang"
-    ]
+    ],
+    "imdbId": "tt37894980",
+    "name": "Aasha",
+    "year": 2026,
+    "poster": "https://m.media-amazon.com/images/M/MV5BYjE1M2I3OGUtMjVmZS00ZDQ0LThjMTctZWE5MTZmZTJiYTYzXkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BYjE1M2I3OGUtMjVmZS00ZDQ0LThjMTctZWE5MTZmZTJiYTYzXkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "95370362da9a578d9000a89c757e3a1d",
@@ -965,7 +970,17 @@
       "Telugu",
       "Hindi",
       "Multi-Lang"
-    ]
+    ],
+    "imdbId": "tt32252801",
+    "name": "Blue Heron",
+    "year": "2026",
+    "poster": "https://images.metahub.space/poster/small/tt32252801/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt32252801/img",
+    "genres": [
+      "Drama"
+    ],
+    "description": "A family of six moves into a new home on Vancouver Island, but the eldest son's disruptive behavior gradually throws their lives off balance.",
+    "imdbRating": "7.1"
   },
   {
     "id": "227d8dddbbac0157b17ba50b9cb964c0",
@@ -5602,7 +5617,12 @@
     "rawText": "Sigma (2026) Tamil HQ PreDVD (HQ Clean) - [1080p & 720p - x264 - 2.6GB + Rips] - [W]",
     "languages": [
       "Tamil"
-    ]
+    ],
+    "imdbId": "tt39239754",
+    "name": "Sigma",
+    "year": 2026,
+    "poster": "https://m.media-amazon.com/images/M/MV5BY2VmZDc4ZTQtMTAxNi00MGVkLTk5OTUtMmE4ZjdjMmZjZWYyXkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BY2VmZDc4ZTQtMTAxNi00MGVkLTk5OTUtMmE4ZjdjMmZjZWYyXkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "e13c88fd1a6e5e0bccf05c464c4d023c",
@@ -6133,7 +6153,12 @@
       "Tamil",
       "Telugu",
       "Multi-Lang"
-    ]
+    ],
+    "imdbId": "tt38201958",
+    "name": "Doraemon: Nobita and the New Castle of the Undersea Devil",
+    "year": 2026,
+    "poster": "https://m.media-amazon.com/images/M/MV5BNTZlMzRjZTUtZDVjNi00ODFiLWFmMzEtMzQ1ODIwOWQ3YjIwXkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BNTZlMzRjZTUtZDVjNi00ODFiLWFmMzEtMzQ1ODIwOWQ3YjIwXkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "4777a14620cd3b5e462438ee3331266c",
@@ -9721,7 +9746,17 @@
     "rawText": "Boys (2003) Tamil Remastered UHD + ESub - [4K, 1080p & 720p - AVC / HEVC - (DD+5.1 - 192Kbps) - 8.2GB + Rips]",
     "languages": [
       "Tamil"
-    ]
+    ],
+    "imdbId": "tt0279781",
+    "name": "Sorority Boys",
+    "year": "2002",
+    "poster": "https://images.metahub.space/poster/small/tt0279781/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt0279781/img",
+    "genres": [
+      "Comedy"
+    ],
+    "description": "Strapped for cash, three fraternity playboys make one last attempt to live the high life - cheaply - by masquerading as girls. But their chauvinistic ways come back to haunt them as they get a crash course in the opposite sex.",
+    "imdbRating": "5.5"
   },
   {
     "id": "3d4641fd0bfdeee21b865c7e7d0f95e9",
@@ -10078,7 +10113,12 @@
       "Kannada",
       "Hindi",
       "Multi-Lang"
-    ]
+    ],
+    "imdbId": "tt43056433",
+    "name": "Karmakhya",
+    "year": 2026,
+    "poster": "https://m.media-amazon.com/images/M/MV5BYTg4NjY2NTctM2I2MC00NzdmLThiNjktMjBhMzk1ZjE2M2M5XkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BYTg4NjY2NTctM2I2MC00NzdmLThiNjktMjBhMzk1ZjE2M2M5XkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "1727e6e59594aa52f7527c759ba00346",
@@ -19294,17 +19334,16 @@
       "Hindi",
       "Multi-Lang"
     ],
-    "imdbId": "tt28540171",
-    "name": "Welcome to the Jungle",
+    "imdbId": "tt37540328",
+    "name": "Back to the 90s",
     "year": "2026",
-    "poster": "https://images.metahub.space/poster/small/tt28540171/img",
-    "thumbnail": "https://images.metahub.space/poster/small/tt28540171/img",
+    "poster": "https://images.metahub.space/poster/small/tt37540328/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt37540328/img",
     "genres": [
-      "Action",
-      "Adventure",
-      "Comedy"
+      "Comedy",
+      "Romance"
     ],
-    "description": "Police officers Jay Bakshi and Sandhya hunt notorious criminal Raj Solanki, but Jai discovers Raj has an important connection to his own life."
+    "description": "When a glitch hurls the hottest rising boy band of five friends into the year 1995, they must find a way back — together."
   },
   {
     "id": "817160c860a260baaedd05f8d2a2282d",
@@ -19779,7 +19818,12 @@
     "rawText": "Nooru Saami (2026) Tamil UHD + ESub - [4K, 1080p & 720p - AVC / HEVC - (DD+5.1 - 192Kbps) - 7GB + Rips] - [W]",
     "languages": [
       "Tamil"
-    ]
+    ],
+    "imdbId": "tt38267486",
+    "name": "Nooru Saami",
+    "year": 2026,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMmU5YzAyMDItMTc2Yy00NzdhLWI4MzItYTk3NDhmODBmZjM3XkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BMmU5YzAyMDItMTc2Yy00NzdhLWI4MzItYTk3NDhmODBmZjM3XkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "c7d29abbeb2dfd5c30308881341a87de",
