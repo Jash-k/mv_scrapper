@@ -4620,11 +4620,11 @@
     "languages": [
       "Tamil"
     ],
-    "imdbId": "tt39052798",
+    "imdbId": "tt0091795",
     "name": "Promise",
     "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BNjI2YjYxNjQtMDk5My00YWU2LTkzNTQtODkyNTFkMjBiOGY0XkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BNjI2YjYxNjQtMDk5My00YWU2LTkzNTQtODkyNTFkMjBiOGY0XkEyXkFqcGc@._V1_SX250.jpg"
+    "poster": "https://m.media-amazon.com/images/M/MV5BNjhlM2MyMTMtNjAwOS00NzNlLTk1YTEtZmVhN2ZhZmUyYWYxXkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BNjhlM2MyMTMtNjAwOS00NzNlLTk1YTEtZmVhN2ZhZmUyYWYxXkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "d93e7f04e35dc441595909e577d4c308",
@@ -18766,7 +18766,18 @@
       "Tamil",
       "Hindi",
       "Multi-Lang"
-    ]
+    ],
+    "imdbId": "tt0462023",
+    "name": "Romulus, My Father",
+    "year": "2007",
+    "poster": "https://images.metahub.space/poster/small/tt0462023/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt0462023/img",
+    "genres": [
+      "Biography",
+      "Drama"
+    ],
+    "description": "It tells the story of Romulus, his beautiful wife, Christina, and their struggle in the face of great adversity to bring up their son, Raimond. It is a story of impossible love that ultimately celebrates the unbreakable bond betwe...",
+    "imdbRating": "6.6"
   },
   {
     "id": "7b16269ddb88cda122f7179463e4d71e",
@@ -19416,7 +19427,18 @@
       "Telugu",
       "Hindi",
       "Multi-Lang"
-    ]
+    ],
+    "imdbId": "tt28540171",
+    "name": "Welcome to the Jungle",
+    "year": "2026",
+    "poster": "https://images.metahub.space/poster/small/tt28540171/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt28540171/img",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Comedy"
+    ],
+    "description": "Police officers Jay Bakshi and Sandhya hunt notorious criminal Raj Solanki, but Jai discovers Raj has an important connection to his own life."
   },
   {
     "id": "817160c860a260baaedd05f8d2a2282d",
