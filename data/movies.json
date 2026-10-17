@@ -14575,7 +14575,12 @@
     "rawText": "Rakky (2026) Kannada HD + ESub - [1080p & 720p - AVC - (DD+5.1 - 640Kbps) - 6.5GB + Rips]",
     "languages": [
       "Kannada"
-    ]
+    ],
+    "imdbId": "tt39221192",
+    "name": "Rakky",
+    "year": 2026,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMGUyZjJjOTgtYTI1MC00YzNkLWE0YzctNDEzZGI0MGI1NTViXkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BMGUyZjJjOTgtYTI1MC00YzNkLWE0YzctNDEzZGI0MGI1NTViXkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "7377d6226e91a066df3a04b7697cf69b",
@@ -14691,9 +14696,16 @@
     ],
     "imdbId": "tt26657236",
     "name": "Backrooms",
-    "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BYzQyYjZmMjctMzIyZi00MDI0LWJhNGQtMzQ3MTFlNDgwNGM5XkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BYzQyYjZmMjctMzIyZi00MDI0LWJhNGQtMzQ3MTFlNDgwNGM5XkEyXkFqcGc@._V1_SX250.jpg"
+    "year": "2026",
+    "poster": "https://images.metahub.space/poster/small/tt26657236/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt26657236/img",
+    "genres": [
+      "Horror",
+      "Sci-Fi",
+      "Thriller"
+    ],
+    "description": "Clark, an angry architect, chases the source of impossible power failures when a glowing gap opens in his basement, but the yellow maze beyond it threatens his sanity, his friends, and Mary.",
+    "imdbRating": "6.7"
   },
   {
     "id": "01ea657718d327c2e3c7899d7586fe13",
@@ -20126,9 +20138,16 @@
     ],
     "imdbId": "tt32890033",
     "name": "Minions & Monsters",
-    "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BYzBjMDg4YjctYzg3ZS00ZDFmLWI1YjctM2RkZGVjZWEyYWQ0XkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BYzBjMDg4YjctYzg3ZS00ZDFmLWI1YjctM2RkZGVjZWEyYWQ0XkEyXkFqcGc@._V1_SX250.jpg"
+    "year": "2026",
+    "poster": "https://images.metahub.space/poster/small/tt32890033/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt32890033/img",
+    "genres": [
+      "Animation",
+      "Adventure",
+      "Comedy"
+    ],
+    "description": "Follows the Minions in 1920s Hollywood as they search for frightening creatures for their monster movie, partner with a green creature, and must save the planet after unleashing monsters.",
+    "imdbRating": "6.3"
   },
   {
     "id": "5c7095bc9c22b66c4fcda81e4a724b24",
@@ -20783,7 +20802,12 @@
       "Kannada",
       "Hindi",
       "Multi-Lang"
-    ]
+    ],
+    "imdbId": "tt41993585",
+    "name": "M.R.P - Neekentha Naakentha?",
+    "year": 2026,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMzZiY2FmZmUtOTI3My00NjU1LTk1NWQtN2IyZGYwNzFlM2JkXkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BMzZiY2FmZmUtOTI3My00NjU1LTk1NWQtN2IyZGYwNzFlM2JkXkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "88d8e0db432b2d027a9a54fea1b6a771",
@@ -20973,7 +20997,12 @@
       "Telugu",
       "Hindi",
       "Multi-Lang"
-    ]
+    ],
+    "imdbId": "tt28650488",
+    "name": "The Super Mario Galaxy Movie",
+    "year": 2026,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMGIzMGI4OWYtNzdkMy00MjJlLWJiMDMtZjY1Y2UwMzQ0YzY3XkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BMGIzMGI4OWYtNzdkMy00MjJlLWJiMDMtZjY1Y2UwMzQ0YzY3XkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "83a6fe3908d859002f3582921053d90f",
