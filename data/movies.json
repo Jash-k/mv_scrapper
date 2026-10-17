@@ -17699,7 +17699,12 @@
       "Tamil",
       "Hindi",
       "Multi-Lang"
-    ]
+    ],
+    "imdbId": "tt4794022",
+    "name": "Udanchhoo",
+    "year": 2018,
+    "poster": "https://m.media-amazon.com/images/M/MV5BNjhlMDQ5NGItNjUwMy00OTNmLWI0YzAtOTVjMTQ1YWY2ODJhXkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BNjhlMDQ5NGItNjUwMy00OTNmLWI0YzAtOTVjMTQ1YWY2ODJhXkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "02dc80a8d875815d406d19cc96035ab4",
@@ -18761,18 +18766,7 @@
       "Tamil",
       "Hindi",
       "Multi-Lang"
-    ],
-    "imdbId": "tt0462023",
-    "name": "Romulus, My Father",
-    "year": "2007",
-    "poster": "https://images.metahub.space/poster/small/tt0462023/img",
-    "thumbnail": "https://images.metahub.space/poster/small/tt0462023/img",
-    "genres": [
-      "Biography",
-      "Drama"
-    ],
-    "description": "It tells the story of Romulus, his beautiful wife, Christina, and their struggle in the face of great adversity to bring up their son, Raimond. It is a story of impossible love that ultimately celebrates the unbreakable bond betwe...",
-    "imdbRating": "6.6"
+    ]
   },
   {
     "id": "7b16269ddb88cda122f7179463e4d71e",
@@ -19422,18 +19416,7 @@
       "Telugu",
       "Hindi",
       "Multi-Lang"
-    ],
-    "imdbId": "tt28540171",
-    "name": "Welcome to the Jungle",
-    "year": "2026",
-    "poster": "https://images.metahub.space/poster/small/tt28540171/img",
-    "thumbnail": "https://images.metahub.space/poster/small/tt28540171/img",
-    "genres": [
-      "Action",
-      "Adventure",
-      "Comedy"
-    ],
-    "description": "Police officers Jay Bakshi and Sandhya hunt notorious criminal Raj Solanki, but Jai discovers Raj has an important connection to his own life."
+    ]
   },
   {
     "id": "817160c860a260baaedd05f8d2a2282d",
