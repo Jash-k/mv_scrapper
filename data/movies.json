@@ -971,16 +971,11 @@
       "Hindi",
       "Multi-Lang"
     ],
-    "imdbId": "tt32252801",
-    "name": "Blue Heron",
-    "year": "2026",
-    "poster": "https://images.metahub.space/poster/small/tt32252801/img",
-    "thumbnail": "https://images.metahub.space/poster/small/tt32252801/img",
-    "genres": [
-      "Drama"
-    ],
-    "description": "A family of six moves into a new home on Vancouver Island, but the eldest son's disruptive behavior gradually throws their lives off balance.",
-    "imdbRating": "7.1"
+    "imdbId": "tt0090756",
+    "name": "Blue Velvet",
+    "year": 2026,
+    "poster": "https://m.media-amazon.com/images/M/MV5BNzkwZGUyYjQtM2QyOC00MTBjLWE0NGYtMTZmOGM5MjI0Mzg0XkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BNzkwZGUyYjQtM2QyOC00MTBjLWE0NGYtMTZmOGM5MjI0Mzg0XkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "227d8dddbbac0157b17ba50b9cb964c0",
@@ -19334,17 +19329,16 @@
       "Hindi",
       "Multi-Lang"
     ],
-    "imdbId": "tt28540171",
-    "name": "Welcome to the Jungle",
+    "imdbId": "tt37540328",
+    "name": "Back to the 90s",
     "year": "2026",
-    "poster": "https://images.metahub.space/poster/small/tt28540171/img",
-    "thumbnail": "https://images.metahub.space/poster/small/tt28540171/img",
+    "poster": "https://images.metahub.space/poster/small/tt37540328/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt37540328/img",
     "genres": [
-      "Action",
-      "Adventure",
-      "Comedy"
+      "Comedy",
+      "Romance"
     ],
-    "description": "Police officers Jay Bakshi and Sandhya hunt notorious criminal Raj Solanki, but Jai discovers Raj has an important connection to his own life."
+    "description": "When a glitch hurls the hottest rising boy band of five friends into the year 1995, they must find a way back — together."
   },
   {
     "id": "817160c860a260baaedd05f8d2a2282d",
