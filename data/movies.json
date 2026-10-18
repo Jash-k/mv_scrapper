@@ -160,8 +160,8 @@
     "imdbId": "tt33318732",
     "name": "Jailer 2",
     "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BYmJiYzc1ODctZjQzZS00NzEzLWI0NDEtZGVkNjI4YzEzNGRjXkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BYmJiYzc1ODctZjQzZS00NzEzLWI0NDEtZGVkNjI4YzEzNGRjXkEyXkFqcGc@._V1_SX250.jpg"
+    "poster": "https://m.media-amazon.com/images/M/MV5BZjUwNzM2MmMtYjZmNS00N2QwLWJhYWUtODFkOTgzM2M2ZTc3XkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BZjUwNzM2MmMtYjZmNS00N2QwLWJhYWUtODFkOTgzM2M2ZTc3XkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "295ff001fb4f929cebb93d22258eaa09",
@@ -807,12 +807,7 @@
     "rawText": "Belphegor, Phantom of the Louvre (2001) (BluRay + Org Auds) - [1080p & 720p - x264 - (Tamil + Fre) - 1.6GB + Rips]",
     "languages": [
       "Tamil"
-    ],
-    "imdbId": "tt0214529",
-    "name": "Belphegor: Phantom of the Louvre",
-    "year": 2001,
-    "poster": "https://m.media-amazon.com/images/M/MV5BMzMwMTI3YTItYTI3MC00M2M2LThjNjAtMzg3ZWY0YTAzYjM0XkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BMzMwMTI3YTItYTI3MC00M2M2LThjNjAtMzg3ZWY0YTAzYjM0XkEyXkFqcGc@._V1_SX250.jpg"
+    ]
   },
   {
     "id": "29e8d2d69039dde54476fb0c2e98fdfb",
@@ -2906,7 +2901,17 @@
       "Telugu",
       "Hindi",
       "Multi-Lang"
-    ]
+    ],
+    "imdbId": "tt32252801",
+    "name": "Blue Heron",
+    "year": "2026",
+    "poster": "https://images.metahub.space/poster/small/tt32252801/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt32252801/img",
+    "genres": [
+      "Drama"
+    ],
+    "description": "A family of six moves into a new home on Vancouver Island, but the eldest son's disruptive behavior gradually throws their lives off balance.",
+    "imdbRating": "7.1"
   },
   {
     "id": "227d8dddbbac0157b17ba50b9cb964c0",
@@ -3721,7 +3726,7 @@
       "Comedy"
     ],
     "description": "At an elite fundraising gala, celebrities and socialites find themselves in danger when armed activists storm the venue in pursuit of a legendary relic that could unlock supernatural powers.",
-    "imdbRating": "5.7"
+    "imdbRating": "5.0"
   },
   {
     "id": "906b34664be67193f53d9373353c5620",
@@ -3778,12 +3783,7 @@
     "rawText": "Vasudheva Sutham (2026) Telugu UHD + ESub - [4K, 1080p & 720p - AVC / HEVC - (DD+5.1 - 448Kbps) - 5GB + Rips]",
     "languages": [
       "Telugu"
-    ],
-    "imdbId": "tt43383993",
-    "name": "Vasudheva Sutham",
-    "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BMjg3ZWU2MTUtOGFhOS00ZTZmLWI0MGItYmQxZjNkOTFmNzFhXkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BMjg3ZWU2MTUtOGFhOS00ZTZmLWI0MGItYmQxZjNkOTFmNzFhXkEyXkFqcGc@._V1_SX250.jpg"
+    ]
   },
   {
     "id": "cf8831765fc3b97594c6df12b3d6fed4",
@@ -4667,18 +4667,7 @@
     "rawText": "Jailer 2 Super Show (2026) Tamil TRUE WEB-DL - [1080p & 720p - AVC - (AAC 2.0) - 2.9GB & 1.5GB + Rips]",
     "languages": [
       "Tamil"
-    ],
-    "imdbId": "tt33318732",
-    "name": "Jailer 2",
-    "year": "2026",
-    "poster": "https://images.metahub.space/poster/small/tt33318732/img",
-    "thumbnail": "https://images.metahub.space/poster/small/tt33318732/img",
-    "genres": [
-      "Action",
-      "Comedy",
-      "Crime"
-    ],
-    "description": "A retired officer's peaceful life is disrupted when a dangerous criminal organization threatens his family. He must use his skills one final time to protect his loved ones and preserve his legacy."
+    ]
   },
   {
     "id": "a1bd7176cdd35e1dc48af6287b767863",
@@ -5200,7 +5189,12 @@
       "Telugu",
       "Hindi",
       "Multi-Lang"
-    ]
+    ],
+    "imdbId": "tt47657999",
+    "name": "Reporting Live",
+    "year": 2026,
+    "poster": "https://m.media-amazon.com/images/M/MV5BYTliNTdiOTQtNmNjNC00ZGRhLWExODYtMmRlNzM4YTFhZTM5XkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BYTliNTdiOTQtNmNjNC00ZGRhLWExODYtMmRlNzM4YTFhZTM5XkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "cb9b25ebedc0ecb8158c43b493523df3",
@@ -6329,16 +6323,9 @@
     ],
     "imdbId": "tt2461150",
     "name": "Masterminds",
-    "year": "2015",
-    "poster": "https://images.metahub.space/poster/small/tt2461150/img",
-    "thumbnail": "https://images.metahub.space/poster/small/tt2461150/img",
-    "genres": [
-      "Biography",
-      "Comedy",
-      "Crime"
-    ],
-    "description": "A guard at an armored car company in the Southern U.S. organizes one of the biggest bank heists in American history.",
-    "imdbRating": "5.8"
+    "year": 1997,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTYzMTY5Mzg1Ml5BMl5BanBnXkFtZTgwNTUzODUwNjE@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BMTYzMTY5Mzg1Ml5BMl5BanBnXkFtZTgwNTUzODUwNjE@._V1_SX250.jpg"
   },
   {
     "id": "9a8c506202079398b78b09bf0892c64d",
@@ -6787,12 +6774,7 @@
       "Kannada",
       "Hindi",
       "Multi-Lang"
-    ],
-    "imdbId": "tt41971399",
-    "name": "Romanchakam",
-    "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BMzExZWYwZWMtNmFlMC00NDA4LThkZTAtNzk2YzU4MDhkMmE2XkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BMzExZWYwZWMtNmFlMC00NDA4LThkZTAtNzk2YzU4MDhkMmE2XkEyXkFqcGc@._V1_SX250.jpg"
+    ]
   },
   {
     "id": "6df3589453b39291b3c94c0dbae1456a",
@@ -7277,12 +7259,7 @@
       "Tamil",
       "Hindi",
       "Multi-Lang"
-    ],
-    "imdbId": "tt1809398",
-    "name": "Unbroken",
-    "year": 2014,
-    "poster": "https://m.media-amazon.com/images/M/MV5BMTY3ODg2OTgyOF5BMl5BanBnXkFtZTgwODk1OTAwMzE@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BMTY3ODg2OTgyOF5BMl5BanBnXkFtZTgwODk1OTAwMzE@._V1_SX250.jpg"
+    ]
   },
   {
     "id": "4c5ad0cf8aee5f020ca64b188240cf8c",
@@ -8687,12 +8664,7 @@
       "Telugu",
       "Hindi",
       "Multi-Lang"
-    ],
-    "imdbId": "tt6933238",
-    "name": "Unabomber",
-    "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BZTVlMmRkMzctNTk5OC00OWUxLWIxMWYtYjFmYzRjZDQxNTQ5XkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BZTVlMmRkMzctNTk5OC00OWUxLWIxMWYtYjFmYzRjZDQxNTQ5XkEyXkFqcGc@._V1_SX250.jpg"
+    ]
   },
   {
     "id": "f460e87825bcd1d4c02435fd50a5fc35",
@@ -10946,12 +10918,7 @@
       "Telugu",
       "Hindi",
       "Multi-Lang"
-    ],
-    "imdbId": "tt0103855",
-    "name": "The Bodyguard",
-    "year": 2024,
-    "poster": "https://m.media-amazon.com/images/M/MV5BNTM4ZWNjZmItMmUxNy00Y2M2LTlhZmItMjc0NjQzZmNiOWY5XkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BNTM4ZWNjZmItMmUxNy00Y2M2LTlhZmItMjc0NjQzZmNiOWY5XkEyXkFqcGc@._V1_SX250.jpg"
+    ]
   },
   {
     "id": "62483b0d475d2c2febba62d838137f73",
@@ -13241,7 +13208,12 @@
     "rawText": "The 33 (2015) (BluRay + Org Auds) - [1080p & 720p - x264 - (Tamil + Eng) - 2.1GB + Rips]",
     "languages": [
       "Tamil"
-    ]
+    ],
+    "imdbId": "tt2006295",
+    "name": "The 33",
+    "year": 2015,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTkyNDY3NDc5NF5BMl5BanBnXkFtZTgwMzI1NDM1NjE@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BMTkyNDY3NDc5NF5BMl5BanBnXkFtZTgwMzI1NDM1NjE@._V1_SX250.jpg"
   },
   {
     "id": "1c931b782d16208485003f78536bfdc0",
@@ -13331,18 +13303,7 @@
       "Tamil",
       "Hindi",
       "Multi-Lang"
-    ],
-    "imdbId": "tt28096092",
-    "name": "Transmorphers: Mech Beasts",
-    "year": "2023",
-    "poster": "https://images.metahub.space/poster/small/tt28096092/img",
-    "thumbnail": "https://images.metahub.space/poster/small/tt28096092/img",
-    "genres": [
-      "Action",
-      "Sci-Fi"
-    ],
-    "description": "20 years after the events of TRANSMORPHERS, a newer, more advanced species of alien robot descends on a rebuilt Earth, threatening once again to destroy the planet.",
-    "imdbRating": "2.3"
+    ]
   },
   {
     "id": "bc4ef6877e320af868700f694a4f5587",
@@ -13661,12 +13622,7 @@
     "rawText": "Arulvaan (2026) Tamil UHD + ESub - [4K, 1080p & 720p - AVC - (DD+5.1 - 640Kbps) - 8GB + Rips] - [W]",
     "languages": [
       "Tamil"
-    ],
-    "imdbId": "tt40706424",
-    "name": "Arulvaan",
-    "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BNjdhYjcyMmMtMGViNC00YTAyLTkzNDUtODBmNzc1OWNkNjJkXkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BNjdhYjcyMmMtMGViNC00YTAyLTkzNDUtODBmNzc1OWNkNjJkXkEyXkFqcGc@._V1_SX250.jpg"
+    ]
   },
   {
     "id": "4b92db7ba7b273d035391b22ce9e928f",
@@ -13747,12 +13703,7 @@
       "Tamil",
       "Hindi",
       "Multi-Lang"
-    ],
-    "imdbId": "tt2229842",
-    "name": "Table No. 21",
-    "year": 2013,
-    "poster": "https://m.media-amazon.com/images/M/MV5BZDEwOThkNTctZjQ4OS00OGVhLWFkMWEtNTJhNDYyODc4Zjc3XkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BZDEwOThkNTctZjQ4OS00OGVhLWFkMWEtNTJhNDYyODc4Zjc3XkEyXkFqcGc@._V1_SX250.jpg"
+    ]
   },
   {
     "id": "83381c6a24dc234d7542ea6884648f27",
@@ -13885,20 +13836,7 @@
       "Telugu",
       "Hindi",
       "Multi-Lang"
-    ],
-    "imdbId": "tt1156466",
-    "name": "Undisputed 3: Redemption",
-    "year": "2010",
-    "poster": "https://images.metahub.space/poster/small/tt1156466/img",
-    "thumbnail": "https://images.metahub.space/poster/small/tt1156466/img",
-    "genres": [
-      "Action",
-      "Crime",
-      "Drama",
-      "Sport"
-    ],
-    "description": "Boyka is back. This time he is fighting in the first ever inter-prison tournament with one knee.",
-    "imdbRating": "7.4"
+    ]
   },
   {
     "id": "d4edf3677d3e574bc83bdb38d6065fa2",
@@ -14533,12 +14471,7 @@
       "Tamil",
       "Hindi",
       "Multi-Lang"
-    ],
-    "imdbId": "tt37520553",
-    "name": "President Down",
-    "year": 2025,
-    "poster": "https://m.media-amazon.com/images/M/MV5BNjNjMzM3ZjYtZWMzYy00MjUyLTg1MGQtM2VjZjliMjJlMjIxXkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BNjNjMzM3ZjYtZWMzYy00MjUyLTg1MGQtM2VjZjliMjJlMjIxXkEyXkFqcGc@._V1_SX250.jpg"
+    ]
   },
   {
     "id": "afeefc55d976dd5d3c3c16c18ce31b12",
@@ -14569,11 +14502,16 @@
       "Hindi",
       "Multi-Lang"
     ],
-    "imdbId": "tt1679335",
-    "name": "Trolls",
-    "year": 2016,
-    "poster": "https://m.media-amazon.com/images/M/MV5BMTkxNDc3OTcxMV5BMl5BanBnXkFtZTgwODk2NjAzOTE@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BMTkxNDc3OTcxMV5BMl5BanBnXkFtZTgwODk2NjAzOTE@._V1_SX250.jpg"
+    "imdbId": "tt5245942",
+    "name": "The Trolls",
+    "year": "2016",
+    "poster": "https://images.metahub.space/poster/small/tt5245942/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt5245942/img",
+    "genres": [
+      "Comedy"
+    ],
+    "description": "A Texas tech start-up breaks every crowdfunding record in the books, but they lose it all when a patent troll shuts them down. Refusing to go down without a fight, our heroes use a legal loophole to beat the trolls at their own ga...",
+    "imdbRating": "5.4"
   },
   {
     "id": "4a5c08ebab7dcc8432868c211dee3cb9",
@@ -15279,9 +15217,15 @@
     ],
     "imdbId": "tt35330717",
     "name": "The Orphans",
-    "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BMTkzNmEyZjItNGM1NC00YWUwLTgwYjktY2IxZmM5YzIzOGY2XkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BMTkzNmEyZjItNGM1NC00YWUwLTgwYjktY2IxZmM5YzIzOGY2XkEyXkFqcGc@._V1_SX250.jpg"
+    "year": "2026",
+    "poster": "https://images.metahub.space/poster/small/tt35330717/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt35330717/img",
+    "genres": [
+      "Action",
+      "Drama"
+    ],
+    "description": "Childhood friends Gabriel and Idriss have taken different paths: the former became a police inspector, while the latter joined organized crime. They reunite when their first love is involved in a suspicious road accident.",
+    "imdbRating": "5.5"
   },
   {
     "id": "37c5887fd7d21e617de49a7cd1491766",
@@ -17631,12 +17575,7 @@
       "Kannada",
       "Hindi",
       "Multi-Lang"
-    ],
-    "imdbId": "tt37161651",
-    "name": "Chennai Love Story",
-    "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BYmNhOWU4ZmItNDNlYi00N2ZkLWFlZDEtM2RhNWI5NDgyYzQwXkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BYmNhOWU4ZmItNDNlYi00N2ZkLWFlZDEtM2RhNWI5NDgyYzQwXkEyXkFqcGc@._V1_SX250.jpg"
+    ]
   },
   {
     "id": "6a738d8de355fc580a3439e0ab48eb6f",
@@ -17894,7 +17833,17 @@
       "Telugu",
       "Hindi",
       "Multi-Lang"
-    ]
+    ],
+    "imdbId": "tt36958312",
+    "name": "The Devil's Mouth",
+    "year": "2026",
+    "poster": "https://images.metahub.space/poster/small/tt36958312/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt36958312/img",
+    "genres": [
+      "Horror",
+      "Thriller"
+    ],
+    "description": "A group of college friends' Thailand adventure turns deadly when they become trapped in submerged caves with a dangerous predator. As oxygen runs low, past conflicts emerge in their desperate fight for survival."
   },
   {
     "id": "4bd03ce2ca046b044a2e08084d3b17ef",
@@ -19097,12 +19046,7 @@
     "rawText": "Interstellar (2014) (BluRay + Org Auds) - [4K, 1080p & 720p - x264 - (Tamil + Eng) - 9GB + Rips] - [W]",
     "languages": [
       "Tamil"
-    ],
-    "imdbId": "tt0816692",
-    "name": "Interstellar",
-    "year": 2014,
-    "poster": "https://m.media-amazon.com/images/M/MV5BYzdjMDAxZGItMjI2My00ODA1LTlkNzItOWFjMDU5ZDJlYWY3XkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BYzdjMDAxZGItMjI2My00ODA1LTlkNzItOWFjMDU5ZDJlYWY3XkEyXkFqcGc@._V1_SX250.jpg"
+    ]
   },
   {
     "id": "f42519060da766e1d9983a454c481371",
@@ -19441,17 +19385,11 @@
       "Hindi",
       "Multi-Lang"
     ],
-    "imdbId": "tt28540171",
-    "name": "Welcome to the Jungle",
-    "year": "2026",
-    "poster": "https://images.metahub.space/poster/small/tt28540171/img",
-    "thumbnail": "https://images.metahub.space/poster/small/tt28540171/img",
-    "genres": [
-      "Action",
-      "Adventure",
-      "Comedy"
-    ],
-    "description": "Police officers Jay Bakshi and Sandhya hunt notorious criminal Raj Solanki, but Jai discovers Raj has an important connection to his own life."
+    "imdbId": "tt12144176",
+    "name": "To the Max",
+    "year": 2026,
+    "poster": "https://m.media-amazon.com/images/M/MV5BZjgxNDQzNzEtNzIzMy00NjE3LWI4YjktOWYzYmI2ZGQ1Yjk1XkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BZjgxNDQzNzEtNzIzMy00NjE3LWI4YjktOWYzYmI2ZGQ1Yjk1XkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "817160c860a260baaedd05f8d2a2282d",
@@ -19692,7 +19630,12 @@
       "Telugu",
       "Hindi",
       "Multi-Lang"
-    ]
+    ],
+    "imdbId": "tt27681354",
+    "name": "In the Grey",
+    "year": 2026,
+    "poster": "https://m.media-amazon.com/images/M/MV5BOGFlYTk3M2ItNmY4Zi00ZmI2LWIzMjQtY2EyNTY4MzNkOTNiXkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BOGFlYTk3M2ItNmY4Zi00ZmI2LWIzMjQtY2EyNTY4MzNkOTNiXkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "3dcf65d8a5164c48c8e15d21068c5ca0",
