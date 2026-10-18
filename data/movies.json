@@ -12376,7 +12376,12 @@
       "Telugu",
       "Kannada",
       "Multi-Lang"
-    ]
+    ],
+    "imdbId": "tt37963237",
+    "name": "Varavu",
+    "year": 2026,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTVmZGQwYjAtMWVhNS00NDc2LWJjZDMtYmRiOGYyNzJhZTI4XkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BMTVmZGQwYjAtMWVhNS00NDc2LWJjZDMtYmRiOGYyNzJhZTI4XkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "409e68a3d65ae2c7d1c72876cd448513",
@@ -16233,7 +16238,12 @@
     "rawText": "Bandar (2026) Hindi HD + ESub - [1080p & 720p - AVC - (DD+5.1 ATMOS - 448Kbps) - 2.4GB + Rips]",
     "languages": [
       "Hindi"
-    ]
+    ],
+    "imdbId": "tt32389930",
+    "name": "Bandar",
+    "year": 2026,
+    "poster": "https://m.media-amazon.com/images/M/MV5BOThjOTk0N2MtMjQyMC00MDg5LWExNzItYTgyMjQ2MGZlNTIxXkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BOThjOTk0N2MtMjQyMC00MDg5LWExNzItYTgyMjQ2MGZlNTIxXkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "a3368a6f500db49476f1eddd0ebadc8f",
@@ -19435,18 +19445,7 @@
       "Telugu",
       "Hindi",
       "Multi-Lang"
-    ],
-    "imdbId": "tt28540171",
-    "name": "Welcome to the Jungle",
-    "year": "2026",
-    "poster": "https://images.metahub.space/poster/small/tt28540171/img",
-    "thumbnail": "https://images.metahub.space/poster/small/tt28540171/img",
-    "genres": [
-      "Action",
-      "Adventure",
-      "Comedy"
-    ],
-    "description": "Police officers Jay Bakshi and Sandhya hunt notorious criminal Raj Solanki, but Jai discovers Raj has an important connection to his own life."
+    ]
   },
   {
     "id": "817160c860a260baaedd05f8d2a2282d",
@@ -20238,11 +20237,18 @@
       "Hindi",
       "Multi-Lang"
     ],
-    "imdbId": "tt1800302",
-    "name": "Gold",
-    "year": 2022,
-    "poster": "https://m.media-amazon.com/images/M/MV5BNzI1NjI5OTUyM15BMl5BanBnXkFtZTgwOTM4NzY2MDI@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BNzI1NjI5OTUyM15BMl5BanBnXkFtZTgwOTM4NzY2MDI@._V1_SX250.jpg"
+    "imdbId": "tt18073328",
+    "name": "Blood & Gold",
+    "year": "2023",
+    "poster": "https://images.metahub.space/poster/small/tt18073328/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt18073328/img",
+    "genres": [
+      "Action",
+      "Drama",
+      "War"
+    ],
+    "description": "At the end of World War II, a German soldier is looking for his daughter while an SS troop is looking for a Jewish treasure.",
+    "imdbRating": "6.5"
   },
   {
     "id": "638cfaa36eb2ea3a8dd1e8fe7af23786",
@@ -21880,11 +21886,6 @@
       "Telugu",
       "Hindi",
       "Multi-Lang"
-    ],
-    "imdbId": "tt32298366",
-    "name": "Unidentified",
-    "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BMmExNmNlMGUtMzBiOS00OTE1LTkwY2ItZDU3MGRlNzdjNTI1XkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BMmExNmNlMGUtMzBiOS00OTE1LTkwY2ItZDU3MGRlNzdjNTI1XkEyXkFqcGc@._V1_SX250.jpg"
+    ]
   }
 ]
