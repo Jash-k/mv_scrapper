@@ -4349,8 +4349,8 @@
     "imdbId": "tt33318732",
     "name": "Jailer 2",
     "year": 2023,
-    "poster": "https://m.media-amazon.com/images/M/MV5BZjUwNzM2MmMtYjZmNS00N2QwLWJhYWUtODFkOTgzM2M2ZTc3XkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BZjUwNzM2MmMtYjZmNS00N2QwLWJhYWUtODFkOTgzM2M2ZTc3XkEyXkFqcGc@._V1_SX250.jpg"
+    "poster": "https://m.media-amazon.com/images/M/MV5BYmJiYzc1ODctZjQzZS00NzEzLWI0NDEtZGVkNjI4YzEzNGRjXkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BYmJiYzc1ODctZjQzZS00NzEzLWI0NDEtZGVkNjI4YzEzNGRjXkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "5e9689ba26e9602720dd707be2841814",
@@ -6336,7 +6336,19 @@
       "Telugu",
       "Hindi",
       "Multi-Lang"
-    ]
+    ],
+    "imdbId": "tt2461150",
+    "name": "Masterminds",
+    "year": "2015",
+    "poster": "https://images.metahub.space/poster/small/tt2461150/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt2461150/img",
+    "genres": [
+      "Biography",
+      "Comedy",
+      "Crime"
+    ],
+    "description": "A guard at an armored car company in the Southern U.S. organizes one of the biggest bank heists in American history.",
+    "imdbRating": "5.8"
   },
   {
     "id": "9a8c506202079398b78b09bf0892c64d",
