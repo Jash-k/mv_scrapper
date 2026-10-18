@@ -4349,8 +4349,8 @@
     "imdbId": "tt33318732",
     "name": "Jailer 2",
     "year": 2023,
-    "poster": "https://m.media-amazon.com/images/M/MV5BYmJiYzc1ODctZjQzZS00NzEzLWI0NDEtZGVkNjI4YzEzNGRjXkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BYmJiYzc1ODctZjQzZS00NzEzLWI0NDEtZGVkNjI4YzEzNGRjXkEyXkFqcGc@._V1_SX250.jpg"
+    "poster": "https://m.media-amazon.com/images/M/MV5BZjUwNzM2MmMtYjZmNS00N2QwLWJhYWUtODFkOTgzM2M2ZTc3XkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BZjUwNzM2MmMtYjZmNS00N2QwLWJhYWUtODFkOTgzM2M2ZTc3XkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "5e9689ba26e9602720dd707be2841814",
@@ -6336,19 +6336,7 @@
       "Telugu",
       "Hindi",
       "Multi-Lang"
-    ],
-    "imdbId": "tt2461150",
-    "name": "Masterminds",
-    "year": "2015",
-    "poster": "https://images.metahub.space/poster/small/tt2461150/img",
-    "thumbnail": "https://images.metahub.space/poster/small/tt2461150/img",
-    "genres": [
-      "Biography",
-      "Comedy",
-      "Crime"
-    ],
-    "description": "A guard at an armored car company in the Southern U.S. organizes one of the biggest bank heists in American history.",
-    "imdbRating": "5.8"
+    ]
   },
   {
     "id": "9a8c506202079398b78b09bf0892c64d",
@@ -13607,8 +13595,8 @@
     "imdbId": "tt35712605",
     "name": "G.D.N.",
     "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BODkxZWQ5OTktYjE3OC00YmUwLThlZTQtMmE1N2U2ZDgzZTM5XkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BODkxZWQ5OTktYjE3OC00YmUwLThlZTQtMmE1N2U2ZDgzZTM5XkEyXkFqcGc@._V1_SX250.jpg"
+    "poster": "https://m.media-amazon.com/images/M/MV5BNWUwZTJkOTktMTBjYi00MWEzLThlY2QtNWU0MWM2OTU2ZjI1XkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BNWUwZTJkOTktMTBjYi00MWEzLThlY2QtNWU0MWM2OTU2ZjI1XkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "29c33bb94fa856871719063cd2f6a5ff",
@@ -14573,7 +14561,12 @@
       "Telugu",
       "Hindi",
       "Multi-Lang"
-    ]
+    ],
+    "imdbId": "tt1679335",
+    "name": "Trolls",
+    "year": 2016,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTkxNDc3OTcxMV5BMl5BanBnXkFtZTgwODk2NjAzOTE@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BMTkxNDc3OTcxMV5BMl5BanBnXkFtZTgwODk2NjAzOTE@._V1_SX250.jpg"
   },
   {
     "id": "4a5c08ebab7dcc8432868c211dee3cb9",
@@ -15756,7 +15749,12 @@
       "Telugu",
       "Hindi",
       "Multi-Lang"
-    ]
+    ],
+    "imdbId": "tt0106505",
+    "name": "Calendar Girl",
+    "year": 1993,
+    "poster": "https://m.media-amazon.com/images/M/MV5BZTQ1NTZhYzAtZDAxZi00YTI4LTljMzEtN2E3Y2RlM2M0YjBmXkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BZTQ1NTZhYzAtZDAxZi00YTI4LTljMzEtN2E3Y2RlM2M0YjBmXkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "a36b081511e4fad13dac6e070fc4697c",
@@ -15800,7 +15798,12 @@
       "Telugu",
       "Hindi",
       "Multi-Lang"
-    ]
+    ],
+    "imdbId": "tt1713476",
+    "name": "The Bay",
+    "year": 2026,
+    "poster": "https://m.media-amazon.com/images/M/MV5BNDEzMWU2YWUtOWVkMy00OTg0LTkyMjctMDA3MDc2NGViYjU5XkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BNDEzMWU2YWUtOWVkMy00OTg0LTkyMjctMDA3MDc2NGViYjU5XkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "bdf03a76e9c799cf6fdcbaebe38dd32c",
