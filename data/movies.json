@@ -160,8 +160,8 @@
     "imdbId": "tt33318732",
     "name": "Jailer 2",
     "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BZjUwNzM2MmMtYjZmNS00N2QwLWJhYWUtODFkOTgzM2M2ZTc3XkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BZjUwNzM2MmMtYjZmNS00N2QwLWJhYWUtODFkOTgzM2M2ZTc3XkEyXkFqcGc@._V1_SX250.jpg"
+    "poster": "https://m.media-amazon.com/images/M/MV5BYmJiYzc1ODctZjQzZS00NzEzLWI0NDEtZGVkNjI4YzEzNGRjXkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BYmJiYzc1ODctZjQzZS00NzEzLWI0NDEtZGVkNjI4YzEzNGRjXkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "295ff001fb4f929cebb93d22258eaa09",
@@ -807,7 +807,12 @@
     "rawText": "Belphegor, Phantom of the Louvre (2001) (BluRay + Org Auds) - [1080p & 720p - x264 - (Tamil + Fre) - 1.6GB + Rips]",
     "languages": [
       "Tamil"
-    ]
+    ],
+    "imdbId": "tt0214529",
+    "name": "Belphegor: Phantom of the Louvre",
+    "year": 2001,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMzMwMTI3YTItYTI3MC00M2M2LThjNjAtMzg3ZWY0YTAzYjM0XkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BMzMwMTI3YTItYTI3MC00M2M2LThjNjAtMzg3ZWY0YTAzYjM0XkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "29e8d2d69039dde54476fb0c2e98fdfb",
@@ -3726,7 +3731,7 @@
       "Comedy"
     ],
     "description": "At an elite fundraising gala, celebrities and socialites find themselves in danger when armed activists storm the venue in pursuit of a legendary relic that could unlock supernatural powers.",
-    "imdbRating": "5.0"
+    "imdbRating": "5.7"
   },
   {
     "id": "906b34664be67193f53d9373353c5620",
@@ -5205,12 +5210,7 @@
       "Telugu",
       "Hindi",
       "Multi-Lang"
-    ],
-    "imdbId": "tt47657999",
-    "name": "Reporting Live",
-    "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BYTliNTdiOTQtNmNjNC00ZGRhLWExODYtMmRlNzM4YTFhZTM5XkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BYTliNTdiOTQtNmNjNC00ZGRhLWExODYtMmRlNzM4YTFhZTM5XkEyXkFqcGc@._V1_SX250.jpg"
+    ]
   },
   {
     "id": "cb9b25ebedc0ecb8158c43b493523df3",
@@ -6287,12 +6287,7 @@
       "Tamil",
       "Telugu",
       "Multi-Lang"
-    ],
-    "imdbId": "tt38201958",
-    "name": "Doraemon: Nobita and the New Castle of the Undersea Devil",
-    "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BNTZlMzRjZTUtZDVjNi00ODFiLWFmMzEtMzQ1ODIwOWQ3YjIwXkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BNTZlMzRjZTUtZDVjNi00ODFiLWFmMzEtMzQ1ODIwOWQ3YjIwXkEyXkFqcGc@._V1_SX250.jpg"
+    ]
   },
   {
     "id": "4777a14620cd3b5e462438ee3331266c",
@@ -6925,7 +6920,12 @@
       "Telugu",
       "Hindi",
       "Multi-Lang"
-    ]
+    ],
+    "imdbId": "tt27165187",
+    "name": "The End of Oak Street",
+    "year": 2026,
+    "poster": "https://m.media-amazon.com/images/M/MV5BZDQ1MDhmZWQtNjdhOS00MGE0LTkxMTItN2Q4NjIyYzUzZmRlXkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BZDQ1MDhmZWQtNjdhOS00MGE0LTkxMTItN2Q4NjIyYzUzZmRlXkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "7c788a67964f218f1294a8bb842de86e",
@@ -7241,7 +7241,19 @@
       "Telugu",
       "Hindi",
       "Multi-Lang"
-    ]
+    ],
+    "imdbId": "tt1220719",
+    "name": "Ip Man",
+    "year": "2025",
+    "poster": "https://images.metahub.space/poster/small/tt1220719/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt1220719/img",
+    "genres": [
+      "Action",
+      "Biography",
+      "Drama"
+    ],
+    "description": "During the Japanese invasion of China, a wealthy martial artist is forced to leave his home when his city is occupied. With little means of providing for themselves, Ip Man and the remaining members of the city must find a way to ...",
+    "imdbRating": "8.0"
   },
   {
     "id": "2de105be5ed1a21d486933736f50375c",
@@ -8178,18 +8190,7 @@
       "Malayalam",
       "Hindi",
       "Multi-Lang"
-    ],
-    "imdbId": "tt33293169",
-    "name": "Mango",
-    "year": "2025",
-    "poster": "https://images.metahub.space/poster/small/tt33293169/img",
-    "thumbnail": "https://images.metahub.space/poster/small/tt33293169/img",
-    "genres": [
-      "Comedy",
-      "Drama",
-      "Romance"
-    ],
-    "description": "Lærke, an ambitious hotel manager, is sent to Malaga to develop a hotel on Alex's mango farm. Lærke's daughter joins, expecting a rare holiday. Unexpected feelings arise between Lærke and Alex, forcing them to make life-altering c..."
+    ]
   },
   {
     "id": "7b4eef4d62712004e892bef5c6eb1e30",
@@ -10081,12 +10082,7 @@
       "Telugu",
       "Hindi",
       "Multi-Lang"
-    ],
-    "imdbId": "tt0025366",
-    "name": "Lady by Choice",
-    "year": 1934,
-    "poster": "https://m.media-amazon.com/images/M/MV5BYzlhY2YyMzMtNGZhZS00ZGMwLTg2NTEtNmUwOWYwNWI4NmY1XkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BYzlhY2YyMzMtNGZhZS00ZGMwLTg2NTEtNmUwOWYwNWI4NmY1XkEyXkFqcGc@._V1_SX250.jpg"
+    ]
   },
   {
     "id": "00cc81ac43e7d164fee4e4eab9ea8db1",
@@ -11290,18 +11286,7 @@
       "Hindi",
       "Multi-Lang",
       "Tamil"
-    ],
-    "imdbId": "tt32491690",
-    "name": "Dark Nuns",
-    "year": "2025",
-    "poster": "https://images.metahub.space/poster/small/tt32491690/img",
-    "thumbnail": "https://images.metahub.space/poster/small/tt32491690/img",
-    "genres": [
-      "Horror",
-      "Mystery",
-      "Thriller"
-    ],
-    "description": "A young boy Hee-Joon is possessed by an evil spirit. Nun Yunia tries to save him, assisted by Nun Mikaela. Priest Paul attempts medical treatment, while Priest Andrew performs an exorcism to rid Hee-Joon of the spirit."
+    ]
   },
   {
     "id": "1bfb4038bef0546818cdeafe99fdf161",
@@ -15854,7 +15839,12 @@
       "Telugu",
       "Hindi",
       "Multi-Lang"
-    ]
+    ],
+    "imdbId": "tt11561116",
+    "name": "The Whisper Man",
+    "year": 2026,
+    "poster": "https://m.media-amazon.com/images/M/MV5BOTI1YmY3YTQtYTg2Zi00OTZkLTk3NzQtNjcxNzIzMjk2ODZlXkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BOTI1YmY3YTQtYTg2Zi00OTZkLTk3NzQtNjcxNzIzMjk2ODZlXkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "ac7c0531077218f69041654a3101335c",
@@ -15999,7 +15989,12 @@
       "Kannada",
       "Hindi",
       "Multi-Lang"
-    ]
+    ],
+    "imdbId": "tt39818587",
+    "name": "Newton's 3rd Law",
+    "year": 2026,
+    "poster": "https://m.media-amazon.com/images/M/MV5BNzcwNTIyOTctNjFiMi00Yjk3LWI0MmItMTFkODMwNmE4NDRjXkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BNzcwNTIyOTctNjFiMi00Yjk3LWI0MmItMTFkODMwNmE4NDRjXkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "77e58c87b612df580ec543fc533bd76e",
@@ -16309,7 +16304,12 @@
     "rawText": "Harudu (2026) Telugu HD + ESub - [1080p & 720p - AVC - (DD+5.1 - 192Kbps) - 2.3GB + Rips]",
     "languages": [
       "Telugu"
-    ]
+    ],
+    "imdbId": "tt33702400",
+    "name": "Harudu",
+    "year": 2026,
+    "poster": "https://m.media-amazon.com/images/M/MV5BOTAxM2VjODctNTI0My00Y2I2LWJlNzYtZTU5ZDI0NjYxYWRhXkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BOTAxM2VjODctNTI0My00Y2I2LWJlNzYtZTU5ZDI0NjYxYWRhXkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "e8063a626eb489811ca99e2d616ad891",
@@ -16391,7 +16391,12 @@
       "Kannada",
       "Hindi",
       "Multi-Lang"
-    ]
+    ],
+    "imdbId": "tt37654096",
+    "name": "The Last Sunrise",
+    "year": 2026,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjZlMjQxN2MtYjAyOS00YjliLWE3NjEtNDZjOWI5NTAxNTY2XkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BMjZlMjQxN2MtYjAyOS00YjliLWE3NjEtNDZjOWI5NTAxNTY2XkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "355f43a01a2f34e758091bd4c212e462",
@@ -16557,7 +16562,12 @@
       "Kannada",
       "Multi-Lang",
       "Telugu"
-    ]
+    ],
+    "imdbId": "tt43123022",
+    "name": "Mister Middle Class",
+    "year": 2026,
+    "poster": "https://m.media-amazon.com/images/M/MV5BOWViNjg3Y2EtYzUxNC00YTUxLThkMjQtYzdlNGFkMTBmZDJkXkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BOWViNjg3Y2EtYzUxNC00YTUxLThkMjQtYzdlNGFkMTBmZDJkXkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "e81cbf356ea4b22919ea6992f31c082c",
@@ -17869,17 +17879,7 @@
       "Telugu",
       "Hindi",
       "Multi-Lang"
-    ],
-    "imdbId": "tt36958312",
-    "name": "The Devil's Mouth",
-    "year": "2026",
-    "poster": "https://images.metahub.space/poster/small/tt36958312/img",
-    "thumbnail": "https://images.metahub.space/poster/small/tt36958312/img",
-    "genres": [
-      "Horror",
-      "Thriller"
-    ],
-    "description": "A group of college friends' Thailand adventure turns deadly when they become trapped in submerged caves with a dangerous predator. As oxygen runs low, past conflicts emerge in their desperate fight for survival."
+    ]
   },
   {
     "id": "4bd03ce2ca046b044a2e08084d3b17ef",
@@ -18204,7 +18204,12 @@
     "rawText": "Welcome to the Jungle (2026) Hindi HD + ESub - [4K, 1080p & 720p - AVC / HEVC - (DD+5.1 - 192Kbps) - 3.9GB + Rips]",
     "languages": [
       "Hindi"
-    ]
+    ],
+    "imdbId": "tt2283362",
+    "name": "Jumanji: Welcome to the Jungle",
+    "year": 2026,
+    "poster": "https://m.media-amazon.com/images/M/MV5BZjI5MzdmODctYjA4NS00ZmMxLWJlOWUtOGVhMjA0OGMxMWYzXkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BZjI5MzdmODctYjA4NS00ZmMxLWJlOWUtOGVhMjA0OGMxMWYzXkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "71728bcc024ea9bf9e0207e41143e5ce",
@@ -18718,7 +18723,7 @@
       "Thriller"
     ],
     "description": "A young woman's struggle to defend her indigenous heritage in a world where xenophobia is on the rise, climate change is threatening reindeer herding, and young people choose suicide in the face of collective desperation.",
-    "imdbRating": "5.8"
+    "imdbRating": "5.7"
   },
   {
     "id": "58e9d246ab5b1120a0e749cdbb93ab8f",
@@ -19077,7 +19082,12 @@
     "rawText": "Interstellar (2014) (BluRay + Org Auds) - [4K, 1080p & 720p - x264 - (Tamil + Eng) - 9GB + Rips] - [W]",
     "languages": [
       "Tamil"
-    ]
+    ],
+    "imdbId": "tt0816692",
+    "name": "Interstellar",
+    "year": 2014,
+    "poster": "https://m.media-amazon.com/images/M/MV5BYzdjMDAxZGItMjI2My00ODA1LTlkNzItOWFjMDU5ZDJlYWY3XkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BYzdjMDAxZGItMjI2My00ODA1LTlkNzItOWFjMDU5ZDJlYWY3XkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "f42519060da766e1d9983a454c481371",
@@ -19415,12 +19425,7 @@
       "Telugu",
       "Hindi",
       "Multi-Lang"
-    ],
-    "imdbId": "tt12144176",
-    "name": "To the Max",
-    "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BZjgxNDQzNzEtNzIzMy00NjE3LWI4YjktOWYzYmI2ZGQ1Yjk1XkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BZjgxNDQzNzEtNzIzMy00NjE3LWI4YjktOWYzYmI2ZGQ1Yjk1XkEyXkFqcGc@._V1_SX250.jpg"
+    ]
   },
   {
     "id": "817160c860a260baaedd05f8d2a2282d",
@@ -20212,11 +20217,18 @@
       "Hindi",
       "Multi-Lang"
     ],
-    "imdbId": "tt1800302",
-    "name": "Gold",
-    "year": 2022,
-    "poster": "https://m.media-amazon.com/images/M/MV5BNzI1NjI5OTUyM15BMl5BanBnXkFtZTgwOTM4NzY2MDI@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BNzI1NjI5OTUyM15BMl5BanBnXkFtZTgwOTM4NzY2MDI@._V1_SX250.jpg"
+    "imdbId": "tt18073328",
+    "name": "Blood & Gold",
+    "year": "2023",
+    "poster": "https://images.metahub.space/poster/small/tt18073328/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt18073328/img",
+    "genres": [
+      "Action",
+      "Drama",
+      "War"
+    ],
+    "description": "At the end of World War II, a German soldier is looking for his daughter while an SS troop is looking for a Jewish treasure.",
+    "imdbRating": "6.5"
   },
   {
     "id": "638cfaa36eb2ea3a8dd1e8fe7af23786",
@@ -20260,7 +20272,12 @@
       "Telugu",
       "Hindi",
       "Multi-Lang"
-    ]
+    ],
+    "imdbId": "tt2461132",
+    "name": "Happy New Year",
+    "year": 1987,
+    "poster": "https://m.media-amazon.com/images/M/MV5BYjc3MjY0NzctMGYwNy00ZGYyLThiOTctMjI1MWRkNmU3ZWNiXkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BYjc3MjY0NzctMGYwNy00ZGYyLThiOTctMjI1MWRkNmU3ZWNiXkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "3ece34ce58c65c1a88bb3898238d3004",
