@@ -4309,8 +4309,8 @@
     "imdbId": "tt33318732",
     "name": "Jailer 2",
     "year": 2023,
-    "poster": "https://m.media-amazon.com/images/M/MV5BZjUwNzM2MmMtYjZmNS00N2QwLWJhYWUtODFkOTgzM2M2ZTc3XkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BZjUwNzM2MmMtYjZmNS00N2QwLWJhYWUtODFkOTgzM2M2ZTc3XkEyXkFqcGc@._V1_SX250.jpg"
+    "poster": "https://m.media-amazon.com/images/M/MV5BYmJiYzc1ODctZjQzZS00NzEzLWI0NDEtZGVkNjI4YzEzNGRjXkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BYmJiYzc1ODctZjQzZS00NzEzLWI0NDEtZGVkNjI4YzEzNGRjXkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "5e9689ba26e9602720dd707be2841814",
@@ -8657,7 +8657,12 @@
       "Telugu",
       "Hindi",
       "Multi-Lang"
-    ]
+    ],
+    "imdbId": "tt6933238",
+    "name": "Unabomber",
+    "year": 2026,
+    "poster": "https://m.media-amazon.com/images/M/MV5BZTVlMmRkMzctNTk5OC00OWUxLWIxMWYtYjFmYzRjZDQxNTQ5XkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BZTVlMmRkMzctNTk5OC00OWUxLWIxMWYtYjFmYzRjZDQxNTQ5XkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "f460e87825bcd1d4c02435fd50a5fc35",
@@ -14735,9 +14740,16 @@
     ],
     "imdbId": "tt26657236",
     "name": "Backrooms",
-    "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BYzQyYjZmMjctMzIyZi00MDI0LWJhNGQtMzQ3MTFlNDgwNGM5XkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BYzQyYjZmMjctMzIyZi00MDI0LWJhNGQtMzQ3MTFlNDgwNGM5XkEyXkFqcGc@._V1_SX250.jpg"
+    "year": "2026",
+    "poster": "https://images.metahub.space/poster/small/tt26657236/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt26657236/img",
+    "genres": [
+      "Horror",
+      "Sci-Fi",
+      "Thriller"
+    ],
+    "description": "Clark, an angry architect, chases the source of impossible power failures when a glowing gap opens in his basement, but the yellow maze beyond it threatens his sanity, his friends, and Mary.",
+    "imdbRating": "6.7"
   },
   {
     "id": "01ea657718d327c2e3c7899d7586fe13",
@@ -18179,12 +18191,7 @@
     "rawText": "Welcome to the Jungle (2026) Hindi HD + ESub - [4K, 1080p & 720p - AVC / HEVC - (DD+5.1 - 192Kbps) - 3.9GB + Rips]",
     "languages": [
       "Hindi"
-    ],
-    "imdbId": "tt2283362",
-    "name": "Jumanji: Welcome to the Jungle",
-    "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BZjI5MzdmODctYjA4NS00ZmMxLWJlOWUtOGVhMjA0OGMxMWYzXkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BZjI5MzdmODctYjA4NS00ZmMxLWJlOWUtOGVhMjA0OGMxMWYzXkEyXkFqcGc@._V1_SX250.jpg"
+    ]
   },
   {
     "id": "71728bcc024ea9bf9e0207e41143e5ce",
@@ -20170,9 +20177,16 @@
     ],
     "imdbId": "tt32890033",
     "name": "Minions & Monsters",
-    "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BYzBjMDg4YjctYzg3ZS00ZDFmLWI1YjctM2RkZGVjZWEyYWQ0XkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BYzBjMDg4YjctYzg3ZS00ZDFmLWI1YjctM2RkZGVjZWEyYWQ0XkEyXkFqcGc@._V1_SX250.jpg"
+    "year": "2026",
+    "poster": "https://images.metahub.space/poster/small/tt32890033/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt32890033/img",
+    "genres": [
+      "Animation",
+      "Adventure",
+      "Comedy"
+    ],
+    "description": "Follows the Minions in 1920s Hollywood as they search for frightening creatures for their monster movie, partner with a green creature, and must save the planet after unleashing monsters.",
+    "imdbRating": "6.3"
   },
   {
     "id": "5c7095bc9c22b66c4fcda81e4a724b24",
