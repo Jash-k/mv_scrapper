@@ -2906,17 +2906,7 @@
       "Telugu",
       "Hindi",
       "Multi-Lang"
-    ],
-    "imdbId": "tt32252801",
-    "name": "Blue Heron",
-    "year": "2026",
-    "poster": "https://images.metahub.space/poster/small/tt32252801/img",
-    "thumbnail": "https://images.metahub.space/poster/small/tt32252801/img",
-    "genres": [
-      "Drama"
-    ],
-    "description": "A family of six moves into a new home on Vancouver Island, but the eldest son's disruptive behavior gradually throws their lives off balance.",
-    "imdbRating": "7.1"
+    ]
   },
   {
     "id": "227d8dddbbac0157b17ba50b9cb964c0",
@@ -6287,7 +6277,12 @@
       "Tamil",
       "Telugu",
       "Multi-Lang"
-    ]
+    ],
+    "imdbId": "tt38201958",
+    "name": "Doraemon: Nobita and the New Castle of the Undersea Devil",
+    "year": 2026,
+    "poster": "https://m.media-amazon.com/images/M/MV5BNTZlMzRjZTUtZDVjNi00ODFiLWFmMzEtMzQ1ODIwOWQ3YjIwXkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BNTZlMzRjZTUtZDVjNi00ODFiLWFmMzEtMzQ1ODIwOWQ3YjIwXkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "4777a14620cd3b5e462438ee3331266c",
@@ -7241,19 +7236,7 @@
       "Telugu",
       "Hindi",
       "Multi-Lang"
-    ],
-    "imdbId": "tt1220719",
-    "name": "Ip Man",
-    "year": "2025",
-    "poster": "https://images.metahub.space/poster/small/tt1220719/img",
-    "thumbnail": "https://images.metahub.space/poster/small/tt1220719/img",
-    "genres": [
-      "Action",
-      "Biography",
-      "Drama"
-    ],
-    "description": "During the Japanese invasion of China, a wealthy martial artist is forced to leave his home when his city is occupied. With little means of providing for themselves, Ip Man and the remaining members of the city must find a way to ...",
-    "imdbRating": "8.0"
+    ]
   },
   {
     "id": "2de105be5ed1a21d486933736f50375c",
@@ -8190,7 +8173,18 @@
       "Malayalam",
       "Hindi",
       "Multi-Lang"
-    ]
+    ],
+    "imdbId": "tt33293169",
+    "name": "Mango",
+    "year": "2025",
+    "poster": "https://images.metahub.space/poster/small/tt33293169/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt33293169/img",
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance"
+    ],
+    "description": "Lærke, an ambitious hotel manager, is sent to Malaga to develop a hotel on Alex's mango farm. Lærke's daughter joins, expecting a rare holiday. Unexpected feelings arise between Lærke and Alex, forcing them to make life-altering c..."
   },
   {
     "id": "7b4eef4d62712004e892bef5c6eb1e30",
@@ -10082,7 +10076,12 @@
       "Telugu",
       "Hindi",
       "Multi-Lang"
-    ]
+    ],
+    "imdbId": "tt0025366",
+    "name": "Lady by Choice",
+    "year": 1934,
+    "poster": "https://m.media-amazon.com/images/M/MV5BYzlhY2YyMzMtNGZhZS00ZGMwLTg2NTEtNmUwOWYwNWI4NmY1XkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BYzlhY2YyMzMtNGZhZS00ZGMwLTg2NTEtNmUwOWYwNWI4NmY1XkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "00cc81ac43e7d164fee4e4eab9ea8db1",
@@ -11286,7 +11285,18 @@
       "Hindi",
       "Multi-Lang",
       "Tamil"
-    ]
+    ],
+    "imdbId": "tt32491690",
+    "name": "Dark Nuns",
+    "year": "2025",
+    "poster": "https://images.metahub.space/poster/small/tt32491690/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt32491690/img",
+    "genres": [
+      "Horror",
+      "Mystery",
+      "Thriller"
+    ],
+    "description": "A young boy Hee-Joon is possessed by an evil spirit. Nun Yunia tries to save him, assisted by Nun Mikaela. Priest Paul attempts medical treatment, while Priest Andrew performs an exorcism to rid Hee-Joon of the spirit."
   },
   {
     "id": "1bfb4038bef0546818cdeafe99fdf161",
@@ -13231,12 +13241,7 @@
     "rawText": "The 33 (2015) (BluRay + Org Auds) - [1080p & 720p - x264 - (Tamil + Eng) - 2.1GB + Rips]",
     "languages": [
       "Tamil"
-    ],
-    "imdbId": "tt2006295",
-    "name": "The 33",
-    "year": 2015,
-    "poster": "https://m.media-amazon.com/images/M/MV5BMTkyNDY3NDc5NF5BMl5BanBnXkFtZTgwMzI1NDM1NjE@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BMTkyNDY3NDc5NF5BMl5BanBnXkFtZTgwMzI1NDM1NjE@._V1_SX250.jpg"
+    ]
   },
   {
     "id": "1c931b782d16208485003f78536bfdc0",
@@ -13935,11 +13940,16 @@
       "Hindi",
       "Multi-Lang"
     ],
-    "imdbId": "tt2371486",
-    "name": "A Company Man",
-    "year": 2012,
-    "poster": "https://m.media-amazon.com/images/M/MV5BMTk4MDM5NTA0MV5BMl5BanBnXkFtZTgwNzU2NjI2MDE@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BMTk4MDM5NTA0MV5BMl5BanBnXkFtZTgwNzU2NjI2MDE@._V1_SX250.jpg"
+    "imdbId": "tt7516468",
+    "name": "A Company of Heroes",
+    "year": "2012",
+    "poster": "https://images.metahub.space/poster/small/tt7516468/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt7516468/img",
+    "genres": [
+      "Documentary"
+    ],
+    "description": "They were the \"other\" Band of Brothers. A Company of Heroes features interviews with many of the men not focused on in the book \"Band of Brothers\" by Stephen Ambrose or in the television mini-series by the same name. Never before ...",
+    "imdbRating": "8.3"
   },
   {
     "id": "6d07adc5abefda7741b76aef87a6cd37",
@@ -14523,7 +14533,12 @@
       "Tamil",
       "Hindi",
       "Multi-Lang"
-    ]
+    ],
+    "imdbId": "tt37520553",
+    "name": "President Down",
+    "year": 2025,
+    "poster": "https://m.media-amazon.com/images/M/MV5BNjNjMzM3ZjYtZWMzYy00MjUyLTg1MGQtM2VjZjliMjJlMjIxXkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BNjNjMzM3ZjYtZWMzYy00MjUyLTg1MGQtM2VjZjliMjJlMjIxXkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "afeefc55d976dd5d3c3c16c18ce31b12",
@@ -18723,7 +18738,7 @@
       "Thriller"
     ],
     "description": "A young woman's struggle to defend her indigenous heritage in a world where xenophobia is on the rise, climate change is threatening reindeer herding, and young people choose suicide in the face of collective desperation.",
-    "imdbRating": "5.7"
+    "imdbRating": "5.8"
   },
   {
     "id": "58e9d246ab5b1120a0e749cdbb93ab8f",
@@ -19425,7 +19440,18 @@
       "Telugu",
       "Hindi",
       "Multi-Lang"
-    ]
+    ],
+    "imdbId": "tt28540171",
+    "name": "Welcome to the Jungle",
+    "year": "2026",
+    "poster": "https://images.metahub.space/poster/small/tt28540171/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt28540171/img",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Comedy"
+    ],
+    "description": "Police officers Jay Bakshi and Sandhya hunt notorious criminal Raj Solanki, but Jai discovers Raj has an important connection to his own life."
   },
   {
     "id": "817160c860a260baaedd05f8d2a2282d",
@@ -20217,18 +20243,11 @@
       "Hindi",
       "Multi-Lang"
     ],
-    "imdbId": "tt18073328",
-    "name": "Blood & Gold",
-    "year": "2023",
-    "poster": "https://images.metahub.space/poster/small/tt18073328/img",
-    "thumbnail": "https://images.metahub.space/poster/small/tt18073328/img",
-    "genres": [
-      "Action",
-      "Drama",
-      "War"
-    ],
-    "description": "At the end of World War II, a German soldier is looking for his daughter while an SS troop is looking for a Jewish treasure.",
-    "imdbRating": "6.5"
+    "imdbId": "tt1800302",
+    "name": "Gold",
+    "year": 2022,
+    "poster": "https://m.media-amazon.com/images/M/MV5BNzI1NjI5OTUyM15BMl5BanBnXkFtZTgwOTM4NzY2MDI@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BNzI1NjI5OTUyM15BMl5BanBnXkFtZTgwOTM4NzY2MDI@._V1_SX250.jpg"
   },
   {
     "id": "638cfaa36eb2ea3a8dd1e8fe7af23786",
