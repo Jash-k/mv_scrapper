@@ -160,8 +160,8 @@
     "imdbId": "tt33318732",
     "name": "Jailer 2",
     "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BZjUwNzM2MmMtYjZmNS00N2QwLWJhYWUtODFkOTgzM2M2ZTc3XkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BZjUwNzM2MmMtYjZmNS00N2QwLWJhYWUtODFkOTgzM2M2ZTc3XkEyXkFqcGc@._V1_SX250.jpg"
+    "poster": "https://m.media-amazon.com/images/M/MV5BYmJiYzc1ODctZjQzZS00NzEzLWI0NDEtZGVkNjI4YzEzNGRjXkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BYmJiYzc1ODctZjQzZS00NzEzLWI0NDEtZGVkNjI4YzEzNGRjXkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "295ff001fb4f929cebb93d22258eaa09",
@@ -2866,7 +2866,17 @@
       "Telugu",
       "Hindi",
       "Multi-Lang"
-    ]
+    ],
+    "imdbId": "tt32252801",
+    "name": "Blue Heron",
+    "year": "2026",
+    "poster": "https://images.metahub.space/poster/small/tt32252801/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt32252801/img",
+    "genres": [
+      "Drama"
+    ],
+    "description": "A family of six moves into a new home on Vancouver Island, but the eldest son's disruptive behavior gradually throws their lives off balance.",
+    "imdbRating": "7.1"
   },
   {
     "id": "227d8dddbbac0157b17ba50b9cb964c0",
@@ -18903,7 +18913,12 @@
       "Malayalam",
       "Hindi",
       "Multi-Lang"
-    ]
+    ],
+    "imdbId": "tt38748101",
+    "name": "Moda Kavida Vaatavarana",
+    "year": 2026,
+    "poster": "https://m.media-amazon.com/images/M/MV5BNmZkYzkxMjMtNWEwMi00M2U5LThjYmEtNDc4MjAwODgwYjBjXkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BNmZkYzkxMjMtNWEwMi00M2U5LThjYmEtNDc4MjAwODgwYjBjXkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "92ce5167cff46d7e3818e3f5f78b2424",
