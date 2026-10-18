@@ -7239,7 +7239,19 @@
       "Telugu",
       "Hindi",
       "Multi-Lang"
-    ]
+    ],
+    "imdbId": "tt1220719",
+    "name": "Ip Man",
+    "year": "2025",
+    "poster": "https://images.metahub.space/poster/small/tt1220719/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt1220719/img",
+    "genres": [
+      "Action",
+      "Biography",
+      "Drama"
+    ],
+    "description": "During the Japanese invasion of China, a wealthy martial artist is forced to leave his home when his city is occupied. With little means of providing for themselves, Ip Man and the remaining members of the city must find a way to ...",
+    "imdbRating": "8.0"
   },
   {
     "id": "2de105be5ed1a21d486933736f50375c",
