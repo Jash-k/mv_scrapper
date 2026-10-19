@@ -3272,18 +3272,18 @@
       "Hindi",
       "Multi-Lang"
     ],
-    "imdbId": "tt1504319",
-    "name": "Road to Nowhere",
-    "year": "2010",
-    "poster": "https://images.metahub.space/poster/small/tt1504319/img",
-    "thumbnail": "https://images.metahub.space/poster/small/tt1504319/img",
+    "imdbId": "tt1253859",
+    "name": "Road to Hell",
+    "year": "2008",
+    "poster": "https://images.metahub.space/poster/small/tt1253859/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt1253859/img",
     "genres": [
-      "Crime",
-      "Mystery",
-      "Romance"
+      "Action",
+      "Fantasy",
+      "Musical"
     ],
-    "description": "A young filmmaker gets wrapped up in a crime while shooting his new project on location.",
-    "imdbRating": "5.4"
+    "description": "A soldier who has been fighting a long war is driven mad because he no longer believes in any purpose or righteous truth behind the killing. He comes home to a surreal world looking for his first and only love from his youth, beli...",
+    "imdbRating": "5.2"
   },
   {
     "id": "1e49bfd9e3a59f3ab735ebf8812de407",
@@ -7811,12 +7811,7 @@
     "rawText": "Eeram (2009) Tamil BluRay - [1080p & 720p - AVC / HEVC - (AAC 2.0) - 7.6GB + Rips]",
     "languages": [
       "Tamil"
-    ],
-    "imdbId": "tt1670635",
-    "name": "Eeram",
-    "year": 2009,
-    "poster": "https://m.media-amazon.com/images/M/MV5BYTIxNmRjODctMDZlNS00Yzc4LWI4MjQtMmRhZDc3MGRmNDk2XkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BYTIxNmRjODctMDZlNS00Yzc4LWI4MjQtMmRhZDc3MGRmNDk2XkEyXkFqcGc@._V1_SX250.jpg"
+    ]
   },
   {
     "id": "7d11b931844ca7ed76b8b6684502a885",
@@ -8026,12 +8021,7 @@
     "rawText": "Bombay Stories (2026) Hindi HD + ESub - [1080p & 720p - AVC - (DD+5.1 - 640Kbps) - 2.2GB + Rips]",
     "languages": [
       "Hindi"
-    ],
-    "imdbId": "tt42481138",
-    "name": "Bombay Stories",
-    "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BNmViYjA1ODAtZmZiYy00NzJlLTk2MzQtOWE2NDE0YTc2ZTBlXkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BNmViYjA1ODAtZmZiYy00NzJlLTk2MzQtOWE2NDE0YTc2ZTBlXkEyXkFqcGc@._V1_SX250.jpg"
+    ]
   },
   {
     "id": "5a4a96066d58c59fb8ad071b09afdf17",
@@ -8930,7 +8920,7 @@
       "Thriller"
     ],
     "description": "Follows a prehistoric arachnid that terrifies a stranded group of campers who hike into the wrong woods. Based on the spine-tingling horror novel from the actor best known as \"Murr\" on TV's Impractical Jokers.",
-    "imdbRating": "4.6"
+    "imdbRating": "6.7"
   },
   {
     "id": "58deb6dfb62e77f3a5cfae3e3b0449e4",
@@ -9005,7 +8995,12 @@
     "rawText": "Boys Never Compromise (2026) Kannada HD + ESub - [1080p & 720p - AVC - (DD+2.0 - 224Kbps) - 8GB + Rips]",
     "languages": [
       "Kannada"
-    ]
+    ],
+    "imdbId": "tt33363258",
+    "name": "Boys Never Compromise",
+    "year": 2026,
+    "poster": "https://m.media-amazon.com/images/M/MV5BY2M1MzUzYWYtYzAzNC00MzRlLTgzOGEtZjQ0MmNhZWM1M2MyXkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BY2M1MzUzYWYtYzAzNC00MzRlLTgzOGEtZjQ0MmNhZWM1M2MyXkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "25c64a5b2528ecd49031c0ee1bdacc87",
@@ -10687,11 +10682,17 @@
       "Hindi",
       "Multi-Lang"
     ],
-    "imdbId": "tt0064839",
+    "imdbId": "tt0026246",
     "name": "Crime and Punishment",
-    "year": 1935,
-    "poster": "https://m.media-amazon.com/images/M/MV5BODI1NzZlNDItNzhjMC00NzBjLThkNzYtYzE3NzU1Zjk4MmNhXkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BODI1NzZlNDItNzhjMC00NzBjLThkNzYtYzE3NzU1Zjk4MmNhXkEyXkFqcGc@._V1_SX250.jpg"
+    "year": "1936",
+    "poster": "https://images.metahub.space/poster/small/tt0026246/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt0026246/img",
+    "genres": [
+      "Crime",
+      "Drama"
+    ],
+    "description": "A young man is haunted by the murder of a neighborhood pawn broker and hounded by the local police inspector who suspects that he is guilty.",
+    "imdbRating": "6.9"
   },
   {
     "id": "62c716ea7d1adee11783a2e7652e3969",
@@ -14115,7 +14116,7 @@
       "Documentary"
     ],
     "description": "They were the \"other\" Band of Brothers. A Company of Heroes features interviews with many of the men not focused on in the book \"Band of Brothers\" by Stephen Ambrose or in the television mini-series by the same name. Never before ...",
-    "imdbRating": "7.8"
+    "imdbRating": "8.3"
   },
   {
     "id": "6d07adc5abefda7741b76aef87a6cd37",
@@ -14739,7 +14740,7 @@
       "Comedy"
     ],
     "description": "A Texas tech start-up breaks every crowdfunding record in the books, but they lose it all when a patent troll shuts them down. Refusing to go down without a fight, our heroes use a legal loophole to beat the trolls at their own ga...",
-    "imdbRating": "5.4"
+    "imdbRating": "5.9"
   },
   {
     "id": "4a5c08ebab7dcc8432868c211dee3cb9",
@@ -16410,7 +16411,12 @@
     "rawText": "Bandar (2026) Hindi HD + ESub - [1080p & 720p - AVC - (DD+5.1 ATMOS - 448Kbps) - 2.4GB + Rips]",
     "languages": [
       "Hindi"
-    ]
+    ],
+    "imdbId": "tt32389930",
+    "name": "Bandar",
+    "year": 2026,
+    "poster": "https://m.media-amazon.com/images/M/MV5BOThjOTk0N2MtMjQyMC00MDg5LWExNzItYTgyMjQ2MGZlNTIxXkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BOThjOTk0N2MtMjQyMC00MDg5LWExNzItYTgyMjQ2MGZlNTIxXkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "a3368a6f500db49476f1eddd0ebadc8f",
@@ -16456,12 +16462,7 @@
     "rawText": "Babita Singh Reporting (2026) Hindi UHD + ESub - [4K, 1080p & 720p - AVC / HEVC - (DD+5.1 - 640Kbps) - 5.5GB + Rips]",
     "languages": [
       "Hindi"
-    ],
-    "imdbId": "tt40915016",
-    "name": "Babita Singh Reporting",
-    "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BNDY2Y2UyZmEtMTFmNi00ZWMxLTlmZjktZjkwNGM0NWRmZDNjXkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BNDY2Y2UyZmEtMTFmNi00ZWMxLTlmZjktZjkwNGM0NWRmZDNjXkEyXkFqcGc@._V1_SX250.jpg"
+    ]
   },
   {
     "id": "720ee242f223633cb6a50cbaed8f8394",
@@ -17216,16 +17217,9 @@
     ],
     "imdbId": "tt0455362",
     "name": "The Breed",
-    "year": "2007",
-    "poster": "https://images.metahub.space/poster/small/tt0455362/img",
-    "thumbnail": "https://images.metahub.space/poster/small/tt0455362/img",
-    "genres": [
-      "Action",
-      "Comedy",
-      "Horror"
-    ],
-    "description": "A group of five college kids are forced to match wits with unwelcoming residents when they fly to a \"deserted\" island for a party weekend.",
-    "imdbRating": "5.1"
+    "year": 2006,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjg5ODA5MzAxMV5BMl5BanBnXkFtZTgwMzkyNDM2MTI@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BMjg5ODA5MzAxMV5BMl5BanBnXkFtZTgwMzkyNDM2MTI@._V1_SX250.jpg"
   },
   {
     "id": "44113667cb04be2483cc9ef0ad75e2c3",
@@ -17860,7 +17854,12 @@
     "rawText": "Mother (2026) Tamil HD + ESub - [1080p & 720p - AVC - (DD+5.1 - 192Kbps) - 2.2GB + Rips] - [W]",
     "languages": [
       "Tamil"
-    ]
+    ],
+    "imdbId": "tt35856037",
+    "name": "Your Mother Your Mother Your Mother",
+    "year": 2026,
+    "poster": "https://m.media-amazon.com/images/M/MV5BZDEwMjk2MjMtMTI3ZS00ODg5LWI2ZDYtOTVkOGZlNzIyYzRjXkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BZDEwMjk2MjMtMTI3ZS00ODg5LWI2ZDYtOTVkOGZlNzIyYzRjXkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "a4aac7d8bc34909c2c1793389d80111a",
@@ -17901,12 +17900,7 @@
       "Tamil",
       "Hindi",
       "Multi-Lang"
-    ],
-    "imdbId": "tt4794022",
-    "name": "Udanchhoo",
-    "year": 2018,
-    "poster": "https://m.media-amazon.com/images/M/MV5BNjhlMDQ5NGItNjUwMy00OTNmLWI0YzAtOTVjMTQ1YWY2ODJhXkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BNjhlMDQ5NGItNjUwMy00OTNmLWI0YzAtOTVjMTQ1YWY2ODJhXkEyXkFqcGc@._V1_SX250.jpg"
+    ]
   },
   {
     "id": "02dc80a8d875815d406d19cc96035ab4",
@@ -18282,12 +18276,7 @@
     "rawText": "Pagida Kali (2026) Malayalam HD + ESub - [1080p & 720p - AVC - (DD+5.1 - 192Kbps) - 2.2GB + Rips]",
     "languages": [
       "Malayalam"
-    ],
-    "imdbId": "tt40620387",
-    "name": "Pagida Kali",
-    "year": 2026,
-    "poster": "https://images.metahub.space/poster/small/tt40620387/img",
-    "thumbnail": "https://images.metahub.space/poster/small/tt40620387/img"
+    ]
   },
   {
     "id": "66765d7aa3ab5e3df6c70a33ab5ca2b2",
@@ -19829,17 +19818,11 @@
       "Hindi",
       "Multi-Lang"
     ],
-    "imdbId": "tt24131660",
-    "name": "Bring Him to Me",
-    "year": "2024",
-    "poster": "https://images.metahub.space/poster/small/tt24131660/img",
-    "thumbnail": "https://images.metahub.space/poster/small/tt24131660/img",
-    "genres": [
-      "Crime",
-      "Thriller"
-    ],
-    "description": "Loyalties and morals collide when a getaway driver transports a passenger to an uncertain fate.",
-    "imdbRating": "5.3"
+    "imdbId": "tt32478708",
+    "name": "Close to Me",
+    "year": 2025,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTdlN2FiYmUtNDgzNS00ZDRkLTg1ZjgtY2JiZThkYjg0YmZkXkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BMTdlN2FiYmUtNDgzNS00ZDRkLTg1ZjgtY2JiZThkYjg0YmZkXkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "0c1b4475bd05c1ca61add24f07e0467a",
@@ -20446,11 +20429,18 @@
       "Hindi",
       "Multi-Lang"
     ],
-    "imdbId": "tt1800302",
-    "name": "Gold",
-    "year": 2022,
-    "poster": "https://m.media-amazon.com/images/M/MV5BNzI1NjI5OTUyM15BMl5BanBnXkFtZTgwOTM4NzY2MDI@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BNzI1NjI5OTUyM15BMl5BanBnXkFtZTgwOTM4NzY2MDI@._V1_SX250.jpg"
+    "imdbId": "tt18073328",
+    "name": "Blood & Gold",
+    "year": "2023",
+    "poster": "https://images.metahub.space/poster/small/tt18073328/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt18073328/img",
+    "genres": [
+      "Action",
+      "Drama",
+      "War"
+    ],
+    "description": "At the end of World War II, a German soldier is looking for his daughter while an SS troop is looking for a Jewish treasure.",
+    "imdbRating": "6.5"
   },
   {
     "id": "638cfaa36eb2ea3a8dd1e8fe7af23786",
@@ -22044,11 +22034,6 @@
     "rawText": "Love Oh Love (2026) Tamil UHD + ESub - [4K, 1080p & 720p - AVC / HEVC - (DD+5.1 - 192Kbps) - 20GB + Rips]",
     "languages": [
       "Tamil"
-    ],
-    "imdbId": "tt42203456",
-    "name": "Love Oh Love",
-    "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BYmM5M2Q4Y2YtYmZiYi00MzIxLTgzZTMtZWU3ZDA2OGE4ZWM0XkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BYmM5M2Q4Y2YtYmZiYi00MzIxLTgzZTMtZWU3ZDA2OGE4ZWM0XkEyXkFqcGc@._V1_SX250.jpg"
+    ]
   }
 ]
