@@ -257,9 +257,8 @@
     "imdbId": "tt20159202",
     "name": "Dahaan",
     "year": 2026,
-    "poster": "https://image.tmdb.org/t/p/w500/lajDAXof8GCO9RvnhtvQl9bgNlK.jpg",
-    "thumbnail": "https://image.tmdb.org/t/p/w500/lajDAXof8GCO9RvnhtvQl9bgNlK.jpg",
-    "description": "A malicious ancient spirit is unleashed in a haunted mansion. The girl's elder sister and younger brother team up with a pastor to find a way to end the curse which slowly consumes the girl who opened the box."
+    "poster": "https://m.media-amazon.com/images/M/MV5BNjU2ZGJkYmYtODUxMy00NjU5LWI4NGYtZTNkYjkwMjY3NjJjXkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BNjU2ZGJkYmYtODUxMy00NjU5LWI4NGYtZTNkYjkwMjY3NjJjXkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "ea61cfa764e73f29b776f4aad4dd9fd8",
@@ -3011,9 +3010,8 @@
     "imdbId": "tt34385135",
     "name": "Colony",
     "year": 2026,
-    "poster": "https://image.tmdb.org/t/p/w500/tN799oUR0f1gUKDYdMNrDaY7I51.jpg",
-    "thumbnail": "https://image.tmdb.org/t/p/w500/tN799oUR0f1gUKDYdMNrDaY7I51.jpg",
-    "description": "Professor Se-jeong is thrust into a bloody nightmare when a rapidly mutating virus is released during a biotech conference causing authorities to seal the facility. Trapped inside with no escape, Se-jeong along with a small group of survivors must fight to stay alive while the infected undergo horrific transformations."
+    "poster": "https://m.media-amazon.com/images/M/MV5BNzI5YWViNGUtNGRiMy00OThhLWIwOGUtZjkyZDk2NjliODY2XkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BNzI5YWViNGUtNGRiMy00OThhLWIwOGUtZjkyZDk2NjliODY2XkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "29c941645754f75b6bda1dabf664dfe9",
@@ -3274,18 +3272,18 @@
       "Hindi",
       "Multi-Lang"
     ],
-    "imdbId": "tt1253859",
-    "name": "Road to Hell",
-    "year": "2008",
-    "poster": "https://images.metahub.space/poster/small/tt1253859/img",
-    "thumbnail": "https://images.metahub.space/poster/small/tt1253859/img",
+    "imdbId": "tt1504319",
+    "name": "Road to Nowhere",
+    "year": "2010",
+    "poster": "https://images.metahub.space/poster/small/tt1504319/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt1504319/img",
     "genres": [
-      "Action",
-      "Fantasy",
-      "Musical"
+      "Crime",
+      "Mystery",
+      "Romance"
     ],
-    "description": "A soldier who has been fighting a long war is driven mad because he no longer believes in any purpose or righteous truth behind the killing. He comes home to a surreal world looking for his first and only love from his youth, beli...",
-    "imdbRating": "5.2"
+    "description": "A young filmmaker gets wrapped up in a crime while shooting his new project on location.",
+    "imdbRating": "5.4"
   },
   {
     "id": "1e49bfd9e3a59f3ab735ebf8812de407",
@@ -3882,7 +3880,7 @@
       "Comedy"
     ],
     "description": "At an elite fundraising gala, celebrities and socialites find themselves in danger when armed activists storm the venue in pursuit of a legendary relic that could unlock supernatural powers.",
-    "imdbRating": "5.0"
+    "imdbRating": "5.7"
   },
   {
     "id": "906b34664be67193f53d9373353c5620",
@@ -6451,11 +6449,11 @@
       "Telugu",
       "Multi-Lang"
     ],
-    "imdbId": "tt38201958",
-    "name": "Doraemon: Nobita and the New Castle of the Undersea Devil",
+    "imdbId": "tt1147509",
+    "name": "Doraemon: Nobita and the Castle of the Undersea Devil",
     "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BNTZlMzRjZTUtZDVjNi00ODFiLWFmMzEtMzQ1ODIwOWQ3YjIwXkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BNTZlMzRjZTUtZDVjNi00ODFiLWFmMzEtMzQ1ODIwOWQ3YjIwXkEyXkFqcGc@._V1_SX250.jpg"
+    "poster": "https://m.media-amazon.com/images/M/MV5BMGMyYzgyN2YtM2E3My00NzgwLWE1ZTMtODFlOTg0N2YyODgxXkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BMGMyYzgyN2YtM2E3My00NzgwLWE1ZTMtODFlOTg0N2YyODgxXkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "4777a14620cd3b5e462438ee3331266c",
@@ -7705,8 +7703,8 @@
     "imdbId": "tt36983905",
     "name": "The Uprising",
     "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BYmNiZjVhOGItZTUxMi00MDUwLWJlNDItYTg2MTViZmQzMmU0XkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BYmNiZjVhOGItZTUxMi00MDUwLWJlNDItYTg2MTViZmQzMmU0XkEyXkFqcGc@._V1_SX250.jpg"
+    "poster": "https://m.media-amazon.com/images/M/MV5BZjExZjU5NmMtZDhkYi00YmIzLWFiMmYtZjM5NGZiYjc4MDM4XkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BZjExZjU5NmMtZDhkYi00YmIzLWFiMmYtZjM5NGZiYjc4MDM4XkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "2d0ebf5d0ad38593cde62dfa0a26d25e",
@@ -8944,7 +8942,7 @@
       "Thriller"
     ],
     "description": "Follows a prehistoric arachnid that terrifies a stranded group of campers who hike into the wrong woods. Based on the spine-tingling horror novel from the actor best known as \"Murr\" on TV's Impractical Jokers.",
-    "imdbRating": "6.7"
+    "imdbRating": "4.6"
   },
   {
     "id": "58deb6dfb62e77f3a5cfae3e3b0449e4",
@@ -9019,7 +9017,12 @@
     "rawText": "Boys Never Compromise (2026) Kannada HD + ESub - [1080p & 720p - AVC - (DD+2.0 - 224Kbps) - 8GB + Rips]",
     "languages": [
       "Kannada"
-    ]
+    ],
+    "imdbId": "tt33363258",
+    "name": "Boys Never Compromise",
+    "year": 2026,
+    "poster": "https://m.media-amazon.com/images/M/MV5BY2M1MzUzYWYtYzAzNC00MzRlLTgzOGEtZjQ0MmNhZWM1M2MyXkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BY2M1MzUzYWYtYzAzNC00MzRlLTgzOGEtZjQ0MmNhZWM1M2MyXkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "25c64a5b2528ecd49031c0ee1bdacc87",
@@ -9337,19 +9340,7 @@
       "Kannada",
       "Hindi",
       "Multi-Lang"
-    ],
-    "imdbId": "tt33381401",
-    "name": "The Love That Remains",
-    "year": "2026",
-    "poster": "https://images.metahub.space/poster/small/tt33381401/img",
-    "thumbnail": "https://images.metahub.space/poster/small/tt33381401/img",
-    "genres": [
-      "Comedy",
-      "Drama",
-      "Family"
-    ],
-    "description": "Captures a year in the life of a family as the parents navigate their separation. Through intimate vignettes and strange occurrences, the film explores the complexities of family, love, and the impact of shared memories.",
-    "imdbRating": "6.8"
+    ]
   },
   {
     "id": "b2fc9db1113e722e3f5830c157013f29",
@@ -11194,12 +11185,7 @@
     "rawText": "Heer Sara (2026) Hindi HD + ESub - [1080p & 720p - AVC - (DD+5.1 - 640Kbps) - 2.2GB + Rips]",
     "languages": [
       "Hindi"
-    ],
-    "imdbId": "tt40744412",
-    "name": "Heer Sara",
-    "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BYWIwYjI1ZDgtMDM2Yi00ODI0LWI1MmUtYzQ4NDA4YTE3Yjk2XkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BYWIwYjI1ZDgtMDM2Yi00ODI0LWI1MmUtYzQ4NDA4YTE3Yjk2XkEyXkFqcGc@._V1_SX250.jpg"
+    ]
   },
   {
     "id": "8beb0f8e7744dbc33483c3e509bd935e",
@@ -11778,12 +11764,7 @@
       "Kannada",
       "Hindi",
       "Multi-Lang"
-    ],
-    "imdbId": "tt35836025",
-    "name": "Vishwanath and Sons",
-    "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BOGRkYWFjNzAtODFhNS00NzM4LTk3NTAtNzgwMDg0OTE2ZTIzXkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BOGRkYWFjNzAtODFhNS00NzM4LTk3NTAtNzgwMDg0OTE2ZTIzXkEyXkFqcGc@._V1_SX250.jpg"
+    ]
   },
   {
     "id": "8b6739c376ffb53ce1c4f71fcf5230ce",
@@ -11992,12 +11973,7 @@
     "rawText": "Matchstick Men (2003) (BluRay + Org Auds) - [1080p & 720p - x264 - (Tamil + Eng) - 2GB + Rips]",
     "languages": [
       "Tamil"
-    ],
-    "imdbId": "tt0325805",
-    "name": "Matchstick Men",
-    "year": 2003,
-    "poster": "https://m.media-amazon.com/images/M/MV5BMjA3NjMyNjIyMF5BMl5BanBnXkFtZTYwOTgzMDI3._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BMjA3NjMyNjIyMF5BMl5BanBnXkFtZTYwOTgzMDI3._V1_SX250.jpg"
+    ]
   },
   {
     "id": "f3fb46e73174783e272f83347bb63ec5",
@@ -15390,7 +15366,12 @@
     "rawText": "Jimmy (2013) (HD + Org Auds) - [1080p & 720p - x264 - (Tamil + Eng) - 1.6GB + Rips]",
     "languages": [
       "Tamil"
-    ]
+    ],
+    "imdbId": "tt31179962",
+    "name": "Jimmy",
+    "year": 2013,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMGU1NTI4MWUtZWZhMi00ZTgwLWJkYTAtY2Q4YWEwZGNlNDgyXkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BMGU1NTI4MWUtZWZhMi00ZTgwLWJkYTAtY2Q4YWEwZGNlNDgyXkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "6c4177a275c51a707d651befb3ce5f7b",
@@ -15952,12 +15933,7 @@
       "Telugu",
       "Hindi",
       "Multi-Lang"
-    ],
-    "imdbId": "tt0106505",
-    "name": "Calendar Girl",
-    "year": 1993,
-    "poster": "https://m.media-amazon.com/images/M/MV5BZTQ1NTZhYzAtZDAxZi00YTI4LTljMzEtN2E3Y2RlM2M0YjBmXkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BZTQ1NTZhYzAtZDAxZi00YTI4LTljMzEtN2E3Y2RlM2M0YjBmXkEyXkFqcGc@._V1_SX250.jpg"
+    ]
   },
   {
     "id": "a36b081511e4fad13dac6e070fc4697c",
@@ -16475,7 +16451,12 @@
     "rawText": "Babita Singh Reporting (2026) Hindi UHD + ESub - [4K, 1080p & 720p - AVC / HEVC - (DD+5.1 - 640Kbps) - 5.5GB + Rips]",
     "languages": [
       "Hindi"
-    ]
+    ],
+    "imdbId": "tt40915016",
+    "name": "Babita Singh Reporting",
+    "year": 2026,
+    "poster": "https://m.media-amazon.com/images/M/MV5BNDY2Y2UyZmEtMTFmNi00ZWMxLTlmZjktZjkwNGM0NWRmZDNjXkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BNDY2Y2UyZmEtMTFmNi00ZWMxLTlmZjktZjkwNGM0NWRmZDNjXkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "720ee242f223633cb6a50cbaed8f8394",
@@ -17230,9 +17211,16 @@
     ],
     "imdbId": "tt0455362",
     "name": "The Breed",
-    "year": 2006,
-    "poster": "https://m.media-amazon.com/images/M/MV5BMjg5ODA5MzAxMV5BMl5BanBnXkFtZTgwMzkyNDM2MTI@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BMjg5ODA5MzAxMV5BMl5BanBnXkFtZTgwMzkyNDM2MTI@._V1_SX250.jpg"
+    "year": "2007",
+    "poster": "https://images.metahub.space/poster/small/tt0455362/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt0455362/img",
+    "genres": [
+      "Action",
+      "Comedy",
+      "Horror"
+    ],
+    "description": "A group of five college kids are forced to match wits with unwelcoming residents when they fly to a \"deserted\" island for a party weekend.",
+    "imdbRating": "5.1"
   },
   {
     "id": "44113667cb04be2483cc9ef0ad75e2c3",
@@ -18250,12 +18238,11 @@
       "Tamil",
       "Telugu"
     ],
-    "imdbId": "tt5256640",
-    "name": "Lenin",
-    "year": "2017",
-    "poster": "https://images.metahub.space/poster/small/tt5256640/img",
-    "thumbnail": "https://images.metahub.space/poster/small/tt5256640/img",
-    "genres": []
+    "imdbId": "tt38916037",
+    "name": "Lenin Pandiyan",
+    "year": 2026,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMDkwMGE4MDctZDUxNS00MTYwLWFjNTQtNDZhMmMzYTg2OTViXkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BMDkwMGE4MDctZDUxNS00MTYwLWFjNTQtNDZhMmMzYTg2OTViXkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "68aed7f241b44bdcc1cfca6a6ce1fb99",
@@ -18367,8 +18354,8 @@
     "imdbId": "tt23790696",
     "name": "The Raja Saab",
     "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BOTc5Mjk4ZDQtM2Y4Zi00YTZmLTkxYmUtYWMwNzk3NDBkOGQzXkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BOTc5Mjk4ZDQtM2Y4Zi00YTZmLTkxYmUtYWMwNzk3NDBkOGQzXkEyXkFqcGc@._V1_SX250.jpg"
+    "poster": "https://m.media-amazon.com/images/M/MV5BMDg4ODMzZjAtOGI0MS00Y2I3LWFkM2MtNzQ5MDI2MDE5ZTAwXkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BMDg4ODMzZjAtOGI0MS00Y2I3LWFkM2MtNzQ5MDI2MDE5ZTAwXkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "a609550fc9b826a641d06ee1c5153666",
@@ -19837,11 +19824,17 @@
       "Hindi",
       "Multi-Lang"
     ],
-    "imdbId": "tt32478708",
-    "name": "Close to Me",
-    "year": 2025,
-    "poster": "https://m.media-amazon.com/images/M/MV5BMTdlN2FiYmUtNDgzNS00ZDRkLTg1ZjgtY2JiZThkYjg0YmZkXkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BMTdlN2FiYmUtNDgzNS00ZDRkLTg1ZjgtY2JiZThkYjg0YmZkXkEyXkFqcGc@._V1_SX250.jpg"
+    "imdbId": "tt24131660",
+    "name": "Bring Him to Me",
+    "year": "2024",
+    "poster": "https://images.metahub.space/poster/small/tt24131660/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt24131660/img",
+    "genres": [
+      "Crime",
+      "Thriller"
+    ],
+    "description": "Loyalties and morals collide when a getaway driver transports a passenger to an uncertain fate.",
+    "imdbRating": "5.3"
   },
   {
     "id": "0c1b4475bd05c1ca61add24f07e0467a",
@@ -19886,11 +19879,18 @@
       "Hindi",
       "Multi-Lang"
     ],
-    "imdbId": "tt27681354",
-    "name": "In the Grey",
-    "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BOGFlYTk3M2ItNmY4Zi00ZmI2LWIzMjQtY2EyNTY4MzNkOTNiXkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BOGFlYTk3M2ItNmY4Zi00ZmI2LWIzMjQtY2EyNTY4MzNkOTNiXkEyXkFqcGc@._V1_SX250.jpg"
+    "imdbId": "tt4419684",
+    "name": "In the Lost Lands",
+    "year": "2025",
+    "poster": "https://images.metahub.space/poster/small/tt4419684/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt4419684/img",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy"
+    ],
+    "description": "A queen sends the powerful and feared sorceress Gray Alys to the ghostly wilderness of the Lost Lands in search of a magical power, where the sorceress and her guide, the drifter Boyce, must outwit and outfight man and demon.",
+    "imdbRating": "4.7"
   },
   {
     "id": "3dcf65d8a5164c48c8e15d21068c5ca0",
@@ -20440,7 +20440,12 @@
       "Telugu",
       "Hindi",
       "Multi-Lang"
-    ]
+    ],
+    "imdbId": "tt1800302",
+    "name": "Gold",
+    "year": 2022,
+    "poster": "https://m.media-amazon.com/images/M/MV5BNzI1NjI5OTUyM15BMl5BanBnXkFtZTgwOTM4NzY2MDI@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BNzI1NjI5OTUyM15BMl5BanBnXkFtZTgwOTM4NzY2MDI@._V1_SX250.jpg"
   },
   {
     "id": "638cfaa36eb2ea3a8dd1e8fe7af23786",
@@ -21778,7 +21783,12 @@
     "rawText": "Dr Bennat (2026) Malayalam HD + ESub - [1080p & 720p - AVC - (DD+5.1 - 384Kbps) - 3.1GB + Rips]",
     "languages": [
       "Malayalam"
-    ]
+    ],
+    "imdbId": "tt42001019",
+    "name": "Dr Bennat",
+    "year": 2026,
+    "poster": "https://m.media-amazon.com/images/M/MV5BNzM2YTVmNDAtODAyNi00NTE5LTgyYzAtODVlYWUwYWU5NTc4XkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BNzM2YTVmNDAtODAyNi00NTE5LTgyYzAtODVlYWUwYWU5NTc4XkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "27a3cfc2781b3c42535a0c34b99d13c3",
@@ -22041,6 +22051,11 @@
     "rawText": "Love Oh Love (2026) Tamil UHD + ESub - [4K, 1080p & 720p - AVC / HEVC - (DD+5.1 - 192Kbps) - 20GB + Rips]",
     "languages": [
       "Tamil"
-    ]
+    ],
+    "imdbId": "tt42203456",
+    "name": "Love Oh Love",
+    "year": 2026,
+    "poster": "https://m.media-amazon.com/images/M/MV5BYmM5M2Q4Y2YtYmZiYi00MzIxLTgzZTMtZWU3ZDA2OGE4ZWM0XkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BYmM5M2Q4Y2YtYmZiYi00MzIxLTgzZTMtZWU3ZDA2OGE4ZWM0XkEyXkFqcGc@._V1_SX250.jpg"
   }
 ]
