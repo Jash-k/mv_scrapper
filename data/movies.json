@@ -257,8 +257,9 @@
     "imdbId": "tt20159202",
     "name": "Dahaan",
     "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BNjU2ZGJkYmYtODUxMy00NjU5LWI4NGYtZTNkYjkwMjY3NjJjXkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BNjU2ZGJkYmYtODUxMy00NjU5LWI4NGYtZTNkYjkwMjY3NjJjXkEyXkFqcGc@._V1_SX250.jpg"
+    "poster": "https://image.tmdb.org/t/p/w500/lajDAXof8GCO9RvnhtvQl9bgNlK.jpg",
+    "thumbnail": "https://image.tmdb.org/t/p/w500/lajDAXof8GCO9RvnhtvQl9bgNlK.jpg",
+    "description": "A malicious ancient spirit is unleashed in a haunted mansion. The girl's elder sister and younger brother team up with a pastor to find a way to end the curse which slowly consumes the girl who opened the box."
   },
   {
     "id": "ea61cfa764e73f29b776f4aad4dd9fd8",
@@ -1497,12 +1498,7 @@
     "rawText": "BIGG BOSS Tamil (2026) S010 EP43 - DAY 42 - TRUE WEB-DL - [1080p, 720p, 480p - AVC - 1GB & 500MB]",
     "languages": [
       "Tamil"
-    ],
-    "imdbId": "tt26930115",
-    "name": "Bigg Boss Tamil Season 6",
-    "year": 2026,
-    "poster": "https://images.metahub.space/poster/small/tt26930115/img",
-    "thumbnail": "https://images.metahub.space/poster/small/tt26930115/img"
+    ]
   },
   {
     "id": "d190b9e333cf7284007d2249f7b15cd3",
@@ -3010,8 +3006,9 @@
     "imdbId": "tt34385135",
     "name": "Colony",
     "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BNzI5YWViNGUtNGRiMy00OThhLWIwOGUtZjkyZDk2NjliODY2XkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BNzI5YWViNGUtNGRiMy00OThhLWIwOGUtZjkyZDk2NjliODY2XkEyXkFqcGc@._V1_SX250.jpg"
+    "poster": "https://image.tmdb.org/t/p/w500/tN799oUR0f1gUKDYdMNrDaY7I51.jpg",
+    "thumbnail": "https://image.tmdb.org/t/p/w500/tN799oUR0f1gUKDYdMNrDaY7I51.jpg",
+    "description": "Professor Se-jeong is thrust into a bloody nightmare when a rapidly mutating virus is released during a biotech conference causing authorities to seal the facility. Trapped inside with no escape, Se-jeong along with a small group of survivors must fight to stay alive while the infected undergo horrific transformations."
   },
   {
     "id": "29c941645754f75b6bda1dabf664dfe9",
@@ -4782,11 +4779,11 @@
     "languages": [
       "Tamil"
     ],
-    "imdbId": "tt0091795",
+    "imdbId": "tt39052798",
     "name": "Promise",
     "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BNjhlM2MyMTMtNjAwOS00NzNlLTk1YTEtZmVhN2ZhZmUyYWYxXkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BNjhlM2MyMTMtNjAwOS00NzNlLTk1YTEtZmVhN2ZhZmUyYWYxXkEyXkFqcGc@._V1_SX250.jpg"
+    "poster": "https://m.media-amazon.com/images/M/MV5BNjI2YjYxNjQtMDk5My00YWU2LTkzNTQtODkyNTFkMjBiOGY0XkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BNjI2YjYxNjQtMDk5My00YWU2LTkzNTQtODkyNTFkMjBiOGY0XkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "d93e7f04e35dc441595909e577d4c308",
@@ -5221,12 +5218,7 @@
     "rawText": "Chandrappann (2026) Telugu HD + ESub - [1080p & 720p - AVC / HEVC - (DD+2.0 - 224Kbps) - 2.6GB + Rips]",
     "languages": [
       "Telugu"
-    ],
-    "imdbId": "tt43596525",
-    "name": "Chandrappann",
-    "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BNmQ3ZGIzNjYtNDUwMS00MDBjLTgwYmItZmJlMzc2YzllNTdkXkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BNmQ3ZGIzNjYtNDUwMS00MDBjLTgwYmItZmJlMzc2YzllNTdkXkEyXkFqcGc@._V1_SX250.jpg"
+    ]
   },
   {
     "id": "6ca05e54a008901820c7fd2dfa34ac44",
@@ -5261,19 +5253,7 @@
     "rawText": "Matchbox The Movie (2026) English HD + ESub - [1080p & 720p - AVC - (DD+5.1 ATMOS - 768Kbps) - 2.9GB + Rips]",
     "languages": [
       "Tamil"
-    ],
-    "imdbId": "tt32560777",
-    "name": "Plankton: The Movie",
-    "year": "2025",
-    "poster": "https://images.metahub.space/poster/small/tt32560777/img",
-    "thumbnail": "https://images.metahub.space/poster/small/tt32560777/img",
-    "genres": [
-      "Animation",
-      "Adventure",
-      "Comedy"
-    ],
-    "description": "When Karen the Computer decides to take over the world, it's up to Plankton to stop her - with a little help from SpongeBob and the Gal Pals (Pearl, Sandy, and Mrs. Puff).",
-    "imdbRating": "5.3"
+    ]
   },
   {
     "id": "6ba20cbf991d71765f62a195167610ae",
@@ -6497,12 +6477,7 @@
       "Telugu",
       "Hindi",
       "Multi-Lang"
-    ],
-    "imdbId": "tt2461150",
-    "name": "Masterminds",
-    "year": 1997,
-    "poster": "https://m.media-amazon.com/images/M/MV5BMTYzMTY5Mzg1Ml5BMl5BanBnXkFtZTgwNTUzODUwNjE@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BMTYzMTY5Mzg1Ml5BMl5BanBnXkFtZTgwNTUzODUwNjE@._V1_SX250.jpg"
+    ]
   },
   {
     "id": "9a8c506202079398b78b09bf0892c64d",
@@ -7703,8 +7678,8 @@
     "imdbId": "tt36983905",
     "name": "The Uprising",
     "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BZjExZjU5NmMtZDhkYi00YmIzLWFiMmYtZjM5NGZiYjc4MDM4XkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BZjExZjU5NmMtZDhkYi00YmIzLWFiMmYtZjM5NGZiYjc4MDM4XkEyXkFqcGc@._V1_SX250.jpg"
+    "poster": "https://m.media-amazon.com/images/M/MV5BYmNiZjVhOGItZTUxMi00MDUwLWJlNDItYTg2MTViZmQzMmU0XkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BYmNiZjVhOGItZTUxMi00MDUwLWJlNDItYTg2MTViZmQzMmU0XkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "2d0ebf5d0ad38593cde62dfa0a26d25e",
@@ -8038,7 +8013,12 @@
     "rawText": "Bombay Stories (2026) Hindi HD + ESub - [1080p & 720p - AVC - (DD+5.1 - 640Kbps) - 2.2GB + Rips]",
     "languages": [
       "Hindi"
-    ]
+    ],
+    "imdbId": "tt42481138",
+    "name": "Bombay Stories",
+    "year": 2026,
+    "poster": "https://m.media-amazon.com/images/M/MV5BNmViYjA1ODAtZmZiYy00NzJlLTk2MzQtOWE2NDE0YTc2ZTBlXkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BNmViYjA1ODAtZmZiYy00NzJlLTk2MzQtOWE2NDE0YTc2ZTBlXkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "5a4a96066d58c59fb8ad071b09afdf17",
@@ -8937,7 +8917,7 @@
       "Thriller"
     ],
     "description": "Follows a prehistoric arachnid that terrifies a stranded group of campers who hike into the wrong woods. Based on the spine-tingling horror novel from the actor best known as \"Murr\" on TV's Impractical Jokers.",
-    "imdbRating": "4.6"
+    "imdbRating": "6.7"
   },
   {
     "id": "58deb6dfb62e77f3a5cfae3e3b0449e4",
@@ -9978,12 +9958,7 @@
       "Telugu",
       "Hindi",
       "Multi-Lang"
-    ],
-    "imdbId": "tt0944835",
-    "name": "Salt",
-    "year": 2010,
-    "poster": "https://m.media-amazon.com/images/M/MV5BMjIyODA2NDg4NV5BMl5BanBnXkFtZTcwMjg4NDAwMw@@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BMjIyODA2NDg4NV5BMl5BanBnXkFtZTcwMjg4NDAwMw@@._V1_SX250.jpg"
+    ]
   },
   {
     "id": "ce344907bd91f2925ff0f6ef818fdc4a",
@@ -10051,17 +10026,7 @@
     "rawText": "Boys (2003) Tamil Remastered UHD + ESub - [4K, 1080p & 720p - AVC / HEVC - (DD+5.1 - 192Kbps) - 8.2GB + Rips]",
     "languages": [
       "Tamil"
-    ],
-    "imdbId": "tt0279781",
-    "name": "Sorority Boys",
-    "year": "2002",
-    "poster": "https://images.metahub.space/poster/small/tt0279781/img",
-    "thumbnail": "https://images.metahub.space/poster/small/tt0279781/img",
-    "genres": [
-      "Comedy"
-    ],
-    "description": "Strapped for cash, three fraternity playboys make one last attempt to live the high life - cheaply - by masquerading as girls. But their chauvinistic ways come back to haunt them as they get a crash course in the opposite sex.",
-    "imdbRating": "5.5"
+    ]
   },
   {
     "id": "3d4641fd0bfdeee21b865c7e7d0f95e9",
@@ -10709,17 +10674,11 @@
       "Hindi",
       "Multi-Lang"
     ],
-    "imdbId": "tt0026246",
+    "imdbId": "tt0064839",
     "name": "Crime and Punishment",
-    "year": "1936",
-    "poster": "https://images.metahub.space/poster/small/tt0026246/img",
-    "thumbnail": "https://images.metahub.space/poster/small/tt0026246/img",
-    "genres": [
-      "Crime",
-      "Drama"
-    ],
-    "description": "A young man is haunted by the murder of a neighborhood pawn broker and hounded by the local police inspector who suspects that he is guilty.",
-    "imdbRating": "6.9"
+    "year": 1935,
+    "poster": "https://m.media-amazon.com/images/M/MV5BODI1NzZlNDItNzhjMC00NzBjLThkNzYtYzE3NzU1Zjk4MmNhXkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BODI1NzZlNDItNzhjMC00NzBjLThkNzYtYzE3NzU1Zjk4MmNhXkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "62c716ea7d1adee11783a2e7652e3969",
@@ -12055,9 +12014,16 @@
     ],
     "imdbId": "tt0297284",
     "name": "Mindhunters",
-    "year": 2004,
-    "poster": "https://m.media-amazon.com/images/M/MV5BY2EzNGRhYjktOTFkYy00NDdlLTk3NDAtYzFhNzBkZmRhYmE1XkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BY2EzNGRhYjktOTFkYy00NDdlLTk3NDAtYzFhNzBkZmRhYmE1XkEyXkFqcGc@._V1_SX250.jpg"
+    "year": "2005",
+    "poster": "https://images.metahub.space/poster/small/tt0297284/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt0297284/img",
+    "genres": [
+      "Crime",
+      "Horror",
+      "Thriller"
+    ],
+    "description": "A group of FBI trainees are taken to a remote island for simulation training. However, once there, they realize that they are being hunted by a serial killer, who might be someone amidst them.",
+    "imdbRating": "6.3"
   },
   {
     "id": "0ddbe0ef723b27fe52a37e7127ec8a59",
@@ -13477,12 +13443,7 @@
       "Telugu",
       "Hindi",
       "Multi-Lang"
-    ],
-    "imdbId": "tt30691214",
-    "name": "Forbidden Fruits",
-    "year": 1932,
-    "poster": "https://m.media-amazon.com/images/M/MV5BMDA1MDRhOTAtMmFjNi00MmUwLWI4MjYtY2ExN2U0YmYwMmQwXkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BMDA1MDRhOTAtMmFjNi00MmUwLWI4MjYtY2ExN2U0YmYwMmQwXkEyXkFqcGc@._V1_SX250.jpg"
+    ]
   },
   {
     "id": "c4f3e9906ba378e2e4fffcc735b342ab",
@@ -13603,11 +13564,11 @@
     "languages": [
       "Tamil"
     ],
-    "imdbId": "tt28541577",
-    "name": "Sardar 2",
+    "imdbId": "tt14526318",
+    "name": "Sardar",
     "year": 2022,
-    "poster": "https://m.media-amazon.com/images/M/MV5BNTMzNjZkODEtNjRiMS00MjFiLWE0YWYtOGQ5ZGVlODQ1NDVmXkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BNTMzNjZkODEtNjRiMS00MjFiLWE0YWYtOGQ5ZGVlODQ1NDVmXkEyXkFqcGc@._V1_SX250.jpg"
+    "poster": "https://m.media-amazon.com/images/M/MV5BOTYzMTEzYmEtZDdjZS00YzdiLWE5MzgtOTRmZmIwYjQ4YzFiXkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BOTYzMTEzYmEtZDdjZS00YzdiLWE5MzgtOTRmZmIwYjQ4YzFiXkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "af226ba194a8d9bb0150b04241ec1e33",
@@ -13939,12 +13900,7 @@
       "Tamil",
       "Hindi",
       "Multi-Lang"
-    ],
-    "imdbId": "tt2229842",
-    "name": "Table No. 21",
-    "year": 2013,
-    "poster": "https://m.media-amazon.com/images/M/MV5BZDEwOThkNTctZjQ4OS00OGVhLWFkMWEtNTJhNDYyODc4Zjc3XkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BZDEwOThkNTctZjQ4OS00OGVhLWFkMWEtNTJhNDYyODc4Zjc3XkEyXkFqcGc@._V1_SX250.jpg"
+    ]
   },
   {
     "id": "83381c6a24dc234d7542ea6884648f27",
@@ -13988,7 +13944,12 @@
       "Telugu",
       "Hindi",
       "Multi-Lang"
-    ]
+    ],
+    "imdbId": "tt0381061",
+    "name": "Casino Royale",
+    "year": 2006,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMWQ1ZDM4NDktMWY0NC00MjcxLWJlMDMtNmE2MGVhYzRjMWQ0XkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BMWQ1ZDM4NDktMWY0NC00MjcxLWJlMDMtNmE2MGVhYzRjMWQ0XkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "85a920b42aa33a50bd5c0e9e04c9a8e1",
@@ -14136,7 +14097,7 @@
       "Documentary"
     ],
     "description": "They were the \"other\" Band of Brothers. A Company of Heroes features interviews with many of the men not focused on in the book \"Band of Brothers\" by Stephen Ambrose or in the television mini-series by the same name. Never before ...",
-    "imdbRating": "8.3"
+    "imdbRating": "7.8"
   },
   {
     "id": "6d07adc5abefda7741b76aef87a6cd37",
@@ -16431,12 +16392,7 @@
     "rawText": "Bandar (2026) Hindi HD + ESub - [1080p & 720p - AVC - (DD+5.1 ATMOS - 448Kbps) - 2.4GB + Rips]",
     "languages": [
       "Hindi"
-    ],
-    "imdbId": "tt32389930",
-    "name": "Bandar",
-    "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BOThjOTk0N2MtMjQyMC00MDg5LWExNzItYTgyMjQ2MGZlNTIxXkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BOThjOTk0N2MtMjQyMC00MDg5LWExNzItYTgyMjQ2MGZlNTIxXkEyXkFqcGc@._V1_SX250.jpg"
+    ]
   },
   {
     "id": "a3368a6f500db49476f1eddd0ebadc8f",
@@ -17045,6 +17001,55 @@
     "thumbnail": "https://m.media-amazon.com/images/M/MV5BN2ExZGI4MTYtMDcwNi00ZTRlLWIyMDktZDc4NDFhOTdkNzFmXkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
+    "id": "64e18d4afe5e242516dae5af9c4a4d9b",
+    "rawTitle": "Evil Dead Burn (2026)",
+    "titleGuess": "Evil Dead Burn",
+    "yearGuess": 2026,
+    "pageUrl": "https://www.1tamilmv.solar/index.php?/forums/topic/199413-evil-dead-burn-2026-hd-original-audios-1080p-720p-x264-dd51-640kbps-tamil-telugu-hindi-eng-24gb-14gb-x264-tamil-telugu-hindi-450mb-esub/",
+    "qualities": [
+      {
+        "quality": "1080p AVC",
+        "size": "3.4GB",
+        "type": "magnet",
+        "url": "magnet:?xt=urn:btih:a9011b2c3703c66d01bdf61b91321b173ad4b4d7&dn=www.1TamilMV.ing%20-%20Evil%20Dead%20Burn%20%282026%29%20HQ%20HDRip%20-%201080p%20-%20x264%20-%20%5BTam%20%2B%20Tel%20%2B%20Hin%20%2B%20Eng%5D%20-%20%28DD%2B5.1%20-%20192Kbps%29%20-%203.4GB%20-%20ESub.mkv&xl=3824082950&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Ftracker.dler.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=https%3A%2F%2Ftracker.zhuqiy.com%3A443%2Fannounce&tr=https%3A%2F%2Ftracker.pmman.tech%3A443%2Fannounce&tr=udp%3A%2F%2Ftracker.corpscorp.online%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentorrent.top%3A6969%2Fannounce&tr=http%3A%2F%2Ftracker.mywaifu.best%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.dler.com%3A6969%2Fannounce&tr=http%3A%2F%2Ftracker.ipv6tracker.ru%3A80%2Fannounce&tr=udp%3A%2F%2Fbittorrent-tracker.e-n-c-r-y-p-t.net%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.publictracker.xyz%3A6969%2Fannounce&tr=http%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.wildkat.net%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.qu.ax%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.peerfect.org%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.opentorrent.top%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.filemail.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Fexplodie.org%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.filebase.online%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.moeking.me%3A6969%2Fannounce&tr=udp%3A%2F%2Fp4p.arenabg.com%3A1337%2Fannounce",
+        "languages": [
+          "Tamil",
+          "Telugu",
+          "Hindi",
+          "Multi-Lang"
+        ],
+        "seeders": 100,
+        "leechers": 10
+      },
+      {
+        "quality": "720p AVC",
+        "size": "1.5GB",
+        "type": "magnet",
+        "url": "magnet:?xt=urn:btih:cb1cf9a648b9efd8ab165e0261775fb23eebe9bc&dn=www.1TamilMV.ing%20-%20Evil%20Dead%20Burn%20%282026%29%20HQ%20HDRip%20-%20720p%20-%20x264%20-%20%5BTam%20%2B%20Tel%20%2B%20Hin%20%2B%20Eng%5D%20-%20%28DD%2B5.1%20-%20192Kbps%29%20-%201.5GB%20-%20ESub.mkv&xl=1715309278&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Ftracker.dler.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=https%3A%2F%2Ftracker.zhuqiy.com%3A443%2Fannounce&tr=https%3A%2F%2Ftracker.pmman.tech%3A443%2Fannounce&tr=udp%3A%2F%2Ftracker.corpscorp.online%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentorrent.top%3A6969%2Fannounce&tr=http%3A%2F%2Ftracker.mywaifu.best%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.dler.com%3A6969%2Fannounce&tr=http%3A%2F%2Ftracker.ipv6tracker.ru%3A80%2Fannounce&tr=udp%3A%2F%2Fbittorrent-tracker.e-n-c-r-y-p-t.net%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.publictracker.xyz%3A6969%2Fannounce&tr=http%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.wildkat.net%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.qu.ax%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.peerfect.org%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.opentorrent.top%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.filemail.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Fexplodie.org%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.filebase.online%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.moeking.me%3A6969%2Fannounce&tr=udp%3A%2F%2Fp4p.arenabg.com%3A1337%2Fannounce",
+        "languages": [
+          "Tamil",
+          "Telugu",
+          "Hindi",
+          "Multi-Lang"
+        ],
+        "seeders": 100,
+        "leechers": 10
+      }
+    ],
+    "rawText": "Evil Dead Burn (2026) (UHD + Org Auds) - [4K, 1080p & 720p - x264 - (Tamil + Teugu + Hindi + Eng) - 6.5GB + Rips] - [W]",
+    "languages": [
+      "Tamil",
+      "Telugu",
+      "Hindi",
+      "Multi-Lang"
+    ],
+    "imdbId": "tt31170389",
+    "name": "Evil Dead Burn",
+    "year": 2026,
+    "poster": "https://m.media-amazon.com/images/M/MV5BZTljMTZjZTItZjMzZi00NDBhLWFmMzAtOGNiNTlhY2MxMzg5XkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BZTljMTZjZTItZjMzZi00NDBhLWFmMzAtOGNiNTlhY2MxMzg5XkEyXkFqcGc@._V1_SX250.jpg"
+  },
+  {
     "id": "e550b472667db2fd998bf8b5cca5b413",
     "rawTitle": "Pugaippadam 8 x 10 Tasveer (2009)",
     "titleGuess": "Pugaippadam 8 x 10 Tasveer",
@@ -17188,16 +17193,9 @@
     ],
     "imdbId": "tt0455362",
     "name": "The Breed",
-    "year": "2007",
-    "poster": "https://images.metahub.space/poster/small/tt0455362/img",
-    "thumbnail": "https://images.metahub.space/poster/small/tt0455362/img",
-    "genres": [
-      "Action",
-      "Comedy",
-      "Horror"
-    ],
-    "description": "A group of five college kids are forced to match wits with unwelcoming residents when they fly to a \"deserted\" island for a party weekend.",
-    "imdbRating": "5.1"
+    "year": 2006,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjg5ODA5MzAxMV5BMl5BanBnXkFtZTgwMzkyNDM2MTI@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BMjg5ODA5MzAxMV5BMl5BanBnXkFtZTgwMzkyNDM2MTI@._V1_SX250.jpg"
   },
   {
     "id": "44113667cb04be2483cc9ef0ad75e2c3",
@@ -18215,11 +18213,12 @@
       "Tamil",
       "Telugu"
     ],
-    "imdbId": "tt38916037",
-    "name": "Lenin Pandiyan",
-    "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BMDkwMGE4MDctZDUxNS00MTYwLWFjNTQtNDZhMmMzYTg2OTViXkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BMDkwMGE4MDctZDUxNS00MTYwLWFjNTQtNDZhMmMzYTg2OTViXkEyXkFqcGc@._V1_SX250.jpg"
+    "imdbId": "tt5256640",
+    "name": "Lenin",
+    "year": "2017",
+    "poster": "https://images.metahub.space/poster/small/tt5256640/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt5256640/img",
+    "genres": []
   },
   {
     "id": "68aed7f241b44bdcc1cfca6a6ce1fb99",
@@ -18331,8 +18330,8 @@
     "imdbId": "tt23790696",
     "name": "The Raja Saab",
     "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BMDg4ODMzZjAtOGI0MS00Y2I3LWFkM2MtNzQ5MDI2MDE5ZTAwXkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BMDg4ODMzZjAtOGI0MS00Y2I3LWFkM2MtNzQ5MDI2MDE5ZTAwXkEyXkFqcGc@._V1_SX250.jpg"
+    "poster": "https://m.media-amazon.com/images/M/MV5BOTc5Mjk4ZDQtM2Y4Zi00YTZmLTkxYmUtYWMwNzk3NDBkOGQzXkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BOTc5Mjk4ZDQtM2Y4Zi00YTZmLTkxYmUtYWMwNzk3NDBkOGQzXkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "a609550fc9b826a641d06ee1c5153666",
@@ -19850,18 +19849,11 @@
       "Hindi",
       "Multi-Lang"
     ],
-    "imdbId": "tt4419684",
-    "name": "In the Lost Lands",
-    "year": "2025",
-    "poster": "https://images.metahub.space/poster/small/tt4419684/img",
-    "thumbnail": "https://images.metahub.space/poster/small/tt4419684/img",
-    "genres": [
-      "Action",
-      "Adventure",
-      "Fantasy"
-    ],
-    "description": "A queen sends the powerful and feared sorceress Gray Alys to the ghostly wilderness of the Lost Lands in search of a magical power, where the sorceress and her guide, the drifter Boyce, must outwit and outfight man and demon.",
-    "imdbRating": "4.7"
+    "imdbId": "tt27681354",
+    "name": "In the Grey",
+    "year": 2026,
+    "poster": "https://m.media-amazon.com/images/M/MV5BOGFlYTk3M2ItNmY4Zi00ZmI2LWIzMjQtY2EyNTY4MzNkOTNiXkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BOGFlYTk3M2ItNmY4Zi00ZmI2LWIzMjQtY2EyNTY4MzNkOTNiXkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "3dcf65d8a5164c48c8e15d21068c5ca0",
@@ -20033,12 +20025,7 @@
     "rawText": "Bharat Bhhagya Viddhaata (2026) Hindi HD + ESub - [4K, 1080p & 720p - AVC / HEVC - (DD+5.1 - 192Kbps) - 2GB + Rips]",
     "languages": [
       "Hindi"
-    ],
-    "imdbId": "tt33334267",
-    "name": "Bharat Bhhagya Viddhaata",
-    "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BOTUwMjIwY2YtZTUyNy00MjhlLTk2OTItMDg0NWY1ZmFmNzNmXkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BOTUwMjIwY2YtZTUyNy00MjhlLTk2OTItMDg0NWY1ZmFmNzNmXkEyXkFqcGc@._V1_SX250.jpg"
+    ]
   },
   {
     "id": "52737abb6ce057de057053681ec235e6",
@@ -20411,19 +20398,7 @@
       "Telugu",
       "Hindi",
       "Multi-Lang"
-    ],
-    "imdbId": "tt18073328",
-    "name": "Blood & Gold",
-    "year": "2023",
-    "poster": "https://images.metahub.space/poster/small/tt18073328/img",
-    "thumbnail": "https://images.metahub.space/poster/small/tt18073328/img",
-    "genres": [
-      "Action",
-      "Drama",
-      "War"
-    ],
-    "description": "At the end of World War II, a German soldier is looking for his daughter while an SS troop is looking for a Jewish treasure.",
-    "imdbRating": "6.5"
+    ]
   },
   {
     "id": "638cfaa36eb2ea3a8dd1e8fe7af23786",
@@ -21189,12 +21164,7 @@
       "Telugu",
       "Hindi",
       "Multi-Lang"
-    ],
-    "imdbId": "tt32268156",
-    "name": "The Last House",
-    "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BNGVlY2E3YjYtMDI3OC00OTZjLWE5MTgtNzQ2NDdlNjMwMzVhXkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BNGVlY2E3YjYtMDI3OC00OTZjLWE5MTgtNzQ2NDdlNjMwMzVhXkEyXkFqcGc@._V1_SX250.jpg"
+    ]
   },
   {
     "id": "3e5bf3c573012aca969359fda676b7a1",
