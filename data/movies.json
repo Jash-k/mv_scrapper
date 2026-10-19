@@ -493,12 +493,7 @@
       "Telugu",
       "Hindi",
       "Multi-Lang"
-    ],
-    "imdbId": "tt0101540",
-    "name": "Cape Fear",
-    "year": 1991,
-    "poster": "https://m.media-amazon.com/images/M/MV5BNTBkNTYwZTctOTgxYS00ZmIyLTgzNDAtODJhZjg2MDUwNmFlXkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BNTBkNTYwZTctOTgxYS00ZmIyLTgzNDAtODJhZjg2MDUwNmFlXkEyXkFqcGc@._V1_SX250.jpg"
+    ]
   },
   {
     "id": "f9509d916e3971b0f01cd283001579d8",
@@ -2529,7 +2524,12 @@
     "rawText": "4 Idiots (2026) Tamil HD + ESub - [1080p & 720p - AVC / HEVC - (DD+5.1 - 192Kbps) - 2.9GB + Rips]",
     "languages": [
       "Tamil"
-    ]
+    ],
+    "imdbId": "tt38947564",
+    "name": "4 Idiots",
+    "year": 2026,
+    "poster": "https://m.media-amazon.com/images/M/MV5BNTUwMDUxYjktYTQ2OC00ODdhLTg1NGEtMTc4ZmE3NGFlYzU5XkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BNTUwMDUxYjktYTQ2OC00ODdhLTg1NGEtMTc4ZmE3NGFlYzU5XkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "ef80a44766f0ad7931e1ceb3f8e1cfbf",
@@ -4416,7 +4416,12 @@
     "rawText": "Thoonga Nagaram (2011) Tamil HD + ESub - [1080p & 720p - AVC / HEVC - (DD+5.1 - 640Kbps) - 10GB + Rips]",
     "languages": [
       "Tamil"
-    ]
+    ],
+    "imdbId": "tt1927165",
+    "name": "Thoonga Nagaram",
+    "year": 2011,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjUxNzI1YmEtNjFiNC00YmQ2LWJmMDEtZWE5MDQ2YzE3MGRiXkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BMjUxNzI1YmEtNjFiNC00YmQ2LWJmMDEtZWE5MDQ2YzE3MGRiXkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "cc383c008c191dc3a12cc16f1519eb77",
@@ -6444,11 +6449,11 @@
       "Telugu",
       "Multi-Lang"
     ],
-    "imdbId": "tt1147509",
-    "name": "Doraemon: Nobita and the Castle of the Undersea Devil",
+    "imdbId": "tt38201958",
+    "name": "Doraemon: Nobita and the New Castle of the Undersea Devil",
     "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BMGMyYzgyN2YtM2E3My00NzgwLWE1ZTMtODFlOTg0N2YyODgxXkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BMGMyYzgyN2YtM2E3My00NzgwLWE1ZTMtODFlOTg0N2YyODgxXkEyXkFqcGc@._V1_SX250.jpg"
+    "poster": "https://m.media-amazon.com/images/M/MV5BNTZlMzRjZTUtZDVjNi00ODFiLWFmMzEtMzQ1ODIwOWQ3YjIwXkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BNTZlMzRjZTUtZDVjNi00ODFiLWFmMzEtMzQ1ODIwOWQ3YjIwXkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "4777a14620cd3b5e462438ee3331266c",
@@ -6495,9 +6500,16 @@
     ],
     "imdbId": "tt2461150",
     "name": "Masterminds",
-    "year": 1997,
-    "poster": "https://m.media-amazon.com/images/M/MV5BMTYzMTY5Mzg1Ml5BMl5BanBnXkFtZTgwNTUzODUwNjE@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BMTYzMTY5Mzg1Ml5BMl5BanBnXkFtZTgwNTUzODUwNjE@._V1_SX250.jpg"
+    "year": "2015",
+    "poster": "https://images.metahub.space/poster/small/tt2461150/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt2461150/img",
+    "genres": [
+      "Biography",
+      "Comedy",
+      "Crime"
+    ],
+    "description": "A guard at an armored car company in the Southern U.S. organizes one of the biggest bank heists in American history.",
+    "imdbRating": "5.8"
   },
   {
     "id": "9a8c506202079398b78b09bf0892c64d",
@@ -7499,12 +7511,7 @@
     "rawText": "Ameer Log (2026) Telugu HD + ESub - [1080p & 720p - AVC / HEVC - (DD+5.1 - 640Kbps) - 2.9GB + Rips]",
     "languages": [
       "Telugu"
-    ],
-    "imdbId": "tt43635242",
-    "name": "Ameer Log",
-    "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BNDMyODIxMTYtMzQ4YS00OThkLTljM2EtZWNkN2I0NWI4OTI5XkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BNDMyODIxMTYtMzQ4YS00OThkLTljM2EtZWNkN2I0NWI4OTI5XkEyXkFqcGc@._V1_SX250.jpg"
+    ]
   },
   {
     "id": "3fd13e02362d951a2950672d76002dd1",
@@ -7916,7 +7923,19 @@
       "Telugu",
       "Hindi",
       "Multi-Lang"
-    ]
+    ],
+    "imdbId": "tt3322940",
+    "name": "Annabelle",
+    "year": "2014",
+    "poster": "https://images.metahub.space/poster/small/tt3322940/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt3322940/img",
+    "genres": [
+      "Horror",
+      "Mystery",
+      "Thriller"
+    ],
+    "description": "A couple begins to experience terrifying supernatural occurrences involving a vintage doll shortly after their home is invaded by satanic cultists.",
+    "imdbRating": "5.5"
   },
   {
     "id": "a3beb508f8d55d3e4663f657d5a8442d",
@@ -10677,17 +10696,11 @@
       "Hindi",
       "Multi-Lang"
     ],
-    "imdbId": "tt0026246",
+    "imdbId": "tt0064839",
     "name": "Crime and Punishment",
-    "year": "1936",
-    "poster": "https://images.metahub.space/poster/small/tt0026246/img",
-    "thumbnail": "https://images.metahub.space/poster/small/tt0026246/img",
-    "genres": [
-      "Crime",
-      "Drama"
-    ],
-    "description": "A young man is haunted by the murder of a neighborhood pawn broker and hounded by the local police inspector who suspects that he is guilty.",
-    "imdbRating": "6.9"
+    "year": 1935,
+    "poster": "https://m.media-amazon.com/images/M/MV5BODI1NzZlNDItNzhjMC00NzBjLThkNzYtYzE3NzU1Zjk4MmNhXkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BODI1NzZlNDItNzhjMC00NzBjLThkNzYtYzE3NzU1Zjk4MmNhXkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "62c716ea7d1adee11783a2e7652e3969",
@@ -11486,12 +11499,7 @@
       "Telugu",
       "Hindi",
       "Multi-Lang"
-    ],
-    "imdbId": "tt41228546",
-    "name": "Sultana",
-    "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BNWYxNzhkY2UtYzA0Mi00YjlmLTlkZDEtZGU4OGQ1MTEwNjg4XkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BNWYxNzhkY2UtYzA0Mi00YjlmLTlkZDEtZGU4OGQ1MTEwNjg4XkEyXkFqcGc@._V1_SX250.jpg"
+    ]
   },
   {
     "id": "06f1821a1f25047cf688f7834b20e6a1",
@@ -12023,9 +12031,16 @@
     ],
     "imdbId": "tt0297284",
     "name": "Mindhunters",
-    "year": 2004,
-    "poster": "https://m.media-amazon.com/images/M/MV5BY2EzNGRhYjktOTFkYy00NDdlLTk3NDAtYzFhNzBkZmRhYmE1XkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BY2EzNGRhYjktOTFkYy00NDdlLTk3NDAtYzFhNzBkZmRhYmE1XkEyXkFqcGc@._V1_SX250.jpg"
+    "year": "2005",
+    "poster": "https://images.metahub.space/poster/small/tt0297284/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt0297284/img",
+    "genres": [
+      "Crime",
+      "Horror",
+      "Thriller"
+    ],
+    "description": "A group of FBI trainees are taken to a remote island for simulation training. However, once there, they realize that they are being hunted by a serial killer, who might be someone amidst them.",
+    "imdbRating": "6.3"
   },
   {
     "id": "0ddbe0ef723b27fe52a37e7127ec8a59",
@@ -13571,11 +13586,11 @@
     "languages": [
       "Tamil"
     ],
-    "imdbId": "tt14526318",
-    "name": "Sardar",
+    "imdbId": "tt28541577",
+    "name": "Sardar 2",
     "year": 2022,
-    "poster": "https://m.media-amazon.com/images/M/MV5BOTYzMTEzYmEtZDdjZS00YzdiLWE5MzgtOTRmZmIwYjQ4YzFiXkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BOTYzMTEzYmEtZDdjZS00YzdiLWE5MzgtOTRmZmIwYjQ4YzFiXkEyXkFqcGc@._V1_SX250.jpg"
+    "poster": "https://m.media-amazon.com/images/M/MV5BNTMzNjZkODEtNjRiMS00MjFiLWE0YWYtOGQ5ZGVlODQ1NDVmXkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BNTMzNjZkODEtNjRiMS00MjFiLWE0YWYtOGQ5ZGVlODQ1NDVmXkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "af226ba194a8d9bb0150b04241ec1e33",
@@ -14109,7 +14124,7 @@
       "Documentary"
     ],
     "description": "They were the \"other\" Band of Brothers. A Company of Heroes features interviews with many of the men not focused on in the book \"Band of Brothers\" by Stephen Ambrose or in the television mini-series by the same name. Never before ...",
-    "imdbRating": "8.3"
+    "imdbRating": "7.8"
   },
   {
     "id": "6d07adc5abefda7741b76aef87a6cd37",
@@ -14733,7 +14748,7 @@
       "Comedy"
     ],
     "description": "A Texas tech start-up breaks every crowdfunding record in the books, but they lose it all when a patent troll shuts them down. Refusing to go down without a fight, our heroes use a legal loophole to beat the trolls at their own ga...",
-    "imdbRating": "5.4"
+    "imdbRating": "5.9"
   },
   {
     "id": "4a5c08ebab7dcc8432868c211dee3cb9",
@@ -18077,17 +18092,7 @@
       "Telugu",
       "Hindi",
       "Multi-Lang"
-    ],
-    "imdbId": "tt36958312",
-    "name": "The Devil's Mouth",
-    "year": "2026",
-    "poster": "https://images.metahub.space/poster/small/tt36958312/img",
-    "thumbnail": "https://images.metahub.space/poster/small/tt36958312/img",
-    "genres": [
-      "Horror",
-      "Thriller"
-    ],
-    "description": "A group of college friends' Thailand adventure turns deadly when they become trapped in submerged caves with a dangerous predator. As oxygen runs low, past conflicts emerge in their desperate fight for survival."
+    ]
   },
   {
     "id": "4bd03ce2ca046b044a2e08084d3b17ef",
@@ -18237,11 +18242,12 @@
       "Tamil",
       "Telugu"
     ],
-    "imdbId": "tt38916037",
-    "name": "Lenin Pandiyan",
-    "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BMDkwMGE4MDctZDUxNS00MTYwLWFjNTQtNDZhMmMzYTg2OTViXkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BMDkwMGE4MDctZDUxNS00MTYwLWFjNTQtNDZhMmMzYTg2OTViXkEyXkFqcGc@._V1_SX250.jpg"
+    "imdbId": "tt5256640",
+    "name": "Lenin",
+    "year": "2017",
+    "poster": "https://images.metahub.space/poster/small/tt5256640/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt5256640/img",
+    "genres": []
   },
   {
     "id": "68aed7f241b44bdcc1cfca6a6ce1fb99",
@@ -18276,7 +18282,12 @@
     "rawText": "Pagida Kali (2026) Malayalam HD + ESub - [1080p & 720p - AVC - (DD+5.1 - 192Kbps) - 2.2GB + Rips]",
     "languages": [
       "Malayalam"
-    ]
+    ],
+    "imdbId": "tt40620387",
+    "name": "Pagida Kali",
+    "year": 2026,
+    "poster": "https://images.metahub.space/poster/small/tt40620387/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt40620387/img"
   },
   {
     "id": "66765d7aa3ab5e3df6c70a33ab5ca2b2",
@@ -19818,17 +19829,13 @@
       "Hindi",
       "Multi-Lang"
     ],
-    "imdbId": "tt24131660",
-    "name": "Bring Him to Me",
-    "year": "2024",
-    "poster": "https://images.metahub.space/poster/small/tt24131660/img",
-    "thumbnail": "https://images.metahub.space/poster/small/tt24131660/img",
-    "genres": [
-      "Crime",
-      "Thriller"
-    ],
-    "description": "Loyalties and morals collide when a getaway driver transports a passenger to an uncertain fate.",
-    "imdbRating": "5.3"
+    "imdbId": "tt34682204",
+    "name": "Swim to Me",
+    "year": "2025",
+    "poster": "https://images.metahub.space/poster/small/tt34682204/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt34682204/img",
+    "genres": [],
+    "description": "Estela, a young woman from rural Chile, embarks on a journey to Santiago, leaving her family behind to work as a maid for an affluent household."
   },
   {
     "id": "0c1b4475bd05c1ca61add24f07e0467a",
@@ -20428,18 +20435,11 @@
       "Hindi",
       "Multi-Lang"
     ],
-    "imdbId": "tt18073328",
-    "name": "Blood & Gold",
-    "year": "2023",
-    "poster": "https://images.metahub.space/poster/small/tt18073328/img",
-    "thumbnail": "https://images.metahub.space/poster/small/tt18073328/img",
-    "genres": [
-      "Action",
-      "Drama",
-      "War"
-    ],
-    "description": "At the end of World War II, a German soldier is looking for his daughter while an SS troop is looking for a Jewish treasure.",
-    "imdbRating": "6.5"
+    "imdbId": "tt1800302",
+    "name": "Gold",
+    "year": 2022,
+    "poster": "https://m.media-amazon.com/images/M/MV5BNzI1NjI5OTUyM15BMl5BanBnXkFtZTgwOTM4NzY2MDI@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BNzI1NjI5OTUyM15BMl5BanBnXkFtZTgwOTM4NzY2MDI@._V1_SX250.jpg"
   },
   {
     "id": "638cfaa36eb2ea3a8dd1e8fe7af23786",
@@ -20484,11 +20484,18 @@
       "Hindi",
       "Multi-Lang"
     ],
-    "imdbId": "tt2461132",
-    "name": "Happy New Year",
-    "year": 1987,
-    "poster": "https://m.media-amazon.com/images/M/MV5BYjc3MjY0NzctMGYwNy00ZGYyLThiOTctMjI1MWRkNmU3ZWNiXkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BYjc3MjY0NzctMGYwNy00ZGYyLThiOTctMjI1MWRkNmU3ZWNiXkEyXkFqcGc@._V1_SX250.jpg"
+    "imdbId": "tt0092676",
+    "name": "Bloody New Year",
+    "year": "1987",
+    "poster": "https://images.metahub.space/poster/small/tt0092676/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt0092676/img",
+    "genres": [
+      "Comedy",
+      "Horror",
+      "Mystery"
+    ],
+    "description": "A group of friends take refuge in an island hotel that is decorated for New Years. The problem is, it's early summer, and soon enough, even the walls themselves are striking out against them.",
+    "imdbRating": "4.5"
   },
   {
     "id": "3ece34ce58c65c1a88bb3898238d3004",
@@ -22033,6 +22040,11 @@
     "rawText": "Love Oh Love (2026) Tamil UHD + ESub - [4K, 1080p & 720p - AVC / HEVC - (DD+5.1 - 192Kbps) - 20GB + Rips]",
     "languages": [
       "Tamil"
-    ]
+    ],
+    "imdbId": "tt42203456",
+    "name": "Love Oh Love",
+    "year": 2026,
+    "poster": "https://m.media-amazon.com/images/M/MV5BYmM5M2Q4Y2YtYmZiYi00MzIxLTgzZTMtZWU3ZDA2OGE4ZWM0XkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BYmM5M2Q4Y2YtYmZiYi00MzIxLTgzZTMtZWU3ZDA2OGE4ZWM0XkEyXkFqcGc@._V1_SX250.jpg"
   }
 ]
