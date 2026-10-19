@@ -455,7 +455,12 @@
     "rawText": "4 Idiots (2026) Tamil HD + ESub - [1080p & 720p - AVC / HEVC - (DD+5.1 - 192Kbps) - 2.9GB + Rips]",
     "languages": [
       "Tamil"
-    ]
+    ],
+    "imdbId": "tt38947564",
+    "name": "4 Idiots",
+    "year": 2026,
+    "poster": "https://m.media-amazon.com/images/M/MV5BNTUwMDUxYjktYTQ2OC00ODdhLTg1NGEtMTc4ZmE3NGFlYzU5XkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BNTUwMDUxYjktYTQ2OC00ODdhLTg1NGEtMTc4ZmE3NGFlYzU5XkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "ef80a44766f0ad7931e1ceb3f8e1cfbf",
@@ -6339,9 +6344,16 @@
     ],
     "imdbId": "tt2461150",
     "name": "Masterminds",
-    "year": 1997,
-    "poster": "https://m.media-amazon.com/images/M/MV5BMTYzMTY5Mzg1Ml5BMl5BanBnXkFtZTgwNTUzODUwNjE@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BMTYzMTY5Mzg1Ml5BMl5BanBnXkFtZTgwNTUzODUwNjE@._V1_SX250.jpg"
+    "year": "2015",
+    "poster": "https://images.metahub.space/poster/small/tt2461150/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt2461150/img",
+    "genres": [
+      "Biography",
+      "Comedy",
+      "Crime"
+    ],
+    "description": "A guard at an armored car company in the Southern U.S. organizes one of the biggest bank heists in American history.",
+    "imdbRating": "5.8"
   },
   {
     "id": "9a8c506202079398b78b09bf0892c64d",
@@ -7542,8 +7554,8 @@
     "imdbId": "tt36983905",
     "name": "The Uprising",
     "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BYmNiZjVhOGItZTUxMi00MDUwLWJlNDItYTg2MTViZmQzMmU0XkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BYmNiZjVhOGItZTUxMi00MDUwLWJlNDItYTg2MTViZmQzMmU0XkEyXkFqcGc@._V1_SX250.jpg"
+    "poster": "https://m.media-amazon.com/images/M/MV5BZjExZjU5NmMtZDhkYi00YmIzLWFiMmYtZjM5NGZiYjc4MDM4XkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BZjExZjU5NmMtZDhkYi00YmIzLWFiMmYtZjM5NGZiYjc4MDM4XkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "2d0ebf5d0ad38593cde62dfa0a26d25e",
@@ -9885,17 +9897,7 @@
     "rawText": "Boys (2003) Tamil Remastered UHD + ESub - [4K, 1080p & 720p - AVC / HEVC - (DD+5.1 - 192Kbps) - 8.2GB + Rips]",
     "languages": [
       "Tamil"
-    ],
-    "imdbId": "tt0279781",
-    "name": "Sorority Boys",
-    "year": "2002",
-    "poster": "https://images.metahub.space/poster/small/tt0279781/img",
-    "thumbnail": "https://images.metahub.space/poster/small/tt0279781/img",
-    "genres": [
-      "Comedy"
-    ],
-    "description": "Strapped for cash, three fraternity playboys make one last attempt to live the high life - cheaply - by masquerading as girls. But their chauvinistic ways come back to haunt them as they get a crash course in the opposite sex.",
-    "imdbRating": "5.5"
+    ]
   },
   {
     "id": "3d4641fd0bfdeee21b865c7e7d0f95e9",
@@ -11036,7 +11038,12 @@
     "rawText": "Heer Sara (2026) Hindi HD + ESub - [1080p & 720p - AVC - (DD+5.1 - 640Kbps) - 2.2GB + Rips]",
     "languages": [
       "Hindi"
-    ]
+    ],
+    "imdbId": "tt40744412",
+    "name": "Heer Sara",
+    "year": 2026,
+    "poster": "https://m.media-amazon.com/images/M/MV5BYWIwYjI1ZDgtMDM2Yi00ODI0LWI1MmUtYzQ4NDA4YTE3Yjk2XkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BYWIwYjI1ZDgtMDM2Yi00ODI0LWI1MmUtYzQ4NDA4YTE3Yjk2XkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "8beb0f8e7744dbc33483c3e509bd935e",
@@ -13256,7 +13263,12 @@
     "rawText": "The 33 (2015) (BluRay + Org Auds) - [1080p & 720p - x264 - (Tamil + Eng) - 2.1GB + Rips]",
     "languages": [
       "Tamil"
-    ]
+    ],
+    "imdbId": "tt2006295",
+    "name": "The 33",
+    "year": 2015,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTkyNDY3NDc5NF5BMl5BanBnXkFtZTgwMzI1NDM1NjE@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BMTkyNDY3NDc5NF5BMl5BanBnXkFtZTgwMzI1NDM1NjE@._V1_SX250.jpg"
   },
   {
     "id": "1c931b782d16208485003f78536bfdc0",
@@ -14548,12 +14560,7 @@
       "Tamil",
       "Hindi",
       "Multi-Lang"
-    ],
-    "imdbId": "tt37520553",
-    "name": "President Down",
-    "year": 2025,
-    "poster": "https://m.media-amazon.com/images/M/MV5BNjNjMzM3ZjYtZWMzYy00MjUyLTg1MGQtM2VjZjliMjJlMjIxXkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BNjNjMzM3ZjYtZWMzYy00MjUyLTg1MGQtM2VjZjliMjJlMjIxXkEyXkFqcGc@._V1_SX250.jpg"
+    ]
   },
   {
     "id": "afeefc55d976dd5d3c3c16c18ce31b12",
@@ -15294,9 +15301,15 @@
     ],
     "imdbId": "tt35330717",
     "name": "The Orphans",
-    "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BMTkzNmEyZjItNGM1NC00YWUwLTgwYjktY2IxZmM5YzIzOGY2XkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BMTkzNmEyZjItNGM1NC00YWUwLTgwYjktY2IxZmM5YzIzOGY2XkEyXkFqcGc@._V1_SX250.jpg"
+    "year": "2026",
+    "poster": "https://images.metahub.space/poster/small/tt35330717/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt35330717/img",
+    "genres": [
+      "Action",
+      "Drama"
+    ],
+    "description": "Childhood friends Gabriel and Idriss have taken different paths: the former became a police inspector, while the latter joined organized crime. They reunite when their first love is involved in a suspicious road accident.",
+    "imdbRating": "5.5"
   },
   {
     "id": "37c5887fd7d21e617de49a7cd1491766",
@@ -17132,7 +17145,12 @@
       "Tamil",
       "Hindi",
       "Multi-Lang"
-    ]
+    ],
+    "imdbId": "tt3672618",
+    "name": "Dekh Tamasha Dekh",
+    "year": 2014,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTQxNzAyODkyNV5BMl5BanBnXkFtZTgwMjY1NTA3MTE@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BMTQxNzAyODkyNV5BMl5BanBnXkFtZTgwMjY1NTA3MTE@._V1_SX250.jpg"
   },
   {
     "id": "c3dfd4315fc22a5c7c22d214338669d3",
@@ -19456,17 +19474,11 @@
       "Hindi",
       "Multi-Lang"
     ],
-    "imdbId": "tt28540171",
-    "name": "Welcome to the Jungle",
-    "year": "2026",
-    "poster": "https://images.metahub.space/poster/small/tt28540171/img",
-    "thumbnail": "https://images.metahub.space/poster/small/tt28540171/img",
-    "genres": [
-      "Action",
-      "Adventure",
-      "Comedy"
-    ],
-    "description": "Police officers Jay Bakshi and Sandhya hunt notorious criminal Raj Solanki, but Jai discovers Raj has an important connection to his own life."
+    "imdbId": "tt12144176",
+    "name": "To the Max",
+    "year": 2026,
+    "poster": "https://m.media-amazon.com/images/M/MV5BZjgxNDQzNzEtNzIzMy00NjE3LWI4YjktOWYzYmI2ZGQ1Yjk1XkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BZjgxNDQzNzEtNzIzMy00NjE3LWI4YjktOWYzYmI2ZGQ1Yjk1XkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "817160c860a260baaedd05f8d2a2282d",
@@ -19657,13 +19669,11 @@
       "Hindi",
       "Multi-Lang"
     ],
-    "imdbId": "tt34682204",
-    "name": "Swim to Me",
-    "year": "2025",
-    "poster": "https://images.metahub.space/poster/small/tt34682204/img",
-    "thumbnail": "https://images.metahub.space/poster/small/tt34682204/img",
-    "genres": [],
-    "description": "Estela, a young woman from rural Chile, embarks on a journey to Santiago, leaving her family behind to work as a maid for an affluent household."
+    "imdbId": "tt32478708",
+    "name": "Close to Me",
+    "year": 2025,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTdlN2FiYmUtNDgzNS00ZDRkLTg1ZjgtY2JiZThkYjg0YmZkXkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BMTdlN2FiYmUtNDgzNS00ZDRkLTg1ZjgtY2JiZThkYjg0YmZkXkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "0c1b4475bd05c1ca61add24f07e0467a",
@@ -19707,7 +19717,12 @@
       "Telugu",
       "Hindi",
       "Multi-Lang"
-    ]
+    ],
+    "imdbId": "tt27681354",
+    "name": "In the Grey",
+    "year": 2026,
+    "poster": "https://m.media-amazon.com/images/M/MV5BOGFlYTk3M2ItNmY4Zi00ZmI2LWIzMjQtY2EyNTY4MzNkOTNiXkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BOGFlYTk3M2ItNmY4Zi00ZmI2LWIzMjQtY2EyNTY4MzNkOTNiXkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "3dcf65d8a5164c48c8e15d21068c5ca0",
