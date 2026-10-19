@@ -4687,11 +4687,11 @@
     "languages": [
       "Tamil"
     ],
-    "imdbId": "tt0091795",
+    "imdbId": "tt39052798",
     "name": "Promise",
     "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BNjhlM2MyMTMtNjAwOS00NzNlLTk1YTEtZmVhN2ZhZmUyYWYxXkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BNjhlM2MyMTMtNjAwOS00NzNlLTk1YTEtZmVhN2ZhZmUyYWYxXkEyXkFqcGc@._V1_SX250.jpg"
+    "poster": "https://m.media-amazon.com/images/M/MV5BNjI2YjYxNjQtMDk5My00YWU2LTkzNTQtODkyNTFkMjBiOGY0XkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BNjI2YjYxNjQtMDk5My00YWU2LTkzNTQtODkyNTFkMjBiOGY0XkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "d93e7f04e35dc441595909e577d4c308",
@@ -11917,9 +11917,16 @@
     ],
     "imdbId": "tt0297284",
     "name": "Mindhunters",
-    "year": 2004,
-    "poster": "https://m.media-amazon.com/images/M/MV5BY2EzNGRhYjktOTFkYy00NDdlLTk3NDAtYzFhNzBkZmRhYmE1XkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BY2EzNGRhYjktOTFkYy00NDdlLTk3NDAtYzFhNzBkZmRhYmE1XkEyXkFqcGc@._V1_SX250.jpg"
+    "year": "2005",
+    "poster": "https://images.metahub.space/poster/small/tt0297284/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt0297284/img",
+    "genres": [
+      "Crime",
+      "Horror",
+      "Thriller"
+    ],
+    "description": "A group of FBI trainees are taken to a remote island for simulation training. However, once there, they realize that they are being hunted by a serial killer, who might be someone amidst them.",
+    "imdbRating": "6.3"
   },
   {
     "id": "0ddbe0ef723b27fe52a37e7127ec8a59",
@@ -15821,12 +15828,7 @@
       "Telugu",
       "Hindi",
       "Multi-Lang"
-    ],
-    "imdbId": "tt0106505",
-    "name": "Calendar Girl",
-    "year": 1993,
-    "poster": "https://m.media-amazon.com/images/M/MV5BZTQ1NTZhYzAtZDAxZi00YTI4LTljMzEtN2E3Y2RlM2M0YjBmXkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BZTQ1NTZhYzAtZDAxZi00YTI4LTljMzEtN2E3Y2RlM2M0YjBmXkEyXkFqcGc@._V1_SX250.jpg"
+    ]
   },
   {
     "id": "a36b081511e4fad13dac6e070fc4697c",
@@ -19717,13 +19719,11 @@
       "Hindi",
       "Multi-Lang"
     ],
-    "imdbId": "tt34682204",
-    "name": "Swim to Me",
-    "year": "2025",
-    "poster": "https://images.metahub.space/poster/small/tt34682204/img",
-    "thumbnail": "https://images.metahub.space/poster/small/tt34682204/img",
-    "genres": [],
-    "description": "Estela, a young woman from rural Chile, embarks on a journey to Santiago, leaving her family behind to work as a maid for an affluent household."
+    "imdbId": "tt32478708",
+    "name": "Close to Me",
+    "year": 2025,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTdlN2FiYmUtNDgzNS00ZDRkLTg1ZjgtY2JiZThkYjg0YmZkXkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BMTdlN2FiYmUtNDgzNS00ZDRkLTg1ZjgtY2JiZThkYjg0YmZkXkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "0c1b4475bd05c1ca61add24f07e0467a",
@@ -20486,12 +20486,7 @@
     "rawText": "Sabina: Tortured for Christ - The Nazi Years (2021) (HD + Org Auds) - [1080p & 720p - x264 - (Tamil + Eng) - 2GB + Rips]",
     "languages": [
       "Tamil"
-    ],
-    "imdbId": "tt8716196",
-    "name": "Sabina: Tortured for Christ - The Nazi Years",
-    "year": 2021,
-    "poster": "https://m.media-amazon.com/images/M/MV5BOWQzMWE3YzctNmI1Mi00MjgyLTg2ZDQtYzIxMzk0ZmRiNWZhXkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BOWQzMWE3YzctNmI1Mi00MjgyLTg2ZDQtYzIxMzk0ZmRiNWZhXkEyXkFqcGc@._V1_SX250.jpg"
+    ]
   },
   {
     "id": "4152b971cedb3527fecdf4d7e91cde97",
@@ -21046,12 +21041,7 @@
     "rawText": "Nizhal (2026) Tamil UHD + ESub - [4K, 1080p & 720p - AVC / HEVC - (DD+5.1 - 192Kbps) - 4.4GB + Rips]",
     "languages": [
       "Tamil"
-    ],
-    "imdbId": "tt13298992",
-    "name": "Nizhal",
-    "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BZGIzNDc5NTItM2U5NC00ZWNlLWJmMmYtODQ4MTUyMmY5ZDNkXkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BZGIzNDc5NTItM2U5NC00ZWNlLWJmMmYtODQ4MTUyMmY5ZDNkXkEyXkFqcGc@._V1_SX250.jpg"
+    ]
   },
   {
     "id": "23464183b6f9833f5182b9cbd11febbf",
@@ -21208,12 +21198,7 @@
     "rawText": "Maggi Pusthaka (2026) Kannada HD + ESub - [1080p & 720p - AVC - (DD+2.0 - 224Kbps) - 2.4GB + Rips]",
     "languages": [
       "Kannada"
-    ],
-    "imdbId": "tt39386092",
-    "name": "Maggi Pusthaka",
-    "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BMzMxN2Y5NmYtYmM3Zi00MzU1LTg1MmMtNmIzNTVmOGFkMDk0XkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BMzMxN2Y5NmYtYmM3Zi00MzU1LTg1MmMtNmIzNTVmOGFkMDk0XkEyXkFqcGc@._V1_SX250.jpg"
+    ]
   },
   {
     "id": "a5a8f804a59329d9e4c233b1e46237a0",
