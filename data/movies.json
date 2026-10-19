@@ -493,7 +493,12 @@
       "Telugu",
       "Hindi",
       "Multi-Lang"
-    ]
+    ],
+    "imdbId": "tt0101540",
+    "name": "Cape Fear",
+    "year": 1991,
+    "poster": "https://m.media-amazon.com/images/M/MV5BNTBkNTYwZTctOTgxYS00ZmIyLTgzNDAtODJhZjg2MDUwNmFlXkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BNTBkNTYwZTctOTgxYS00ZmIyLTgzNDAtODJhZjg2MDUwNmFlXkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "f9509d916e3971b0f01cd283001579d8",
@@ -3267,18 +3272,18 @@
       "Hindi",
       "Multi-Lang"
     ],
-    "imdbId": "tt1253859",
-    "name": "Road to Hell",
-    "year": "2008",
-    "poster": "https://images.metahub.space/poster/small/tt1253859/img",
-    "thumbnail": "https://images.metahub.space/poster/small/tt1253859/img",
+    "imdbId": "tt1504319",
+    "name": "Road to Nowhere",
+    "year": "2010",
+    "poster": "https://images.metahub.space/poster/small/tt1504319/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt1504319/img",
     "genres": [
-      "Action",
-      "Fantasy",
-      "Musical"
+      "Crime",
+      "Mystery",
+      "Romance"
     ],
-    "description": "A soldier who has been fighting a long war is driven mad because he no longer believes in any purpose or righteous truth behind the killing. He comes home to a surreal world looking for his first and only love from his youth, beli...",
-    "imdbRating": "5.2"
+    "description": "A young filmmaker gets wrapped up in a crime while shooting his new project on location.",
+    "imdbRating": "5.4"
   },
   {
     "id": "1e49bfd9e3a59f3ab735ebf8812de407",
@@ -4416,12 +4421,7 @@
     "rawText": "Thoonga Nagaram (2011) Tamil HD + ESub - [1080p & 720p - AVC / HEVC - (DD+5.1 - 640Kbps) - 10GB + Rips]",
     "languages": [
       "Tamil"
-    ],
-    "imdbId": "tt1927165",
-    "name": "Thoonga Nagaram",
-    "year": 2011,
-    "poster": "https://m.media-amazon.com/images/M/MV5BMjUxNzI1YmEtNjFiNC00YmQ2LWJmMDEtZWE5MDQ2YzE3MGRiXkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BMjUxNzI1YmEtNjFiNC00YmQ2LWJmMDEtZWE5MDQ2YzE3MGRiXkEyXkFqcGc@._V1_SX250.jpg"
+    ]
   },
   {
     "id": "cc383c008c191dc3a12cc16f1519eb77",
@@ -4782,11 +4782,11 @@
     "languages": [
       "Tamil"
     ],
-    "imdbId": "tt0091795",
+    "imdbId": "tt39052798",
     "name": "Promise",
     "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BNjhlM2MyMTMtNjAwOS00NzNlLTk1YTEtZmVhN2ZhZmUyYWYxXkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BNjhlM2MyMTMtNjAwOS00NzNlLTk1YTEtZmVhN2ZhZmUyYWYxXkEyXkFqcGc@._V1_SX250.jpg"
+    "poster": "https://m.media-amazon.com/images/M/MV5BNjI2YjYxNjQtMDk5My00YWU2LTkzNTQtODkyNTFkMjBiOGY0XkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BNjI2YjYxNjQtMDk5My00YWU2LTkzNTQtODkyNTFkMjBiOGY0XkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "d93e7f04e35dc441595909e577d4c308",
@@ -5261,19 +5261,7 @@
     "rawText": "Matchbox The Movie (2026) English HD + ESub - [1080p & 720p - AVC - (DD+5.1 ATMOS - 768Kbps) - 2.9GB + Rips]",
     "languages": [
       "Tamil"
-    ],
-    "imdbId": "tt32560777",
-    "name": "Plankton: The Movie",
-    "year": "2025",
-    "poster": "https://images.metahub.space/poster/small/tt32560777/img",
-    "thumbnail": "https://images.metahub.space/poster/small/tt32560777/img",
-    "genres": [
-      "Animation",
-      "Adventure",
-      "Comedy"
-    ],
-    "description": "When Karen the Computer decides to take over the world, it's up to Plankton to stop her - with a little help from SpongeBob and the Gal Pals (Pearl, Sandy, and Mrs. Puff).",
-    "imdbRating": "5.3"
+    ]
   },
   {
     "id": "6ba20cbf991d71765f62a195167610ae",
@@ -6500,16 +6488,9 @@
     ],
     "imdbId": "tt2461150",
     "name": "Masterminds",
-    "year": "2015",
-    "poster": "https://images.metahub.space/poster/small/tt2461150/img",
-    "thumbnail": "https://images.metahub.space/poster/small/tt2461150/img",
-    "genres": [
-      "Biography",
-      "Comedy",
-      "Crime"
-    ],
-    "description": "A guard at an armored car company in the Southern U.S. organizes one of the biggest bank heists in American history.",
-    "imdbRating": "5.8"
+    "year": 1997,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTYzMTY5Mzg1Ml5BMl5BanBnXkFtZTgwNTUzODUwNjE@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BMTYzMTY5Mzg1Ml5BMl5BanBnXkFtZTgwNTUzODUwNjE@._V1_SX250.jpg"
   },
   {
     "id": "9a8c506202079398b78b09bf0892c64d",
@@ -7511,7 +7492,12 @@
     "rawText": "Ameer Log (2026) Telugu HD + ESub - [1080p & 720p - AVC / HEVC - (DD+5.1 - 640Kbps) - 2.9GB + Rips]",
     "languages": [
       "Telugu"
-    ]
+    ],
+    "imdbId": "tt43635242",
+    "name": "Ameer Log",
+    "year": 2026,
+    "poster": "https://m.media-amazon.com/images/M/MV5BNDMyODIxMTYtMzQ4YS00OThkLTljM2EtZWNkN2I0NWI4OTI5XkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BNDMyODIxMTYtMzQ4YS00OThkLTljM2EtZWNkN2I0NWI4OTI5XkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "3fd13e02362d951a2950672d76002dd1",
@@ -8040,7 +8026,12 @@
     "rawText": "Bombay Stories (2026) Hindi HD + ESub - [1080p & 720p - AVC - (DD+5.1 - 640Kbps) - 2.2GB + Rips]",
     "languages": [
       "Hindi"
-    ]
+    ],
+    "imdbId": "tt42481138",
+    "name": "Bombay Stories",
+    "year": 2026,
+    "poster": "https://m.media-amazon.com/images/M/MV5BNmViYjA1ODAtZmZiYy00NzJlLTk2MzQtOWE2NDE0YTc2ZTBlXkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BNmViYjA1ODAtZmZiYy00NzJlLTk2MzQtOWE2NDE0YTc2ZTBlXkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "5a4a96066d58c59fb8ad071b09afdf17",
@@ -8939,7 +8930,7 @@
       "Thriller"
     ],
     "description": "Follows a prehistoric arachnid that terrifies a stranded group of campers who hike into the wrong woods. Based on the spine-tingling horror novel from the actor best known as \"Murr\" on TV's Impractical Jokers.",
-    "imdbRating": "6.7"
+    "imdbRating": "4.6"
   },
   {
     "id": "58deb6dfb62e77f3a5cfae3e3b0449e4",
@@ -11189,12 +11180,7 @@
     "rawText": "Heer Sara (2026) Hindi HD + ESub - [1080p & 720p - AVC - (DD+5.1 - 640Kbps) - 2.2GB + Rips]",
     "languages": [
       "Hindi"
-    ],
-    "imdbId": "tt40744412",
-    "name": "Heer Sara",
-    "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BYWIwYjI1ZDgtMDM2Yi00ODI0LWI1MmUtYzQ4NDA4YTE3Yjk2XkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BYWIwYjI1ZDgtMDM2Yi00ODI0LWI1MmUtYzQ4NDA4YTE3Yjk2XkEyXkFqcGc@._V1_SX250.jpg"
+    ]
   },
   {
     "id": "8beb0f8e7744dbc33483c3e509bd935e",
@@ -11499,7 +11485,12 @@
       "Telugu",
       "Hindi",
       "Multi-Lang"
-    ]
+    ],
+    "imdbId": "tt41228546",
+    "name": "Sultana",
+    "year": 2026,
+    "poster": "https://m.media-amazon.com/images/M/MV5BNWYxNzhkY2UtYzA0Mi00YjlmLTlkZDEtZGU4OGQ1MTEwNjg4XkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BNWYxNzhkY2UtYzA0Mi00YjlmLTlkZDEtZGU4OGQ1MTEwNjg4XkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "06f1821a1f25047cf688f7834b20e6a1",
@@ -13586,11 +13577,11 @@
     "languages": [
       "Tamil"
     ],
-    "imdbId": "tt28541577",
-    "name": "Sardar 2",
+    "imdbId": "tt14526318",
+    "name": "Sardar",
     "year": 2022,
-    "poster": "https://m.media-amazon.com/images/M/MV5BNTMzNjZkODEtNjRiMS00MjFiLWE0YWYtOGQ5ZGVlODQ1NDVmXkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BNTMzNjZkODEtNjRiMS00MjFiLWE0YWYtOGQ5ZGVlODQ1NDVmXkEyXkFqcGc@._V1_SX250.jpg"
+    "poster": "https://m.media-amazon.com/images/M/MV5BOTYzMTEzYmEtZDdjZS00YzdiLWE5MzgtOTRmZmIwYjQ4YzFiXkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BOTYzMTEzYmEtZDdjZS00YzdiLWE5MzgtOTRmZmIwYjQ4YzFiXkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "af226ba194a8d9bb0150b04241ec1e33",
@@ -14748,7 +14739,7 @@
       "Comedy"
     ],
     "description": "A Texas tech start-up breaks every crowdfunding record in the books, but they lose it all when a patent troll shuts them down. Refusing to go down without a fight, our heroes use a legal loophole to beat the trolls at their own ga...",
-    "imdbRating": "5.9"
+    "imdbRating": "5.4"
   },
   {
     "id": "4a5c08ebab7dcc8432868c211dee3cb9",
@@ -15380,7 +15371,12 @@
     "rawText": "Jimmy (2013) (HD + Org Auds) - [1080p & 720p - x264 - (Tamil + Eng) - 1.6GB + Rips]",
     "languages": [
       "Tamil"
-    ]
+    ],
+    "imdbId": "tt31179962",
+    "name": "Jimmy",
+    "year": 2013,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMGU1NTI4MWUtZWZhMi00ZTgwLWJkYTAtY2Q4YWEwZGNlNDgyXkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BMGU1NTI4MWUtZWZhMi00ZTgwLWJkYTAtY2Q4YWEwZGNlNDgyXkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "6c4177a275c51a707d651befb3ce5f7b",
@@ -15942,12 +15938,7 @@
       "Telugu",
       "Hindi",
       "Multi-Lang"
-    ],
-    "imdbId": "tt0106505",
-    "name": "Calendar Girl",
-    "year": 1993,
-    "poster": "https://m.media-amazon.com/images/M/MV5BZTQ1NTZhYzAtZDAxZi00YTI4LTljMzEtN2E3Y2RlM2M0YjBmXkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BZTQ1NTZhYzAtZDAxZi00YTI4LTljMzEtN2E3Y2RlM2M0YjBmXkEyXkFqcGc@._V1_SX250.jpg"
+    ]
   },
   {
     "id": "a36b081511e4fad13dac6e070fc4697c",
@@ -16419,12 +16410,7 @@
     "rawText": "Bandar (2026) Hindi HD + ESub - [1080p & 720p - AVC - (DD+5.1 ATMOS - 448Kbps) - 2.4GB + Rips]",
     "languages": [
       "Hindi"
-    ],
-    "imdbId": "tt32389930",
-    "name": "Bandar",
-    "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BOThjOTk0N2MtMjQyMC00MDg5LWExNzItYTgyMjQ2MGZlNTIxXkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BOThjOTk0N2MtMjQyMC00MDg5LWExNzItYTgyMjQ2MGZlNTIxXkEyXkFqcGc@._V1_SX250.jpg"
+    ]
   },
   {
     "id": "a3368a6f500db49476f1eddd0ebadc8f",
@@ -16470,7 +16456,12 @@
     "rawText": "Babita Singh Reporting (2026) Hindi UHD + ESub - [4K, 1080p & 720p - AVC / HEVC - (DD+5.1 - 640Kbps) - 5.5GB + Rips]",
     "languages": [
       "Hindi"
-    ]
+    ],
+    "imdbId": "tt40915016",
+    "name": "Babita Singh Reporting",
+    "year": 2026,
+    "poster": "https://m.media-amazon.com/images/M/MV5BNDY2Y2UyZmEtMTFmNi00ZWMxLTlmZjktZjkwNGM0NWRmZDNjXkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BNDY2Y2UyZmEtMTFmNi00ZWMxLTlmZjktZjkwNGM0NWRmZDNjXkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "720ee242f223633cb6a50cbaed8f8394",
@@ -18092,7 +18083,17 @@
       "Telugu",
       "Hindi",
       "Multi-Lang"
-    ]
+    ],
+    "imdbId": "tt36958312",
+    "name": "The Devil's Mouth",
+    "year": "2026",
+    "poster": "https://images.metahub.space/poster/small/tt36958312/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt36958312/img",
+    "genres": [
+      "Horror",
+      "Thriller"
+    ],
+    "description": "A group of college friends' Thailand adventure turns deadly when they become trapped in submerged caves with a dangerous predator. As oxygen runs low, past conflicts emerge in their desperate fight for survival."
   },
   {
     "id": "4bd03ce2ca046b044a2e08084d3b17ef",
@@ -18242,12 +18243,11 @@
       "Tamil",
       "Telugu"
     ],
-    "imdbId": "tt5256640",
-    "name": "Lenin",
-    "year": "2017",
-    "poster": "https://images.metahub.space/poster/small/tt5256640/img",
-    "thumbnail": "https://images.metahub.space/poster/small/tt5256640/img",
-    "genres": []
+    "imdbId": "tt38916037",
+    "name": "Lenin Pandiyan",
+    "year": 2026,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMDkwMGE4MDctZDUxNS00MTYwLWFjNTQtNDZhMmMzYTg2OTViXkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BMDkwMGE4MDctZDUxNS00MTYwLWFjNTQtNDZhMmMzYTg2OTViXkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "68aed7f241b44bdcc1cfca6a6ce1fb99",
@@ -19829,13 +19829,17 @@
       "Hindi",
       "Multi-Lang"
     ],
-    "imdbId": "tt34682204",
-    "name": "Swim to Me",
-    "year": "2025",
-    "poster": "https://images.metahub.space/poster/small/tt34682204/img",
-    "thumbnail": "https://images.metahub.space/poster/small/tt34682204/img",
-    "genres": [],
-    "description": "Estela, a young woman from rural Chile, embarks on a journey to Santiago, leaving her family behind to work as a maid for an affluent household."
+    "imdbId": "tt24131660",
+    "name": "Bring Him to Me",
+    "year": "2024",
+    "poster": "https://images.metahub.space/poster/small/tt24131660/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt24131660/img",
+    "genres": [
+      "Crime",
+      "Thriller"
+    ],
+    "description": "Loyalties and morals collide when a getaway driver transports a passenger to an uncertain fate.",
+    "imdbRating": "5.3"
   },
   {
     "id": "0c1b4475bd05c1ca61add24f07e0467a",
@@ -19880,11 +19884,18 @@
       "Hindi",
       "Multi-Lang"
     ],
-    "imdbId": "tt27681354",
-    "name": "In the Grey",
-    "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BOGFlYTk3M2ItNmY4Zi00ZmI2LWIzMjQtY2EyNTY4MzNkOTNiXkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BOGFlYTk3M2ItNmY4Zi00ZmI2LWIzMjQtY2EyNTY4MzNkOTNiXkEyXkFqcGc@._V1_SX250.jpg"
+    "imdbId": "tt4419684",
+    "name": "In the Lost Lands",
+    "year": "2025",
+    "poster": "https://images.metahub.space/poster/small/tt4419684/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt4419684/img",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy"
+    ],
+    "description": "A queen sends the powerful and feared sorceress Gray Alys to the ghostly wilderness of the Lost Lands in search of a magical power, where the sorceress and her guide, the drifter Boyce, must outwit and outfight man and demon.",
+    "imdbRating": "4.7"
   },
   {
     "id": "3dcf65d8a5164c48c8e15d21068c5ca0",
@@ -20484,18 +20495,11 @@
       "Hindi",
       "Multi-Lang"
     ],
-    "imdbId": "tt0092676",
-    "name": "Bloody New Year",
-    "year": "1987",
-    "poster": "https://images.metahub.space/poster/small/tt0092676/img",
-    "thumbnail": "https://images.metahub.space/poster/small/tt0092676/img",
-    "genres": [
-      "Comedy",
-      "Horror",
-      "Mystery"
-    ],
-    "description": "A group of friends take refuge in an island hotel that is decorated for New Years. The problem is, it's early summer, and soon enough, even the walls themselves are striking out against them.",
-    "imdbRating": "4.5"
+    "imdbId": "tt2461132",
+    "name": "Happy New Year",
+    "year": 1987,
+    "poster": "https://m.media-amazon.com/images/M/MV5BYjc3MjY0NzctMGYwNy00ZGYyLThiOTctMjI1MWRkNmU3ZWNiXkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BYjc3MjY0NzctMGYwNy00ZGYyLThiOTctMjI1MWRkNmU3ZWNiXkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "3ece34ce58c65c1a88bb3898238d3004",
