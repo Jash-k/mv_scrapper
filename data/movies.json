@@ -2672,8 +2672,8 @@
     "imdbId": "tt37894980",
     "name": "Aasha",
     "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BYjE1M2I3OGUtMjVmZS00ZDQ0LThjMTctZWE5MTZmZTJiYTYzXkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BYjE1M2I3OGUtMjVmZS00ZDQ0LThjMTctZWE5MTZmZTJiYTYzXkEyXkFqcGc@._V1_SX250.jpg"
+    "poster": "https://m.media-amazon.com/images/M/MV5BNWEyMWFmNDktZjc5Ni00NGNkLTkyYWQtMTdlOGNiNTljZjcyXkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BNWEyMWFmNDktZjc5Ni00NGNkLTkyYWQtMTdlOGNiNTljZjcyXkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "fab55ecca48bbaa96d44b1141fedef0b",
@@ -3272,18 +3272,18 @@
       "Hindi",
       "Multi-Lang"
     ],
-    "imdbId": "tt1504319",
-    "name": "Road to Nowhere",
-    "year": "2010",
-    "poster": "https://images.metahub.space/poster/small/tt1504319/img",
-    "thumbnail": "https://images.metahub.space/poster/small/tt1504319/img",
+    "imdbId": "tt1253859",
+    "name": "Road to Hell",
+    "year": "2008",
+    "poster": "https://images.metahub.space/poster/small/tt1253859/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt1253859/img",
     "genres": [
-      "Crime",
-      "Mystery",
-      "Romance"
+      "Action",
+      "Fantasy",
+      "Musical"
     ],
-    "description": "A young filmmaker gets wrapped up in a crime while shooting his new project on location.",
-    "imdbRating": "5.4"
+    "description": "A soldier who has been fighting a long war is driven mad because he no longer believes in any purpose or righteous truth behind the killing. He comes home to a surreal world looking for his first and only love from his youth, beli...",
+    "imdbRating": "5.2"
   },
   {
     "id": "1e49bfd9e3a59f3ab735ebf8812de407",
@@ -3880,7 +3880,7 @@
       "Comedy"
     ],
     "description": "At an elite fundraising gala, celebrities and socialites find themselves in danger when armed activists storm the venue in pursuit of a legendary relic that could unlock supernatural powers.",
-    "imdbRating": "5.7"
+    "imdbRating": "5.0"
   },
   {
     "id": "906b34664be67193f53d9373353c5620",
@@ -5261,19 +5261,7 @@
     "rawText": "Matchbox The Movie (2026) English HD + ESub - [1080p & 720p - AVC - (DD+5.1 ATMOS - 768Kbps) - 2.9GB + Rips]",
     "languages": [
       "Tamil"
-    ],
-    "imdbId": "tt32560777",
-    "name": "Plankton: The Movie",
-    "year": "2025",
-    "poster": "https://images.metahub.space/poster/small/tt32560777/img",
-    "thumbnail": "https://images.metahub.space/poster/small/tt32560777/img",
-    "genres": [
-      "Animation",
-      "Adventure",
-      "Comedy"
-    ],
-    "description": "When Karen the Computer decides to take over the world, it's up to Plankton to stop her - with a little help from SpongeBob and the Gal Pals (Pearl, Sandy, and Mrs. Puff).",
-    "imdbRating": "5.3"
+    ]
   },
   {
     "id": "6ba20cbf991d71765f62a195167610ae",
@@ -8942,7 +8930,7 @@
       "Thriller"
     ],
     "description": "Follows a prehistoric arachnid that terrifies a stranded group of campers who hike into the wrong woods. Based on the spine-tingling horror novel from the actor best known as \"Murr\" on TV's Impractical Jokers.",
-    "imdbRating": "4.6"
+    "imdbRating": "6.7"
   },
   {
     "id": "58deb6dfb62e77f3a5cfae3e3b0449e4",
@@ -11197,7 +11185,12 @@
     "rawText": "Heer Sara (2026) Hindi HD + ESub - [1080p & 720p - AVC - (DD+5.1 - 640Kbps) - 2.2GB + Rips]",
     "languages": [
       "Hindi"
-    ]
+    ],
+    "imdbId": "tt40744412",
+    "name": "Heer Sara",
+    "year": 2026,
+    "poster": "https://m.media-amazon.com/images/M/MV5BYWIwYjI1ZDgtMDM2Yi00ODI0LWI1MmUtYzQ4NDA4YTE3Yjk2XkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BYWIwYjI1ZDgtMDM2Yi00ODI0LWI1MmUtYzQ4NDA4YTE3Yjk2XkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "8beb0f8e7744dbc33483c3e509bd935e",
@@ -14756,7 +14749,7 @@
       "Comedy"
     ],
     "description": "A Texas tech start-up breaks every crowdfunding record in the books, but they lose it all when a patent troll shuts them down. Refusing to go down without a fight, our heroes use a legal loophole to beat the trolls at their own ga...",
-    "imdbRating": "5.4"
+    "imdbRating": "5.9"
   },
   {
     "id": "4a5c08ebab7dcc8432868c211dee3cb9",
@@ -15388,12 +15381,7 @@
     "rawText": "Jimmy (2013) (HD + Org Auds) - [1080p & 720p - x264 - (Tamil + Eng) - 1.6GB + Rips]",
     "languages": [
       "Tamil"
-    ],
-    "imdbId": "tt31179962",
-    "name": "Jimmy",
-    "year": 2013,
-    "poster": "https://m.media-amazon.com/images/M/MV5BMGU1NTI4MWUtZWZhMi00ZTgwLWJkYTAtY2Q4YWEwZGNlNDgyXkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BMGU1NTI4MWUtZWZhMi00ZTgwLWJkYTAtY2Q4YWEwZGNlNDgyXkEyXkFqcGc@._V1_SX250.jpg"
+    ]
   },
   {
     "id": "6c4177a275c51a707d651befb3ce5f7b",
@@ -16473,12 +16461,7 @@
     "rawText": "Babita Singh Reporting (2026) Hindi UHD + ESub - [4K, 1080p & 720p - AVC / HEVC - (DD+5.1 - 640Kbps) - 5.5GB + Rips]",
     "languages": [
       "Hindi"
-    ],
-    "imdbId": "tt40915016",
-    "name": "Babita Singh Reporting",
-    "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BNDY2Y2UyZmEtMTFmNi00ZWMxLTlmZjktZjkwNGM0NWRmZDNjXkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BNDY2Y2UyZmEtMTFmNi00ZWMxLTlmZjktZjkwNGM0NWRmZDNjXkEyXkFqcGc@._V1_SX250.jpg"
+    ]
   },
   {
     "id": "720ee242f223633cb6a50cbaed8f8394",
@@ -18376,8 +18359,8 @@
     "imdbId": "tt23790696",
     "name": "The Raja Saab",
     "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BMDg4ODMzZjAtOGI0MS00Y2I3LWFkM2MtNzQ5MDI2MDE5ZTAwXkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BMDg4ODMzZjAtOGI0MS00Y2I3LWFkM2MtNzQ5MDI2MDE5ZTAwXkEyXkFqcGc@._V1_SX250.jpg"
+    "poster": "https://m.media-amazon.com/images/M/MV5BOTc5Mjk4ZDQtM2Y4Zi00YTZmLTkxYmUtYWMwNzk3NDBkOGQzXkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BOTc5Mjk4ZDQtM2Y4Zi00YTZmLTkxYmUtYWMwNzk3NDBkOGQzXkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "a609550fc9b826a641d06ee1c5153666",
@@ -18659,12 +18642,7 @@
     "rawText": "Mutiny (2026) English HD + ESub - [1080p & 720p - AVC - (DD+5.1 - 640Kbps) - 1.8GB + Rips]",
     "languages": [
       "Tamil"
-    ],
-    "imdbId": "tt32338669",
-    "name": "Mutiny",
-    "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BY2FhN2NlNWMtZDM3OC00MjQzLWEwYzYtMmJhNTY1YmRjZTNmXkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BY2FhN2NlNWMtZDM3OC00MjQzLWEwYzYtMmJhNTY1YmRjZTNmXkEyXkFqcGc@._V1_SX250.jpg"
+    ]
   },
   {
     "id": "5be2ec68f603004dd5c6c7cadd426662",
@@ -21805,12 +21783,7 @@
     "rawText": "Dr Bennat (2026) Malayalam HD + ESub - [1080p & 720p - AVC - (DD+5.1 - 384Kbps) - 3.1GB + Rips]",
     "languages": [
       "Malayalam"
-    ],
-    "imdbId": "tt42001019",
-    "name": "Dr Bennat",
-    "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BNzM2YTVmNDAtODAyNi00NTE5LTgyYzAtODVlYWUwYWU5NTc4XkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BNzM2YTVmNDAtODAyNi00NTE5LTgyYzAtODVlYWUwYWU5NTc4XkEyXkFqcGc@._V1_SX250.jpg"
+    ]
   },
   {
     "id": "27a3cfc2781b3c42535a0c34b99d13c3",
