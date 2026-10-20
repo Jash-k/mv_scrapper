@@ -2765,8 +2765,8 @@
     "imdbId": "tt37894980",
     "name": "Aasha",
     "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BYjE1M2I3OGUtMjVmZS00ZDQ0LThjMTctZWE5MTZmZTJiYTYzXkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BYjE1M2I3OGUtMjVmZS00ZDQ0LThjMTctZWE5MTZmZTJiYTYzXkEyXkFqcGc@._V1_SX250.jpg"
+    "poster": "https://m.media-amazon.com/images/M/MV5BNWEyMWFmNDktZjc5Ni00NGNkLTkyYWQtMTdlOGNiNTljZjcyXkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BNWEyMWFmNDktZjc5Ni00NGNkLTkyYWQtMTdlOGNiNTljZjcyXkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "fab55ecca48bbaa96d44b1141fedef0b",
@@ -3365,18 +3365,18 @@
       "Hindi",
       "Multi-Lang"
     ],
-    "imdbId": "tt1504319",
-    "name": "Road to Nowhere",
-    "year": "2010",
-    "poster": "https://images.metahub.space/poster/small/tt1504319/img",
-    "thumbnail": "https://images.metahub.space/poster/small/tt1504319/img",
+    "imdbId": "tt1253859",
+    "name": "Road to Hell",
+    "year": "2008",
+    "poster": "https://images.metahub.space/poster/small/tt1253859/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt1253859/img",
     "genres": [
-      "Crime",
-      "Mystery",
-      "Romance"
+      "Action",
+      "Fantasy",
+      "Musical"
     ],
-    "description": "A young filmmaker gets wrapped up in a crime while shooting his new project on location.",
-    "imdbRating": "5.4"
+    "description": "A soldier who has been fighting a long war is driven mad because he no longer believes in any purpose or righteous truth behind the killing. He comes home to a surreal world looking for his first and only love from his youth, beli...",
+    "imdbRating": "5.2"
   },
   {
     "id": "1e49bfd9e3a59f3ab735ebf8812de407",
@@ -3973,7 +3973,7 @@
       "Comedy"
     ],
     "description": "At an elite fundraising gala, celebrities and socialites find themselves in danger when armed activists storm the venue in pursuit of a legendary relic that could unlock supernatural powers.",
-    "imdbRating": "5.7"
+    "imdbRating": "5.0"
   },
   {
     "id": "906b34664be67193f53d9373353c5620",
@@ -6212,9 +6212,8 @@
     "imdbId": "tt39314786",
     "name": "The Butcher's Blade",
     "year": 2026,
-    "poster": "https://image.tmdb.org/t/p/w500/8S3Tt4gQudJUsK9jKu5Gy1mDfvb.jpg",
-    "thumbnail": "https://image.tmdb.org/t/p/w500/8S3Tt4gQudJUsK9jKu5Gy1mDfvb.jpg",
-    "description": "Local constable Xue Buyi keeps his distance from corrupt colleagues until he is framed for the theft of thousands of dollars in relief funds. Now he must choose: fight to clear his name or uphold the law he's sworn to obey."
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjNlMDM2OWItY2IxNC00YWI0LTgyNTUtNDQ0ZWRiMjliMjQ2XkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BMjNlMDM2OWItY2IxNC00YWI0LTgyNTUtNDQ0ZWRiMjliMjQ2XkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "593a5574570fe17b504e4bd9ef191e9d",
@@ -10150,7 +10149,17 @@
     "rawText": "Boys (2003) Tamil Remastered UHD + ESub - [4K, 1080p & 720p - AVC / HEVC - (DD+5.1 - 192Kbps) - 8.2GB + Rips]",
     "languages": [
       "Tamil"
-    ]
+    ],
+    "imdbId": "tt0279781",
+    "name": "Sorority Boys",
+    "year": "2002",
+    "poster": "https://images.metahub.space/poster/small/tt0279781/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt0279781/img",
+    "genres": [
+      "Comedy"
+    ],
+    "description": "Strapped for cash, three fraternity playboys make one last attempt to live the high life - cheaply - by masquerading as girls. But their chauvinistic ways come back to haunt them as they get a crash course in the opposite sex.",
+    "imdbRating": "5.5"
   },
   {
     "id": "3d4641fd0bfdeee21b865c7e7d0f95e9",
@@ -12711,12 +12720,7 @@
     "rawText": "Vengeance (2026) Tamil HD + ESub - [4K, 1080p & 720p - AVC / HEVC - (DD+5.1 - 192Kbps) - 4.4GB + Rips]",
     "languages": [
       "Tamil"
-    ],
-    "imdbId": "tt11976532",
-    "name": "Vengeance",
-    "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BYmI2MmZlNTctYjIyMy00N2MxLTllZWQtNmEyOGZhMGQ3NThiXkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BYmI2MmZlNTctYjIyMy00N2MxLTllZWQtNmEyOGZhMGQ3NThiXkEyXkFqcGc@._V1_SX250.jpg"
+    ]
   },
   {
     "id": "afa28110a7a2cd0bef854557946bfadf",
@@ -13154,7 +13158,19 @@
       "Tamil",
       "Malayalam",
       "Telugu"
-    ]
+    ],
+    "imdbId": "tt14961016",
+    "name": "I'm Still Here",
+    "year": "2025",
+    "poster": "https://images.metahub.space/poster/small/tt14961016/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt14961016/img",
+    "genres": [
+      "Biography",
+      "Drama",
+      "History"
+    ],
+    "description": "A woman married to a former politician during the military dictatorship in Brazil is forced to reinvent herself and chart a new course for her family after a violent and arbitrary act.",
+    "imdbRating": "8.1"
   },
   {
     "id": "605e01d3c02c8bc9fadc35f343780d99",
@@ -20567,13 +20583,7 @@
       "Telugu",
       "Hindi",
       "Multi-Lang"
-    ],
-    "imdbId": "tt1800302",
-    "name": "Gold",
-    "year": 2022,
-    "poster": "https://image.tmdb.org/t/p/w500/ukMXAdr325Tn1mLGkxdG8Lab16l.jpg",
-    "thumbnail": "https://image.tmdb.org/t/p/w500/ukMXAdr325Tn1mLGkxdG8Lab16l.jpg",
-    "description": "Kenny Wells, a modern-day prospector, hustler, and dreamer, is desperate for a lucky break. Left with few options, Wells teams up with an equally luckless geologist to execute a grandiose, last-ditch effort: to find gold deep in the uncharted jungle of Indonesia."
+    ]
   },
   {
     "id": "638cfaa36eb2ea3a8dd1e8fe7af23786",
