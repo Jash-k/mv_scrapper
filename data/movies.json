@@ -6212,9 +6212,8 @@
     "imdbId": "tt39314786",
     "name": "The Butcher's Blade",
     "year": 2026,
-    "poster": "https://image.tmdb.org/t/p/w500/8S3Tt4gQudJUsK9jKu5Gy1mDfvb.jpg",
-    "thumbnail": "https://image.tmdb.org/t/p/w500/8S3Tt4gQudJUsK9jKu5Gy1mDfvb.jpg",
-    "description": "Local constable Xue Buyi keeps his distance from corrupt colleagues until he is framed for the theft of thousands of dollars in relief funds. Now he must choose: fight to clear his name or uphold the law he's sworn to obey."
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjNlMDM2OWItY2IxNC00YWI0LTgyNTUtNDQ0ZWRiMjliMjQ2XkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BMjNlMDM2OWItY2IxNC00YWI0LTgyNTUtNDQ0ZWRiMjliMjQ2XkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "593a5574570fe17b504e4bd9ef191e9d",
@@ -8015,19 +8014,7 @@
       "Telugu",
       "Hindi",
       "Multi-Lang"
-    ],
-    "imdbId": "tt3322940",
-    "name": "Annabelle",
-    "year": "2014",
-    "poster": "https://images.metahub.space/poster/small/tt3322940/img",
-    "thumbnail": "https://images.metahub.space/poster/small/tt3322940/img",
-    "genres": [
-      "Horror",
-      "Mystery",
-      "Thriller"
-    ],
-    "description": "A couple begins to experience terrifying supernatural occurrences involving a vintage doll shortly after their home is invaded by satanic cultists.",
-    "imdbRating": "5.5"
+    ]
   },
   {
     "id": "a3beb508f8d55d3e4663f657d5a8442d",
@@ -11642,12 +11629,7 @@
     "rawText": "Mruthyudevate (2026) Kannada HD - [1080p & 720p - AVC - (AAC 2.0) - 2.5GB + Rips]",
     "languages": [
       "Kannada"
-    ],
-    "imdbId": "tt42804953",
-    "name": "Mruthyudevate",
-    "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BNzcxMmU0N2QtZGY0MS00OGQ2LWFlYzktODk4NmI1MjdmZmQwXkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BNzcxMmU0N2QtZGY0MS00OGQ2LWFlYzktODk4NmI1MjdmZmQwXkEyXkFqcGc@._V1_SX250.jpg"
+    ]
   },
   {
     "id": "bb54fa277163cef97c4697662fb6cd84",
@@ -13149,19 +13131,7 @@
       "Tamil",
       "Malayalam",
       "Telugu"
-    ],
-    "imdbId": "tt14961016",
-    "name": "I'm Still Here",
-    "year": "2025",
-    "poster": "https://images.metahub.space/poster/small/tt14961016/img",
-    "thumbnail": "https://images.metahub.space/poster/small/tt14961016/img",
-    "genres": [
-      "Biography",
-      "Drama",
-      "History"
-    ],
-    "description": "A woman married to a former politician during the military dictatorship in Brazil is forced to reinvent herself and chart a new course for her family after a violent and arbitrary act.",
-    "imdbRating": "8.1"
+    ]
   },
   {
     "id": "605e01d3c02c8bc9fadc35f343780d99",
@@ -14274,19 +14244,7 @@
     "rawText": "The Yellow Elephant (2026) Tamil HD + ESub - [4K, 1080p & 720p - AVC - (DD+5.1 - 192Kbps) - 2.2GB + Rips]",
     "languages": [
       "Tamil"
-    ],
-    "imdbId": "tt5335774",
-    "name": "The Yellow Tie",
-    "year": "2025",
-    "poster": "https://images.metahub.space/poster/small/tt5335774/img",
-    "thumbnail": "https://images.metahub.space/poster/small/tt5335774/img",
-    "genres": [
-      "Adventure",
-      "Biography",
-      "Drama"
-    ],
-    "description": "The extraordinary life of Sergiu Celibidache. From his childhood in Romania, to his exile in pursuit of a career in music, his struggle for survival in wartime Germany and his rise, fall and rise again, in an unimaginable life jou...",
-    "imdbRating": "8.3"
+    ]
   },
   {
     "id": "eec3bc22a81ed955989293711e0e8909",
@@ -14949,12 +14907,7 @@
     "rawText": "Rakky (2026) Kannada HD + ESub - [1080p & 720p - AVC - (DD+5.1 - 640Kbps) - 6.5GB + Rips]",
     "languages": [
       "Kannada"
-    ],
-    "imdbId": "tt39221192",
-    "name": "Rakky",
-    "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BMGUyZjJjOTgtYTI1MC00YzNkLWE0YzctNDEzZGI0MGI1NTViXkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BMGUyZjJjOTgtYTI1MC00YzNkLWE0YzctNDEzZGI0MGI1NTViXkEyXkFqcGc@._V1_SX250.jpg"
+    ]
   },
   {
     "id": "7377d6226e91a066df3a04b7697cf69b",
@@ -20258,7 +20211,12 @@
     "rawText": "Nooru Saami (2026) Tamil UHD + ESub - [4K, 1080p & 720p - AVC / HEVC - (DD+5.1 - 192Kbps) - 7GB + Rips] - [W]",
     "languages": [
       "Tamil"
-    ]
+    ],
+    "imdbId": "tt38267486",
+    "name": "Nooru Saami",
+    "year": 2026,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMmU5YzAyMDItMTc2Yy00NzdhLWI4MzItYTk3NDhmODBmZjM3XkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BMmU5YzAyMDItMTc2Yy00NzdhLWI4MzItYTk3NDhmODBmZjM3XkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "c7d29abbeb2dfd5c30308881341a87de",
@@ -20431,7 +20389,12 @@
       "Kannada",
       "Hindi",
       "Multi-Lang"
-    ]
+    ],
+    "imdbId": "tt35723557",
+    "name": "Idhayam Murali",
+    "year": 2026,
+    "poster": "https://m.media-amazon.com/images/M/MV5BZTFjOTAwZjYtMjdiMC00NmY4LWE2ZWUtNGY3Zjk4Yjk2MGZjXkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BZTFjOTAwZjYtMjdiMC00NmY4LWE2ZWUtNGY3Zjk4Yjk2MGZjXkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "21bfe13d9a73abc37245e1c7ce17c5a8",
@@ -20564,13 +20527,7 @@
       "Telugu",
       "Hindi",
       "Multi-Lang"
-    ],
-    "imdbId": "tt1800302",
-    "name": "Gold",
-    "year": 2022,
-    "poster": "https://image.tmdb.org/t/p/w500/ukMXAdr325Tn1mLGkxdG8Lab16l.jpg",
-    "thumbnail": "https://image.tmdb.org/t/p/w500/ukMXAdr325Tn1mLGkxdG8Lab16l.jpg",
-    "description": "Kenny Wells, a modern-day prospector, hustler, and dreamer, is desperate for a lucky break. Left with few options, Wells teams up with an equally luckless geologist to execute a grandiose, last-ditch effort: to find gold deep in the uncharted jungle of Indonesia."
+    ]
   },
   {
     "id": "638cfaa36eb2ea3a8dd1e8fe7af23786",
@@ -20614,19 +20571,7 @@
       "Telugu",
       "Hindi",
       "Multi-Lang"
-    ],
-    "imdbId": "tt0092676",
-    "name": "Bloody New Year",
-    "year": "1987",
-    "poster": "https://images.metahub.space/poster/small/tt0092676/img",
-    "thumbnail": "https://images.metahub.space/poster/small/tt0092676/img",
-    "genres": [
-      "Comedy",
-      "Horror",
-      "Mystery"
-    ],
-    "description": "A group of friends take refuge in an island hotel that is decorated for New Years. The problem is, it's early summer, and soon enough, even the walls themselves are striking out against them.",
-    "imdbRating": "4.5"
+    ]
   },
   {
     "id": "3ece34ce58c65c1a88bb3898238d3004",
