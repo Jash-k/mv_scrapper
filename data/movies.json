@@ -6240,8 +6240,9 @@
     "imdbId": "tt39314786",
     "name": "The Butcher's Blade",
     "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BMjNlMDM2OWItY2IxNC00YWI0LTgyNTUtNDQ0ZWRiMjliMjQ2XkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BMjNlMDM2OWItY2IxNC00YWI0LTgyNTUtNDQ0ZWRiMjliMjQ2XkEyXkFqcGc@._V1_SX250.jpg"
+    "poster": "https://image.tmdb.org/t/p/w500/8S3Tt4gQudJUsK9jKu5Gy1mDfvb.jpg",
+    "thumbnail": "https://image.tmdb.org/t/p/w500/8S3Tt4gQudJUsK9jKu5Gy1mDfvb.jpg",
+    "description": "Local constable Xue Buyi keeps his distance from corrupt colleagues until he is framed for the theft of thousands of dollars in relief funds. Now he must choose: fight to clear his name or uphold the law he's sworn to obey."
   },
   {
     "id": "593a5574570fe17b504e4bd9ef191e9d",
@@ -8641,12 +8642,7 @@
       "Malayalam",
       "Kannada",
       "Multi-Lang"
-    ],
-    "imdbId": "tt43134711",
-    "name": "Ramba Oorvasi Menaka",
-    "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BZTRmZTYxYjEtNDdiNy00ZmE0LTlmNjMtOWQ5MjJlOGU0MTBjXkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BZTRmZTYxYjEtNDdiNy00ZmE0LTlmNjMtOWQ5MjJlOGU0MTBjXkEyXkFqcGc@._V1_SX250.jpg"
+    ]
   },
   {
     "id": "3419ed03e1bdb0a1e360271279028b98",
@@ -9461,19 +9457,7 @@
       "Kannada",
       "Hindi",
       "Multi-Lang"
-    ],
-    "imdbId": "tt33381401",
-    "name": "The Love That Remains",
-    "year": "2026",
-    "poster": "https://images.metahub.space/poster/small/tt33381401/img",
-    "thumbnail": "https://images.metahub.space/poster/small/tt33381401/img",
-    "genres": [
-      "Comedy",
-      "Drama",
-      "Family"
-    ],
-    "description": "Captures a year in the life of a family as the parents navigate their separation. Through intimate vignettes and strange occurrences, the film explores the complexities of family, love, and the impact of shared memories.",
-    "imdbRating": "6.8"
+    ]
   },
   {
     "id": "b2fc9db1113e722e3f5830c157013f29",
@@ -20579,7 +20563,13 @@
       "Telugu",
       "Hindi",
       "Multi-Lang"
-    ]
+    ],
+    "imdbId": "tt1800302",
+    "name": "Gold",
+    "year": 2022,
+    "poster": "https://image.tmdb.org/t/p/w500/ukMXAdr325Tn1mLGkxdG8Lab16l.jpg",
+    "thumbnail": "https://image.tmdb.org/t/p/w500/ukMXAdr325Tn1mLGkxdG8Lab16l.jpg",
+    "description": "Kenny Wells, a modern-day prospector, hustler, and dreamer, is desperate for a lucky break. Left with few options, Wells teams up with an equally luckless geologist to execute a grandiose, last-ditch effort: to find gold deep in the uncharted jungle of Indonesia."
   },
   {
     "id": "638cfaa36eb2ea3a8dd1e8fe7af23786",
