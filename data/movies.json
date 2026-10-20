@@ -256,7 +256,12 @@
     "rawText": "Ranabaali (2026) Telugu HQ PreDVD (HQ Clean) - [1080p & 720p - x264 - 3GB + Rips] - [W]",
     "languages": [
       "Telugu"
-    ]
+    ],
+    "imdbId": "tt32324552",
+    "name": "Ranabaali",
+    "year": 2026,
+    "poster": "https://m.media-amazon.com/images/M/MV5BYjI4MzdhOTctY2Q3Yi00OTJmLTg1N2ItOWJiMjUyMmQxMzE5XkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BYjI4MzdhOTctY2Q3Yi00OTJmLTg1N2ItOWJiMjUyMmQxMzE5XkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "295ff001fb4f929cebb93d22258eaa09",
@@ -2515,7 +2520,12 @@
       "Telugu",
       "Hindi",
       "Multi-Lang"
-    ]
+    ],
+    "imdbId": "tt0101540",
+    "name": "Cape Fear",
+    "year": 1991,
+    "poster": "https://m.media-amazon.com/images/M/MV5BNTBkNTYwZTctOTgxYS00ZmIyLTgzNDAtODJhZjg2MDUwNmFlXkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BNTBkNTYwZTctOTgxYS00ZmIyLTgzNDAtODJhZjg2MDUwNmFlXkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "f9509d916e3971b0f01cd283001579d8",
@@ -2550,7 +2560,12 @@
     "rawText": "Belphegor, Phantom of the Louvre (2001) (BluRay + Org Auds) - [1080p & 720p - x264 - (Tamil + Fre) - 1.6GB + Rips]",
     "languages": [
       "Tamil"
-    ]
+    ],
+    "imdbId": "tt0214529",
+    "name": "Belphegor: Phantom of the Louvre",
+    "year": 2001,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMzMwMTI3YTItYTI3MC00M2M2LThjNjAtMzg3ZWY0YTAzYjM0XkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BMzMwMTI3YTItYTI3MC00M2M2LThjNjAtMzg3ZWY0YTAzYjM0XkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "c2c1c7a6fea98ea04b60cedc7aed1a74",
@@ -2607,7 +2622,12 @@
     "rawText": "4 Idiots (2026) Tamil HD + ESub - [1080p & 720p - AVC / HEVC - (DD+5.1 - 192Kbps) - 2.9GB + Rips]",
     "languages": [
       "Tamil"
-    ]
+    ],
+    "imdbId": "tt38947564",
+    "name": "4 Idiots",
+    "year": 2026,
+    "poster": "https://m.media-amazon.com/images/M/MV5BNTUwMDUxYjktYTQ2OC00ODdhLTg1NGEtMTc4ZmE3NGFlYzU5XkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BNTUwMDUxYjktYTQ2OC00ODdhLTg1NGEtMTc4ZmE3NGFlYzU5XkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "ef80a44766f0ad7931e1ceb3f8e1cfbf",
@@ -3892,7 +3912,12 @@
     "rawText": "Dorothy (2026) Tamil HQ PreDVD (HQ Clean) - [1080p & 720p - x264 - 2.9GB + Rips]",
     "languages": [
       "Tamil"
-    ]
+    ],
+    "imdbId": "tt38915678",
+    "name": "Dorothy",
+    "year": 2026,
+    "poster": "https://m.media-amazon.com/images/M/MV5BZGZmZmEyZjMtYTJkZC00ZmVjLTg1OGEtOGUwMjgzNGQ4MGYxXkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BZGZmZmEyZjMtYTJkZC00ZmVjLTg1OGEtOGUwMjgzNGQ4MGYxXkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "a2c52f8050517aa3bc1c6943ecd95b3c",
@@ -5980,12 +6005,7 @@
     "rawText": "Sigma (2026) Tamil HQ PreDVD (HQ Clean) - [1080p & 720p - x264 - 2.6GB + Rips] - [W]",
     "languages": [
       "Tamil"
-    ],
-    "imdbId": "tt39239754",
-    "name": "Sigma",
-    "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BY2VmZDc4ZTQtMTAxNi00MGVkLTk5OTUtMmE4ZjdjMmZjZWYyXkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BY2VmZDc4ZTQtMTAxNi00MGVkLTk5OTUtMmE4ZjdjMmZjZWYyXkEyXkFqcGc@._V1_SX250.jpg"
+    ]
   },
   {
     "id": "e13c88fd1a6e5e0bccf05c464c4d023c",
@@ -6517,11 +6537,11 @@
       "Telugu",
       "Multi-Lang"
     ],
-    "imdbId": "tt38201958",
-    "name": "Doraemon: Nobita and the New Castle of the Undersea Devil",
+    "imdbId": "tt1147509",
+    "name": "Doraemon: Nobita and the Castle of the Undersea Devil",
     "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BNTZlMzRjZTUtZDVjNi00ODFiLWFmMzEtMzQ1ODIwOWQ3YjIwXkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BNTZlMzRjZTUtZDVjNi00ODFiLWFmMzEtMzQ1ODIwOWQ3YjIwXkEyXkFqcGc@._V1_SX250.jpg"
+    "poster": "https://m.media-amazon.com/images/M/MV5BMGMyYzgyN2YtM2E3My00NzgwLWE1ZTMtODFlOTg0N2YyODgxXkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BMGMyYzgyN2YtM2E3My00NzgwLWE1ZTMtODFlOTg0N2YyODgxXkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "4777a14620cd3b5e462438ee3331266c",
@@ -7433,7 +7453,12 @@
     "rawText": "Ohh My Dog (2026) Hindi UHD + ESub - [1080p & 720p - AVC / HEVC - (DD+5.1 - ATMOS 768Kbps) - 6.7GB + Rips]",
     "languages": [
       "Hindi"
-    ]
+    ],
+    "imdbId": "tt36626888",
+    "name": "Ohh My Dog",
+    "year": 2026,
+    "poster": "https://m.media-amazon.com/images/M/MV5BOTk1YTBkMjktMTU4MS00ZWM1LTk1MmQtYzFlMjU0OWU4NWI2XkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BOTk1YTBkMjktMTU4MS00ZWM1LTk1MmQtYzFlMjU0OWU4NWI2XkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "877557037d8ba31151cc2d880711cb7c",
@@ -8417,7 +8442,18 @@
       "Malayalam",
       "Hindi",
       "Multi-Lang"
-    ]
+    ],
+    "imdbId": "tt33293169",
+    "name": "Mango",
+    "year": "2025",
+    "poster": "https://images.metahub.space/poster/small/tt33293169/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt33293169/img",
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance"
+    ],
+    "description": "Lærke, an ambitious hotel manager, is sent to Malaga to develop a hotel on Alex's mango farm. Lærke's daughter joins, expecting a rare holiday. Unexpected feelings arise between Lærke and Alex, forcing them to make life-altering c..."
   },
   {
     "id": "7b4eef4d62712004e892bef5c6eb1e30",
@@ -10215,7 +10251,12 @@
       "Telugu",
       "Hindi",
       "Multi-Lang"
-    ]
+    ],
+    "imdbId": "tt1634106",
+    "name": "Bloodshot",
+    "year": 2020,
+    "poster": "https://m.media-amazon.com/images/M/MV5BNDFjMTI4ZTQtYzNlNS00YmJiLWEyYzYtYWFiYTZjOTI5MDM1XkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BNDFjMTI4ZTQtYzNlNS00YmJiLWEyYzYtYWFiYTZjOTI5MDM1XkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "a883cc1558ecc35b6f0ab75b0cc4870d",
@@ -10250,7 +10291,12 @@
     "rawText": "Idi Mazha Kaattu (2026) Malayalam HD + ESub - [1080p & 720p - AVC - (AAC 2.0) - 2.8GB + Rips]",
     "languages": [
       "Malayalam"
-    ]
+    ],
+    "imdbId": "tt10908160",
+    "name": "Idi Mazha Kaattu",
+    "year": 2026,
+    "poster": "https://m.media-amazon.com/images/M/MV5BYWRmNWM5ZDQtMDlmYS00MmZjLWI5MTItYmMzNDcxZDYyNmJhXkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BYWRmNWM5ZDQtMDlmYS00MmZjLWI5MTItYmMzNDcxZDYyNmJhXkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "b51c4eb66c0dd2581edb454956da5f90",
@@ -10294,7 +10340,12 @@
       "Telugu",
       "Hindi",
       "Multi-Lang"
-    ]
+    ],
+    "imdbId": "tt0025366",
+    "name": "Lady by Choice",
+    "year": 1934,
+    "poster": "https://m.media-amazon.com/images/M/MV5BYzlhY2YyMzMtNGZhZS00ZGMwLTg2NTEtNmUwOWYwNWI4NmY1XkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BYzlhY2YyMzMtNGZhZS00ZGMwLTg2NTEtNmUwOWYwNWI4NmY1XkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "00cc81ac43e7d164fee4e4eab9ea8db1",
@@ -10985,7 +11036,12 @@
     "rawText": "Photographer (2026) Tamil HD + ESub - [1080p & 720p - AVC - (DD+5.1 - 640Kbps) - 6GB + Rips]",
     "languages": [
       "Tamil"
-    ]
+    ],
+    "imdbId": "tt43727339",
+    "name": "Photographer",
+    "year": 2026,
+    "poster": "https://m.media-amazon.com/images/M/MV5BN2UzMWExOWYtZjE2My00MDVkLWE5ZGUtY2JjYjc3MzdkNjI2XkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BN2UzMWExOWYtZjE2My00MDVkLWE5ZGUtY2JjYjc3MzdkNjI2XkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "fa0c602dffcdae7e5c32eda345f2b2c5",
@@ -12649,12 +12705,7 @@
     "rawText": "Vengeance (2026) Tamil HD + ESub - [4K, 1080p & 720p - AVC / HEVC - (DD+5.1 - 192Kbps) - 4.4GB + Rips]",
     "languages": [
       "Tamil"
-    ],
-    "imdbId": "tt11976532",
-    "name": "Vengeance",
-    "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BYmI2MmZlNTctYjIyMy00N2MxLTllZWQtNmEyOGZhMGQ3NThiXkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BYmI2MmZlNTctYjIyMy00N2MxLTllZWQtNmEyOGZhMGQ3NThiXkEyXkFqcGc@._V1_SX250.jpg"
+    ]
   },
   {
     "id": "afa28110a7a2cd0bef854557946bfadf",
@@ -12922,7 +12973,12 @@
       "Telugu",
       "Hindi",
       "Multi-Lang"
-    ]
+    ],
+    "imdbId": "tt34494076",
+    "name": "Hungry",
+    "year": 2026,
+    "poster": "https://m.media-amazon.com/images/M/MV5BNWRhMjRlYTQtMWNhNy00YzRmLThiZjktYjQ4NDMyZWNiY2QwXkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BNWRhMjRlYTQtMWNhNy00YzRmLThiZjktYjQ4NDMyZWNiY2QwXkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "02bf204390bb5189efcb4818fd46f9fc",
@@ -13513,7 +13569,12 @@
       "Telugu",
       "Hindi",
       "Multi-Lang"
-    ]
+    ],
+    "imdbId": "tt30691214",
+    "name": "Forbidden Fruits",
+    "year": 1932,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMDA1MDRhOTAtMmFjNi00MmUwLWI4MjYtY2ExN2U0YmYwMmQwXkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BMDA1MDRhOTAtMmFjNi00MmUwLWI4MjYtY2ExN2U0YmYwMmQwXkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "c4f3e9906ba378e2e4fffcc735b342ab",
@@ -13554,7 +13615,18 @@
       "Tamil",
       "Hindi",
       "Multi-Lang"
-    ]
+    ],
+    "imdbId": "tt28096092",
+    "name": "Transmorphers: Mech Beasts",
+    "year": "2023",
+    "poster": "https://images.metahub.space/poster/small/tt28096092/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt28096092/img",
+    "genres": [
+      "Action",
+      "Sci-Fi"
+    ],
+    "description": "20 years after the events of TRANSMORPHERS, a newer, more advanced species of alien robot descends on a rebuilt Earth, threatening once again to destroy the planet.",
+    "imdbRating": "2.2"
   },
   {
     "id": "bc4ef6877e320af868700f694a4f5587",
@@ -13800,7 +13872,12 @@
       "Kannada",
       "Hindi",
       "Multi-Lang"
-    ]
+    ],
+    "imdbId": "tt35712605",
+    "name": "G.D.N.",
+    "year": 2026,
+    "poster": "https://m.media-amazon.com/images/M/MV5BODkxZWQ5OTktYjE3OC00YmUwLThlZTQtMmE1N2U2ZDgzZTM5XkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BODkxZWQ5OTktYjE3OC00YmUwLThlZTQtMmE1N2U2ZDgzZTM5XkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "29c33bb94fa856871719063cd2f6a5ff",
@@ -13912,8 +13989,9 @@
     "imdbId": "tt27977862",
     "name": "Last Days",
     "year": 2025,
-    "poster": "https://m.media-amazon.com/images/M/MV5BMWFkYTM1NWUtMzU1Yi00NjEwLThmZGItNjQwZTZjMzBhMDZkXkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BMWFkYTM1NWUtMzU1Yi00NjEwLThmZGItNjQwZTZjMzBhMDZkXkEyXkFqcGc@._V1_SX250.jpg"
+    "poster": "https://image.tmdb.org/t/p/w500/kg0FHevBu2SiSa3i9DtOxSa1vNr.jpg",
+    "thumbnail": "https://image.tmdb.org/t/p/w500/kg0FHevBu2SiSa3i9DtOxSa1vNr.jpg",
+    "description": "Determined to fulfill his life’s mission, 26-year-old John Allen Chau embarks on a dangerous adventure across the globe to convert the uncontacted tribe of North Sentinel Island to Christianity, while a detective from the Andaman Islands races to stop him before he does harm to himself or the tribe."
   },
   {
     "id": "5de9748c1cfbb42761b6aa2a06712bde",
@@ -15979,12 +16057,7 @@
       "Telugu",
       "Hindi",
       "Multi-Lang"
-    ],
-    "imdbId": "tt0106505",
-    "name": "Calendar Girl",
-    "year": 1993,
-    "poster": "https://m.media-amazon.com/images/M/MV5BZTQ1NTZhYzAtZDAxZi00YTI4LTljMzEtN2E3Y2RlM2M0YjBmXkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BZTQ1NTZhYzAtZDAxZi00YTI4LTljMzEtN2E3Y2RlM2M0YjBmXkEyXkFqcGc@._V1_SX250.jpg"
+    ]
   },
   {
     "id": "a36b081511e4fad13dac6e070fc4697c",
@@ -16502,7 +16575,12 @@
     "rawText": "Babita Singh Reporting (2026) Hindi UHD + ESub - [4K, 1080p & 720p - AVC / HEVC - (DD+5.1 - 640Kbps) - 5.5GB + Rips]",
     "languages": [
       "Hindi"
-    ]
+    ],
+    "imdbId": "tt40915016",
+    "name": "Babita Singh Reporting",
+    "year": 2026,
+    "poster": "https://m.media-amazon.com/images/M/MV5BNDY2Y2UyZmEtMTFmNi00ZWMxLTlmZjktZjkwNGM0NWRmZDNjXkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BNDY2Y2UyZmEtMTFmNi00ZWMxLTlmZjktZjkwNGM0NWRmZDNjXkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "720ee242f223633cb6a50cbaed8f8394",
@@ -17057,7 +17135,12 @@
       "Telugu",
       "Hindi",
       "Multi-Lang"
-    ]
+    ],
+    "imdbId": "tt14895216",
+    "name": "Ghost Mansion",
+    "year": 2021,
+    "poster": "https://m.media-amazon.com/images/M/MV5BN2ExZGI4MTYtMDcwNi00ZTRlLWIyMDktZDc4NDFhOTdkNzFmXkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BN2ExZGI4MTYtMDcwNi00ZTRlLWIyMDktZDc4NDFhOTdkNzFmXkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "64e18d4afe5e242516dae5af9c4a4d9b",
@@ -17147,7 +17230,12 @@
       "Tamil",
       "Hindi",
       "Multi-Lang"
-    ]
+    ],
+    "imdbId": "tt1105709",
+    "name": "8 x 10 Tasveer",
+    "year": 2009,
+    "poster": "https://m.media-amazon.com/images/M/MV5BZGE0OTcyOGEtNjdlMS00ZjEzLThmN2MtNDVmMzQxMzc5NGM1XkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BZGE0OTcyOGEtNjdlMS00ZjEzLThmN2MtNDVmMzQxMzc5NGM1XkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "8258fca40f1a279af2c4f0dc63e59f2c",
@@ -17851,7 +17939,12 @@
       "Kannada",
       "Hindi",
       "Multi-Lang"
-    ]
+    ],
+    "imdbId": "tt37161651",
+    "name": "Chennai Love Story",
+    "year": 2026,
+    "poster": "https://m.media-amazon.com/images/M/MV5BYmNhOWU4ZmItNDNlYi00N2ZkLWFlZDEtM2RhNWI5NDgyYzQwXkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BYmNhOWU4ZmItNDNlYi00N2ZkLWFlZDEtM2RhNWI5NDgyYzQwXkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "6a738d8de355fc580a3439e0ab48eb6f",
@@ -17886,7 +17979,12 @@
     "rawText": "Mother (2026) Tamil HD + ESub - [1080p & 720p - AVC - (DD+5.1 - 192Kbps) - 2.2GB + Rips] - [W]",
     "languages": [
       "Tamil"
-    ]
+    ],
+    "imdbId": "tt35856037",
+    "name": "Your Mother Your Mother Your Mother",
+    "year": 2026,
+    "poster": "https://m.media-amazon.com/images/M/MV5BZDEwMjk2MjMtMTI3ZS00ODg5LWI2ZDYtOTVkOGZlNzIyYzRjXkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BZDEwMjk2MjMtMTI3ZS00ODg5LWI2ZDYtOTVkOGZlNzIyYzRjXkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "a4aac7d8bc34909c2c1793389d80111a",
@@ -18019,7 +18117,12 @@
       "Tamil",
       "Hindi",
       "Multi-Lang"
-    ]
+    ],
+    "imdbId": "tt8365426",
+    "name": "Kill Mode",
+    "year": 2020,
+    "poster": "https://m.media-amazon.com/images/M/MV5BZGEzZTMzZmUtZjEwNS00YjlhLTgzNzItZDU2NTlmZjVhOTdkXkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BZGEzZTMzZmUtZjEwNS00YjlhLTgzNzItZDU2NTlmZjVhOTdkXkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "8dad618354ba1d7a50464fe8cd5fd68e",
@@ -18264,12 +18367,11 @@
       "Tamil",
       "Telugu"
     ],
-    "imdbId": "tt5256640",
-    "name": "Lenin",
-    "year": "2017",
-    "poster": "https://images.metahub.space/poster/small/tt5256640/img",
-    "thumbnail": "https://images.metahub.space/poster/small/tt5256640/img",
-    "genres": []
+    "imdbId": "tt38916037",
+    "name": "Lenin Pandiyan",
+    "year": 2026,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMDkwMGE4MDctZDUxNS00MTYwLWFjNTQtNDZhMmMzYTg2OTViXkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BMDkwMGE4MDctZDUxNS00MTYwLWFjNTQtNDZhMmMzYTg2OTViXkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "68aed7f241b44bdcc1cfca6a6ce1fb99",
@@ -18381,8 +18483,8 @@
     "imdbId": "tt23790696",
     "name": "The Raja Saab",
     "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BOTc5Mjk4ZDQtM2Y4Zi00YTZmLTkxYmUtYWMwNzk3NDBkOGQzXkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BOTc5Mjk4ZDQtM2Y4Zi00YTZmLTkxYmUtYWMwNzk3NDBkOGQzXkEyXkFqcGc@._V1_SX250.jpg"
+    "poster": "https://m.media-amazon.com/images/M/MV5BMDg4ODMzZjAtOGI0MS00Y2I3LWFkM2MtNzQ5MDI2MDE5ZTAwXkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BMDg4ODMzZjAtOGI0MS00Y2I3LWFkM2MtNzQ5MDI2MDE5ZTAwXkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "a609550fc9b826a641d06ee1c5153666",
@@ -18664,12 +18766,7 @@
     "rawText": "Mutiny (2026) English HD + ESub - [1080p & 720p - AVC - (DD+5.1 - 640Kbps) - 1.8GB + Rips]",
     "languages": [
       "Tamil"
-    ],
-    "imdbId": "tt32338669",
-    "name": "Mutiny",
-    "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BY2FhN2NlNWMtZDM3OC00MjQzLWEwYzYtMmJhNTY1YmRjZTNmXkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BY2FhN2NlNWMtZDM3OC00MjQzLWEwYzYtMmJhNTY1YmRjZTNmXkEyXkFqcGc@._V1_SX250.jpg"
+    ]
   },
   {
     "id": "5be2ec68f603004dd5c6c7cadd426662",
