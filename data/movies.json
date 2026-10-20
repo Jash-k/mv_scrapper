@@ -2672,8 +2672,8 @@
     "imdbId": "tt37894980",
     "name": "Aasha",
     "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BYjE1M2I3OGUtMjVmZS00ZDQ0LThjMTctZWE5MTZmZTJiYTYzXkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BYjE1M2I3OGUtMjVmZS00ZDQ0LThjMTctZWE5MTZmZTJiYTYzXkEyXkFqcGc@._V1_SX250.jpg"
+    "poster": "https://m.media-amazon.com/images/M/MV5BNWEyMWFmNDktZjc5Ni00NGNkLTkyYWQtMTdlOGNiNTljZjcyXkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BNWEyMWFmNDktZjc5Ni00NGNkLTkyYWQtMTdlOGNiNTljZjcyXkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "fab55ecca48bbaa96d44b1141fedef0b",
@@ -3272,18 +3272,18 @@
       "Hindi",
       "Multi-Lang"
     ],
-    "imdbId": "tt1504319",
-    "name": "Road to Nowhere",
-    "year": "2010",
-    "poster": "https://images.metahub.space/poster/small/tt1504319/img",
-    "thumbnail": "https://images.metahub.space/poster/small/tt1504319/img",
+    "imdbId": "tt1253859",
+    "name": "Road to Hell",
+    "year": "2008",
+    "poster": "https://images.metahub.space/poster/small/tt1253859/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt1253859/img",
     "genres": [
-      "Crime",
-      "Mystery",
-      "Romance"
+      "Action",
+      "Fantasy",
+      "Musical"
     ],
-    "description": "A young filmmaker gets wrapped up in a crime while shooting his new project on location.",
-    "imdbRating": "5.4"
+    "description": "A soldier who has been fighting a long war is driven mad because he no longer believes in any purpose or righteous truth behind the killing. He comes home to a surreal world looking for his first and only love from his youth, beli...",
+    "imdbRating": "5.2"
   },
   {
     "id": "1e49bfd9e3a59f3ab735ebf8812de407",
@@ -3880,7 +3880,7 @@
       "Comedy"
     ],
     "description": "At an elite fundraising gala, celebrities and socialites find themselves in danger when armed activists storm the venue in pursuit of a legendary relic that could unlock supernatural powers.",
-    "imdbRating": "5.7"
+    "imdbRating": "5.0"
   },
   {
     "id": "906b34664be67193f53d9373353c5620",
@@ -8038,12 +8038,7 @@
     "rawText": "Bombay Stories (2026) Hindi HD + ESub - [1080p & 720p - AVC - (DD+5.1 - 640Kbps) - 2.2GB + Rips]",
     "languages": [
       "Hindi"
-    ],
-    "imdbId": "tt42481138",
-    "name": "Bombay Stories",
-    "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BNmViYjA1ODAtZmZiYy00NzJlLTk2MzQtOWE2NDE0YTc2ZTBlXkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BNmViYjA1ODAtZmZiYy00NzJlLTk2MzQtOWE2NDE0YTc2ZTBlXkEyXkFqcGc@._V1_SX250.jpg"
+    ]
   },
   {
     "id": "5a4a96066d58c59fb8ad071b09afdf17",
@@ -8942,7 +8937,7 @@
       "Thriller"
     ],
     "description": "Follows a prehistoric arachnid that terrifies a stranded group of campers who hike into the wrong woods. Based on the spine-tingling horror novel from the actor best known as \"Murr\" on TV's Impractical Jokers.",
-    "imdbRating": "4.6"
+    "imdbRating": "6.7"
   },
   {
     "id": "58deb6dfb62e77f3a5cfae3e3b0449e4",
@@ -10704,11 +10699,17 @@
       "Hindi",
       "Multi-Lang"
     ],
-    "imdbId": "tt0064839",
+    "imdbId": "tt0026246",
     "name": "Crime and Punishment",
-    "year": 1935,
-    "poster": "https://m.media-amazon.com/images/M/MV5BODI1NzZlNDItNzhjMC00NzBjLThkNzYtYzE3NzU1Zjk4MmNhXkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BODI1NzZlNDItNzhjMC00NzBjLThkNzYtYzE3NzU1Zjk4MmNhXkEyXkFqcGc@._V1_SX250.jpg"
+    "year": "1936",
+    "poster": "https://images.metahub.space/poster/small/tt0026246/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt0026246/img",
+    "genres": [
+      "Crime",
+      "Drama"
+    ],
+    "description": "A young man is haunted by the murder of a neighborhood pawn broker and hounded by the local police inspector who suspects that he is guilty.",
+    "imdbRating": "6.9"
   },
   {
     "id": "62c716ea7d1adee11783a2e7652e3969",
@@ -12611,12 +12612,7 @@
     "rawText": "Vengeance (2026) Tamil HD + ESub - [4K, 1080p & 720p - AVC / HEVC - (DD+5.1 - 192Kbps) - 4.4GB + Rips]",
     "languages": [
       "Tamil"
-    ],
-    "imdbId": "tt11976532",
-    "name": "Vengeance",
-    "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BYmI2MmZlNTctYjIyMy00N2MxLTllZWQtNmEyOGZhMGQ3NThiXkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BYmI2MmZlNTctYjIyMy00N2MxLTllZWQtNmEyOGZhMGQ3NThiXkEyXkFqcGc@._V1_SX250.jpg"
+    ]
   },
   {
     "id": "afa28110a7a2cd0bef854557946bfadf",
@@ -14756,7 +14752,7 @@
       "Comedy"
     ],
     "description": "A Texas tech start-up breaks every crowdfunding record in the books, but they lose it all when a patent troll shuts them down. Refusing to go down without a fight, our heroes use a legal loophole to beat the trolls at their own ga...",
-    "imdbRating": "5.4"
+    "imdbRating": "5.9"
   },
   {
     "id": "4a5c08ebab7dcc8432868c211dee3cb9",
@@ -17233,16 +17229,9 @@
     ],
     "imdbId": "tt0455362",
     "name": "The Breed",
-    "year": "2007",
-    "poster": "https://images.metahub.space/poster/small/tt0455362/img",
-    "thumbnail": "https://images.metahub.space/poster/small/tt0455362/img",
-    "genres": [
-      "Action",
-      "Comedy",
-      "Horror"
-    ],
-    "description": "A group of five college kids are forced to match wits with unwelcoming residents when they fly to a \"deserted\" island for a party weekend.",
-    "imdbRating": "5.1"
+    "year": 2006,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjg5ODA5MzAxMV5BMl5BanBnXkFtZTgwMzkyNDM2MTI@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BMjg5ODA5MzAxMV5BMl5BanBnXkFtZTgwMzkyNDM2MTI@._V1_SX250.jpg"
   },
   {
     "id": "44113667cb04be2483cc9ef0ad75e2c3",
@@ -17877,7 +17866,12 @@
     "rawText": "Mother (2026) Tamil HD + ESub - [1080p & 720p - AVC - (DD+5.1 - 192Kbps) - 2.2GB + Rips] - [W]",
     "languages": [
       "Tamil"
-    ]
+    ],
+    "imdbId": "tt35856037",
+    "name": "Your Mother Your Mother Your Mother",
+    "year": 2026,
+    "poster": "https://m.media-amazon.com/images/M/MV5BZDEwMjk2MjMtMTI3ZS00ODg5LWI2ZDYtOTVkOGZlNzIyYzRjXkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BZDEwMjk2MjMtMTI3ZS00ODg5LWI2ZDYtOTVkOGZlNzIyYzRjXkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "a4aac7d8bc34909c2c1793389d80111a",
@@ -19846,17 +19840,11 @@
       "Hindi",
       "Multi-Lang"
     ],
-    "imdbId": "tt24131660",
-    "name": "Bring Him to Me",
-    "year": "2024",
-    "poster": "https://images.metahub.space/poster/small/tt24131660/img",
-    "thumbnail": "https://images.metahub.space/poster/small/tt24131660/img",
-    "genres": [
-      "Crime",
-      "Thriller"
-    ],
-    "description": "Loyalties and morals collide when a getaway driver transports a passenger to an uncertain fate.",
-    "imdbRating": "5.3"
+    "imdbId": "tt32478708",
+    "name": "Close to Me",
+    "year": 2025,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTdlN2FiYmUtNDgzNS00ZDRkLTg1ZjgtY2JiZThkYjg0YmZkXkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BMTdlN2FiYmUtNDgzNS00ZDRkLTg1ZjgtY2JiZThkYjg0YmZkXkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "0c1b4475bd05c1ca61add24f07e0467a",
@@ -20462,12 +20450,7 @@
       "Telugu",
       "Hindi",
       "Multi-Lang"
-    ],
-    "imdbId": "tt1800302",
-    "name": "Gold",
-    "year": 2022,
-    "poster": "https://m.media-amazon.com/images/M/MV5BNzI1NjI5OTUyM15BMl5BanBnXkFtZTgwOTM4NzY2MDI@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BNzI1NjI5OTUyM15BMl5BanBnXkFtZTgwOTM4NzY2MDI@._V1_SX250.jpg"
+    ]
   },
   {
     "id": "638cfaa36eb2ea3a8dd1e8fe7af23786",
@@ -20512,18 +20495,11 @@
       "Hindi",
       "Multi-Lang"
     ],
-    "imdbId": "tt0092676",
-    "name": "Bloody New Year",
-    "year": "1987",
-    "poster": "https://images.metahub.space/poster/small/tt0092676/img",
-    "thumbnail": "https://images.metahub.space/poster/small/tt0092676/img",
-    "genres": [
-      "Comedy",
-      "Horror",
-      "Mystery"
-    ],
-    "description": "A group of friends take refuge in an island hotel that is decorated for New Years. The problem is, it's early summer, and soon enough, even the walls themselves are striking out against them.",
-    "imdbRating": "4.5"
+    "imdbId": "tt2461132",
+    "name": "Happy New Year",
+    "year": 1987,
+    "poster": "https://m.media-amazon.com/images/M/MV5BYjc3MjY0NzctMGYwNy00ZGYyLThiOTctMjI1MWRkNmU3ZWNiXkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BYjc3MjY0NzctMGYwNy00ZGYyLThiOTctMjI1MWRkNmU3ZWNiXkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "3ece34ce58c65c1a88bb3898238d3004",
@@ -21805,12 +21781,7 @@
     "rawText": "Dr Bennat (2026) Malayalam HD + ESub - [1080p & 720p - AVC - (DD+5.1 - 384Kbps) - 3.1GB + Rips]",
     "languages": [
       "Malayalam"
-    ],
-    "imdbId": "tt42001019",
-    "name": "Dr Bennat",
-    "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BNzM2YTVmNDAtODAyNi00NTE5LTgyYzAtODVlYWUwYWU5NTc4XkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BNzM2YTVmNDAtODAyNi00NTE5LTgyYzAtODVlYWUwYWU5NTc4XkEyXkFqcGc@._V1_SX250.jpg"
+    ]
   },
   {
     "id": "27a3cfc2781b3c42535a0c34b99d13c3",
@@ -22073,11 +22044,6 @@
     "rawText": "Love Oh Love (2026) Tamil UHD + ESub - [4K, 1080p & 720p - AVC / HEVC - (DD+5.1 - 192Kbps) - 20GB + Rips]",
     "languages": [
       "Tamil"
-    ],
-    "imdbId": "tt42203456",
-    "name": "Love Oh Love",
-    "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BYmM5M2Q4Y2YtYmZiYi00MzIxLTgzZTMtZWU3ZDA2OGE4ZWM0XkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BYmM5M2Q4Y2YtYmZiYi00MzIxLTgzZTMtZWU3ZDA2OGE4ZWM0XkEyXkFqcGc@._V1_SX250.jpg"
+    ]
   }
 ]
