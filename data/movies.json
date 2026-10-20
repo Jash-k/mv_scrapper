@@ -2672,8 +2672,8 @@
     "imdbId": "tt37894980",
     "name": "Aasha",
     "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BNWEyMWFmNDktZjc5Ni00NGNkLTkyYWQtMTdlOGNiNTljZjcyXkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BNWEyMWFmNDktZjc5Ni00NGNkLTkyYWQtMTdlOGNiNTljZjcyXkEyXkFqcGc@._V1_SX250.jpg"
+    "poster": "https://m.media-amazon.com/images/M/MV5BYjE1M2I3OGUtMjVmZS00ZDQ0LThjMTctZWE5MTZmZTJiYTYzXkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BYjE1M2I3OGUtMjVmZS00ZDQ0LThjMTctZWE5MTZmZTJiYTYzXkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "fab55ecca48bbaa96d44b1141fedef0b",
@@ -3272,18 +3272,18 @@
       "Hindi",
       "Multi-Lang"
     ],
-    "imdbId": "tt1253859",
-    "name": "Road to Hell",
-    "year": "2008",
-    "poster": "https://images.metahub.space/poster/small/tt1253859/img",
-    "thumbnail": "https://images.metahub.space/poster/small/tt1253859/img",
+    "imdbId": "tt1504319",
+    "name": "Road to Nowhere",
+    "year": "2010",
+    "poster": "https://images.metahub.space/poster/small/tt1504319/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt1504319/img",
     "genres": [
-      "Action",
-      "Fantasy",
-      "Musical"
+      "Crime",
+      "Mystery",
+      "Romance"
     ],
-    "description": "A soldier who has been fighting a long war is driven mad because he no longer believes in any purpose or righteous truth behind the killing. He comes home to a surreal world looking for his first and only love from his youth, beli...",
-    "imdbRating": "5.2"
+    "description": "A young filmmaker gets wrapped up in a crime while shooting his new project on location.",
+    "imdbRating": "5.4"
   },
   {
     "id": "1e49bfd9e3a59f3ab735ebf8812de407",
@@ -3880,7 +3880,7 @@
       "Comedy"
     ],
     "description": "At an elite fundraising gala, celebrities and socialites find themselves in danger when armed activists storm the venue in pursuit of a legendary relic that could unlock supernatural powers.",
-    "imdbRating": "5.0"
+    "imdbRating": "5.7"
   },
   {
     "id": "906b34664be67193f53d9373353c5620",
@@ -9017,7 +9017,12 @@
     "rawText": "Boys Never Compromise (2026) Kannada HD + ESub - [1080p & 720p - AVC - (DD+2.0 - 224Kbps) - 8GB + Rips]",
     "languages": [
       "Kannada"
-    ]
+    ],
+    "imdbId": "tt33363258",
+    "name": "Boys Never Compromise",
+    "year": 2026,
+    "poster": "https://m.media-amazon.com/images/M/MV5BY2M1MzUzYWYtYzAzNC00MzRlLTgzOGEtZjQ0MmNhZWM1M2MyXkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BY2M1MzUzYWYtYzAzNC00MzRlLTgzOGEtZjQ0MmNhZWM1M2MyXkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "25c64a5b2528ecd49031c0ee1bdacc87",
@@ -9983,12 +9988,7 @@
       "Telugu",
       "Hindi",
       "Multi-Lang"
-    ],
-    "imdbId": "tt0944835",
-    "name": "Salt",
-    "year": 2010,
-    "poster": "https://m.media-amazon.com/images/M/MV5BMjIyODA2NDg4NV5BMl5BanBnXkFtZTcwMjg4NDAwMw@@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BMjIyODA2NDg4NV5BMl5BanBnXkFtZTcwMjg4NDAwMw@@._V1_SX250.jpg"
+    ]
   },
   {
     "id": "ce344907bd91f2925ff0f6ef818fdc4a",
@@ -10056,17 +10056,7 @@
     "rawText": "Boys (2003) Tamil Remastered UHD + ESub - [4K, 1080p & 720p - AVC / HEVC - (DD+5.1 - 192Kbps) - 8.2GB + Rips]",
     "languages": [
       "Tamil"
-    ],
-    "imdbId": "tt0279781",
-    "name": "Sorority Boys",
-    "year": "2002",
-    "poster": "https://images.metahub.space/poster/small/tt0279781/img",
-    "thumbnail": "https://images.metahub.space/poster/small/tt0279781/img",
-    "genres": [
-      "Comedy"
-    ],
-    "description": "Strapped for cash, three fraternity playboys make one last attempt to live the high life - cheaply - by masquerading as girls. But their chauvinistic ways come back to haunt them as they get a crash course in the opposite sex.",
-    "imdbRating": "5.5"
+    ]
   },
   {
     "id": "3d4641fd0bfdeee21b865c7e7d0f95e9",
@@ -10714,17 +10704,11 @@
       "Hindi",
       "Multi-Lang"
     ],
-    "imdbId": "tt0026246",
+    "imdbId": "tt0064839",
     "name": "Crime and Punishment",
-    "year": "1936",
-    "poster": "https://images.metahub.space/poster/small/tt0026246/img",
-    "thumbnail": "https://images.metahub.space/poster/small/tt0026246/img",
-    "genres": [
-      "Crime",
-      "Drama"
-    ],
-    "description": "A young man is haunted by the murder of a neighborhood pawn broker and hounded by the local police inspector who suspects that he is guilty.",
-    "imdbRating": "6.9"
+    "year": 1935,
+    "poster": "https://m.media-amazon.com/images/M/MV5BODI1NzZlNDItNzhjMC00NzBjLThkNzYtYzE3NzU1Zjk4MmNhXkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BODI1NzZlNDItNzhjMC00NzBjLThkNzYtYzE3NzU1Zjk4MmNhXkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "62c716ea7d1adee11783a2e7652e3969",
@@ -12627,7 +12611,12 @@
     "rawText": "Vengeance (2026) Tamil HD + ESub - [4K, 1080p & 720p - AVC / HEVC - (DD+5.1 - 192Kbps) - 4.4GB + Rips]",
     "languages": [
       "Tamil"
-    ]
+    ],
+    "imdbId": "tt11976532",
+    "name": "Vengeance",
+    "year": 2026,
+    "poster": "https://m.media-amazon.com/images/M/MV5BYmI2MmZlNTctYjIyMy00N2MxLTllZWQtNmEyOGZhMGQ3NThiXkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BYmI2MmZlNTctYjIyMy00N2MxLTllZWQtNmEyOGZhMGQ3NThiXkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "afa28110a7a2cd0bef854557946bfadf",
@@ -13065,19 +13054,7 @@
       "Tamil",
       "Malayalam",
       "Telugu"
-    ],
-    "imdbId": "tt14961016",
-    "name": "I'm Still Here",
-    "year": "2025",
-    "poster": "https://images.metahub.space/poster/small/tt14961016/img",
-    "thumbnail": "https://images.metahub.space/poster/small/tt14961016/img",
-    "genres": [
-      "Biography",
-      "Drama",
-      "History"
-    ],
-    "description": "A woman married to a former politician during the military dictatorship in Brazil is forced to reinvent herself and chart a new course for her family after a violent and arbitrary act.",
-    "imdbRating": "8.1"
+    ]
   },
   {
     "id": "605e01d3c02c8bc9fadc35f343780d99",
@@ -16496,7 +16473,12 @@
     "rawText": "Babita Singh Reporting (2026) Hindi UHD + ESub - [4K, 1080p & 720p - AVC / HEVC - (DD+5.1 - 640Kbps) - 5.5GB + Rips]",
     "languages": [
       "Hindi"
-    ]
+    ],
+    "imdbId": "tt40915016",
+    "name": "Babita Singh Reporting",
+    "year": 2026,
+    "poster": "https://m.media-amazon.com/images/M/MV5BNDY2Y2UyZmEtMTFmNi00ZWMxLTlmZjktZjkwNGM0NWRmZDNjXkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BNDY2Y2UyZmEtMTFmNi00ZWMxLTlmZjktZjkwNGM0NWRmZDNjXkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "720ee242f223633cb6a50cbaed8f8394",
@@ -20480,7 +20462,12 @@
       "Telugu",
       "Hindi",
       "Multi-Lang"
-    ]
+    ],
+    "imdbId": "tt1800302",
+    "name": "Gold",
+    "year": 2022,
+    "poster": "https://m.media-amazon.com/images/M/MV5BNzI1NjI5OTUyM15BMl5BanBnXkFtZTgwOTM4NzY2MDI@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BNzI1NjI5OTUyM15BMl5BanBnXkFtZTgwOTM4NzY2MDI@._V1_SX250.jpg"
   },
   {
     "id": "638cfaa36eb2ea3a8dd1e8fe7af23786",
