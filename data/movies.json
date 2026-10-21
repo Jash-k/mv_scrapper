@@ -4018,7 +4018,19 @@
       "Tamil",
       "Hindi",
       "Multi-Lang"
-    ]
+    ],
+    "imdbId": "tt1253859",
+    "name": "Road to Hell",
+    "year": "2008",
+    "poster": "https://images.metahub.space/poster/small/tt1253859/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt1253859/img",
+    "genres": [
+      "Action",
+      "Fantasy",
+      "Musical"
+    ],
+    "description": "A soldier who has been fighting a long war is driven mad because he no longer believes in any purpose or righteous truth behind the killing. He comes home to a surreal world looking for his first and only love from his youth, beli...",
+    "imdbRating": "5.2"
   },
   {
     "id": "1e49bfd9e3a59f3ab735ebf8812de407",
@@ -9151,8 +9163,9 @@
     "imdbId": "tt43134711",
     "name": "Ramba Oorvasi Menaka",
     "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BZTRmZTYxYjEtNDdiNy00ZmE0LTlmNjMtOWQ5MjJlOGU0MTBjXkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BZTRmZTYxYjEtNDdiNy00ZmE0LTlmNjMtOWQ5MjJlOGU0MTBjXkEyXkFqcGc@._V1_SX250.jpg"
+    "poster": "https://image.tmdb.org/t/p/w500/tPkKq60dSC12I3ARollNuZsY4Jv.jpg",
+    "thumbnail": "https://image.tmdb.org/t/p/w500/tPkKq60dSC12I3ARollNuZsY4Jv.jpg",
+    "description": "A man spends 15 years attempting to use a magical book to summon the celestial angels Ramba, Urvasi, and Menaka to earth, but Lord Indra blocks their descent until they finally arrive."
   },
   {
     "id": "3419ed03e1bdb0a1e360271279028b98",
