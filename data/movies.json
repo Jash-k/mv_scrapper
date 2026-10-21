@@ -2881,7 +2881,12 @@
       "Telugu",
       "Hindi",
       "Multi-Lang"
-    ]
+    ],
+    "imdbId": "tt0101540",
+    "name": "Cape Fear",
+    "year": 1991,
+    "poster": "https://m.media-amazon.com/images/M/MV5BNTBkNTYwZTctOTgxYS00ZmIyLTgzNDAtODJhZjg2MDUwNmFlXkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BNTBkNTYwZTctOTgxYS00ZmIyLTgzNDAtODJhZjg2MDUwNmFlXkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "f9509d916e3971b0f01cd283001579d8",
@@ -19024,12 +19029,7 @@
       "Telugu",
       "Hindi",
       "Multi-Lang"
-    ],
-    "imdbId": "tt39530053",
-    "name": "Snake 5: Monster City",
-    "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BYWNjNWY0YjgtNDdiNC00ZmEzLTk4NzktZWE1Y2M1MmZiMDM1XkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BYWNjNWY0YjgtNDdiNC00ZmEzLTk4NzktZWE1Y2M1MmZiMDM1XkEyXkFqcGc@._V1_SX250.jpg"
+    ]
   },
   {
     "id": "9133d4176f97af5c2c90aab009d74f6d",
