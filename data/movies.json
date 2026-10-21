@@ -3803,11 +3803,16 @@
       "Hindi",
       "Multi-Lang"
     ],
-    "imdbId": "tt0090756",
-    "name": "Blue Velvet",
-    "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BNzkwZGUyYjQtM2QyOC00MTBjLWE0NGYtMTZmOGM5MjI0Mzg0XkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BNzkwZGUyYjQtM2QyOC00MTBjLWE0NGYtMTZmOGM5MjI0Mzg0XkEyXkFqcGc@._V1_SX250.jpg"
+    "imdbId": "tt32252801",
+    "name": "Blue Heron",
+    "year": "2026",
+    "poster": "https://images.metahub.space/poster/small/tt32252801/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt32252801/img",
+    "genres": [
+      "Drama"
+    ],
+    "description": "A family of six moves into a new home on Vancouver Island, but the eldest son's disruptive behavior gradually throws their lives off balance.",
+    "imdbRating": "7.1"
   },
   {
     "id": "227d8dddbbac0157b17ba50b9cb964c0",
@@ -10837,7 +10842,12 @@
     "rawText": "Idi Mazha Kaattu (2026) Malayalam HD + ESub - [1080p & 720p - AVC - (AAC 2.0) - 2.8GB + Rips]",
     "languages": [
       "Malayalam"
-    ]
+    ],
+    "imdbId": "tt10908160",
+    "name": "Idi Mazha Kaattu",
+    "year": 2026,
+    "poster": "https://m.media-amazon.com/images/M/MV5BYWRmNWM5ZDQtMDlmYS00MmZjLWI5MTItYmMzNDcxZDYyNmJhXkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BYWRmNWM5ZDQtMDlmYS00MmZjLWI5MTItYmMzNDcxZDYyNmJhXkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "b51c4eb66c0dd2581edb454956da5f90",
@@ -13002,7 +13012,12 @@
       "Kannada",
       "Hindi",
       "Multi-Lang"
-    ]
+    ],
+    "imdbId": "tt43665767",
+    "name": "Maharaja Hostel",
+    "year": 2026,
+    "poster": "https://m.media-amazon.com/images/M/MV5BNDY3ZjA2ZWYtZjg2Yy00ZDhhLTk4NDgtMDk0N2QyYTE1MDJjXkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BNDY3ZjA2ZWYtZjg2Yy00ZDhhLTk4NDgtMDk0N2QyYTE1MDJjXkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "dfa074a62da17bdcbba5de2651429159",
@@ -18099,7 +18114,12 @@
       "Kannada",
       "Hindi",
       "Multi-Lang"
-    ]
+    ],
+    "imdbId": "tt39260895",
+    "name": "Pyaar Prema Kalyanam",
+    "year": 2026,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMWI0NjAzZWQtYTJhZS00YmEzLTgyNmItNTJkZDcxNjM3OWQ2XkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BMWI0NjAzZWQtYTJhZS00YmEzLTgyNmItNTJkZDcxNjM3OWQ2XkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "f9c093b01abe50f36bffeb2f3ea6d1f5",
@@ -19049,7 +19069,19 @@
     "rawText": "The Great Grand Superhero (2026) Hindi HD + ESub - [4K, 1080p & 720p - AVC / HEVC - (DD+5.1 - 192Kbps) - 4.8GB + Rips]",
     "languages": [
       "Hindi"
-    ]
+    ],
+    "imdbId": "tt29927663",
+    "name": "The Great Flood",
+    "year": "2025",
+    "poster": "https://images.metahub.space/poster/small/tt29927663/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt29927663/img",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Drama"
+    ],
+    "description": "A disastrous great flood sweeps the planet. On what may be the last day on Earth, a desperate fight ensues to save a child from a flooding apartment.",
+    "imdbRating": "5.4"
   },
   {
     "id": "f42bed113e1e3a451109099d46b34a41",
@@ -19084,7 +19116,12 @@
     "rawText": "Sanjeev (2026) Telugu HD + ESub - [1080p & 720p - AVC - (DD+5.1 - 192Kbps) - 1GB + Rips]",
     "languages": [
       "Telugu"
-    ]
+    ],
+    "imdbId": "tt36653351",
+    "name": "Sanjeev",
+    "year": 2026,
+    "poster": "https://m.media-amazon.com/images/M/MV5BNzk3MTQ2ODEtNTQyZi00YmQ4LTkzOTYtNzE0NTJkYjJlNDdkXkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BNzk3MTQ2ODEtNTQyZi00YmQ4LTkzOTYtNzE0NTJkYjJlNDdkXkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "84d8021ef91767958fc9306f6aa3e1b0",
