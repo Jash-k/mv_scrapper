@@ -473,7 +473,12 @@
       "Hindi",
       "Telugu",
       "Kannada"
-    ]
+    ],
+    "imdbId": "tt33318732",
+    "name": "Jailer 2",
+    "year": 2026,
+    "poster": "https://m.media-amazon.com/images/M/MV5BYmJiYzc1ODctZjQzZS00NzEzLWI0NDEtZGVkNjI4YzEzNGRjXkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BYmJiYzc1ODctZjQzZS00NzEzLWI0NDEtZGVkNjI4YzEzNGRjXkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "fce1c407bad1db00a98378e841b9b16b",
@@ -759,12 +764,7 @@
     "languages": [
       "Tamil",
       "Telugu"
-    ],
-    "imdbId": "tt38916037",
-    "name": "Lenin Pandiyan",
-    "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BMDkwMGE4MDctZDUxNS00MTYwLWFjNTQtNDZhMmMzYTg2OTViXkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BMDkwMGE4MDctZDUxNS00MTYwLWFjNTQtNDZhMmMzYTg2OTViXkEyXkFqcGc@._V1_SX250.jpg"
+    ]
   },
   {
     "id": "29e8d2d69039dde54476fb0c2e98fdfb",
@@ -14328,9 +14328,8 @@
     "imdbId": "tt27977862",
     "name": "Last Days",
     "year": 2025,
-    "poster": "https://image.tmdb.org/t/p/w500/kg0FHevBu2SiSa3i9DtOxSa1vNr.jpg",
-    "thumbnail": "https://image.tmdb.org/t/p/w500/kg0FHevBu2SiSa3i9DtOxSa1vNr.jpg",
-    "description": "Determined to fulfill his life’s mission, 26-year-old John Allen Chau embarks on a dangerous adventure across the globe to convert the uncontacted tribe of North Sentinel Island to Christianity, while a detective from the Andaman Islands races to stop him before he does harm to himself or the tribe."
+    "poster": "https://m.media-amazon.com/images/M/MV5BMWFkYTM1NWUtMzU1Yi00NjEwLThmZGItNjQwZTZjMzBhMDZkXkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BMWFkYTM1NWUtMzU1Yi00NjEwLThmZGItNjQwZTZjMzBhMDZkXkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "5de9748c1cfbb42761b6aa2a06712bde",
@@ -21081,12 +21080,7 @@
       "Telugu",
       "Hindi",
       "Multi-Lang"
-    ],
-    "imdbId": "tt2369135",
-    "name": "Need for Speed",
-    "year": 2014,
-    "poster": "https://m.media-amazon.com/images/M/MV5BMTQ3ODY4NzYzOF5BMl5BanBnXkFtZTgwNjI3OTE4MDE@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BMTQ3ODY4NzYzOF5BMl5BanBnXkFtZTgwNjI3OTE4MDE@._V1_SX250.jpg"
+    ]
   },
   {
     "id": "9e95f42a03324e5ad44838c309ca3769",
