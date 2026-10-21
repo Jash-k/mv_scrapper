@@ -3803,16 +3803,11 @@
       "Hindi",
       "Multi-Lang"
     ],
-    "imdbId": "tt32252801",
-    "name": "Blue Heron",
-    "year": "2026",
-    "poster": "https://images.metahub.space/poster/small/tt32252801/img",
-    "thumbnail": "https://images.metahub.space/poster/small/tt32252801/img",
-    "genres": [
-      "Drama"
-    ],
-    "description": "A family of six moves into a new home on Vancouver Island, but the eldest son's disruptive behavior gradually throws their lives off balance.",
-    "imdbRating": "7.1"
+    "imdbId": "tt0090756",
+    "name": "Blue Velvet",
+    "year": 2026,
+    "poster": "https://m.media-amazon.com/images/M/MV5BNzkwZGUyYjQtM2QyOC00MTBjLWE0NGYtMTZmOGM5MjI0Mzg0XkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BNzkwZGUyYjQtM2QyOC00MTBjLWE0NGYtMTZmOGM5MjI0Mzg0XkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "227d8dddbbac0157b17ba50b9cb964c0",
@@ -9163,9 +9158,8 @@
     "imdbId": "tt43134711",
     "name": "Ramba Oorvasi Menaka",
     "year": 2026,
-    "poster": "https://image.tmdb.org/t/p/w500/tPkKq60dSC12I3ARollNuZsY4Jv.jpg",
-    "thumbnail": "https://image.tmdb.org/t/p/w500/tPkKq60dSC12I3ARollNuZsY4Jv.jpg",
-    "description": "A man spends 15 years attempting to use a magical book to summon the celestial angels Ramba, Urvasi, and Menaka to earth, but Lord Indra blocks their descent until they finally arrive."
+    "poster": "https://m.media-amazon.com/images/M/MV5BZTRmZTYxYjEtNDdiNy00ZmE0LTlmNjMtOWQ5MjJlOGU0MTBjXkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BZTRmZTYxYjEtNDdiNy00ZmE0LTlmNjMtOWQ5MjJlOGU0MTBjXkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "3419ed03e1bdb0a1e360271279028b98",
