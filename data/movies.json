@@ -436,7 +436,12 @@
       "Kannada",
       "Hindi",
       "Multi-Lang"
-    ]
+    ],
+    "imdbId": "tt31969655",
+    "name": "The Paradise",
+    "year": 2026,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMGI3N2I1ZWUtYzMyZS00MTRlLThlNDUtNWZhY2MxZTlmMDJjXkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BMGI3N2I1ZWUtYzMyZS00MTRlLThlNDUtNWZhY2MxZTlmMDJjXkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "3a61f435ac65fe6ab7791d1488facb41",
@@ -905,7 +910,12 @@
     "rawText": "Aaru Aanugal (2026) Malayalam HD + ESub - [1080p & 720p - AVC - (DD+5.1 - 384Kbps) - 2.6GB + Rips]",
     "languages": [
       "Malayalam"
-    ]
+    ],
+    "imdbId": "tt41935268",
+    "name": "Aaru Aanugal",
+    "year": 2026,
+    "poster": "https://m.media-amazon.com/images/M/MV5BYWFkYmExMDQtNTFjMC00NGJlLWJiYmYtNzQ2OWQ1YzI0NTdkXkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BYWFkYmExMDQtNTFjMC00NGJlLWJiYmYtNzQ2OWQ1YzI0NTdkXkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "1b3aeec099196033d3ca24cda8441385",
@@ -940,7 +950,12 @@
     "rawText": "Sumo Didi (2026) Hindi HD + ESub - [4K, 1080p & 720p - AVC - (DD+5.1 - 384Kbps) - 3.9GB + Rips]",
     "languages": [
       "Hindi"
-    ]
+    ],
+    "imdbId": "tt24226306",
+    "name": "Sumo Didi",
+    "year": 2026,
+    "poster": "https://m.media-amazon.com/images/M/MV5BYzA0NjkxNTAtNGM1NS00MjZlLThmYjktMDM0Y2MxMzNkNjdhXkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BYzA0NjkxNTAtNGM1NS00MjZlLThmYjktMDM0Y2MxMzNkNjdhXkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "c095272e30232b688a23f5314a96a6e7",
@@ -4387,11 +4402,16 @@
       "Hindi",
       "Multi-Lang"
     ],
-    "imdbId": "tt0090756",
-    "name": "Blue Velvet",
-    "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BNzkwZGUyYjQtM2QyOC00MTBjLWE0NGYtMTZmOGM5MjI0Mzg0XkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BNzkwZGUyYjQtM2QyOC00MTBjLWE0NGYtMTZmOGM5MjI0Mzg0XkEyXkFqcGc@._V1_SX250.jpg"
+    "imdbId": "tt32252801",
+    "name": "Blue Heron",
+    "year": "2026",
+    "poster": "https://images.metahub.space/poster/small/tt32252801/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt32252801/img",
+    "genres": [
+      "Drama"
+    ],
+    "description": "A family of six moves into a new home on Vancouver Island, but the eldest son's disruptive behavior gradually throws their lives off balance.",
+    "imdbRating": "7.1"
   },
   {
     "id": "227d8dddbbac0157b17ba50b9cb964c0",
@@ -5094,7 +5114,12 @@
       "Kannada",
       "Hindi",
       "Multi-Lang"
-    ]
+    ],
+    "imdbId": "tt28541577",
+    "name": "Sardar 2",
+    "year": 2026,
+    "poster": "https://m.media-amazon.com/images/M/MV5BNTMzNjZkODEtNjRiMS00MjFiLWE0YWYtOGQ5ZGVlODQ1NDVmXkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BNTMzNjZkODEtNjRiMS00MjFiLWE0YWYtOGQ5ZGVlODQ1NDVmXkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "a2c52f8050517aa3bc1c6943ecd95b3c",
@@ -7434,12 +7459,7 @@
       "Telugu",
       "Hindi",
       "Multi-Lang"
-    ],
-    "imdbId": "tt32393988",
-    "name": "Insidious: Out of the Further",
-    "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BMTY4YjM1OGItMDlmMi00OTU1LWEzM2MtZGMyZTQ1NzhiM2VhXkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BMTY4YjM1OGItMDlmMi00OTU1LWEzM2MtZGMyZTQ1NzhiM2VhXkEyXkFqcGc@._V1_SX250.jpg"
+    ]
   },
   {
     "id": "5db5b2233485c3ff4d68829c872a1f04",
@@ -7557,21 +7577,7 @@
       "Tamil",
       "Hindi",
       "Multi-Lang"
-    ],
-    "imdbId": "tt0462482",
-    "name": "Population 436",
-    "year": "2006",
-    "poster": "https://images.metahub.space/poster/small/tt0462482/img",
-    "thumbnail": "https://images.metahub.space/poster/small/tt0462482/img",
-    "genres": [
-      "Drama",
-      "Horror",
-      "Mystery",
-      "Romance",
-      "Thriller"
-    ],
-    "description": "A census-taker (Sisto) is sent to investigate why a certain small town has had the same population -- 436 residents -- for the last 100 years.",
-    "imdbRating": "5.7"
+    ]
   },
   {
     "id": "4cf63f7d107ef4e977657b18cc083af9",
@@ -10807,12 +10813,7 @@
       "Kannada",
       "Hindi",
       "Multi-Lang"
-    ],
-    "imdbId": "tt39108319",
-    "name": "Irumudi",
-    "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BMjZlMDBhYzktYTY4OS00ZGU3LWEwNzQtOTBiY2M0MTVjMmIyXkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BMjZlMDBhYzktYTY4OS00ZGU3LWEwNzQtOTBiY2M0MTVjMmIyXkEyXkFqcGc@._V1_SX250.jpg"
+    ]
   },
   {
     "id": "ef4c78ac1c44300918f82589a8c15ee0",
@@ -15380,12 +15381,7 @@
       "Kannada",
       "Hindi",
       "Multi-Lang"
-    ],
-    "imdbId": "tt32474264",
-    "name": "Korean Kanakaraju",
-    "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BM2Q3NzY4MGQtYzMwMy00YTg2LWI1MGItYjU4ODI5YTNhYmFlXkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BM2Q3NzY4MGQtYzMwMy00YTg2LWI1MGItYjU4ODI5YTNhYmFlXkEyXkFqcGc@._V1_SX250.jpg"
+    ]
   },
   {
     "id": "3ebcd3cc58f3b0243b69fc0fcab3ec05",
@@ -16327,12 +16323,7 @@
     "rawText": "Once More (2026) Tamil HQ PreDVD (HQ Clean) - [1080p & 720p - x264 - 2.7GB + Rips] - [W]",
     "languages": [
       "Tamil"
-    ],
-    "imdbId": "tt32758159",
-    "name": "Once More",
-    "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BMTIzNjFjMWItM2E2ZS00ZDdmLTkxYmEtMWIxZWY4MGIzZWYwXkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BMTIzNjFjMWItM2E2ZS00ZDdmLTkxYmEtMWIxZWY4MGIzZWYwXkEyXkFqcGc@._V1_SX250.jpg"
+    ]
   },
   {
     "id": "ac10477ad6a26c29666c689cfcae44e6",
@@ -16694,12 +16685,7 @@
       "Kannada",
       "Hindi",
       "Multi-Lang"
-    ],
-    "imdbId": "tt34545743",
-    "name": "Godari Gattupaina",
-    "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BOTcxNTRhMTItN2YzNS00ODhmLWIzODUtNTFiNmU1Yzg3Njc1XkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BOTcxNTRhMTItN2YzNS00ODhmLWIzODUtNTFiNmU1Yzg3Njc1XkEyXkFqcGc@._V1_SX250.jpg"
+    ]
   },
   {
     "id": "2259e6ba6bf22427a0a28ccb347f22c4",
@@ -18075,12 +18061,7 @@
       "Telugu",
       "Hindi",
       "Multi-Lang"
-    ],
-    "imdbId": "tt14895216",
-    "name": "Ghost Mansion",
-    "year": 2021,
-    "poster": "https://m.media-amazon.com/images/M/MV5BN2ExZGI4MTYtMDcwNi00ZTRlLWIyMDktZDc4NDFhOTdkNzFmXkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BN2ExZGI4MTYtMDcwNi00ZTRlLWIyMDktZDc4NDFhOTdkNzFmXkEyXkFqcGc@._V1_SX250.jpg"
+    ]
   },
   {
     "id": "64e18d4afe5e242516dae5af9c4a4d9b",
