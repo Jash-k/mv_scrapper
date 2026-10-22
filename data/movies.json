@@ -716,8 +716,8 @@
     "imdbId": "tt42602688",
     "name": "Naa Wife Missing",
     "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BNmUzMzBmMGItOTdkOC00Mzc3LThhYmMtMmJlZjg0NTk3YmNhXkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BNmUzMzBmMGItOTdkOC00Mzc3LThhYmMtMmJlZjg0NTk3YmNhXkEyXkFqcGc@._V1_SX250.jpg"
+    "poster": "https://images.metahub.space/poster/small/tt42602688/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt42602688/img"
   },
   {
     "id": "29e8d2d69039dde54476fb0c2e98fdfb",
@@ -4992,7 +4992,12 @@
     "rawText": "It's A Medical Miracle (2026) Malayalam UHD + ESub - [4K, 1080p & 720p - AVC / HEVC - (DD+5.1 - 384Kbps) - 10GB + Rips]",
     "languages": [
       "Malayalam"
-    ]
+    ],
+    "imdbId": "tt35963439",
+    "name": "It's A Medical Miracle",
+    "year": 2026,
+    "poster": "https://m.media-amazon.com/images/M/MV5BODAyZGM3ODAtZjMwMy00NTYxLTlkMmEtM2RkNWE2NTMzNjUxXkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BODAyZGM3ODAtZjMwMy00NTYxLTlkMmEtM2RkNWE2NTMzNjUxXkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "5c8a24d246a754a483e03617071dec98",
@@ -5510,7 +5515,12 @@
     "rawText": "Jailer (2023) Tamil UHD + ESub - [4K, 1080p & 720p - AVC / HEVC - (DD+5.1 - 640Kbps) - 27GB + Rips]",
     "languages": [
       "Tamil"
-    ]
+    ],
+    "imdbId": "tt33318732",
+    "name": "Jailer 2",
+    "year": 2023,
+    "poster": "https://m.media-amazon.com/images/M/MV5BYmJiYzc1ODctZjQzZS00NzEzLWI0NDEtZGVkNjI4YzEzNGRjXkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BYmJiYzc1ODctZjQzZS00NzEzLWI0NDEtZGVkNjI4YzEzNGRjXkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "5e9689ba26e9602720dd707be2841814",
@@ -7363,7 +7373,21 @@
       "Tamil",
       "Hindi",
       "Multi-Lang"
-    ]
+    ],
+    "imdbId": "tt0462482",
+    "name": "Population 436",
+    "year": "2006",
+    "poster": "https://images.metahub.space/poster/small/tt0462482/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt0462482/img",
+    "genres": [
+      "Drama",
+      "Horror",
+      "Mystery",
+      "Romance",
+      "Thriller"
+    ],
+    "description": "A census-taker (Sisto) is sent to investigate why a certain small town has had the same population -- 436 residents -- for the last 100 years.",
+    "imdbRating": "5.7"
   },
   {
     "id": "4cf63f7d107ef4e977657b18cc083af9",
@@ -7953,7 +7977,12 @@
       "Kannada",
       "Hindi",
       "Multi-Lang"
-    ]
+    ],
+    "imdbId": "tt41971399",
+    "name": "Romanchakam",
+    "year": 2026,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMzExZWYwZWMtNmFlMC00NDA4LThkZTAtNzk2YzU4MDhkMmE2XkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BMzExZWYwZWMtNmFlMC00NDA4LThkZTAtNzk2YzU4MDhkMmE2XkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "6df3589453b39291b3c94c0dbae1456a",
@@ -14962,7 +14991,17 @@
       "Tamil",
       "Hindi",
       "Multi-Lang"
-    ]
+    ],
+    "imdbId": "tt7516468",
+    "name": "A Company of Heroes",
+    "year": "2012",
+    "poster": "https://images.metahub.space/poster/small/tt7516468/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt7516468/img",
+    "genres": [
+      "Documentary"
+    ],
+    "description": "They were the \"other\" Band of Brothers. A Company of Heroes features interviews with many of the men not focused on in the book \"Band of Brothers\" by Stephen Ambrose or in the television mini-series by the same name. Never before ...",
+    "imdbRating": "7.8"
   },
   {
     "id": "6d07adc5abefda7741b76aef87a6cd37",
@@ -16064,7 +16103,12 @@
       "Malayalam",
       "Kannada",
       "Multi-Lang"
-    ]
+    ],
+    "imdbId": "tt43685971",
+    "name": "Pallaburusu",
+    "year": 2026,
+    "poster": "https://m.media-amazon.com/images/M/MV5BZjUwNmRkY2QtMWNlYS00NWE3LWJiYzktZGE4ZTU5YjA5YTNlXkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BZjUwNmRkY2QtMWNlYS00NWE3LWJiYzktZGE4ZTU5YjA5YTNlXkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "ddcb2883b075d3276ac7f6d4eb211e6e",
@@ -16477,7 +16521,12 @@
       "Kannada",
       "Hindi",
       "Multi-Lang"
-    ]
+    ],
+    "imdbId": "tt34545743",
+    "name": "Godari Gattupaina",
+    "year": 2026,
+    "poster": "https://m.media-amazon.com/images/M/MV5BOTcxNTRhMTItN2YzNS00ODhmLWIzODUtNTFiNmU1Yzg3Njc1XkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BOTcxNTRhMTItN2YzNS00ODhmLWIzODUtNTFiNmU1Yzg3Njc1XkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "2259e6ba6bf22427a0a28ccb347f22c4",
