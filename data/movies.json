@@ -41,7 +41,12 @@
       "Telugu",
       "Hindi",
       "Multi-Lang"
-    ]
+    ],
+    "imdbId": "tt12446086",
+    "name": "Legend of the White Dragon",
+    "year": 2026,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTcxNmY0NWYtMjJiNS00ZmZjLTkyMmItYjljYzU4YzliNTBjXkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BMTcxNmY0NWYtMjJiNS00ZmZjLTkyMmItYjljYzU4YzliNTBjXkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "7c788a67964f218f1294a8bb842de86e",
@@ -760,8 +765,8 @@
     "imdbId": "tt42602688",
     "name": "Naa Wife Missing",
     "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BNmUzMzBmMGItOTdkOC00Mzc3LThhYmMtMmJlZjg0NTk3YmNhXkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BNmUzMzBmMGItOTdkOC00Mzc3LThhYmMtMmJlZjg0NTk3YmNhXkEyXkFqcGc@._V1_SX250.jpg"
+    "poster": "https://images.metahub.space/poster/small/tt42602688/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt42602688/img"
   },
   {
     "id": "29e8d2d69039dde54476fb0c2e98fdfb",
@@ -9615,7 +9620,12 @@
       "Kannada",
       "Hindi",
       "Multi-Lang"
-    ]
+    ],
+    "imdbId": "tt41101621",
+    "name": "Habeebi",
+    "year": 2026,
+    "poster": "https://m.media-amazon.com/images/M/MV5BNjZmNTVmZWEtOWViMy00YmNiLWE3NmYtOWY3MmExOWE5MjkyXkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BNjZmNTVmZWEtOWViMy00YmNiLWE3NmYtOWY3MmExOWE5MjkyXkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "3cc605a7b5dfa6a93f6c448cce43f6b9",
@@ -13729,9 +13739,8 @@
     "imdbId": "tt33744610",
     "name": "Ghamasaan",
     "year": 2026,
-    "poster": "https://image.tmdb.org/t/p/w500/gZuN5Vh9ceBzTk9gl230kE9GrVD.jpg",
-    "thumbnail": "https://image.tmdb.org/t/p/w500/gZuN5Vh9ceBzTk9gl230kE9GrVD.jpg",
-    "description": "Set in the Hindi heartland, the story follows a cat and mouse chase against a ruthless dacoit. An honest IPS officer is determined to hunt him down, corrupt politicians notwithstanding."
+    "poster": "https://m.media-amazon.com/images/M/MV5BYjMwMzgwMzctNzM0NC00N2VlLTg1MjAtNDczNDIzOTRlYjM0XkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BYjMwMzgwMzctNzM0NC00N2VlLTg1MjAtNDczNDIzOTRlYjM0XkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "d9adce016441bfd061b09861ed856a95",
