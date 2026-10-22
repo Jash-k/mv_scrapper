@@ -3803,16 +3803,11 @@
       "Hindi",
       "Multi-Lang"
     ],
-    "imdbId": "tt32252801",
-    "name": "Blue Heron",
-    "year": "2026",
-    "poster": "https://images.metahub.space/poster/small/tt32252801/img",
-    "thumbnail": "https://images.metahub.space/poster/small/tt32252801/img",
-    "genres": [
-      "Drama"
-    ],
-    "description": "A family of six moves into a new home on Vancouver Island, but the eldest son's disruptive behavior gradually throws their lives off balance.",
-    "imdbRating": "7.1"
+    "imdbId": "tt0090756",
+    "name": "Blue Velvet",
+    "year": 2026,
+    "poster": "https://m.media-amazon.com/images/M/MV5BNzkwZGUyYjQtM2QyOC00MTBjLWE0NGYtMTZmOGM5MjI0Mzg0XkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BNzkwZGUyYjQtM2QyOC00MTBjLWE0NGYtMTZmOGM5MjI0Mzg0XkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "227d8dddbbac0157b17ba50b9cb964c0",
@@ -16937,7 +16932,12 @@
     "rawText": "Alpha (2026) Hindi HD + ESub - [1080p & 720p - AVC - (DD+5.1 - 640Kbps) - 5.5GB + Rips]",
     "languages": [
       "Hindi"
-    ]
+    ],
+    "imdbId": "tt28363783",
+    "name": "Alpha",
+    "year": 2026,
+    "poster": "https://m.media-amazon.com/images/M/MV5BOGQ1NzJlYzQtOTA0Yy00N2RiLTlkY2UtZWJlNzlmMzFmZjk0XkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BOGQ1NzJlYzQtOTA0Yy00N2RiLTlkY2UtZWJlNzlmMzFmZjk0XkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "93d7c1868a81be1beacdd64907a736d4",
