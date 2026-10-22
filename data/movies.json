@@ -1026,8 +1026,8 @@
     "imdbId": "tt42602688",
     "name": "Naa Wife Missing",
     "year": 2026,
-    "poster": "https://images.metahub.space/poster/small/tt42602688/img",
-    "thumbnail": "https://images.metahub.space/poster/small/tt42602688/img"
+    "poster": "https://m.media-amazon.com/images/M/MV5BNmUzMzBmMGItOTdkOC00Mzc3LThhYmMtMmJlZjg0NTk3YmNhXkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BNmUzMzBmMGItOTdkOC00Mzc3LThhYmMtMmJlZjg0NTk3YmNhXkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "29e8d2d69039dde54476fb0c2e98fdfb",
@@ -4402,16 +4402,11 @@
       "Hindi",
       "Multi-Lang"
     ],
-    "imdbId": "tt32252801",
-    "name": "Blue Heron",
-    "year": "2026",
-    "poster": "https://images.metahub.space/poster/small/tt32252801/img",
-    "thumbnail": "https://images.metahub.space/poster/small/tt32252801/img",
-    "genres": [
-      "Drama"
-    ],
-    "description": "A family of six moves into a new home on Vancouver Island, but the eldest son's disruptive behavior gradually throws their lives off balance.",
-    "imdbRating": "7.1"
+    "imdbId": "tt0090756",
+    "name": "Blue Velvet",
+    "year": 2026,
+    "poster": "https://m.media-amazon.com/images/M/MV5BNzkwZGUyYjQtM2QyOC00MTBjLWE0NGYtMTZmOGM5MjI0Mzg0XkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BNzkwZGUyYjQtM2QyOC00MTBjLWE0NGYtMTZmOGM5MjI0Mzg0XkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "227d8dddbbac0157b17ba50b9cb964c0",
@@ -6556,19 +6551,7 @@
     "rawText": "Matchbox The Movie (2026) English HD + ESub - [1080p & 720p - AVC - (DD+5.1 ATMOS - 768Kbps) - 2.9GB + Rips]",
     "languages": [
       "Tamil"
-    ],
-    "imdbId": "tt32560777",
-    "name": "Plankton: The Movie",
-    "year": "2025",
-    "poster": "https://images.metahub.space/poster/small/tt32560777/img",
-    "thumbnail": "https://images.metahub.space/poster/small/tt32560777/img",
-    "genres": [
-      "Animation",
-      "Adventure",
-      "Comedy"
-    ],
-    "description": "When Karen the Computer decides to take over the world, it's up to Plankton to stop her - with a little help from SpongeBob and the Gal Pals (Pearl, Sandy, and Mrs. Puff).",
-    "imdbRating": "5.3"
+    ]
   },
   {
     "id": "6ba20cbf991d71765f62a195167610ae",
@@ -7459,7 +7442,12 @@
       "Telugu",
       "Hindi",
       "Multi-Lang"
-    ]
+    ],
+    "imdbId": "tt32393988",
+    "name": "Insidious: Out of the Further",
+    "year": 2026,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTY4YjM1OGItMDlmMi00OTU1LWEzM2MtZGMyZTQ1NzhiM2VhXkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BMTY4YjM1OGItMDlmMi00OTU1LWEzM2MtZGMyZTQ1NzhiM2VhXkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "5db5b2233485c3ff4d68829c872a1f04",
@@ -7577,7 +7565,21 @@
       "Tamil",
       "Hindi",
       "Multi-Lang"
-    ]
+    ],
+    "imdbId": "tt0462482",
+    "name": "Population 436",
+    "year": "2006",
+    "poster": "https://images.metahub.space/poster/small/tt0462482/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt0462482/img",
+    "genres": [
+      "Drama",
+      "Horror",
+      "Mystery",
+      "Romance",
+      "Thriller"
+    ],
+    "description": "A census-taker (Sisto) is sent to investigate why a certain small town has had the same population -- 436 residents -- for the last 100 years.",
+    "imdbRating": "5.7"
   },
   {
     "id": "4cf63f7d107ef4e977657b18cc083af9",
@@ -10039,7 +10041,18 @@
       "Telugu",
       "Hindi",
       "Multi-Lang"
-    ]
+    ],
+    "imdbId": "tt29630464",
+    "name": "Don't Move",
+    "year": "2026",
+    "poster": "https://images.metahub.space/poster/small/tt29630464/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt29630464/img",
+    "genres": [
+      "Horror",
+      "Thriller"
+    ],
+    "description": "Follows a prehistoric arachnid that terrifies a stranded group of campers who hike into the wrong woods. Based on the spine-tingling horror novel from the actor best known as \"Murr\" on TV's Impractical Jokers.",
+    "imdbRating": "6.7"
   },
   {
     "id": "58deb6dfb62e77f3a5cfae3e3b0449e4",
@@ -10813,7 +10826,12 @@
       "Kannada",
       "Hindi",
       "Multi-Lang"
-    ]
+    ],
+    "imdbId": "tt39108319",
+    "name": "Irumudi",
+    "year": 2026,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjZlMDBhYzktYTY4OS00ZGU3LWEwNzQtOTBiY2M0MTVjMmIyXkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BMjZlMDBhYzktYTY4OS00ZGU3LWEwNzQtOTBiY2M0MTVjMmIyXkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "ef4c78ac1c44300918f82589a8c15ee0",
@@ -15381,7 +15399,12 @@
       "Kannada",
       "Hindi",
       "Multi-Lang"
-    ]
+    ],
+    "imdbId": "tt32474264",
+    "name": "Korean Kanakaraju",
+    "year": 2026,
+    "poster": "https://m.media-amazon.com/images/M/MV5BM2Q3NzY4MGQtYzMwMy00YTg2LWI1MGItYjU4ODI5YTNhYmFlXkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BM2Q3NzY4MGQtYzMwMy00YTg2LWI1MGItYjU4ODI5YTNhYmFlXkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "3ebcd3cc58f3b0243b69fc0fcab3ec05",
@@ -16323,7 +16346,12 @@
     "rawText": "Once More (2026) Tamil HQ PreDVD (HQ Clean) - [1080p & 720p - x264 - 2.7GB + Rips] - [W]",
     "languages": [
       "Tamil"
-    ]
+    ],
+    "imdbId": "tt32758159",
+    "name": "Once More",
+    "year": 2026,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTIzNjFjMWItM2E2ZS00ZDdmLTkxYmEtMWIxZWY4MGIzZWYwXkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BMTIzNjFjMWItM2E2ZS00ZDdmLTkxYmEtMWIxZWY4MGIzZWYwXkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "ac10477ad6a26c29666c689cfcae44e6",
@@ -16685,7 +16713,12 @@
       "Kannada",
       "Hindi",
       "Multi-Lang"
-    ]
+    ],
+    "imdbId": "tt34545743",
+    "name": "Godari Gattupaina",
+    "year": 2026,
+    "poster": "https://m.media-amazon.com/images/M/MV5BOTcxNTRhMTItN2YzNS00ODhmLWIzODUtNTFiNmU1Yzg3Njc1XkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BOTcxNTRhMTItN2YzNS00ODhmLWIzODUtNTFiNmU1Yzg3Njc1XkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "2259e6ba6bf22427a0a28ccb347f22c4",
@@ -18061,7 +18094,12 @@
       "Telugu",
       "Hindi",
       "Multi-Lang"
-    ]
+    ],
+    "imdbId": "tt14895216",
+    "name": "Ghost Mansion",
+    "year": 2021,
+    "poster": "https://m.media-amazon.com/images/M/MV5BN2ExZGI4MTYtMDcwNi00ZTRlLWIyMDktZDc4NDFhOTdkNzFmXkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BN2ExZGI4MTYtMDcwNi00ZTRlLWIyMDktZDc4NDFhOTdkNzFmXkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "64e18d4afe5e242516dae5af9c4a4d9b",
@@ -18904,8 +18942,9 @@
     "imdbId": "tt35856037",
     "name": "Your Mother Your Mother Your Mother",
     "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BZDEwMjk2MjMtMTI3ZS00ODg5LWI2ZDYtOTVkOGZlNzIyYzRjXkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BZDEwMjk2MjMtMTI3ZS00ODg5LWI2ZDYtOTVkOGZlNzIyYzRjXkEyXkFqcGc@._V1_SX250.jpg"
+    "poster": "https://image.tmdb.org/t/p/w500/4KaPZSKnInnArErTTgy9Oy14leR.jpg",
+    "thumbnail": "https://image.tmdb.org/t/p/w500/4KaPZSKnInnArErTTgy9Oy14leR.jpg",
+    "description": "Latif, a devoutly religious hitman, struggles to balance work, faith and fatherhood. When his wife dies, he embarks on a desperate journey across Houston to protect his children, confronting the forces closing in around him – and the beliefs threatening to unravel within."
   },
   {
     "id": "a4aac7d8bc34909c2c1793389d80111a",
