@@ -3658,7 +3658,12 @@
       "Malayalam",
       "Kannada",
       "Multi-Lang"
-    ]
+    ],
+    "imdbId": "tt38948631",
+    "name": "Nishaanchi 2",
+    "year": 2025,
+    "poster": "https://m.media-amazon.com/images/M/MV5BZTA3M2NhODYtZjVlYy00OTI0LWJlMjEtNmJjYjljMjIxYTNjXkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BZTA3M2NhODYtZjVlYy00OTI0LWJlMjEtNmJjYjljMjIxYTNjXkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "755b690b0da8aa8e33101e059731bb03",
@@ -14860,7 +14865,12 @@
     "rawText": "The 33 (2015) (BluRay + Org Auds) - [1080p & 720p - x264 - (Tamil + Eng) - 2.1GB + Rips]",
     "languages": [
       "Tamil"
-    ]
+    ],
+    "imdbId": "tt2006295",
+    "name": "The 33",
+    "year": 2015,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTkyNDY3NDc5NF5BMl5BanBnXkFtZTgwMzI1NDM1NjE@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BMTkyNDY3NDc5NF5BMl5BanBnXkFtZTgwMzI1NDM1NjE@._V1_SX250.jpg"
   },
   {
     "id": "1c931b782d16208485003f78536bfdc0",
@@ -17351,12 +17361,7 @@
       "Telugu",
       "Hindi",
       "Multi-Lang"
-    ],
-    "imdbId": "tt0106505",
-    "name": "Calendar Girl",
-    "year": 1993,
-    "poster": "https://m.media-amazon.com/images/M/MV5BZTQ1NTZhYzAtZDAxZi00YTI4LTljMzEtN2E3Y2RlM2M0YjBmXkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BZTQ1NTZhYzAtZDAxZi00YTI4LTljMzEtN2E3Y2RlM2M0YjBmXkEyXkFqcGc@._V1_SX250.jpg"
+    ]
   },
   {
     "id": "a36b081511e4fad13dac6e070fc4697c",
@@ -21180,17 +21185,11 @@
       "Hindi",
       "Multi-Lang"
     ],
-    "imdbId": "tt24131660",
-    "name": "Bring Him to Me",
-    "year": "2024",
-    "poster": "https://images.metahub.space/poster/small/tt24131660/img",
-    "thumbnail": "https://images.metahub.space/poster/small/tt24131660/img",
-    "genres": [
-      "Crime",
-      "Thriller"
-    ],
-    "description": "Loyalties and morals collide when a getaway driver transports a passenger to an uncertain fate.",
-    "imdbRating": "5.3"
+    "imdbId": "tt32478708",
+    "name": "Close to Me",
+    "year": 2025,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTdlN2FiYmUtNDgzNS00ZDRkLTg1ZjgtY2JiZThkYjg0YmZkXkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BMTdlN2FiYmUtNDgzNS00ZDRkLTg1ZjgtY2JiZThkYjg0YmZkXkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "0c1b4475bd05c1ca61add24f07e0467a",
@@ -21235,17 +21234,18 @@
       "Hindi",
       "Multi-Lang"
     ],
-    "imdbId": "tt34766001",
-    "name": "The Grey Men 2",
+    "imdbId": "tt4419684",
+    "name": "In the Lost Lands",
     "year": "2025",
-    "poster": "https://images.metahub.space/poster/small/tt34766001/img",
-    "thumbnail": "https://images.metahub.space/poster/small/tt34766001/img",
+    "poster": "https://images.metahub.space/poster/small/tt4419684/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt4419684/img",
     "genres": [
       "Action",
-      "Crime",
-      "Thriller"
+      "Adventure",
+      "Fantasy"
     ],
-    "description": "Triad boss Song seeks to whitewash his image and seize Laika's mayoral seat amid the regime change. Despite colluding with officials, he faces a funding shortfall. To bolster his power, Song's right-hand man and enforcer resort to..."
+    "description": "A queen sends the powerful and feared sorceress Gray Alys to the ghostly wilderness of the Lost Lands in search of a magical power, where the sorceress and her guide, the drifter Boyce, must outwit and outfight man and demon.",
+    "imdbRating": "4.7"
   },
   {
     "id": "3dcf65d8a5164c48c8e15d21068c5ca0",
