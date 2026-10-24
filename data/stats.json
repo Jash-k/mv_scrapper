@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-10-24T22:52:00.395Z",
-  "timestamp": 1792882320395,
-  "durationSeconds": 454,
+  "updatedAt": "2026-10-24T23:20:06.478Z",
+  "timestamp": 1792884006478,
+  "durationSeconds": 339,
   "totalMovies": 300,
-  "totalMagnets": 1418,
+  "totalMagnets": 1422,
   "predvdMoviesCount": 18,
   "allowedQualities": [
     "720p",
