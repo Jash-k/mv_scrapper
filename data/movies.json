@@ -3495,7 +3495,12 @@
       "Telugu",
       "Hindi",
       "Multi-Lang"
-    ]
+    ],
+    "imdbId": "tt12446086",
+    "name": "Legend of the White Dragon",
+    "year": 2026,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTcxNmY0NWYtMjJiNS00ZmZjLTkyMmItYjljYzU4YzliNTBjXkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BMTcxNmY0NWYtMjJiNS00ZmZjLTkyMmItYjljYzU4YzliNTBjXkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "9fee9df93a04315d8467af98fbe1535d",
@@ -6789,18 +6794,11 @@
     "languages": [
       "Tamil"
     ],
-    "imdbId": "tt4776998",
-    "name": "The Promise",
-    "year": "2017",
-    "poster": "https://images.metahub.space/poster/small/tt4776998/img",
-    "thumbnail": "https://images.metahub.space/poster/small/tt4776998/img",
-    "genres": [
-      "Action",
-      "Adventure",
-      "Drama"
-    ],
-    "description": "Set during the last days of the Ottoman Empire, The Promise follows a love triangle between Michael, a brilliant medical student, the beautiful and sophisticated Ana, and Chris - a renowned American journalist based in Paris.",
-    "imdbRating": "6.1"
+    "imdbId": "tt39052798",
+    "name": "Promise",
+    "year": 2026,
+    "poster": "https://m.media-amazon.com/images/M/MV5BNjI2YjYxNjQtMDk5My00YWU2LTkzNTQtODkyNTFkMjBiOGY0XkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BNjI2YjYxNjQtMDk5My00YWU2LTkzNTQtODkyNTFkMjBiOGY0XkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "d93e7f04e35dc441595909e577d4c308",
@@ -19726,12 +19724,7 @@
       "Tamil",
       "Hindi",
       "Multi-Lang"
-    ],
-    "imdbId": "tt1570417",
-    "name": "Accident on Hill Road",
-    "year": 2009,
-    "poster": "https://m.media-amazon.com/images/M/MV5BMDQzMzJiYTctMWNkZi00Yjk2LWJkOGUtNWYzMTU0MjNmOWI4XkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BMDQzMzJiYTctMWNkZi00Yjk2LWJkOGUtNWYzMTU0MjNmOWI4XkEyXkFqcGc@._V1_SX250.jpg"
+    ]
   },
   {
     "id": "fb7bb80cdeb67ccd1279dacda128f37d",
