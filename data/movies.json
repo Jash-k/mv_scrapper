@@ -6659,18 +6659,11 @@
     "languages": [
       "Tamil"
     ],
-    "imdbId": "tt4776998",
-    "name": "The Promise",
-    "year": "2017",
-    "poster": "https://images.metahub.space/poster/small/tt4776998/img",
-    "thumbnail": "https://images.metahub.space/poster/small/tt4776998/img",
-    "genres": [
-      "Action",
-      "Adventure",
-      "Drama"
-    ],
-    "description": "Set during the last days of the Ottoman Empire, The Promise follows a love triangle between Michael, a brilliant medical student, the beautiful and sophisticated Ana, and Chris - a renowned American journalist based in Paris.",
-    "imdbRating": "6.1"
+    "imdbId": "tt39052798",
+    "name": "Promise",
+    "year": 2026,
+    "poster": "https://m.media-amazon.com/images/M/MV5BNjI2YjYxNjQtMDk5My00YWU2LTkzNTQtODkyNTFkMjBiOGY0XkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BNjI2YjYxNjQtMDk5My00YWU2LTkzNTQtODkyNTFkMjBiOGY0XkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "d93e7f04e35dc441595909e577d4c308",
@@ -18009,12 +18002,7 @@
     "rawText": "Ankam Attahasam (2026) Malayalam HD + ESub - [4K, 1080p & 720p - AVC / HEVC - (DD+5.1 - 192Kbps) - 6.6GB + Rips]",
     "languages": [
       "Malayalam"
-    ],
-    "imdbId": "tt35815094",
-    "name": "Ankam Attahasam",
-    "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BNzk4NzI1MWUtZTA4NS00ZjEzLTk2OTYtZjc3ZDJlNmQ1MTY5XkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BNzk4NzI1MWUtZTA4NS00ZjEzLTk2OTYtZjc3ZDJlNmQ1MTY5XkEyXkFqcGc@._V1_SX250.jpg"
+    ]
   },
   {
     "id": "d14522bd289de925cb39524b65b06e4a",
@@ -18397,8 +18385,9 @@
     "imdbId": "tt43123022",
     "name": "Mister Middle Class",
     "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BOWViNjg3Y2EtYzUxNC00YTUxLThkMjQtYzdlNGFkMTBmZDJkXkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BOWViNjg3Y2EtYzUxNC00YTUxLThkMjQtYzdlNGFkMTBmZDJkXkEyXkFqcGc@._V1_SX250.jpg"
+    "poster": "https://image.tmdb.org/t/p/w500/6mGPYOwrCR8KBbtT3PEGPgq2xIz.jpg",
+    "thumbnail": "https://image.tmdb.org/t/p/w500/6mGPYOwrCR8KBbtT3PEGPgq2xIz.jpg",
+    "description": "A middle-class man's carefully balanced life is turned upside down by unexpected challenges that test his dreams, relationships, and resilience. As he faces one setback after another, he discovers the true meaning of family, perseverance, and self-worth."
   },
   {
     "id": "e81cbf356ea4b22919ea6992f31c082c",
@@ -18704,12 +18693,7 @@
       "Telugu",
       "Hindi",
       "Multi-Lang"
-    ],
-    "imdbId": "tt31170389",
-    "name": "Evil Dead Burn",
-    "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BZTljMTZjZTItZjMzZi00NDBhLWFmMzAtOGNiNTlhY2MxMzg5XkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BZTljMTZjZTItZjMzZi00NDBhLWFmMzAtOGNiNTlhY2MxMzg5XkEyXkFqcGc@._V1_SX250.jpg"
+    ]
   },
   {
     "id": "e550b472667db2fd998bf8b5cca5b413",
@@ -18753,9 +18737,16 @@
     ],
     "imdbId": "tt1105709",
     "name": "8 x 10 Tasveer",
-    "year": 2009,
-    "poster": "https://m.media-amazon.com/images/M/MV5BZGE0OTcyOGEtNjdlMS00ZjEzLThmN2MtNDVmMzQxMzc5NGM1XkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BZGE0OTcyOGEtNjdlMS00ZjEzLThmN2MtNDVmMzQxMzc5NGM1XkEyXkFqcGc@._V1_SX250.jpg"
+    "year": "2009",
+    "poster": "https://images.metahub.space/poster/small/tt1105709/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt1105709/img",
+    "genres": [
+      "Action",
+      "Crime",
+      "Drama"
+    ],
+    "description": "A forest ranger with the ability to visit the past by looking at photographs attempts to solve the mystery behind his father's sudden death.",
+    "imdbRating": "5.5"
   },
   {
     "id": "8258fca40f1a279af2c4f0dc63e59f2c",
@@ -18813,11 +18804,12 @@
     "languages": [
       "Malayalam"
     ],
-    "imdbId": "tt36670542",
+    "imdbId": "tt19714374",
     "name": "Lurk",
     "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BMzE4MzhlZWEtNzkzMC00YTE5LWE3N2YtZjZmMGIzZjE3ZmYyXkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BMzE4MzhlZWEtNzkzMC00YTE5LWE3N2YtZjZmMGIzZjE3ZmYyXkEyXkFqcGc@._V1_SX250.jpg"
+    "poster": "https://image.tmdb.org/t/p/w500/9WGReFzckOm8ssI5IGRwNyFAjHJ.jpg",
+    "thumbnail": "https://image.tmdb.org/t/p/w500/9WGReFzckOm8ssI5IGRwNyFAjHJ.jpg",
+    "description": "Two children discover a hole that they can throw their mistakes into, making them disappear forever. They live without consequence. Until one day, the hole disappears, right when they need it most."
   },
   {
     "id": "3557c47cd839300068a14614ded1d92a",
@@ -19468,8 +19460,9 @@
     "imdbId": "tt37161651",
     "name": "Chennai Love Story",
     "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BYmNhOWU4ZmItNDNlYi00N2ZkLWFlZDEtM2RhNWI5NDgyYzQwXkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BYmNhOWU4ZmItNDNlYi00N2ZkLWFlZDEtM2RhNWI5NDgyYzQwXkEyXkFqcGc@._V1_SX250.jpg"
+    "poster": "https://image.tmdb.org/t/p/w500/hACM25xigqIYeRgylB0epf34hmk.jpg",
+    "thumbnail": "https://image.tmdb.org/t/p/w500/hACM25xigqIYeRgylB0epf34hmk.jpg",
+    "description": "Two young people navigate their first experience of love, dealing with its powerful emotions and obstacles while discovering the delicate nature of newfound romance."
   },
   {
     "id": "6a738d8de355fc580a3439e0ab48eb6f",
@@ -21455,18 +21448,17 @@
       "Hindi",
       "Multi-Lang"
     ],
-    "imdbId": "tt4419684",
-    "name": "In the Lost Lands",
+    "imdbId": "tt34766001",
+    "name": "The Grey Men 2",
     "year": "2025",
-    "poster": "https://images.metahub.space/poster/small/tt4419684/img",
-    "thumbnail": "https://images.metahub.space/poster/small/tt4419684/img",
+    "poster": "https://images.metahub.space/poster/small/tt34766001/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt34766001/img",
     "genres": [
       "Action",
-      "Adventure",
-      "Fantasy"
+      "Crime",
+      "Thriller"
     ],
-    "description": "A queen sends the powerful and feared sorceress Gray Alys to the ghostly wilderness of the Lost Lands in search of a magical power, where the sorceress and her guide, the drifter Boyce, must outwit and outfight man and demon.",
-    "imdbRating": "4.7"
+    "description": "Triad boss Song seeks to whitewash his image and seize Laika's mayoral seat amid the regime change. Despite colluding with officials, he faces a funding shortfall. To bolster his power, Song's right-hand man and enforcer resort to..."
   },
   {
     "id": "3dcf65d8a5164c48c8e15d21068c5ca0",
