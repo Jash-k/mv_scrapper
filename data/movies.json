@@ -15426,7 +15426,12 @@
       "Kannada",
       "Hindi",
       "Multi-Lang"
-    ]
+    ],
+    "imdbId": "tt35712605",
+    "name": "G.D.N.",
+    "year": 2026,
+    "poster": "https://m.media-amazon.com/images/M/MV5BODkxZWQ5OTktYjE3OC00YmUwLThlZTQtMmE1N2U2ZDgzZTM5XkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BODkxZWQ5OTktYjE3OC00YmUwLThlZTQtMmE1N2U2ZDgzZTM5XkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "29c33bb94fa856871719063cd2f6a5ff",
@@ -17560,12 +17565,7 @@
       "Telugu",
       "Hindi",
       "Multi-Lang"
-    ],
-    "imdbId": "tt0106505",
-    "name": "Calendar Girl",
-    "year": 1993,
-    "poster": "https://m.media-amazon.com/images/M/MV5BZTQ1NTZhYzAtZDAxZi00YTI4LTljMzEtN2E3Y2RlM2M0YjBmXkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BZTQ1NTZhYzAtZDAxZi00YTI4LTljMzEtN2E3Y2RlM2M0YjBmXkEyXkFqcGc@._V1_SX250.jpg"
+    ]
   },
   {
     "id": "a36b081511e4fad13dac6e070fc4697c",
@@ -18210,7 +18210,13 @@
       "Kannada",
       "Hindi",
       "Multi-Lang"
-    ]
+    ],
+    "imdbId": "tt37654096",
+    "name": "The Last Sunrise",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/3PWJqDfygN0YNNjWsDUOXclCp3h.jpg",
+    "thumbnail": "https://image.tmdb.org/t/p/w500/3PWJqDfygN0YNNjWsDUOXclCp3h.jpg",
+    "description": "Ry, a college student with a chronic illness, escapes to Mallorca for the summer with her mother, where she unexpectedly falls for a local and begins to embrace living in the moment. But as her condition worsens and long-hidden family secrets come to light, everything she has found before summer's end is threatened."
   },
   {
     "id": "355f43a01a2f34e758091bd4c212e462",
@@ -19579,7 +19585,12 @@
       "Tamil",
       "Hindi",
       "Multi-Lang"
-    ]
+    ],
+    "imdbId": "tt1570417",
+    "name": "Accident on Hill Road",
+    "year": 2009,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMDQzMzJiYTctMWNkZi00Yjk2LWJkOGUtNWYzMTU0MjNmOWI4XkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BMDQzMzJiYTctMWNkZi00Yjk2LWJkOGUtNWYzMTU0MjNmOWI4XkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "fb7bb80cdeb67ccd1279dacda128f37d",
@@ -19710,7 +19721,17 @@
       "Telugu",
       "Hindi",
       "Multi-Lang"
-    ]
+    ],
+    "imdbId": "tt36958312",
+    "name": "The Devil's Mouth",
+    "year": "2026",
+    "poster": "https://images.metahub.space/poster/small/tt36958312/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt36958312/img",
+    "genres": [
+      "Horror",
+      "Thriller"
+    ],
+    "description": "A group of college friends' Thailand adventure turns deadly when they become trapped in submerged caves with a dangerous predator. As oxygen runs low, past conflicts emerge in their desperate fight for survival."
   },
   {
     "id": "4bd03ce2ca046b044a2e08084d3b17ef",
@@ -19734,7 +19755,12 @@
     "rawText": "The Town (2010) (BluRay + Org Auds) - [1080p & 720p - x264 - (Tamil + Eng) - 2.5GB + Rips]",
     "languages": [
       "Tamil"
-    ]
+    ],
+    "imdbId": "tt0840361",
+    "name": "The Town",
+    "year": 2010,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTcyNzcxODg3Nl5BMl5BanBnXkFtZTcwMTUyNjQ3Mw@@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BMTcyNzcxODg3Nl5BMl5BanBnXkFtZTcwMTUyNjQ3Mw@@._V1_SX250.jpg"
   },
   {
     "id": "8812cf00a3a866a5fd92de36534e7d40",
@@ -20640,7 +20666,12 @@
     "rawText": "Sheena (1984) (BluRay + Org Auds) - [1080p & 720p - x264 - (Tamil + Eng) - 2GB + Rips]",
     "languages": [
       "Tamil"
-    ]
+    ],
+    "imdbId": "tt0088103",
+    "name": "Sheena",
+    "year": 1984,
+    "poster": "https://m.media-amazon.com/images/M/MV5BZTNkN2I1OTgtMjAyOS00YWUwLTg3NDYtOTlmZjY4ZDE1N2M5XkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BZTNkN2I1OTgtMjAyOS00YWUwLTg3NDYtOTlmZjY4ZDE1N2M5XkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "98b9ce51ad5efdae6d7749f4569cb849",
@@ -20771,7 +20802,12 @@
     "languages": [
       "Telugu",
       "Tamil"
-    ]
+    ],
+    "imdbId": "tt35741123",
+    "name": "Heartin",
+    "year": 2026,
+    "poster": "https://m.media-amazon.com/images/M/MV5BNGVhOGI0YjYtOTE1Yi00YWYxLTg3MDUtYmU0MmMwMjE1ZDU5XkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BNGVhOGI0YjYtOTE1Yi00YWYxLTg3MDUtYmU0MmMwMjE1ZDU5XkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "cc6af383c3616b0403d42d7aa0a0d5f1",
@@ -21520,7 +21556,12 @@
     "rawText": "September 21 (2026) Kannada HD + ESub - [1080p & 720p - AVC - (DD+5.1 - 192Kbps) - 1.9GB + Rips]",
     "languages": [
       "Kannada"
-    ]
+    ],
+    "imdbId": "tt36600605",
+    "name": "September 21",
+    "year": 2026,
+    "poster": "https://m.media-amazon.com/images/M/MV5BYTI0Yzk4MTMtZGFjZS00YWYzLTk4OTktYmYxNGMwN2E5MjE1XkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BYTI0Yzk4MTMtZGFjZS00YWYzLTk4OTktYmYxNGMwN2E5MjE1XkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "1b4065703bad79d264c5aff1bb7707bb",
@@ -21775,7 +21816,12 @@
     "languages": [
       "Tamil",
       "Telugu"
-    ]
+    ],
+    "imdbId": "tt35723557",
+    "name": "Idhayam Murali",
+    "year": 2026,
+    "poster": "https://m.media-amazon.com/images/M/MV5BZTFjOTAwZjYtMjdiMC00NmY4LWE2ZWUtNGY3Zjk4Yjk2MGZjXkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BZTFjOTAwZjYtMjdiMC00NmY4LWE2ZWUtNGY3Zjk4Yjk2MGZjXkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "21bfe13d9a73abc37245e1c7ce17c5a8",
@@ -21908,7 +21954,18 @@
       "Telugu",
       "Hindi",
       "Multi-Lang"
-    ]
+    ],
+    "imdbId": "tt27987407",
+    "name": "Gold Brick",
+    "year": "2023",
+    "poster": "https://images.metahub.space/poster/small/tt27987407/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt27987407/img",
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "description": "Determined to even the scales and profit from his thankless job, a factory worker schemes to traffic luxury perfumes from under his employer's nose.",
+    "imdbRating": "6.2"
   },
   {
     "id": "638cfaa36eb2ea3a8dd1e8fe7af23786",
@@ -21952,7 +22009,19 @@
       "Telugu",
       "Hindi",
       "Multi-Lang"
-    ]
+    ],
+    "imdbId": "tt0092676",
+    "name": "Bloody New Year",
+    "year": "1987",
+    "poster": "https://images.metahub.space/poster/small/tt0092676/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt0092676/img",
+    "genres": [
+      "Comedy",
+      "Horror",
+      "Mystery"
+    ],
+    "description": "A group of friends take refuge in an island hotel that is decorated for New Years. The problem is, it's early summer, and soon enough, even the walls themselves are striking out against them.",
+    "imdbRating": "4.5"
   },
   {
     "id": "3ece34ce58c65c1a88bb3898238d3004",
@@ -22190,7 +22259,12 @@
       "Tamil",
       "Hindi",
       "Multi-Lang"
-    ]
+    ],
+    "imdbId": "tt29794968",
+    "name": "Planetquake",
+    "year": 2024,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMzc5OTQwZjEtNDc5OC00YmZmLWJlNzQtM2FmNWY0Njg4OTUxXkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BMzc5OTQwZjEtNDc5OC00YmZmLWJlNzQtM2FmNWY0Njg4OTUxXkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "eecd4f37aac24cd6fdf0138bf4c91575",
