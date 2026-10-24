@@ -3849,12 +3849,7 @@
       "Malayalam",
       "Kannada",
       "Multi-Lang"
-    ],
-    "imdbId": "tt38948631",
-    "name": "Nishaanchi 2",
-    "year": 2025,
-    "poster": "https://m.media-amazon.com/images/M/MV5BZTA3M2NhODYtZjVlYy00OTI0LWJlMjEtNmJjYjljMjIxYTNjXkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BZTA3M2NhODYtZjVlYy00OTI0LWJlMjEtNmJjYjljMjIxYTNjXkEyXkFqcGc@._V1_SX250.jpg"
+    ]
   },
   {
     "id": "755b690b0da8aa8e33101e059731bb03",
@@ -13333,7 +13328,12 @@
       "Kannada",
       "Hindi",
       "Multi-Lang"
-    ]
+    ],
+    "imdbId": "tt35836025",
+    "name": "Vishwanath and Sons",
+    "year": 2026,
+    "poster": "https://m.media-amazon.com/images/M/MV5BOGRkYWFjNzAtODFhNS00NzM4LTk3NTAtNzgwMDg0OTE2ZTIzXkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BOGRkYWFjNzAtODFhNS00NzM4LTk3NTAtNzgwMDg0OTE2ZTIzXkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "8b6739c376ffb53ce1c4f71fcf5230ce",
@@ -14983,12 +14983,7 @@
     "rawText": "The 33 (2015) (BluRay + Org Auds) - [1080p & 720p - x264 - (Tamil + Eng) - 2.1GB + Rips]",
     "languages": [
       "Tamil"
-    ],
-    "imdbId": "tt2006295",
-    "name": "The 33",
-    "year": 2015,
-    "poster": "https://m.media-amazon.com/images/M/MV5BMTkyNDY3NDc5NF5BMl5BanBnXkFtZTgwMzI1NDM1NjE@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BMTkyNDY3NDc5NF5BMl5BanBnXkFtZTgwMzI1NDM1NjE@._V1_SX250.jpg"
+    ]
   },
   {
     "id": "1c931b782d16208485003f78536bfdc0",
@@ -17479,7 +17474,12 @@
       "Telugu",
       "Hindi",
       "Multi-Lang"
-    ]
+    ],
+    "imdbId": "tt0106505",
+    "name": "Calendar Girl",
+    "year": 1993,
+    "poster": "https://m.media-amazon.com/images/M/MV5BZTQ1NTZhYzAtZDAxZi00YTI4LTljMzEtN2E3Y2RlM2M0YjBmXkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BZTQ1NTZhYzAtZDAxZi00YTI4LTljMzEtN2E3Y2RlM2M0YjBmXkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "a36b081511e4fad13dac6e070fc4697c",
@@ -21358,18 +21358,17 @@
       "Hindi",
       "Multi-Lang"
     ],
-    "imdbId": "tt4419684",
-    "name": "In the Lost Lands",
+    "imdbId": "tt34766001",
+    "name": "The Grey Men 2",
     "year": "2025",
-    "poster": "https://images.metahub.space/poster/small/tt4419684/img",
-    "thumbnail": "https://images.metahub.space/poster/small/tt4419684/img",
+    "poster": "https://images.metahub.space/poster/small/tt34766001/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt34766001/img",
     "genres": [
       "Action",
-      "Adventure",
-      "Fantasy"
+      "Crime",
+      "Thriller"
     ],
-    "description": "A queen sends the powerful and feared sorceress Gray Alys to the ghostly wilderness of the Lost Lands in search of a magical power, where the sorceress and her guide, the drifter Boyce, must outwit and outfight man and demon.",
-    "imdbRating": "4.7"
+    "description": "Triad boss Song seeks to whitewash his image and seize Laika's mayoral seat amid the regime change. Despite colluding with officials, he faces a funding shortfall. To bolster his power, Song's right-hand man and enforcer resort to..."
   },
   {
     "id": "3dcf65d8a5164c48c8e15d21068c5ca0",
