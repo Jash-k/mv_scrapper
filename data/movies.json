@@ -9712,12 +9712,7 @@
     "rawText": "Bombay Stories (2026) Hindi HD + ESub - [1080p & 720p - AVC - (DD+5.1 - 640Kbps) - 2.2GB + Rips]",
     "languages": [
       "Hindi"
-    ],
-    "imdbId": "tt42481138",
-    "name": "Bombay Stories",
-    "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BNmViYjA1ODAtZmZiYy00NzJlLTk2MzQtOWE2NDE0YTc2ZTBlXkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BNmViYjA1ODAtZmZiYy00NzJlLTk2MzQtOWE2NDE0YTc2ZTBlXkEyXkFqcGc@._V1_SX250.jpg"
+    ]
   },
   {
     "id": "5a4a96066d58c59fb8ad071b09afdf17",
@@ -9761,7 +9756,12 @@
       "Telugu",
       "Hindi",
       "Multi-Lang"
-    ]
+    ],
+    "imdbId": "tt0020613",
+    "name": "The Younger Generation",
+    "year": 1929,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTk3MDYyNjAxOF5BMl5BanBnXkFtZTgwNzEwODgwMzE@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BMTk3MDYyNjAxOF5BMl5BanBnXkFtZTgwNzEwODgwMzE@._V1_SX250.jpg"
   },
   {
     "id": "75d5e25b4bc38ee7bde6f202529b95ce",
