@@ -3950,12 +3950,7 @@
       "Malayalam",
       "Kannada",
       "Multi-Lang"
-    ],
-    "imdbId": "tt38948631",
-    "name": "Nishaanchi 2",
-    "year": 2025,
-    "poster": "https://m.media-amazon.com/images/M/MV5BZTA3M2NhODYtZjVlYy00OTI0LWJlMjEtNmJjYjljMjIxYTNjXkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BZTA3M2NhODYtZjVlYy00OTI0LWJlMjEtNmJjYjljMjIxYTNjXkEyXkFqcGc@._V1_SX250.jpg"
+    ]
   },
   {
     "id": "755b690b0da8aa8e33101e059731bb03",
@@ -11235,7 +11230,12 @@
       "Malayalam",
       "Kannada",
       "Multi-Lang"
-    ]
+    ],
+    "imdbId": "tt39073377",
+    "name": "Ram and Leela",
+    "year": 2026,
+    "poster": "https://m.media-amazon.com/images/M/MV5BZTJkZmQxYWUtMTIzNS00OTQzLTg3N2EtOTA2NmMwODhjNTQ5XkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BZTJkZmQxYWUtMTIzNS00OTQzLTg3N2EtOTA2NmMwODhjNTQ5XkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "35aad325755f013c6825bd9493394d40",
@@ -17003,12 +17003,7 @@
     "rawText": "Jimmy (2013) (HD + Org Auds) - [1080p & 720p - x264 - (Tamil + Eng) - 1.6GB + Rips]",
     "languages": [
       "Tamil"
-    ],
-    "imdbId": "tt31179962",
-    "name": "Jimmy",
-    "year": 2013,
-    "poster": "https://m.media-amazon.com/images/M/MV5BMGU1NTI4MWUtZWZhMi00ZTgwLWJkYTAtY2Q4YWEwZGNlNDgyXkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BMGU1NTI4MWUtZWZhMi00ZTgwLWJkYTAtY2Q4YWEwZGNlNDgyXkEyXkFqcGc@._V1_SX250.jpg"
+    ]
   },
   {
     "id": "6c4177a275c51a707d651befb3ce5f7b",
@@ -18219,8 +18214,9 @@
     "imdbId": "tt37654096",
     "name": "The Last Sunrise",
     "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BMjZlMjQxN2MtYjAyOS00YjliLWE3NjEtNDZjOWI5NTAxNTY2XkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BMjZlMjQxN2MtYjAyOS00YjliLWE3NjEtNDZjOWI5NTAxNTY2XkEyXkFqcGc@._V1_SX250.jpg"
+    "poster": "https://image.tmdb.org/t/p/w500/3PWJqDfygN0YNNjWsDUOXclCp3h.jpg",
+    "thumbnail": "https://image.tmdb.org/t/p/w500/3PWJqDfygN0YNNjWsDUOXclCp3h.jpg",
+    "description": "Ry, a college student with a chronic illness, escapes to Mallorca for the summer with her mother, where she unexpectedly falls for a local and begins to embrace living in the moment. But as her condition worsens and long-hidden family secrets come to light, everything she has found before summer's end is threatened."
   },
   {
     "id": "355f43a01a2f34e758091bd4c212e462",
@@ -19759,7 +19755,12 @@
     "rawText": "The Town (2010) (BluRay + Org Auds) - [1080p & 720p - x264 - (Tamil + Eng) - 2.5GB + Rips]",
     "languages": [
       "Tamil"
-    ]
+    ],
+    "imdbId": "tt0840361",
+    "name": "The Town",
+    "year": 2010,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTcyNzcxODg3Nl5BMl5BanBnXkFtZTcwMTUyNjQ3Mw@@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BMTcyNzcxODg3Nl5BMl5BanBnXkFtZTcwMTUyNjQ3Mw@@._V1_SX250.jpg"
   },
   {
     "id": "8812cf00a3a866a5fd92de36534e7d40",
@@ -21399,17 +21400,11 @@
       "Hindi",
       "Multi-Lang"
     ],
-    "imdbId": "tt24131660",
-    "name": "Bring Him to Me",
-    "year": "2024",
-    "poster": "https://images.metahub.space/poster/small/tt24131660/img",
-    "thumbnail": "https://images.metahub.space/poster/small/tt24131660/img",
-    "genres": [
-      "Crime",
-      "Thriller"
-    ],
-    "description": "Loyalties and morals collide when a getaway driver transports a passenger to an uncertain fate.",
-    "imdbRating": "5.3"
+    "imdbId": "tt32478708",
+    "name": "Close to Me",
+    "year": 2025,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTdlN2FiYmUtNDgzNS00ZDRkLTg1ZjgtY2JiZThkYjg0YmZkXkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BMTdlN2FiYmUtNDgzNS00ZDRkLTg1ZjgtY2JiZThkYjg0YmZkXkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "0c1b4475bd05c1ca61add24f07e0467a",
@@ -21454,18 +21449,17 @@
       "Hindi",
       "Multi-Lang"
     ],
-    "imdbId": "tt4419684",
-    "name": "In the Lost Lands",
+    "imdbId": "tt34766001",
+    "name": "The Grey Men 2",
     "year": "2025",
-    "poster": "https://images.metahub.space/poster/small/tt4419684/img",
-    "thumbnail": "https://images.metahub.space/poster/small/tt4419684/img",
+    "poster": "https://images.metahub.space/poster/small/tt34766001/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt34766001/img",
     "genres": [
       "Action",
-      "Adventure",
-      "Fantasy"
+      "Crime",
+      "Thriller"
     ],
-    "description": "A queen sends the powerful and feared sorceress Gray Alys to the ghostly wilderness of the Lost Lands in search of a magical power, where the sorceress and her guide, the drifter Boyce, must outwit and outfight man and demon.",
-    "imdbRating": "4.7"
+    "description": "Triad boss Song seeks to whitewash his image and seize Laika's mayoral seat amid the regime change. Despite colluding with officials, he faces a funding shortfall. To bolster his power, Song's right-hand man and enforcer resort to..."
   },
   {
     "id": "3dcf65d8a5164c48c8e15d21068c5ca0",
@@ -21562,7 +21556,12 @@
     "rawText": "September 21 (2026) Kannada HD + ESub - [1080p & 720p - AVC - (DD+5.1 - 192Kbps) - 1.9GB + Rips]",
     "languages": [
       "Kannada"
-    ]
+    ],
+    "imdbId": "tt36600605",
+    "name": "September 21",
+    "year": 2026,
+    "poster": "https://m.media-amazon.com/images/M/MV5BYTI0Yzk4MTMtZGFjZS00YWYzLTk4OTktYmYxNGMwN2E5MjE1XkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BYTI0Yzk4MTMtZGFjZS00YWYzLTk4OTktYmYxNGMwN2E5MjE1XkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "1b4065703bad79d264c5aff1bb7707bb",
@@ -21601,9 +21600,8 @@
     "imdbId": "tt35064672",
     "name": "Cocktail 2",
     "year": 2026,
-    "poster": "https://image.tmdb.org/t/p/w500/oIQmtByV1LtEQSwM4EpdLTyoSlM.jpg",
-    "thumbnail": "https://image.tmdb.org/t/p/w500/oIQmtByV1LtEQSwM4EpdLTyoSlM.jpg",
-    "description": "A vacation in Sicily forces longtime partners Diya and Kunal to question their love and commitment after they reunite with Diya's old friend Ally."
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjE4ZDFiMjctZTk0Yy00Mzk0LWIzMzItZmRjZTM0YzBjYmRiXkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BMjE4ZDFiMjctZTk0Yy00Mzk0LWIzMzItZmRjZTM0YzBjYmRiXkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "4cc2e20c6c4eeabd6d45862e28a97d42",
@@ -21956,7 +21954,18 @@
       "Telugu",
       "Hindi",
       "Multi-Lang"
-    ]
+    ],
+    "imdbId": "tt27987407",
+    "name": "Gold Brick",
+    "year": "2023",
+    "poster": "https://images.metahub.space/poster/small/tt27987407/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt27987407/img",
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "description": "Determined to even the scales and profit from his thankless job, a factory worker schemes to traffic luxury perfumes from under his employer's nose.",
+    "imdbRating": "6.2"
   },
   {
     "id": "638cfaa36eb2ea3a8dd1e8fe7af23786",
