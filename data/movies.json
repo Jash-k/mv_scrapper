@@ -6558,11 +6558,18 @@
     "languages": [
       "Tamil"
     ],
-    "imdbId": "tt39052798",
-    "name": "Promise",
-    "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BNjI2YjYxNjQtMDk5My00YWU2LTkzNTQtODkyNTFkMjBiOGY0XkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BNjI2YjYxNjQtMDk5My00YWU2LTkzNTQtODkyNTFkMjBiOGY0XkEyXkFqcGc@._V1_SX250.jpg"
+    "imdbId": "tt4776998",
+    "name": "The Promise",
+    "year": "2017",
+    "poster": "https://images.metahub.space/poster/small/tt4776998/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt4776998/img",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Drama"
+    ],
+    "description": "Set during the last days of the Ottoman Empire, The Promise follows a love triangle between Michael, a brilliant medical student, the beautiful and sophisticated Ana, and Chris - a renowned American journalist based in Paris.",
+    "imdbRating": "6.1"
   },
   {
     "id": "d93e7f04e35dc441595909e577d4c308",
@@ -11134,12 +11141,7 @@
       "Malayalam",
       "Kannada",
       "Multi-Lang"
-    ],
-    "imdbId": "tt39073377",
-    "name": "Ram and Leela",
-    "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BZTJkZmQxYWUtMTIzNS00OTQzLTg3N2EtOTA2NmMwODhjNTQ5XkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BZTJkZmQxYWUtMTIzNS00OTQzLTg3N2EtOTA2NmMwODhjNTQ5XkEyXkFqcGc@._V1_SX250.jpg"
+    ]
   },
   {
     "id": "35aad325755f013c6825bd9493394d40",
@@ -13328,12 +13330,7 @@
       "Kannada",
       "Hindi",
       "Multi-Lang"
-    ],
-    "imdbId": "tt35836025",
-    "name": "Vishwanath and Sons",
-    "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BOGRkYWFjNzAtODFhNS00NzM4LTk3NTAtNzgwMDg0OTE2ZTIzXkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BOGRkYWFjNzAtODFhNS00NzM4LTk3NTAtNzgwMDg0OTE2ZTIzXkEyXkFqcGc@._V1_SX250.jpg"
+    ]
   },
   {
     "id": "8b6739c376ffb53ce1c4f71fcf5230ce",
@@ -14983,7 +14980,12 @@
     "rawText": "The 33 (2015) (BluRay + Org Auds) - [1080p & 720p - x264 - (Tamil + Eng) - 2.1GB + Rips]",
     "languages": [
       "Tamil"
-    ]
+    ],
+    "imdbId": "tt2006295",
+    "name": "The 33",
+    "year": 2015,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTkyNDY3NDc5NF5BMl5BanBnXkFtZTgwMzI1NDM1NjE@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BMTkyNDY3NDc5NF5BMl5BanBnXkFtZTgwMzI1NDM1NjE@._V1_SX250.jpg"
   },
   {
     "id": "1c931b782d16208485003f78536bfdc0",
@@ -17474,12 +17476,7 @@
       "Telugu",
       "Hindi",
       "Multi-Lang"
-    ],
-    "imdbId": "tt0106505",
-    "name": "Calendar Girl",
-    "year": 1993,
-    "poster": "https://m.media-amazon.com/images/M/MV5BZTQ1NTZhYzAtZDAxZi00YTI4LTljMzEtN2E3Y2RlM2M0YjBmXkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BZTQ1NTZhYzAtZDAxZi00YTI4LTljMzEtN2E3Y2RlM2M0YjBmXkEyXkFqcGc@._V1_SX250.jpg"
+    ]
   },
   {
     "id": "a36b081511e4fad13dac6e070fc4697c",
@@ -18888,7 +18885,12 @@
       "Tamil",
       "Hindi",
       "Multi-Lang"
-    ]
+    ],
+    "imdbId": "tt0073260",
+    "name": "The Land That Time Forgot",
+    "year": 2025,
+    "poster": "https://m.media-amazon.com/images/M/MV5BNjFkYTk3NzctYWIwMS00NGQ3LWJkNzEtZjYyMGFkY2Y4ZDQ1XkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BNjFkYTk3NzctYWIwMS00NGQ3LWJkNzEtZjYyMGFkY2Y4ZDQ1XkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "9790f6888082224869972e94c27fe88f",
@@ -19630,16 +19632,11 @@
       "Hindi",
       "Multi-Lang"
     ],
-    "imdbId": "tt36958312",
-    "name": "The Devil's Mouth",
-    "year": "2026",
-    "poster": "https://images.metahub.space/poster/small/tt36958312/img",
-    "thumbnail": "https://images.metahub.space/poster/small/tt36958312/img",
-    "genres": [
-      "Horror",
-      "Thriller"
-    ],
-    "description": "A group of college friends' Thailand adventure turns deadly when they become trapped in submerged caves with a dangerous predator. As oxygen runs low, past conflicts emerge in their desperate fight for survival."
+    "imdbId": "tt29719182",
+    "name": "Bury the Devil",
+    "year": 2026,
+    "poster": "https://m.media-amazon.com/images/M/MV5BZDAxYzUzZjYtNzBjNS00YWNkLWEwNGMtYTNkMGI4MDc0ZDBkXkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BZDAxYzUzZjYtNzBjNS00YWNkLWEwNGMtYTNkMGI4MDc0ZDBkXkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "4bd03ce2ca046b044a2e08084d3b17ef",
@@ -19663,7 +19660,12 @@
     "rawText": "The Town (2010) (BluRay + Org Auds) - [1080p & 720p - x264 - (Tamil + Eng) - 2.5GB + Rips]",
     "languages": [
       "Tamil"
-    ]
+    ],
+    "imdbId": "tt0840361",
+    "name": "The Town",
+    "year": 2010,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTcyNzcxODg3Nl5BMl5BanBnXkFtZTcwMTUyNjQ3Mw@@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BMTcyNzcxODg3Nl5BMl5BanBnXkFtZTcwMTUyNjQ3Mw@@._V1_SX250.jpg"
   },
   {
     "id": "8812cf00a3a866a5fd92de36534e7d40",
@@ -21303,17 +21305,11 @@
       "Hindi",
       "Multi-Lang"
     ],
-    "imdbId": "tt24131660",
-    "name": "Bring Him to Me",
-    "year": "2024",
-    "poster": "https://images.metahub.space/poster/small/tt24131660/img",
-    "thumbnail": "https://images.metahub.space/poster/small/tt24131660/img",
-    "genres": [
-      "Crime",
-      "Thriller"
-    ],
-    "description": "Loyalties and morals collide when a getaway driver transports a passenger to an uncertain fate.",
-    "imdbRating": "5.3"
+    "imdbId": "tt32478708",
+    "name": "Close to Me",
+    "year": 2025,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTdlN2FiYmUtNDgzNS00ZDRkLTg1ZjgtY2JiZThkYjg0YmZkXkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BMTdlN2FiYmUtNDgzNS00ZDRkLTg1ZjgtY2JiZThkYjg0YmZkXkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "0c1b4475bd05c1ca61add24f07e0467a",
@@ -21358,17 +21354,18 @@
       "Hindi",
       "Multi-Lang"
     ],
-    "imdbId": "tt34766001",
-    "name": "The Grey Men 2",
+    "imdbId": "tt4419684",
+    "name": "In the Lost Lands",
     "year": "2025",
-    "poster": "https://images.metahub.space/poster/small/tt34766001/img",
-    "thumbnail": "https://images.metahub.space/poster/small/tt34766001/img",
+    "poster": "https://images.metahub.space/poster/small/tt4419684/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt4419684/img",
     "genres": [
       "Action",
-      "Crime",
-      "Thriller"
+      "Adventure",
+      "Fantasy"
     ],
-    "description": "Triad boss Song seeks to whitewash his image and seize Laika's mayoral seat amid the regime change. Despite colluding with officials, he faces a funding shortfall. To bolster his power, Song's right-hand man and enforcer resort to..."
+    "description": "A queen sends the powerful and feared sorceress Gray Alys to the ghostly wilderness of the Lost Lands in search of a magical power, where the sorceress and her guide, the drifter Boyce, must outwit and outfight man and demon.",
+    "imdbRating": "4.7"
   },
   {
     "id": "3dcf65d8a5164c48c8e15d21068c5ca0",
