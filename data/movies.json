@@ -6659,18 +6659,11 @@
     "languages": [
       "Tamil"
     ],
-    "imdbId": "tt4776998",
-    "name": "The Promise",
-    "year": "2017",
-    "poster": "https://images.metahub.space/poster/small/tt4776998/img",
-    "thumbnail": "https://images.metahub.space/poster/small/tt4776998/img",
-    "genres": [
-      "Action",
-      "Adventure",
-      "Drama"
-    ],
-    "description": "Set during the last days of the Ottoman Empire, The Promise follows a love triangle between Michael, a brilliant medical student, the beautiful and sophisticated Ana, and Chris - a renowned American journalist based in Paris.",
-    "imdbRating": "6.1"
+    "imdbId": "tt39052798",
+    "name": "Promise",
+    "year": 2026,
+    "poster": "https://m.media-amazon.com/images/M/MV5BNjI2YjYxNjQtMDk5My00YWU2LTkzNTQtODkyNTFkMjBiOGY0XkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BNjI2YjYxNjQtMDk5My00YWU2LTkzNTQtODkyNTFkMjBiOGY0XkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "d93e7f04e35dc441595909e577d4c308",
@@ -21455,18 +21448,17 @@
       "Hindi",
       "Multi-Lang"
     ],
-    "imdbId": "tt4419684",
-    "name": "In the Lost Lands",
+    "imdbId": "tt34766001",
+    "name": "The Grey Men 2",
     "year": "2025",
-    "poster": "https://images.metahub.space/poster/small/tt4419684/img",
-    "thumbnail": "https://images.metahub.space/poster/small/tt4419684/img",
+    "poster": "https://images.metahub.space/poster/small/tt34766001/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt34766001/img",
     "genres": [
       "Action",
-      "Adventure",
-      "Fantasy"
+      "Crime",
+      "Thriller"
     ],
-    "description": "A queen sends the powerful and feared sorceress Gray Alys to the ghostly wilderness of the Lost Lands in search of a magical power, where the sorceress and her guide, the drifter Boyce, must outwit and outfight man and demon.",
-    "imdbRating": "4.7"
+    "description": "Triad boss Song seeks to whitewash his image and seize Laika's mayoral seat amid the regime change. Despite colluding with officials, he faces a funding shortfall. To bolster his power, Song's right-hand man and enforcer resort to..."
   },
   {
     "id": "3dcf65d8a5164c48c8e15d21068c5ca0",
