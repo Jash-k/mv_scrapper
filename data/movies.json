@@ -6816,18 +6816,11 @@
     "languages": [
       "Tamil"
     ],
-    "imdbId": "tt4776998",
-    "name": "The Promise",
-    "year": "2017",
-    "poster": "https://images.metahub.space/poster/small/tt4776998/img",
-    "thumbnail": "https://images.metahub.space/poster/small/tt4776998/img",
-    "genres": [
-      "Action",
-      "Adventure",
-      "Drama"
-    ],
-    "description": "Set during the last days of the Ottoman Empire, The Promise follows a love triangle between Michael, a brilliant medical student, the beautiful and sophisticated Ana, and Chris - a renowned American journalist based in Paris.",
-    "imdbRating": "6.1"
+    "imdbId": "tt39052798",
+    "name": "Promise",
+    "year": 2026,
+    "poster": "https://m.media-amazon.com/images/M/MV5BNjI2YjYxNjQtMDk5My00YWU2LTkzNTQtODkyNTFkMjBiOGY0XkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BNjI2YjYxNjQtMDk5My00YWU2LTkzNTQtODkyNTFkMjBiOGY0XkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "d93e7f04e35dc441595909e577d4c308",
@@ -9871,12 +9864,7 @@
     "rawText": "Bombay Stories (2026) Hindi HD + ESub - [1080p & 720p - AVC - (DD+5.1 - 640Kbps) - 2.2GB + Rips]",
     "languages": [
       "Hindi"
-    ],
-    "imdbId": "tt42481138",
-    "name": "Bombay Stories",
-    "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BNmViYjA1ODAtZmZiYy00NzJlLTk2MzQtOWE2NDE0YTc2ZTBlXkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BNmViYjA1ODAtZmZiYy00NzJlLTk2MzQtOWE2NDE0YTc2ZTBlXkEyXkFqcGc@._V1_SX250.jpg"
+    ]
   },
   {
     "id": "5a4a96066d58c59fb8ad071b09afdf17",
@@ -11399,7 +11387,12 @@
       "Malayalam",
       "Kannada",
       "Multi-Lang"
-    ]
+    ],
+    "imdbId": "tt39073377",
+    "name": "Ram and Leela",
+    "year": 2026,
+    "poster": "https://m.media-amazon.com/images/M/MV5BZTJkZmQxYWUtMTIzNS00OTQzLTg3N2EtOTA2NmMwODhjNTQ5XkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BZTJkZmQxYWUtMTIzNS00OTQzLTg3N2EtOTA2NmMwODhjNTQ5XkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "35aad325755f013c6825bd9493394d40",
@@ -18247,12 +18240,7 @@
     "rawText": "Babita Singh Reporting (2026) Hindi UHD + ESub - [4K, 1080p & 720p - AVC / HEVC - (DD+5.1 - 640Kbps) - 5.5GB + Rips]",
     "languages": [
       "Hindi"
-    ],
-    "imdbId": "tt40915016",
-    "name": "Babita Singh Reporting",
-    "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BNDY2Y2UyZmEtMTFmNi00ZWMxLTlmZjktZjkwNGM0NWRmZDNjXkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BNDY2Y2UyZmEtMTFmNi00ZWMxLTlmZjktZjkwNGM0NWRmZDNjXkEyXkFqcGc@._V1_SX250.jpg"
+    ]
   },
   {
     "id": "720ee242f223633cb6a50cbaed8f8394",
@@ -19885,11 +19873,16 @@
       "Hindi",
       "Multi-Lang"
     ],
-    "imdbId": "tt29719182",
-    "name": "Bury the Devil",
-    "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BZDAxYzUzZjYtNzBjNS00YWNkLWEwNGMtYTNkMGI4MDc0ZDBkXkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BZDAxYzUzZjYtNzBjNS00YWNkLWEwNGMtYTNkMGI4MDc0ZDBkXkEyXkFqcGc@._V1_SX250.jpg"
+    "imdbId": "tt36958312",
+    "name": "The Devil's Mouth",
+    "year": "2026",
+    "poster": "https://images.metahub.space/poster/small/tt36958312/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt36958312/img",
+    "genres": [
+      "Horror",
+      "Thriller"
+    ],
+    "description": "A group of college friends' Thailand adventure turns deadly when they become trapped in submerged caves with a dangerous predator. As oxygen runs low, past conflicts emerge in their desperate fight for survival."
   },
   {
     "id": "4bd03ce2ca046b044a2e08084d3b17ef",
@@ -22017,7 +22010,18 @@
       "Telugu",
       "Hindi",
       "Multi-Lang"
-    ]
+    ],
+    "imdbId": "tt27987407",
+    "name": "Gold Brick",
+    "year": "2023",
+    "poster": "https://images.metahub.space/poster/small/tt27987407/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt27987407/img",
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "description": "Determined to even the scales and profit from his thankless job, a factory worker schemes to traffic luxury perfumes from under his employer's nose.",
+    "imdbRating": "6.2"
   },
   {
     "id": "638cfaa36eb2ea3a8dd1e8fe7af23786",
