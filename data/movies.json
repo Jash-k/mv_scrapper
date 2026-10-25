@@ -6794,11 +6794,18 @@
     "languages": [
       "Tamil"
     ],
-    "imdbId": "tt39052798",
-    "name": "Promise",
-    "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BNjI2YjYxNjQtMDk5My00YWU2LTkzNTQtODkyNTFkMjBiOGY0XkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BNjI2YjYxNjQtMDk5My00YWU2LTkzNTQtODkyNTFkMjBiOGY0XkEyXkFqcGc@._V1_SX250.jpg"
+    "imdbId": "tt4776998",
+    "name": "The Promise",
+    "year": "2017",
+    "poster": "https://images.metahub.space/poster/small/tt4776998/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt4776998/img",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Drama"
+    ],
+    "description": "Set during the last days of the Ottoman Empire, The Promise follows a love triangle between Michael, a brilliant medical student, the beautiful and sophisticated Ana, and Chris - a renowned American journalist based in Paris.",
+    "imdbRating": "6.1"
   },
   {
     "id": "d93e7f04e35dc441595909e577d4c308",
@@ -17138,12 +17145,7 @@
     "rawText": "Jimmy (2013) (HD + Org Auds) - [1080p & 720p - x264 - (Tamil + Eng) - 1.6GB + Rips]",
     "languages": [
       "Tamil"
-    ],
-    "imdbId": "tt31179962",
-    "name": "Jimmy",
-    "year": 2013,
-    "poster": "https://m.media-amazon.com/images/M/MV5BMGU1NTI4MWUtZWZhMi00ZTgwLWJkYTAtY2Q4YWEwZGNlNDgyXkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BMGU1NTI4MWUtZWZhMi00ZTgwLWJkYTAtY2Q4YWEwZGNlNDgyXkEyXkFqcGc@._V1_SX250.jpg"
+    ]
   },
   {
     "id": "6c4177a275c51a707d651befb3ce5f7b",
