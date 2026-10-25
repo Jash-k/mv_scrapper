@@ -8360,12 +8360,7 @@
       "Tamil",
       "Telugu",
       "Multi-Lang"
-    ],
-    "imdbId": "tt1147509",
-    "name": "Doraemon: Nobita and the Castle of the Undersea Devil",
-    "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BMGMyYzgyN2YtM2E3My00NzgwLWE1ZTMtODFlOTg0N2YyODgxXkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BMGMyYzgyN2YtM2E3My00NzgwLWE1ZTMtODFlOTg0N2YyODgxXkEyXkFqcGc@._V1_SX250.jpg"
+    ]
   },
   {
     "id": "4777a14620cd3b5e462438ee3331266c",
@@ -12674,12 +12669,7 @@
     "rawText": "Iruttarai (2026) Tamil UHD + ESub - [4K, 1080p & 720p - AVC / HEVC - (DD+5.1 - 192Kbps) - 1.6GB + Rips] - [W]",
     "languages": [
       "Tamil"
-    ],
-    "imdbId": "tt46067198",
-    "name": "Iruttarai",
-    "year": 2026,
-    "poster": "https://images.metahub.space/poster/small/tt46067198/img",
-    "thumbnail": "https://images.metahub.space/poster/small/tt46067198/img"
+    ]
   },
   {
     "id": "0238b1d4dea3d99a401d030fe19a597b",
@@ -18344,9 +18334,8 @@
     "imdbId": "tt37654096",
     "name": "The Last Sunrise",
     "year": 2026,
-    "poster": "https://image.tmdb.org/t/p/w500/3PWJqDfygN0YNNjWsDUOXclCp3h.jpg",
-    "thumbnail": "https://image.tmdb.org/t/p/w500/3PWJqDfygN0YNNjWsDUOXclCp3h.jpg",
-    "description": "Ry, a college student with a chronic illness, escapes to Mallorca for the summer with her mother, where she unexpectedly falls for a local and begins to embrace living in the moment. But as her condition worsens and long-hidden family secrets come to light, everything she has found before summer's end is threatened."
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjZlMjQxN2MtYjAyOS00YjliLWE3NjEtNDZjOWI5NTAxNTY2XkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BMjZlMjQxN2MtYjAyOS00YjliLWE3NjEtNDZjOWI5NTAxNTY2XkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "355f43a01a2f34e758091bd4c212e462",
@@ -18516,8 +18505,9 @@
     "imdbId": "tt43123022",
     "name": "Mister Middle Class",
     "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BOWViNjg3Y2EtYzUxNC00YTUxLThkMjQtYzdlNGFkMTBmZDJkXkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BOWViNjg3Y2EtYzUxNC00YTUxLThkMjQtYzdlNGFkMTBmZDJkXkEyXkFqcGc@._V1_SX250.jpg"
+    "poster": "https://image.tmdb.org/t/p/w500/6mGPYOwrCR8KBbtT3PEGPgq2xIz.jpg",
+    "thumbnail": "https://image.tmdb.org/t/p/w500/6mGPYOwrCR8KBbtT3PEGPgq2xIz.jpg",
+    "description": "A middle-class man's carefully balanced life is turned upside down by unexpected challenges that test his dreams, relationships, and resilience. As he faces one setback after another, he discovers the true meaning of family, perseverance, and self-worth."
   },
   {
     "id": "e81cbf356ea4b22919ea6992f31c082c",
@@ -18872,9 +18862,16 @@
     ],
     "imdbId": "tt1105709",
     "name": "8 x 10 Tasveer",
-    "year": 2009,
-    "poster": "https://m.media-amazon.com/images/M/MV5BZGE0OTcyOGEtNjdlMS00ZjEzLThmN2MtNDVmMzQxMzc5NGM1XkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BZGE0OTcyOGEtNjdlMS00ZjEzLThmN2MtNDVmMzQxMzc5NGM1XkEyXkFqcGc@._V1_SX250.jpg"
+    "year": "2009",
+    "poster": "https://images.metahub.space/poster/small/tt1105709/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt1105709/img",
+    "genres": [
+      "Action",
+      "Crime",
+      "Drama"
+    ],
+    "description": "A forest ranger with the ability to visit the past by looking at photographs attempts to solve the mystery behind his father's sudden death.",
+    "imdbRating": "5.5"
   },
   {
     "id": "8258fca40f1a279af2c4f0dc63e59f2c",
@@ -18932,11 +18929,12 @@
     "languages": [
       "Malayalam"
     ],
-    "imdbId": "tt36670542",
+    "imdbId": "tt19714374",
     "name": "Lurk",
     "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BMzE4MzhlZWEtNzkzMC00YTE5LWE3N2YtZjZmMGIzZjE3ZmYyXkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BMzE4MzhlZWEtNzkzMC00YTE5LWE3N2YtZjZmMGIzZjE3ZmYyXkEyXkFqcGc@._V1_SX250.jpg"
+    "poster": "https://image.tmdb.org/t/p/w500/9WGReFzckOm8ssI5IGRwNyFAjHJ.jpg",
+    "thumbnail": "https://image.tmdb.org/t/p/w500/9WGReFzckOm8ssI5IGRwNyFAjHJ.jpg",
+    "description": "Two children discover a hole that they can throw their mistakes into, making them disappear forever. They live without consequence. Until one day, the hole disappears, right when they need it most."
   },
   {
     "id": "3557c47cd839300068a14614ded1d92a",
@@ -21641,12 +21639,7 @@
     "rawText": "September 21 (2026) Kannada HD + ESub - [1080p & 720p - AVC - (DD+5.1 - 192Kbps) - 1.9GB + Rips]",
     "languages": [
       "Kannada"
-    ],
-    "imdbId": "tt36600605",
-    "name": "September 21",
-    "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BYTI0Yzk4MTMtZGFjZS00YWYzLTk4OTktYmYxNGMwN2E5MjE1XkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BYTI0Yzk4MTMtZGFjZS00YWYzLTk4OTktYmYxNGMwN2E5MjE1XkEyXkFqcGc@._V1_SX250.jpg"
+    ]
   },
   {
     "id": "1b4065703bad79d264c5aff1bb7707bb",
