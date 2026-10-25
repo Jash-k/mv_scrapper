@@ -9598,7 +9598,12 @@
     "rawText": "Moodar Koodam (2013) Tamil HD - [1080p & 720p - AVC / HEVC - (AAC 2.0) - 3.4GB + Rips]",
     "languages": [
       "Tamil"
-    ]
+    ],
+    "imdbId": "tt3182644",
+    "name": "Moodar Koodam",
+    "year": 2013,
+    "poster": "https://m.media-amazon.com/images/M/MV5BYThkZjRiOGQtZTg4Ny00NWNlLThhZDAtOWFmZGQ2ZTUzYTNjXkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BYThkZjRiOGQtZTg4Ny00NWNlLThhZDAtOWFmZGQ2ZTUzYTNjXkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "bf81c8e94b9abafa49d11fc411a98c2b",
@@ -10336,7 +10341,12 @@
       "Malayalam",
       "Kannada",
       "Multi-Lang"
-    ]
+    ],
+    "imdbId": "tt43134711",
+    "name": "Ramba Oorvasi Menaka",
+    "year": 2026,
+    "poster": "https://m.media-amazon.com/images/M/MV5BZTRmZTYxYjEtNDdiNy00ZmE0LTlmNjMtOWQ5MjJlOGU0MTBjXkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BZTRmZTYxYjEtNDdiNy00ZmE0LTlmNjMtOWQ5MjJlOGU0MTBjXkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "3419ed03e1bdb0a1e360271279028b98",
@@ -10606,7 +10616,12 @@
       "Malayalam",
       "Kannada",
       "Multi-Lang"
-    ]
+    ],
+    "imdbId": "tt41790460",
+    "name": "Agadha",
+    "year": 2026,
+    "poster": "https://m.media-amazon.com/images/M/MV5BNjYwOWQ1NjMtYTRmYS00ZDc2LTkwNjAtN2JhYjE3NmVjMTA4XkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BNjYwOWQ1NjMtYTRmYS00ZDc2LTkwNjAtN2JhYjE3NmVjMTA4XkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "c6ab20197830c7845b17a59ef25aad6c",
@@ -10674,7 +10689,12 @@
       "Telugu",
       "Hindi",
       "Multi-Lang"
-    ]
+    ],
+    "imdbId": "tt6933238",
+    "name": "Unabomber",
+    "year": 2026,
+    "poster": "https://m.media-amazon.com/images/M/MV5BZTVlMmRkMzctNTk5OC00OWUxLWIxMWYtYjFmYzRjZDQxNTQ5XkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BZTVlMmRkMzctNTk5OC00OWUxLWIxMWYtYjFmYzRjZDQxNTQ5XkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "f460e87825bcd1d4c02435fd50a5fc35",
@@ -15874,7 +15894,17 @@
       "Tamil",
       "Hindi",
       "Multi-Lang"
-    ]
+    ],
+    "imdbId": "tt7516468",
+    "name": "A Company of Heroes",
+    "year": "2012",
+    "poster": "https://images.metahub.space/poster/small/tt7516468/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt7516468/img",
+    "genres": [
+      "Documentary"
+    ],
+    "description": "They were the \"other\" Band of Brothers. A Company of Heroes features interviews with many of the men not focused on in the book \"Band of Brothers\" by Stephen Ambrose or in the television mini-series by the same name. Never before ...",
+    "imdbRating": "7.8"
   },
   {
     "id": "6d07adc5abefda7741b76aef87a6cd37",
