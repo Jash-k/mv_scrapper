@@ -3442,8 +3442,8 @@
     "imdbId": "tt49767152",
     "name": "Cocoons",
     "year": 2026,
-    "poster": "https://images.metahub.space/poster/small/tt49767152/img",
-    "thumbnail": "https://images.metahub.space/poster/small/tt49767152/img"
+    "poster": "https://m.media-amazon.com/images/M/MV5BYjc5NDRiYTUtYjkxZC00OGM1LWE2ZDEtYWQ3NmYwMjc5MTViXkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BYjc5NDRiYTUtYjkxZC00OGM1LWE2ZDEtYWQ3NmYwMjc5MTViXkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "c3bf3b4a60b667ff4eb2b32912e4dedc",
@@ -3478,7 +3478,12 @@
     "rawText": "Chola Kollai Bommai (2026) Tamil UHD + ESub - [4K, 1080p & 720p - AVC / HEVC - (DD+5.1 - 192Kbps) - 5.4GB + Rips]",
     "languages": [
       "Tamil"
-    ]
+    ],
+    "imdbId": "tt50055171",
+    "name": "Chola Kollai Bommai",
+    "year": 2026,
+    "poster": "https://m.media-amazon.com/images/M/MV5BZGMyMDcwNzItZjExMi00ZWRlLWExMDktNTk2ZTM0ODY5OThkXkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BZGMyMDcwNzItZjExMi00ZWRlLWExMDktNTk2ZTM0ODY5OThkXkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "cf8831765fc3b97594c6df12b3d6fed4",
@@ -16688,7 +16693,7 @@
       "Comedy"
     ],
     "description": "A Texas tech start-up breaks every crowdfunding record in the books, but they lose it all when a patent troll shuts them down. Refusing to go down without a fight, our heroes use a legal loophole to beat the trolls at their own ga...",
-    "imdbRating": "5.4"
+    "imdbRating": "5.9"
   },
   {
     "id": "4a5c08ebab7dcc8432868c211dee3cb9",
@@ -20152,11 +20157,12 @@
       "Hindi",
       "Tamil"
     ],
-    "imdbId": "tt38916037",
-    "name": "Lenin Pandiyan",
-    "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BMDkwMGE4MDctZDUxNS00MTYwLWFjNTQtNDZhMmMzYTg2OTViXkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BMDkwMGE4MDctZDUxNS00MTYwLWFjNTQtNDZhMmMzYTg2OTViXkEyXkFqcGc@._V1_SX250.jpg"
+    "imdbId": "tt5256640",
+    "name": "Lenin",
+    "year": "2017",
+    "poster": "https://images.metahub.space/poster/small/tt5256640/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt5256640/img",
+    "genres": []
   },
   {
     "id": "68aed7f241b44bdcc1cfca6a6ce1fb99",
