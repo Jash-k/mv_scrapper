@@ -3305,7 +3305,12 @@
       "Tamil",
       "Hindi",
       "Telugu"
-    ]
+    ],
+    "imdbId": "tt49767152",
+    "name": "Cocoons",
+    "year": 2026,
+    "poster": "https://images.metahub.space/poster/small/tt49767152/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt49767152/img"
   },
   {
     "id": "c3bf3b4a60b667ff4eb2b32912e4dedc",
@@ -15428,11 +15433,11 @@
     "languages": [
       "Tamil"
     ],
-    "imdbId": "tt14526318",
-    "name": "Sardar",
+    "imdbId": "tt28541577",
+    "name": "Sardar 2",
     "year": 2022,
-    "poster": "https://m.media-amazon.com/images/M/MV5BOTYzMTEzYmEtZDdjZS00YzdiLWE5MzgtOTRmZmIwYjQ4YzFiXkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BOTYzMTEzYmEtZDdjZS00YzdiLWE5MzgtOTRmZmIwYjQ4YzFiXkEyXkFqcGc@._V1_SX250.jpg"
+    "poster": "https://m.media-amazon.com/images/M/MV5BNTMzNjZkODEtNjRiMS00MjFiLWE0YWYtOGQ5ZGVlODQ1NDVmXkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BNTMzNjZkODEtNjRiMS00MjFiLWE0YWYtOGQ5ZGVlODQ1NDVmXkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "af226ba194a8d9bb0150b04241ec1e33",
@@ -16550,7 +16555,7 @@
       "Comedy"
     ],
     "description": "A Texas tech start-up breaks every crowdfunding record in the books, but they lose it all when a patent troll shuts them down. Refusing to go down without a fight, our heroes use a legal loophole to beat the trolls at their own ga...",
-    "imdbRating": "5.4"
+    "imdbRating": "5.9"
   },
   {
     "id": "4a5c08ebab7dcc8432868c211dee3cb9",
@@ -20014,11 +20019,12 @@
       "Hindi",
       "Tamil"
     ],
-    "imdbId": "tt38916037",
-    "name": "Lenin Pandiyan",
-    "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BMDkwMGE4MDctZDUxNS00MTYwLWFjNTQtNDZhMmMzYTg2OTViXkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BMDkwMGE4MDctZDUxNS00MTYwLWFjNTQtNDZhMmMzYTg2OTViXkEyXkFqcGc@._V1_SX250.jpg"
+    "imdbId": "tt5256640",
+    "name": "Lenin",
+    "year": "2017",
+    "poster": "https://images.metahub.space/poster/small/tt5256640/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt5256640/img",
+    "genres": []
   },
   {
     "id": "68aed7f241b44bdcc1cfca6a6ce1fb99",
