@@ -12689,18 +12689,7 @@
       "Telugu",
       "Hindi",
       "Multi-Lang"
-    ],
-    "imdbId": "tt0026246",
-    "name": "Crime and Punishment",
-    "year": "1936",
-    "poster": "https://images.metahub.space/poster/small/tt0026246/img",
-    "thumbnail": "https://images.metahub.space/poster/small/tt0026246/img",
-    "genres": [
-      "Crime",
-      "Drama"
-    ],
-    "description": "A young man is haunted by the murder of a neighborhood pawn broker and hounded by the local police inspector who suspects that he is guilty.",
-    "imdbRating": "6.9"
+    ]
   },
   {
     "id": "62c716ea7d1adee11783a2e7652e3969",
@@ -13453,18 +13442,7 @@
       "Hindi",
       "Multi-Lang",
       "Tamil"
-    ],
-    "imdbId": "tt32491690",
-    "name": "Dark Nuns",
-    "year": "2025",
-    "poster": "https://images.metahub.space/poster/small/tt32491690/img",
-    "thumbnail": "https://images.metahub.space/poster/small/tt32491690/img",
-    "genres": [
-      "Horror",
-      "Mystery",
-      "Thriller"
-    ],
-    "description": "A young boy Hee-Joon is possessed by an evil spirit. Nun Yunia tries to save him, assisted by Nun Mikaela. Priest Paul attempts medical treatment, while Priest Andrew performs an exorcism to rid Hee-Joon of the spirit."
+    ]
   },
   {
     "id": "1bfb4038bef0546818cdeafe99fdf161",
@@ -15571,11 +15549,11 @@
     "languages": [
       "Tamil"
     ],
-    "imdbId": "tt28541577",
-    "name": "Sardar 2",
+    "imdbId": "tt14526318",
+    "name": "Sardar",
     "year": 2022,
-    "poster": "https://m.media-amazon.com/images/M/MV5BNTMzNjZkODEtNjRiMS00MjFiLWE0YWYtOGQ5ZGVlODQ1NDVmXkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BNTMzNjZkODEtNjRiMS00MjFiLWE0YWYtOGQ5ZGVlODQ1NDVmXkEyXkFqcGc@._V1_SX250.jpg"
+    "poster": "https://m.media-amazon.com/images/M/MV5BOTYzMTEzYmEtZDdjZS00YzdiLWE5MzgtOTRmZmIwYjQ4YzFiXkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BOTYzMTEzYmEtZDdjZS00YzdiLWE5MzgtOTRmZmIwYjQ4YzFiXkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "af226ba194a8d9bb0150b04241ec1e33",
@@ -16693,7 +16671,7 @@
       "Comedy"
     ],
     "description": "A Texas tech start-up breaks every crowdfunding record in the books, but they lose it all when a patent troll shuts them down. Refusing to go down without a fight, our heroes use a legal loophole to beat the trolls at their own ga...",
-    "imdbRating": "5.9"
+    "imdbRating": "5.4"
   },
   {
     "id": "4a5c08ebab7dcc8432868c211dee3cb9",
