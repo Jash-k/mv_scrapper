@@ -795,8 +795,9 @@
     "imdbId": "tt33318732",
     "name": "Jailer 2",
     "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BYmJiYzc1ODctZjQzZS00NzEzLWI0NDEtZGVkNjI4YzEzNGRjXkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BYmJiYzc1ODctZjQzZS00NzEzLWI0NDEtZGVkNjI4YzEzNGRjXkEyXkFqcGc@._V1_SX250.jpg"
+    "poster": "https://image.tmdb.org/t/p/w500/upwdEyhhYZ7pT2hD535fr2MGfpx.jpg",
+    "thumbnail": "https://image.tmdb.org/t/p/w500/upwdEyhhYZ7pT2hD535fr2MGfpx.jpg",
+    "description": "When a dangerous syndicate expands its reach to threaten his family's peace, retired jailer Tiger Muthuvel Pandian goes undercover as a driver. Operating from the shadows, he takes on ruthless new enemies to protect his home."
   },
   {
     "id": "b3f1a77df6a49d79b43f0eb39cd78756",
@@ -915,7 +916,12 @@
     "rawText": "Jigris (2025) Tamil HD + ESub - [1080p & 720p - AVC / HEVC - (DD+5.1 - 640Kbps) - 7GB + Rips]",
     "languages": [
       "Tamil"
-    ]
+    ],
+    "imdbId": "tt37495011",
+    "name": "Jigris",
+    "year": 2025,
+    "poster": "https://m.media-amazon.com/images/M/MV5BYzJhYzY1YTQtOGNiMS00ZGZhLTkzM2YtMzI3Njk5ZDZiZWI3XkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BYzJhYzY1YTQtOGNiMS00ZGZhLTkzM2YtMzI3Njk5ZDZiZWI3XkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "29e8d2d69039dde54476fb0c2e98fdfb",
@@ -3437,8 +3443,9 @@
     "imdbId": "tt38990864",
     "name": "Dhoomakethu",
     "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BNTE1ZDFiMGEtMTRjMS00ZWZlLTgyMDctNjJkZDM2YjI4NGFlXkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BNTE1ZDFiMGEtMTRjMS00ZWZlLTgyMDctNjJkZDM2YjI4NGFlXkEyXkFqcGc@._V1_SX250.jpg"
+    "poster": "https://image.tmdb.org/t/p/w500/kZCKwhUx7r9HRDqpGbavdMtd8f5.jpg",
+    "thumbnail": "https://image.tmdb.org/t/p/w500/kZCKwhUx7r9HRDqpGbavdMtd8f5.jpg",
+    "description": "On the morning of his wedding, 36-year-old Kuttan wakes from a disturbing dream about his own death. As the day unfolds, familiar moments begin to repeat, and reality becomes increasingly difficult to distinguish from memory. Realising that something is terribly wrong, Kuttan races to uncover the truth before the day repeats itself."
   },
   {
     "id": "227d8dddbbac0157b17ba50b9cb964c0",
@@ -8207,7 +8214,12 @@
       "Kannada",
       "Hindi",
       "Multi-Lang"
-    ]
+    ],
+    "imdbId": "tt37535100",
+    "name": "Bethlehem Kudumba Unit",
+    "year": 2026,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTU5OWQ4YTgtZTZiMi00ZjE2LTk1MjgtYjcyNDZiODBjYTQ3XkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BMTU5OWQ4YTgtZTZiMi00ZjE2LTk1MjgtYjcyNDZiODBjYTQ3XkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "47e2412c4e1eaa6c4ea5f65d7c87814c",
@@ -16246,19 +16258,7 @@
     "rawText": "The Yellow Elephant (2026) Tamil HD + ESub - [4K, 1080p & 720p - AVC - (DD+5.1 - 192Kbps) - 2.2GB + Rips]",
     "languages": [
       "Tamil"
-    ],
-    "imdbId": "tt5335774",
-    "name": "The Yellow Tie",
-    "year": "2025",
-    "poster": "https://images.metahub.space/poster/small/tt5335774/img",
-    "thumbnail": "https://images.metahub.space/poster/small/tt5335774/img",
-    "genres": [
-      "Adventure",
-      "Biography",
-      "Drama"
-    ],
-    "description": "The extraordinary life of Sergiu Celibidache. From his childhood in Romania, to his exile in pursuit of a career in music, his struggle for survival in wartime Germany and his rise, fall and rise again, in an unimaginable life jou...",
-    "imdbRating": "8.3"
+    ]
   },
   {
     "id": "eec3bc22a81ed955989293711e0e8909",
@@ -18272,12 +18272,7 @@
       "Kannada",
       "Hindi",
       "Multi-Lang"
-    ],
-    "imdbId": "tt39818587",
-    "name": "Newton's 3rd Law",
-    "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BNzcwNTIyOTctNjFiMi00Yjk3LWI0MmItMTFkODMwNmE4NDRjXkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BNzcwNTIyOTctNjFiMi00Yjk3LWI0MmItMTFkODMwNmE4NDRjXkEyXkFqcGc@._V1_SX250.jpg"
+    ]
   },
   {
     "id": "77e58c87b612df580ec543fc533bd76e",
@@ -19259,12 +19254,7 @@
     "rawText": "Lurk (2026) Malayalam UHD + ESub - [4K, 1080p & 720p - AVC / HEVC - (DD+5.1 - 192Kbps) - 6.4GB + Rips]",
     "languages": [
       "Malayalam"
-    ],
-    "imdbId": "tt36670542",
-    "name": "Lurk",
-    "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BMzE4MzhlZWEtNzkzMC00YTE5LWE3N2YtZjZmMGIzZjE3ZmYyXkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BMzE4MzhlZWEtNzkzMC00YTE5LWE3N2YtZjZmMGIzZjE3ZmYyXkEyXkFqcGc@._V1_SX250.jpg"
+    ]
   },
   {
     "id": "3557c47cd839300068a14614ded1d92a",
@@ -21086,12 +21076,7 @@
     "rawText": "Moda Kavida Vatavarana (2026) Tamil HD + ESub - [1080p & 720p - AVC / HEVC - (DD+2.0 - 224Kbps) - 2GB + Rips] - [W]",
     "languages": [
       "Tamil"
-    ],
-    "imdbId": "tt38748101",
-    "name": "Moda Kavida Vaatavarana",
-    "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BNmZkYzkxMjMtNWEwMi00M2U5LThjYmEtNDc4MjAwODgwYjBjXkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BNmZkYzkxMjMtNWEwMi00M2U5LThjYmEtNDc4MjAwODgwYjBjXkEyXkFqcGc@._V1_SX250.jpg"
+    ]
   },
   {
     "id": "92ce5167cff46d7e3818e3f5f78b2424",
