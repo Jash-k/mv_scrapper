@@ -133,12 +133,11 @@
     "languages": [
       "Tamil"
     ],
-    "imdbId": "tt32012509",
+    "imdbId": "tt44090278",
     "name": "Baththa",
     "year": 2026,
-    "poster": "https://image.tmdb.org/t/p/w500/Ag59cmNNXCcKIBYdlmZ9HqPH9zG.jpg",
-    "thumbnail": "https://image.tmdb.org/t/p/w500/Ag59cmNNXCcKIBYdlmZ9HqPH9zG.jpg",
-    "description": "In 1986 Madras, a timid eight-year-old boy accidentally traps a feared gangster inside a deserted school toilet. As the gangster is forced to confront hunger, loneliness and his own vulnerability, an unlikely bond begins to grow between the two, changing their lives forever."
+    "poster": "https://m.media-amazon.com/images/M/MV5BNjRmZGFjMDctMzRiNS00MmIwLTliYmMtODY5ZGFkOTE5YmFkXkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BNjRmZGFjMDctMzRiNS00MmIwLTliYmMtODY5ZGFkOTE5YmFkXkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "3375a77918649b00a370bc0c28feb763",
@@ -795,9 +794,8 @@
     "imdbId": "tt33318732",
     "name": "Jailer 2",
     "year": 2026,
-    "poster": "https://image.tmdb.org/t/p/w500/upwdEyhhYZ7pT2hD535fr2MGfpx.jpg",
-    "thumbnail": "https://image.tmdb.org/t/p/w500/upwdEyhhYZ7pT2hD535fr2MGfpx.jpg",
-    "description": "When a dangerous syndicate expands its reach to threaten his family's peace, retired jailer Tiger Muthuvel Pandian goes undercover as a driver. Operating from the shadows, he takes on ruthless new enemies to protect his home."
+    "poster": "https://m.media-amazon.com/images/M/MV5BYmJiYzc1ODctZjQzZS00NzEzLWI0NDEtZGVkNjI4YzEzNGRjXkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BYmJiYzc1ODctZjQzZS00NzEzLWI0NDEtZGVkNjI4YzEzNGRjXkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "b3f1a77df6a49d79b43f0eb39cd78756",
@@ -3443,9 +3441,8 @@
     "imdbId": "tt38990864",
     "name": "Dhoomakethu",
     "year": 2026,
-    "poster": "https://image.tmdb.org/t/p/w500/kZCKwhUx7r9HRDqpGbavdMtd8f5.jpg",
-    "thumbnail": "https://image.tmdb.org/t/p/w500/kZCKwhUx7r9HRDqpGbavdMtd8f5.jpg",
-    "description": "On the morning of his wedding, 36-year-old Kuttan wakes from a disturbing dream about his own death. As the day unfolds, familiar moments begin to repeat, and reality becomes increasingly difficult to distinguish from memory. Realising that something is terribly wrong, Kuttan races to uncover the truth before the day repeats itself."
+    "poster": "https://m.media-amazon.com/images/M/MV5BNTE1ZDFiMGEtMTRjMS00ZWZlLTgyMDctNjJkZDM2YjI4NGFlXkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BNTE1ZDFiMGEtMTRjMS00ZWZlLTgyMDctNjJkZDM2YjI4NGFlXkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "227d8dddbbac0157b17ba50b9cb964c0",
@@ -16258,7 +16255,19 @@
     "rawText": "The Yellow Elephant (2026) Tamil HD + ESub - [4K, 1080p & 720p - AVC - (DD+5.1 - 192Kbps) - 2.2GB + Rips]",
     "languages": [
       "Tamil"
-    ]
+    ],
+    "imdbId": "tt5335774",
+    "name": "The Yellow Tie",
+    "year": "2025",
+    "poster": "https://images.metahub.space/poster/small/tt5335774/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt5335774/img",
+    "genres": [
+      "Adventure",
+      "Biography",
+      "Drama"
+    ],
+    "description": "The extraordinary life of Sergiu Celibidache. From his childhood in Romania, to his exile in pursuit of a career in music, his struggle for survival in wartime Germany and his rise, fall and rise again, in an unimaginable life jou...",
+    "imdbRating": "8.3"
   },
   {
     "id": "eec3bc22a81ed955989293711e0e8909",
@@ -18029,7 +18038,13 @@
       "Telugu",
       "Hindi",
       "Multi-Lang"
-    ]
+    ],
+    "imdbId": "tt0106505",
+    "name": "Calendar Girl",
+    "year": 1993,
+    "poster": "https://image.tmdb.org/t/p/w500/ljSqZTl5oophHsH1Qtyv7AF2BW6.jpg",
+    "thumbnail": "https://image.tmdb.org/t/p/w500/ljSqZTl5oophHsH1Qtyv7AF2BW6.jpg",
+    "description": "Three young men go on an end of the summer trip to Hollywood, California. Their quest: to fulfill the fantasy of meeting Marilyn Monroe."
   },
   {
     "id": "a36b081511e4fad13dac6e070fc4697c",
@@ -18074,11 +18089,12 @@
       "Hindi",
       "Multi-Lang"
     ],
-    "imdbId": "tt1713476",
+    "imdbId": "tt30217600",
     "name": "The Bay",
     "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BNDEzMWU2YWUtOWVkMy00OTg0LTkyMjctMDA3MDc2NGViYjU5XkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BNDEzMWU2YWUtOWVkMy00OTg0LTkyMjctMDA3MDc2NGViYjU5XkEyXkFqcGc@._V1_SX250.jpg"
+    "poster": "https://image.tmdb.org/t/p/w500/8QQUI4J2zLv6f96TOjbz9dcg8bc.jpg",
+    "thumbnail": "https://image.tmdb.org/t/p/w500/8QQUI4J2zLv6f96TOjbz9dcg8bc.jpg",
+    "description": "Best friends Emma and Lani, attending a destination wedding in Thailand, find themselves trapped on a sinking tour boat in the heart of a tiger shark sanctuary."
   },
   {
     "id": "bdf03a76e9c799cf6fdcbaebe38dd32c",
@@ -18272,7 +18288,12 @@
       "Kannada",
       "Hindi",
       "Multi-Lang"
-    ]
+    ],
+    "imdbId": "tt39818587",
+    "name": "Newton's 3rd Law",
+    "year": 2026,
+    "poster": "https://m.media-amazon.com/images/M/MV5BNzcwNTIyOTctNjFiMi00Yjk3LWI0MmItMTFkODMwNmE4NDRjXkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BNzcwNTIyOTctNjFiMi00Yjk3LWI0MmItMTFkODMwNmE4NDRjXkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "77e58c87b612df580ec543fc533bd76e",
@@ -18581,8 +18602,9 @@
     "imdbId": "tt33702400",
     "name": "Harudu",
     "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BOTAxM2VjODctNTI0My00Y2I2LWJlNzYtZTU5ZDI0NjYxYWRhXkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BOTAxM2VjODctNTI0My00Y2I2LWJlNzYtZTU5ZDI0NjYxYWRhXkEyXkFqcGc@._V1_SX250.jpg"
+    "poster": "https://image.tmdb.org/t/p/w500/2C9VFBSIGDcATC96MxHo2P60esl.jpg",
+    "thumbnail": "https://image.tmdb.org/t/p/w500/2C9VFBSIGDcATC96MxHo2P60esl.jpg",
+    "description": "A thrilling and intense story. A righteous protagonist (DCP Shankar), a cruel antagonist (Varadharaj), a group of unsuspecting thieves who get entangled in a murder case, and the complex web of corruption, revenge, and justice."
   },
   {
     "id": "e8063a626eb489811ca99e2d616ad891",
@@ -18839,8 +18861,9 @@
     "imdbId": "tt43123022",
     "name": "Mister Middle Class",
     "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BOWViNjg3Y2EtYzUxNC00YTUxLThkMjQtYzdlNGFkMTBmZDJkXkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BOWViNjg3Y2EtYzUxNC00YTUxLThkMjQtYzdlNGFkMTBmZDJkXkEyXkFqcGc@._V1_SX250.jpg"
+    "poster": "https://image.tmdb.org/t/p/w500/6mGPYOwrCR8KBbtT3PEGPgq2xIz.jpg",
+    "thumbnail": "https://image.tmdb.org/t/p/w500/6mGPYOwrCR8KBbtT3PEGPgq2xIz.jpg",
+    "description": "A middle-class man's carefully balanced life is turned upside down by unexpected challenges that test his dreams, relationships, and resilience. As he faces one setback after another, he discovers the true meaning of family, perseverance, and self-worth."
   },
   {
     "id": "e81cbf356ea4b22919ea6992f31c082c",
@@ -19066,8 +19089,9 @@
     "imdbId": "tt26445387",
     "name": "I, Nobody",
     "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BMWIxMjk3MmItOTRlZC00NWRhLTllNWItYzU2OGI4ZmZjOTUzXkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BMWIxMjk3MmItOTRlZC00NWRhLTllNWItYzU2OGI4ZmZjOTUzXkEyXkFqcGc@._V1_SX250.jpg"
+    "poster": "https://image.tmdb.org/t/p/w500/qFJl3w9KpVXpfZ3rpmv7p0UYZkP.jpg",
+    "thumbnail": "https://image.tmdb.org/t/p/w500/qFJl3w9KpVXpfZ3rpmv7p0UYZkP.jpg",
+    "description": "Rajeevan, an ordinary government employee, witnesses something he was never meant to see and is thrust into the centre of a serious crime. Branded a troublemaker and hunted by the system, he must protect his family while fighting to survive against forces far beyond his control."
   },
   {
     "id": "a868f6ba97cf0fef6b61db27b46b273a",
@@ -19150,8 +19174,9 @@
     "imdbId": "tt31170389",
     "name": "Evil Dead Burn",
     "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BZTljMTZjZTItZjMzZi00NDBhLWFmMzAtOGNiNTlhY2MxMzg5XkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BZTljMTZjZTItZjMzZi00NDBhLWFmMzAtOGNiNTlhY2MxMzg5XkEyXkFqcGc@._V1_SX250.jpg"
+    "poster": "https://image.tmdb.org/t/p/w500/uRxrNXQWkHoENm3nwVOZDYSCx2F.jpg",
+    "thumbnail": "https://image.tmdb.org/t/p/w500/uRxrNXQWkHoENm3nwVOZDYSCx2F.jpg",
+    "description": "After her husband's abrupt death, Alice seeks solace with his remaining family — descendants of a leading researcher on demonic possession. As her in-laws transform one by one into creatures that feed on fear, she comes to discover that the vows she took in life survive even in death."
   },
   {
     "id": "e550b472667db2fd998bf8b5cca5b413",
@@ -19195,9 +19220,16 @@
     ],
     "imdbId": "tt1105709",
     "name": "8 x 10 Tasveer",
-    "year": 2009,
-    "poster": "https://m.media-amazon.com/images/M/MV5BZGE0OTcyOGEtNjdlMS00ZjEzLThmN2MtNDVmMzQxMzc5NGM1XkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BZGE0OTcyOGEtNjdlMS00ZjEzLThmN2MtNDVmMzQxMzc5NGM1XkEyXkFqcGc@._V1_SX250.jpg"
+    "year": "2009",
+    "poster": "https://images.metahub.space/poster/small/tt1105709/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt1105709/img",
+    "genres": [
+      "Action",
+      "Crime",
+      "Drama"
+    ],
+    "description": "A forest ranger with the ability to visit the past by looking at photographs attempts to solve the mystery behind his father's sudden death.",
+    "imdbRating": "5.5"
   },
   {
     "id": "8258fca40f1a279af2c4f0dc63e59f2c",
@@ -19254,7 +19286,13 @@
     "rawText": "Lurk (2026) Malayalam UHD + ESub - [4K, 1080p & 720p - AVC / HEVC - (DD+5.1 - 192Kbps) - 6.4GB + Rips]",
     "languages": [
       "Malayalam"
-    ]
+    ],
+    "imdbId": "tt19714374",
+    "name": "Lurk",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/9WGReFzckOm8ssI5IGRwNyFAjHJ.jpg",
+    "thumbnail": "https://image.tmdb.org/t/p/w500/9WGReFzckOm8ssI5IGRwNyFAjHJ.jpg",
+    "description": "Two children discover a hole that they can throw their mistakes into, making them disappear forever. They live without consequence. Until one day, the hole disappears, right when they need it most."
   },
   {
     "id": "3557c47cd839300068a14614ded1d92a",
@@ -19424,11 +19462,12 @@
       "Hindi",
       "Multi-Lang"
     ],
-    "imdbId": "tt0073260",
+    "imdbId": "tt33183915",
     "name": "The Land That Time Forgot",
     "year": 2025,
-    "poster": "https://m.media-amazon.com/images/M/MV5BNjFkYTk3NzctYWIwMS00NGQ3LWJkNzEtZjYyMGFkY2Y4ZDQ1XkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BNjFkYTk3NzctYWIwMS00NGQ3LWJkNzEtZjYyMGFkY2Y4ZDQ1XkEyXkFqcGc@._V1_SX250.jpg"
+    "poster": "https://image.tmdb.org/t/p/w500/1TBx99VdB7uMF7Dyqdy4jUElkD9.jpg",
+    "thumbnail": "https://image.tmdb.org/t/p/w500/1TBx99VdB7uMF7Dyqdy4jUElkD9.jpg",
+    "description": "Present-day survivors of a sunken naval vessel capture a Russian sub, only to find themselves stranded on an island filled with deadly, prehistoric creatures"
   },
   {
     "id": "9790f6888082224869972e94c27fe88f",
@@ -19592,8 +19631,9 @@
     "imdbId": "tt39260895",
     "name": "Pyaar Prema Kalyanam",
     "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BMWI0NjAzZWQtYTJhZS00YmEzLTgyNmItNTJkZDcxNjM3OWQ2XkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BMWI0NjAzZWQtYTJhZS00YmEzLTgyNmItNTJkZDcxNjM3OWQ2XkEyXkFqcGc@._V1_SX250.jpg"
+    "poster": "https://image.tmdb.org/t/p/w500/AjaNAeMXOrK9n0YqGqX0Lz5qxYu.jpg",
+    "thumbnail": "https://image.tmdb.org/t/p/w500/AjaNAeMXOrK9n0YqGqX0Lz5qxYu.jpg",
+    "description": "When a bride refuses to leave her family home after marriage, her husband must find out if he can adjust to life under his in-laws' roof."
   },
   {
     "id": "f9c093b01abe50f36bffeb2f3ea6d1f5",
@@ -19755,8 +19795,9 @@
     "imdbId": "tt33379543",
     "name": "Jana Nayagan",
     "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BZWFmMGQ4YjUtNmNjYS00MWRlLWI1YzMtMmMyZGIzMmE1NWYwXkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BZWFmMGQ4YjUtNmNjYS00MWRlLWI1YzMtMmMyZGIzMmE1NWYwXkEyXkFqcGc@._V1_SX250.jpg"
+    "poster": "https://image.tmdb.org/t/p/w500/jt8pfSIdi47YpFMMWVRr8w5u2S0.jpg",
+    "thumbnail": "https://image.tmdb.org/t/p/w500/jt8pfSIdi47YpFMMWVRr8w5u2S0.jpg",
+    "description": "A clash of ideologies. One stands for the people, the other feeds on control. Their paths collided once before. Years later, a child’s silent fear ignites the past, drawing a former police officer into a battle far bigger than personal revenge."
   },
   {
     "id": "3704c30bedaef73569f5d5f475ca59c0",
@@ -19905,8 +19946,9 @@
     "imdbId": "tt37161651",
     "name": "Chennai Love Story",
     "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BYmNhOWU4ZmItNDNlYi00N2ZkLWFlZDEtM2RhNWI5NDgyYzQwXkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BYmNhOWU4ZmItNDNlYi00N2ZkLWFlZDEtM2RhNWI5NDgyYzQwXkEyXkFqcGc@._V1_SX250.jpg"
+    "poster": "https://image.tmdb.org/t/p/w500/hACM25xigqIYeRgylB0epf34hmk.jpg",
+    "thumbnail": "https://image.tmdb.org/t/p/w500/hACM25xigqIYeRgylB0epf34hmk.jpg",
+    "description": "Two young people navigate their first experience of love, dealing with its powerful emotions and obstacles while discovering the delicate nature of newfound romance."
   },
   {
     "id": "6a738d8de355fc580a3439e0ab48eb6f",
@@ -20036,9 +20078,16 @@
     ],
     "imdbId": "tt1570417",
     "name": "Accident on Hill Road",
-    "year": 2009,
-    "poster": "https://m.media-amazon.com/images/M/MV5BMDQzMzJiYTctMWNkZi00Yjk2LWJkOGUtNWYzMTU0MjNmOWI4XkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BMDQzMzJiYTctMWNkZi00Yjk2LWJkOGUtNWYzMTU0MjNmOWI4XkEyXkFqcGc@._V1_SX250.jpg"
+    "year": "2010",
+    "poster": "https://images.metahub.space/poster/small/tt1570417/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt1570417/img",
+    "genres": [
+      "Crime",
+      "Drama",
+      "Thriller"
+    ],
+    "description": "In order not to jeopardize her overseas career, an impaired woman, who had just run over a male, decides to conceal her crime with the victim trapped in the windshield.",
+    "imdbRating": "4.2"
   },
   {
     "id": "fb7bb80cdeb67ccd1279dacda128f37d",
@@ -20207,8 +20256,9 @@
     "imdbId": "tt0840361",
     "name": "The Town",
     "year": 2010,
-    "poster": "https://m.media-amazon.com/images/M/MV5BMTcyNzcxODg3Nl5BMl5BanBnXkFtZTcwMTUyNjQ3Mw@@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BMTcyNzcxODg3Nl5BMl5BanBnXkFtZTcwMTUyNjQ3Mw@@._V1_SX250.jpg"
+    "poster": "https://image.tmdb.org/t/p/w500/3NIzyXkfylsjflRKSz8Fts3lXzm.jpg",
+    "thumbnail": "https://image.tmdb.org/t/p/w500/3NIzyXkfylsjflRKSz8Fts3lXzm.jpg",
+    "description": "A proficient group of thieves rob a bank and hold the manager hostage. Things begin to get complicated when one of the crew members falls in love with her."
   },
   {
     "id": "8812cf00a3a866a5fd92de36534e7d40",
@@ -20288,8 +20338,9 @@
     "imdbId": "tt40620387",
     "name": "Pagida Kali",
     "year": 2026,
-    "poster": "https://images.metahub.space/poster/small/tt40620387/img",
-    "thumbnail": "https://images.metahub.space/poster/small/tt40620387/img"
+    "poster": "https://image.tmdb.org/t/p/w500/rwqow2Zw9m8qzVj50uiaXFraXFH.jpg",
+    "thumbnail": "https://image.tmdb.org/t/p/w500/rwqow2Zw9m8qzVj50uiaXFraXFH.jpg",
+    "description": "A Kerala murder sparks fear and confusion. Then a child vanishes mysteriously. The investigation intensifies and spreads beyond state borders in this suspenseful thriller."
   },
   {
     "id": "66765d7aa3ab5e3df6c70a33ab5ca2b2",
@@ -20360,9 +20411,16 @@
     ],
     "imdbId": "tt23790696",
     "name": "The Raja Saab",
-    "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BMDg4ODMzZjAtOGI0MS00Y2I3LWFkM2MtNzQ5MDI2MDE5ZTAwXkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BMDg4ODMzZjAtOGI0MS00Y2I3LWFkM2MtNzQ5MDI2MDE5ZTAwXkEyXkFqcGc@._V1_SX250.jpg"
+    "year": "2026",
+    "poster": "https://images.metahub.space/poster/small/tt23790696/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt23790696/img",
+    "genres": [
+      "Action",
+      "Comedy",
+      "Fantasy"
+    ],
+    "description": "Seeking his lost grandfather, a young man enters a haunted mansion and awakens a family curse powerful enough to upend both his life and reality.",
+    "imdbRating": "3.1"
   },
   {
     "id": "a609550fc9b826a641d06ee1c5153666",
@@ -20510,8 +20568,9 @@
     "imdbId": "tt36653351",
     "name": "Sanjeev",
     "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BNzk3MTQ2ODEtNTQyZi00YmQ4LTkzOTYtNzE0NTJkYjJlNDdkXkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BNzk3MTQ2ODEtNTQyZi00YmQ4LTkzOTYtNzE0NTJkYjJlNDdkXkEyXkFqcGc@._V1_SX250.jpg"
+    "poster": "https://image.tmdb.org/t/p/w500/mPD1On2TjauTeOUUFxM9HYLxMWg.jpg",
+    "thumbnail": "https://image.tmdb.org/t/p/w500/mPD1On2TjauTeOUUFxM9HYLxMWg.jpg",
+    "description": "Sanjeev, a young aspiring actor from rural Telangana, and debut director Shiva struggle against powerful obstacles, with Sanjeev's financial crisis threatening their shared dream of making a film."
   },
   {
     "id": "84d8021ef91767958fc9306f6aa3e1b0",
@@ -20608,8 +20667,9 @@
     "imdbId": "tt39530053",
     "name": "Snake 5: Monster City",
     "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BYWNjNWY0YjgtNDdiNC00ZmEzLTk4NzktZWE1Y2M1MmZiMDM1XkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BYWNjNWY0YjgtNDdiNC00ZmEzLTk4NzktZWE1Y2M1MmZiMDM1XkEyXkFqcGc@._V1_SX250.jpg"
+    "poster": "https://image.tmdb.org/t/p/w500/pmphewalX6Npa5Aedimxq3yvYk0.jpg",
+    "thumbnail": "https://image.tmdb.org/t/p/w500/pmphewalX6Npa5Aedimxq3yvYk0.jpg",
+    "description": "After escaping prison during a monster attack, convict Wu Chuan must navigate a city overrun by prehistoric creatures and lead a desperate fight to save his trapped mother and stop an ancient beast from destroying the city."
   },
   {
     "id": "9133d4176f97af5c2c90aab009d74f6d",
@@ -20644,12 +20704,7 @@
     "rawText": "Mutiny (2026) English HD + ESub - [1080p & 720p - AVC - (DD+5.1 - 640Kbps) - 1.8GB + Rips]",
     "languages": [
       "Tamil"
-    ],
-    "imdbId": "tt32338669",
-    "name": "Mutiny",
-    "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BY2FhN2NlNWMtZDM3OC00MjQzLWEwYzYtMmJhNTY1YmRjZTNmXkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BY2FhN2NlNWMtZDM3OC00MjQzLWEwYzYtMmJhNTY1YmRjZTNmXkEyXkFqcGc@._V1_SX250.jpg"
+    ]
   },
   {
     "id": "5be2ec68f603004dd5c6c7cadd426662",
@@ -21076,7 +21131,12 @@
     "rawText": "Moda Kavida Vatavarana (2026) Tamil HD + ESub - [1080p & 720p - AVC / HEVC - (DD+2.0 - 224Kbps) - 2GB + Rips] - [W]",
     "languages": [
       "Tamil"
-    ]
+    ],
+    "imdbId": "tt38748101",
+    "name": "Moda Kavida Vaatavarana",
+    "year": 2026,
+    "poster": "https://m.media-amazon.com/images/M/MV5BNmZkYzkxMjMtNWEwMi00M2U5LThjYmEtNDc4MjAwODgwYjBjXkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BNmZkYzkxMjMtNWEwMi00M2U5LThjYmEtNDc4MjAwODgwYjBjXkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "92ce5167cff46d7e3818e3f5f78b2424",
@@ -21268,8 +21328,9 @@
     "imdbId": "tt32273171",
     "name": "The Death of Robin Hood",
     "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BYTRmNzlmZjEtYjkzMC00MmNjLThiOGYtZjM5MjFiZDQyM2IwXkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BYTRmNzlmZjEtYjkzMC00MmNjLThiOGYtZjM5MjFiZDQyM2IwXkEyXkFqcGc@._V1_SX250.jpg"
+    "poster": "https://image.tmdb.org/t/p/w500/13MmRwmG5NmaMfU8qNrtgGXisiD.jpg",
+    "thumbnail": "https://image.tmdb.org/t/p/w500/13MmRwmG5NmaMfU8qNrtgGXisiD.jpg",
+    "description": "Grappling with his past after a life of crime and murder, Robin Hood finds himself gravely injured after a battle he thought would be his last. In the hands of a mysterious woman, he is offered a chance at salvation."
   },
   {
     "id": "1b407c9c7ad622ecd591d4c7623b9cf7",
@@ -21387,8 +21448,9 @@
     "imdbId": "tt43612978",
     "name": "Aroopi",
     "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BM2E1NDA0YTYtZWI3Mi00YmY2LTljYmEtMzg4MmQ5MWIyOWQ2XkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BM2E1NDA0YTYtZWI3Mi00YmY2LTljYmEtMzg4MmQ5MWIyOWQ2XkEyXkFqcGc@._V1_SX250.jpg"
+    "poster": "https://image.tmdb.org/t/p/w500/yLDuHm2QgsNHuENoBvOlDKRwMyF.jpg",
+    "thumbnail": "https://image.tmdb.org/t/p/w500/yLDuHm2QgsNHuENoBvOlDKRwMyF.jpg",
+    "description": "A vengeful Yakshini, once sealed inside a doll at the Aryanattu estate, is accidentally unleashed by two thieves. When a brutal murder draws Niranjan, the last surviving heir of the lineage, back to his ancestral home, he must confront an ancient curse and the dark secrets surrounding his family's past."
   },
   {
     "id": "94c69308ca805b26e5da371ece84d44d",
@@ -21468,8 +21530,9 @@
     "imdbId": "tt33737583",
     "name": "Euphoria",
     "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BMTRiMGMzOWUtNGFmZC00ODY4LWJlNmEtODJjNDdmNTBlYTgwXkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BMTRiMGMzOWUtNGFmZC00ODY4LWJlNmEtODJjNDdmNTBlYTgwXkEyXkFqcGc@._V1_SX250.jpg"
+    "poster": "https://image.tmdb.org/t/p/w500/8URM569W1ETAeGd33CPkrc6KF1O.jpg",
+    "thumbnail": "https://image.tmdb.org/t/p/w500/8URM569W1ETAeGd33CPkrc6KF1O.jpg",
+    "description": "A young woman and her family seek justice after she is raped by a group of young men who come from powerful and influential backgrounds."
   },
   {
     "id": "231d5709d05f9e0628f5f64c581cbcec",
@@ -21559,11 +21622,12 @@
       "Hindi",
       "Multi-Lang"
     ],
-    "imdbId": "tt12144176",
+    "imdbId": "tt36454145",
     "name": "To the Max",
     "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BZjgxNDQzNzEtNzIzMy00NjE3LWI4YjktOWYzYmI2ZGQ1Yjk1XkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BZjgxNDQzNzEtNzIzMy00NjE3LWI4YjktOWYzYmI2ZGQ1Yjk1XkEyXkFqcGc@._V1_SX250.jpg"
+    "poster": "https://image.tmdb.org/t/p/w500/7KtjwHzp2EB5N63bZtxVb2gImjf.jpg",
+    "thumbnail": "https://image.tmdb.org/t/p/w500/7KtjwHzp2EB5N63bZtxVb2gImjf.jpg",
+    "description": "A group of friends bonded by their love for extreme sports discovers BASE jumping in wingsuits — but feeling like flying carries the highest risks."
   },
   {
     "id": "817160c860a260baaedd05f8d2a2282d",
@@ -21598,7 +21662,13 @@
     "rawText": "Dark Face (2026) Tamil UHD + ESub - [4K, 1080p & 720p - AVC / HEVC - (DD+5.1 - 192Kbps) - 6GB + Rips]",
     "languages": [
       "Tamil"
-    ]
+    ],
+    "imdbId": "tt42952112",
+    "name": "Dark Face",
+    "year": 2026,
+    "poster": "https://image.tmdb.org/t/p/w500/yDC9z6tquPS0Nc4JZaHNjSpGon.jpg",
+    "thumbnail": "https://image.tmdb.org/t/p/w500/yDC9z6tquPS0Nc4JZaHNjSpGon.jpg",
+    "description": "When a man is sentenced to death for rape and hailed as justice served, the world moves on satisfied. But on the eve of his execution, a final meeting with his lawyer shatters that certainty. He may be innocent.  Refusing to let the truth die with him, the lawyer reopens the case and what begins as a single thread quickly unravels into something far darker. Behind the crime, the conviction, and a suspicious suicide lies a carefully concealed conspiracy. The deeper the investigation goes, the more dangerous the question becomes: Who is really guilty?"
   },
   {
     "id": "183656278bde55ab49b2aebbd0965071",
@@ -21652,8 +21722,9 @@
     "imdbId": "tt39910244",
     "name": "Achyuta Avataaram",
     "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BY2Q3YzVlMTMtOTk4MC00M2I5LWE3MDQtZDQ0NWIxZDQyOTE1XkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BY2Q3YzVlMTMtOTk4MC00M2I5LWE3MDQtZDQ0NWIxZDQyOTE1XkEyXkFqcGc@._V1_SX250.jpg"
+    "poster": "https://image.tmdb.org/t/p/w500/pH5QDBV55imyvC31MMdxTtHUT6t.jpg",
+    "thumbnail": "https://image.tmdb.org/t/p/w500/pH5QDBV55imyvC31MMdxTtHUT6t.jpg",
+    "description": "A family's quiet life is upended by a devastating cyber scam that leaves them shattered. Determined to fight back, one woman takes on the digital underworld in a courageous battle for justice, hope and those she loves."
   },
   {
     "id": "866a0aff7d3541a1fa009e45ac327479",
@@ -21754,11 +21825,12 @@
       "Hindi",
       "Multi-Lang"
     ],
-    "imdbId": "tt32478708",
+    "imdbId": "tt9531776",
     "name": "Close to Me",
     "year": 2025,
-    "poster": "https://m.media-amazon.com/images/M/MV5BMTdlN2FiYmUtNDgzNS00ZDRkLTg1ZjgtY2JiZThkYjg0YmZkXkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BMTdlN2FiYmUtNDgzNS00ZDRkLTg1ZjgtY2JiZThkYjg0YmZkXkEyXkFqcGc@._V1_SX250.jpg"
+    "poster": "https://images.metahub.space/poster/small/tt9531776/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt9531776/img",
+    "description": "Chinese drama directed by Liu Shujuan."
   },
   {
     "id": "0c1b4475bd05c1ca61add24f07e0467a",
@@ -21874,8 +21946,9 @@
     "imdbId": "tt40036552",
     "name": "Mr. Work from Home",
     "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BOTc2OWJiYTItOGYxZS00NWNjLWI3MjItOGQxZDFlYmUwMWZkXkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BOTc2OWJiYTItOGYxZS00NWNjLWI3MjItOGQxZDFlYmUwMWZkXkEyXkFqcGc@._V1_SX250.jpg"
+    "poster": "https://image.tmdb.org/t/p/w500/2fGML9MV1iODxPctkAKfggUO722.jpg",
+    "thumbnail": "https://image.tmdb.org/t/p/w500/2fGML9MV1iODxPctkAKfggUO722.jpg",
+    "description": "A young corporate worker relocates to his village and works remotely. While there, he develops a passion for agriculture and applies his expertise to modernize farming practices."
   },
   {
     "id": "bab9f44f84f20bb230812a8d119ccd0a",
