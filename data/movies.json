@@ -15044,7 +15044,12 @@
       "Telugu",
       "Hindi",
       "Multi-Lang"
-    ]
+    ],
+    "imdbId": "tt34494076",
+    "name": "Hungry",
+    "year": 2026,
+    "poster": "https://m.media-amazon.com/images/M/MV5BNWRhMjRlYTQtMWNhNy00YzRmLThiZjktYjQ4NDMyZWNiY2QwXkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BNWRhMjRlYTQtMWNhNy00YzRmLThiZjktYjQ4NDMyZWNiY2QwXkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "02bf204390bb5189efcb4818fd46f9fc",
@@ -15209,7 +15214,19 @@
       "Tamil",
       "Malayalam",
       "Telugu"
-    ]
+    ],
+    "imdbId": "tt14961016",
+    "name": "I'm Still Here",
+    "year": "2025",
+    "poster": "https://images.metahub.space/poster/small/tt14961016/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt14961016/img",
+    "genres": [
+      "Biography",
+      "Drama",
+      "History"
+    ],
+    "description": "A woman married to a former politician during the military dictatorship in Brazil is forced to reinvent herself and chart a new course for her family after a violent and arbitrary act.",
+    "imdbRating": "8.1"
   },
   {
     "id": "605e01d3c02c8bc9fadc35f343780d99",
