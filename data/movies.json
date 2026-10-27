@@ -573,15 +573,9 @@
     ],
     "imdbId": "tt31969655",
     "name": "The Paradise",
-    "year": "2026",
-    "poster": "https://images.metahub.space/poster/small/tt31969655/img",
-    "thumbnail": "https://images.metahub.space/poster/small/tt31969655/img",
-    "genres": [
-      "Action",
-      "Adventure",
-      "Drama"
-    ],
-    "description": "In 1980s Secunderabad, a marginalized tribe battles discrimination and fights for citizenship under an unexpected leader's guidance, challenging systemic oppression."
+    "year": 2026,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMGI3N2I1ZWUtYzMyZS00MTRlLThlNDUtNWZhY2MxZTlmMDJjXkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BMGI3N2I1ZWUtYzMyZS00MTRlLThlNDUtNWZhY2MxZTlmMDJjXkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "3a61f435ac65fe6ab7791d1488facb41",
@@ -3470,8 +3464,8 @@
     "imdbId": "tt49767152",
     "name": "Cocoons",
     "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BYjc5NDRiYTUtYjkxZC00OGM1LWE2ZDEtYWQ3NmYwMjc5MTViXkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BYjc5NDRiYTUtYjkxZC00OGM1LWE2ZDEtYWQ3NmYwMjc5MTViXkEyXkFqcGc@._V1_SX250.jpg"
+    "poster": "https://images.metahub.space/poster/small/tt49767152/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt49767152/img"
   },
   {
     "id": "c3bf3b4a60b667ff4eb2b32912e4dedc",
@@ -21759,8 +21753,7 @@
       "Crime",
       "Thriller"
     ],
-    "description": "Triad boss Song seeks to whitewash his image and seize Laika's mayoral seat amid the regime change. Despite colluding with officials, he faces a funding shortfall. To bolster his power, Song's right-hand man and enforcer resort to...",
-    "imdbRating": "6.4"
+    "description": "Triad boss Song seeks to whitewash his image and seize Laika's mayoral seat amid the regime change. Despite colluding with officials, he faces a funding shortfall. To bolster his power, Song's right-hand man and enforcer resort to..."
   },
   {
     "id": "3dcf65d8a5164c48c8e15d21068c5ca0",
