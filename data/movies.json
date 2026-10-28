@@ -1025,7 +1025,19 @@
       "Telugu",
       "Hindi",
       "Multi-Lang"
-    ]
+    ],
+    "imdbId": "tt1477834",
+    "name": "Aquaman",
+    "year": "2018",
+    "poster": "https://images.metahub.space/poster/small/tt1477834/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt1477834/img",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy"
+    ],
+    "description": "Arthur Curry, the human-born heir to the underwater kingdom of Atlantis, goes on a quest to prevent a war between the worlds of ocean and land.",
+    "imdbRating": "6.8"
   },
   {
     "id": "29e8d2d69039dde54476fb0c2e98fdfb",
@@ -4288,9 +4300,8 @@
     "imdbId": "tt27419420",
     "name": "Street Fighter",
     "year": 2026,
-    "poster": "https://image.tmdb.org/t/p/w500/ccxdepKqORLwccbzvO4eAGkN0IC.jpg",
-    "thumbnail": "https://image.tmdb.org/t/p/w500/ccxdepKqORLwccbzvO4eAGkN0IC.jpg",
-    "description": "In 1993, estranged Street Fighters Ryu and Ken Masters are thrown back into combat when the mysterious Chun-Li recruits them for the next World Warrior Tournament: a brutal clash of fists, fate, and fury. But behind this battle royale lies a deadly conspiracy that forces them to face off against each other and the demons of their past. And if they don't, it's GAME OVER!"
+    "poster": "https://m.media-amazon.com/images/M/MV5BYjhlN2EyNGUtY2U4YS00ZTQ3LTg0NTgtNGIxZmVhMDlmMjIyXkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BYjhlN2EyNGUtY2U4YS00ZTQ3LTg0NTgtNGIxZmVhMDlmMjIyXkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "ea61cfa764e73f29b776f4aad4dd9fd8",
@@ -8468,9 +8479,8 @@
     "imdbId": "tt39239754",
     "name": "Sigma",
     "year": 2026,
-    "poster": "https://image.tmdb.org/t/p/w500/18Lhkc3nf92bY1cacQomXIqihhN.jpg",
-    "thumbnail": "https://image.tmdb.org/t/p/w500/18Lhkc3nf92bY1cacQomXIqihhN.jpg",
-    "description": "A daring treasure hunter throws caution to the wind, outwitting deadly traps and treacherous allies with sheer nerve and cunning."
+    "poster": "https://m.media-amazon.com/images/M/MV5BY2VmZDc4ZTQtMTAxNi00MGVkLTk5OTUtMmE4ZjdjMmZjZWYyXkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BY2VmZDc4ZTQtMTAxNi00MGVkLTk5OTUtMmE4ZjdjMmZjZWYyXkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "e13c88fd1a6e5e0bccf05c464c4d023c",
@@ -8803,18 +8813,10 @@
     ],
     "imdbId": "tt0462482",
     "name": "Population 436",
-    "year": "2006",
-    "poster": "https://images.metahub.space/poster/small/tt0462482/img",
-    "thumbnail": "https://images.metahub.space/poster/small/tt0462482/img",
-    "genres": [
-      "Drama",
-      "Horror",
-      "Mystery",
-      "Romance",
-      "Thriller"
-    ],
-    "description": "A census-taker (Sisto) is sent to investigate why a certain small town has had the same population -- 436 residents -- for the last 100 years.",
-    "imdbRating": "5.7"
+    "year": 2006,
+    "poster": "https://image.tmdb.org/t/p/w500/trEcuqgfXtIt06b7Tg1fkCnOHBY.jpg",
+    "thumbnail": "https://image.tmdb.org/t/p/w500/trEcuqgfXtIt06b7Tg1fkCnOHBY.jpg",
+    "description": "A census-taker is sent to investigate why a certain small town has had the same population -- 436 residents -- for the last 100 years."
   },
   {
     "id": "4cf63f7d107ef4e977657b18cc083af9",
@@ -8902,12 +8904,11 @@
       "Telugu",
       "Multi-Lang"
     ],
-    "imdbId": "tt38201958",
-    "name": "Doraemon the Movie: New Nobita and the Castle of the Undersea Devil",
+    "imdbId": "tt1147509",
+    "name": "Doraemon: Nobita and the Castle of the Undersea Devil",
     "year": 2026,
-    "poster": "https://image.tmdb.org/t/p/w500/gdllrWFb9ffvGkCDQAflrdnTaAg.jpg",
-    "thumbnail": "https://image.tmdb.org/t/p/w500/gdllrWFb9ffvGkCDQAflrdnTaAg.jpg",
-    "description": "Nobita and friends finds a secret underwater castle packed with mysteries and riches. With Doraemon's high-tech gadgets, they dive into an ocean adventure mixing humor, teamwork, and imagination in a breathtaking aquatic world."
+    "poster": "https://m.media-amazon.com/images/M/MV5BMGMyYzgyN2YtM2E3My00NzgwLWE1ZTMtODFlOTg0N2YyODgxXkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BMGMyYzgyN2YtM2E3My00NzgwLWE1ZTMtODFlOTg0N2YyODgxXkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "4777a14620cd3b5e462438ee3331266c",
@@ -10267,7 +10268,19 @@
       "Telugu",
       "Hindi",
       "Multi-Lang"
-    ]
+    ],
+    "imdbId": "tt3322940",
+    "name": "Annabelle",
+    "year": "2014",
+    "poster": "https://images.metahub.space/poster/small/tt3322940/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt3322940/img",
+    "genres": [
+      "Horror",
+      "Mystery",
+      "Thriller"
+    ],
+    "description": "A couple begins to experience terrifying supernatural occurrences involving a vintage doll shortly after their home is invaded by satanic cultists.",
+    "imdbRating": "5.5"
   },
   {
     "id": "a3beb508f8d55d3e4663f657d5a8442d",
@@ -11899,9 +11912,8 @@
     "imdbId": "tt39073377",
     "name": "Ram and Leela",
     "year": 2026,
-    "poster": "https://image.tmdb.org/t/p/w500/j1X0t57PguWBcaa8LAOaAHGyjcK.jpg",
-    "thumbnail": "https://image.tmdb.org/t/p/w500/j1X0t57PguWBcaa8LAOaAHGyjcK.jpg",
-    "description": "A repeatedly unlucky man finally finds the woman of his dreams, only for an unexpected twist to challenge his understanding of love and commitment."
+    "poster": "https://m.media-amazon.com/images/M/MV5BZTJkZmQxYWUtMTIzNS00OTQzLTg3N2EtOTA2NmMwODhjNTQ5XkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BZTJkZmQxYWUtMTIzNS00OTQzLTg3N2EtOTA2NmMwODhjNTQ5XkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "35aad325755f013c6825bd9493394d40",
@@ -12925,8 +12937,9 @@
     "imdbId": "tt37510017",
     "name": "Thudakkam",
     "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BZjM5NGFiNzctOWFlOS00N2ZkLThhNmEtNDNiYWUyMGZhODFhXkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BZjM5NGFiNzctOWFlOS00N2ZkLThhNmEtNDNiYWUyMGZhODFhXkEyXkFqcGc@._V1_SX250.jpg"
+    "poster": "https://image.tmdb.org/t/p/w500/A8Y0QLNqaFvsergQe80tC6Nfa2k.jpg",
+    "thumbnail": "https://image.tmdb.org/t/p/w500/A8Y0QLNqaFvsergQe80tC6Nfa2k.jpg",
+    "description": "When danger strikes, a young woman fights to survive through courage and determination."
   },
   {
     "id": "9938e5f7e5fcfc8413737cbc75f939b2",
@@ -17571,9 +17584,8 @@
     "imdbId": "tt32758159",
     "name": "Once More",
     "year": 2026,
-    "poster": "https://image.tmdb.org/t/p/w500/ljk9oaU1AtLYZWULmNLtJdtAKzX.jpg",
-    "thumbnail": "https://image.tmdb.org/t/p/w500/ljk9oaU1AtLYZWULmNLtJdtAKzX.jpg",
-    "description": "Raghu, a man caught up with a deep hold of grief comes across Anjali, who is spinning everything in her capacity to win him over. The love you gave away always comes back they say. In one way or other. Sometimes from a different human. This is a story of love coming back into the life of someone who doesn’t want to take it. A tale of second chances.. happy healing and bitter sweet closures."
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTIzNjFjMWItM2E2ZS00ZDdmLTkxYmEtMWIxZWY4MGIzZWYwXkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BMTIzNjFjMWItM2E2ZS00ZDdmLTkxYmEtMWIxZWY4MGIzZWYwXkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "ac10477ad6a26c29666c689cfcae44e6",
@@ -21038,7 +21050,12 @@
       "Kannada",
       "Hindi",
       "Multi-Lang"
-    ]
+    ],
+    "imdbId": "tt37537340",
+    "name": "Srinivasa Mangapuram",
+    "year": 2026,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjBjN2U3MDQtYmVmYi00N2E5LTllOTAtYjk3ZTViZWViM2FjXkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BMjBjN2U3MDQtYmVmYi00N2E5LTllOTAtYjk3ZTViZWViM2FjXkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "d709f6b3c9bdc41325768da41fe19481",
@@ -22530,11 +22547,18 @@
       "Hindi",
       "Multi-Lang"
     ],
-    "imdbId": "tt2461132",
-    "name": "Happy New Year",
-    "year": 1987,
-    "poster": "https://m.media-amazon.com/images/M/MV5BYjc3MjY0NzctMGYwNy00ZGYyLThiOTctMjI1MWRkNmU3ZWNiXkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BYjc3MjY0NzctMGYwNy00ZGYyLThiOTctMjI1MWRkNmU3ZWNiXkEyXkFqcGc@._V1_SX250.jpg"
+    "imdbId": "tt0092676",
+    "name": "Bloody New Year",
+    "year": "1987",
+    "poster": "https://images.metahub.space/poster/small/tt0092676/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt0092676/img",
+    "genres": [
+      "Comedy",
+      "Horror",
+      "Mystery"
+    ],
+    "description": "A group of friends take refuge in an island hotel that is decorated for New Years. The problem is, it's early summer, and soon enough, even the walls themselves are striking out against them.",
+    "imdbRating": "4.5"
   },
   {
     "id": "3ece34ce58c65c1a88bb3898238d3004",
