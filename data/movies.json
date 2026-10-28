@@ -7884,8 +7884,9 @@
     "imdbId": "tt31049299",
     "name": "Animals",
     "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BZmY3MmZiZjctOTgyYy00OGIxLTkwMDUtNDU3MGNkMGI3YWJlXkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BZmY3MmZiZjctOTgyYy00OGIxLTkwMDUtNDU3MGNkMGI3YWJlXkEyXkFqcGc@._V1_SX250.jpg"
+    "poster": "https://image.tmdb.org/t/p/w500/iISM36voS1E8gX9BM0DVK0kgi3E.jpg",
+    "thumbnail": "https://image.tmdb.org/t/p/w500/iISM36voS1E8gX9BM0DVK0kgi3E.jpg",
+    "description": "When the son of an L.A. mayoral candidate is kidnapped, he and his wife have a few hours to come up with the ransom payment. With most of their money spent on his political campaign, they have to get their hands dirty and expose a side of their lives they never intended to see the light of day."
   },
   {
     "id": "633b3e4707982f2c011b6cca7cf812b5",
@@ -8813,10 +8814,18 @@
     ],
     "imdbId": "tt0462482",
     "name": "Population 436",
-    "year": 2006,
-    "poster": "https://image.tmdb.org/t/p/w500/trEcuqgfXtIt06b7Tg1fkCnOHBY.jpg",
-    "thumbnail": "https://image.tmdb.org/t/p/w500/trEcuqgfXtIt06b7Tg1fkCnOHBY.jpg",
-    "description": "A census-taker is sent to investigate why a certain small town has had the same population -- 436 residents -- for the last 100 years."
+    "year": "2006",
+    "poster": "https://images.metahub.space/poster/small/tt0462482/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt0462482/img",
+    "genres": [
+      "Drama",
+      "Horror",
+      "Mystery",
+      "Romance",
+      "Thriller"
+    ],
+    "description": "A census-taker (Sisto) is sent to investigate why a certain small town has had the same population -- 436 residents -- for the last 100 years.",
+    "imdbRating": "5.7"
   },
   {
     "id": "4cf63f7d107ef4e977657b18cc083af9",
@@ -8904,12 +8913,11 @@
       "Telugu",
       "Multi-Lang"
     ],
-    "imdbId": "tt38201958",
-    "name": "Doraemon the Movie: New Nobita and the Castle of the Undersea Devil",
+    "imdbId": "tt1147509",
+    "name": "Doraemon: Nobita and the Castle of the Undersea Devil",
     "year": 2026,
-    "poster": "https://image.tmdb.org/t/p/w500/gdllrWFb9ffvGkCDQAflrdnTaAg.jpg",
-    "thumbnail": "https://image.tmdb.org/t/p/w500/gdllrWFb9ffvGkCDQAflrdnTaAg.jpg",
-    "description": "Nobita and friends finds a secret underwater castle packed with mysteries and riches. With Doraemon's high-tech gadgets, they dive into an ocean adventure mixing humor, teamwork, and imagination in a breathtaking aquatic world."
+    "poster": "https://m.media-amazon.com/images/M/MV5BMGMyYzgyN2YtM2E3My00NzgwLWE1ZTMtODFlOTg0N2YyODgxXkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BMGMyYzgyN2YtM2E3My00NzgwLWE1ZTMtODFlOTg0N2YyODgxXkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "4777a14620cd3b5e462438ee3331266c",
@@ -17383,11 +17391,10 @@
       "Telugu"
     ],
     "imdbId": "tt8665778",
-    "name": "Kaa - The Forest",
+    "name": "Kaa: The Forest",
     "year": 2026,
-    "poster": "https://image.tmdb.org/t/p/w500/awOmezCjTcdyjesrzowHIRYUUbE.jpg",
-    "thumbnail": "https://image.tmdb.org/t/p/w500/awOmezCjTcdyjesrzowHIRYUUbE.jpg",
-    "description": "When a Cold Blooded Murderer Victor Mahadev’s (Salim Ghouse) Killing Freak Gangs Chasing After Two Boys Into Deep Forests. A Wild Life Photographer Venba Subbaiya (Andrea Jeremiah) Got Into Their Game of Death by Accident. Who is Going to See the Next Dawn is the Unfolding Story. Whether Venba or Victor, Because Survival Really Matters in Deep Forest."
+    "poster": "https://m.media-amazon.com/images/M/MV5BMWVmNGVmNDYtOGU0NC00MTY1LThlOWUtNTg1ZjhkYjJlODM5XkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BMWVmNGVmNDYtOGU0NC00MTY1LThlOWUtNTg1ZjhkYjJlODM5XkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "bb9ff5a2f432c4019a4fd40325f8ad6f",
@@ -17584,9 +17591,8 @@
     "imdbId": "tt32758159",
     "name": "Once More",
     "year": 2026,
-    "poster": "https://image.tmdb.org/t/p/w500/ljk9oaU1AtLYZWULmNLtJdtAKzX.jpg",
-    "thumbnail": "https://image.tmdb.org/t/p/w500/ljk9oaU1AtLYZWULmNLtJdtAKzX.jpg",
-    "description": "Raghu, a man caught up with a deep hold of grief comes across Anjali, who is spinning everything in her capacity to win him over. The love you gave away always comes back they say. In one way or other. Sometimes from a different human. This is a story of love coming back into the life of someone who doesn’t want to take it. A tale of second chances.. happy healing and bitter sweet closures."
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTIzNjFjMWItM2E2ZS00ZDdmLTkxYmEtMWIxZWY4MGIzZWYwXkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BMTIzNjFjMWItM2E2ZS00ZDdmLTkxYmEtMWIxZWY4MGIzZWYwXkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "ac10477ad6a26c29666c689cfcae44e6",
@@ -17729,9 +17735,8 @@
     "imdbId": "tt0892874",
     "name": "Halla Bol",
     "year": 2008,
-    "poster": "https://image.tmdb.org/t/p/w500/deVwN1G189jS89OSR5gLgg38zs3.jpg",
-    "thumbnail": "https://image.tmdb.org/t/p/w500/deVwN1G189jS89OSR5gLgg38zs3.jpg",
-    "description": "Ashfaque (Ajay Devgan) is a small town boy aspiring to be a film star in the Hindi film industry. He joins a street theatre group run by a reformed dacoit Sidhu (Pankaj Kapur) who uses street theatre as a medium to bring about an awakening in the masses. Ashfaque struggles to give a creative vent to the actor in him in order to realize his dreams."
+    "poster": "https://m.media-amazon.com/images/M/MV5BZDAzYjI2NWEtYmFhMC00MWUyLThhY2QtNWQ5YzE5MmYyNDE3XkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BZDAzYjI2NWEtYmFhMC00MWUyLThhY2QtNWQ5YzE5MmYyNDE3XkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "49ca16d560e0a1b677c1640911066f7f",
@@ -17804,9 +17809,8 @@
     "imdbId": "tt0765429",
     "name": "American Gangster",
     "year": 2007,
-    "poster": "https://image.tmdb.org/t/p/w500/sX9idXDqRUxE5ffww3n3RV5gL55.jpg",
-    "thumbnail": "https://image.tmdb.org/t/p/w500/sX9idXDqRUxE5ffww3n3RV5gL55.jpg",
-    "description": "Loosely based on the criminal career of Frank Lucas, a gangster from La Grange, North Carolina, who smuggled heroin into the United States on American service planes returning from the Vietnam War, before being detained by a task force led by Newark Detective Richie Roberts."
+    "poster": "https://m.media-amazon.com/images/M/MV5BZGExM2MwNjUtNThkNi00ZjBmLWJhZDgtN2ZmOWJiZWEwNGMxXkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BZGExM2MwNjUtNThkNi00ZjBmLWJhZDgtN2ZmOWJiZWEwNGMxXkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "8468f1bb42cfdac7cc52bf9176e82b19",
@@ -18767,46 +18771,6 @@
     "languages": [
       "Hindi"
     ]
-  },
-  {
-    "id": "720ee242f223633cb6a50cbaed8f8394",
-    "rawTitle": "Harudu (2026)",
-    "titleGuess": "Harudu",
-    "yearGuess": 2026,
-    "pageUrl": "https://www.1tamilmv.style/index.php?/forums/topic/199475-harudu-2026-telugu%C2%A0true-web-dl-1080p-720p-avc-dd51-192kbps-6gb-28gb-14gb-x264-700mb-400mb-esub/",
-    "qualities": [
-      {
-        "quality": "1080p AVC",
-        "size": "2.3GB",
-        "type": "magnet",
-        "url": "magnet:?xt=urn:btih:bb8dd5ad102e557986a00bf6e5fd8f1a61ae8be7&dn=www.1TamilMV.meme%20-%20Harudu%20%282026%29%20Telugu%20TRUE%20WEB-DL%20-%201080p%20-%20AVC%20-%20UNTOUCHED%20-%20%28DD%2B5.1%20-%20640Kbps%20%26%20AAC%202.0%29%20-%202.3GB%20-%20ESub.mkv&xl=2576219297&tr=udp%3A%2F%2Ftracker.dler.com%3A6969%2Fannounce&tr=http%3A%2F%2Ftracker.bt4g.com%3A2095%2Fannounce&tr=udp%3A%2F%2Ftracker-udp.gbitt.info%3A80%2Fannounce&tr=http%3A%2F%2Fipv4announce.sktorrent.eu%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=http%3A%2F%2Ftracker.mywaifu.best%3A6969%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=udp%3A%2F%2Fevan.im%3A6969%2Fannounce&tr=https%3A%2F%2Ftracker.leechshield.link%3A443%2Fannounce&tr=http%3A%2F%2Ftracker.dhitechnical.com%3A6969%2Fannounce&tr=https%3A%2F%2Ftorrents.tmtime.dev%3A443%2Fannounce&tr=udp%3A%2F%2Ftorrentclub.online%3A1984%2Fannounce&tr=udp%3A%2F%2Ftracker.wildkat.net%3A6969%2Fannounce&tr=http%3A%2F%2Fbt1.archive.org%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.publictracker.xyz%3A6969%2Fannounce&tr=http%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.wildkat.net%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.qu.ax%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.peerfect.org%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.opentorrent.top%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.filemail.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Fexplodie.org%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.filebase.online%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.moeking.me%3A6969%2Fannounce&tr=udp%3A%2F%2Fp4p.arenabg.com%3A1337%2Fannounce",
-        "languages": [
-          "Telugu"
-        ],
-        "seeders": 100,
-        "leechers": 10
-      },
-      {
-        "quality": "720p AVC",
-        "size": "1.4GB",
-        "type": "magnet",
-        "url": "magnet:?xt=urn:btih:7c97ebb6dcd16c97e80d2fc4a93d6408da11092f&dn=www.1TamilMV.meme%20-%20Harudu%20%282026%29%20Telugu%20HQ%20HDRip%20-%20720p%20-%20x264%20-%20%28DD%2B5.1%20-%20192Kbps%20%26%20AAC%202.0%29%20-%201.4GB%20-%20ESub.mkv&xl=1509486114&tr=udp%3A%2F%2Ftracker.dler.com%3A6969%2Fannounce&tr=http%3A%2F%2Ftracker.bt4g.com%3A2095%2Fannounce&tr=udp%3A%2F%2Ftracker-udp.gbitt.info%3A80%2Fannounce&tr=http%3A%2F%2Fipv4announce.sktorrent.eu%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=http%3A%2F%2Ftracker.mywaifu.best%3A6969%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=udp%3A%2F%2Fevan.im%3A6969%2Fannounce&tr=https%3A%2F%2Ftracker.leechshield.link%3A443%2Fannounce&tr=http%3A%2F%2Ftracker.dhitechnical.com%3A6969%2Fannounce&tr=https%3A%2F%2Ftorrents.tmtime.dev%3A443%2Fannounce&tr=udp%3A%2F%2Ftorrentclub.online%3A1984%2Fannounce&tr=udp%3A%2F%2Ftracker.wildkat.net%3A6969%2Fannounce&tr=http%3A%2F%2Fbt1.archive.org%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.publictracker.xyz%3A6969%2Fannounce&tr=http%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.wildkat.net%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.qu.ax%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.peerfect.org%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.opentorrent.top%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.filemail.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Fexplodie.org%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.filebase.online%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.moeking.me%3A6969%2Fannounce&tr=udp%3A%2F%2Fp4p.arenabg.com%3A1337%2Fannounce",
-        "languages": [
-          "Telugu"
-        ],
-        "seeders": 100,
-        "leechers": 10
-      }
-    ],
-    "rawText": "Harudu (2026) Telugu HD + ESub - [1080p & 720p - AVC - (DD+5.1 - 192Kbps) - 2.3GB + Rips]",
-    "languages": [
-      "Telugu"
-    ],
-    "imdbId": "tt33702400",
-    "name": "Harudu",
-    "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BOTAxM2VjODctNTI0My00Y2I2LWJlNzYtZTU5ZDI0NjYxYWRhXkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BOTAxM2VjODctNTI0My00Y2I2LWJlNzYtZTU5ZDI0NjYxYWRhXkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "e8063a626eb489811ca99e2d616ad891",
