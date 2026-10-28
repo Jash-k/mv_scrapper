@@ -8904,11 +8904,12 @@
       "Telugu",
       "Multi-Lang"
     ],
-    "imdbId": "tt1147509",
-    "name": "Doraemon: Nobita and the Castle of the Undersea Devil",
+    "imdbId": "tt38201958",
+    "name": "Doraemon the Movie: New Nobita and the Castle of the Undersea Devil",
     "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BMGMyYzgyN2YtM2E3My00NzgwLWE1ZTMtODFlOTg0N2YyODgxXkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BMGMyYzgyN2YtM2E3My00NzgwLWE1ZTMtODFlOTg0N2YyODgxXkEyXkFqcGc@._V1_SX250.jpg"
+    "poster": "https://image.tmdb.org/t/p/w500/gdllrWFb9ffvGkCDQAflrdnTaAg.jpg",
+    "thumbnail": "https://image.tmdb.org/t/p/w500/gdllrWFb9ffvGkCDQAflrdnTaAg.jpg",
+    "description": "Nobita and friends finds a secret underwater castle packed with mysteries and riches. With Doraemon's high-tech gadgets, they dive into an ocean adventure mixing humor, teamwork, and imagination in a breathtaking aquatic world."
   },
   {
     "id": "4777a14620cd3b5e462438ee3331266c",
@@ -12937,9 +12938,8 @@
     "imdbId": "tt37510017",
     "name": "Thudakkam",
     "year": 2026,
-    "poster": "https://image.tmdb.org/t/p/w500/A8Y0QLNqaFvsergQe80tC6Nfa2k.jpg",
-    "thumbnail": "https://image.tmdb.org/t/p/w500/A8Y0QLNqaFvsergQe80tC6Nfa2k.jpg",
-    "description": "When danger strikes, a young woman fights to survive through courage and determination."
+    "poster": "https://m.media-amazon.com/images/M/MV5BZjM5NGFiNzctOWFlOS00N2ZkLThhNmEtNDNiYWUyMGZhODFhXkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BZjM5NGFiNzctOWFlOS00N2ZkLThhNmEtNDNiYWUyMGZhODFhXkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "9938e5f7e5fcfc8413737cbc75f939b2",
@@ -17584,8 +17584,9 @@
     "imdbId": "tt32758159",
     "name": "Once More",
     "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BMTIzNjFjMWItM2E2ZS00ZDdmLTkxYmEtMWIxZWY4MGIzZWYwXkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BMTIzNjFjMWItM2E2ZS00ZDdmLTkxYmEtMWIxZWY4MGIzZWYwXkEyXkFqcGc@._V1_SX250.jpg"
+    "poster": "https://image.tmdb.org/t/p/w500/ljk9oaU1AtLYZWULmNLtJdtAKzX.jpg",
+    "thumbnail": "https://image.tmdb.org/t/p/w500/ljk9oaU1AtLYZWULmNLtJdtAKzX.jpg",
+    "description": "Raghu, a man caught up with a deep hold of grief comes across Anjali, who is spinning everything in her capacity to win him over. The love you gave away always comes back they say. In one way or other. Sometimes from a different human. This is a story of love coming back into the life of someone who doesn’t want to take it. A tale of second chances.. happy healing and bitter sweet closures."
   },
   {
     "id": "ac10477ad6a26c29666c689cfcae44e6",
@@ -22547,18 +22548,11 @@
       "Hindi",
       "Multi-Lang"
     ],
-    "imdbId": "tt0092676",
-    "name": "Bloody New Year",
-    "year": "1987",
-    "poster": "https://images.metahub.space/poster/small/tt0092676/img",
-    "thumbnail": "https://images.metahub.space/poster/small/tt0092676/img",
-    "genres": [
-      "Comedy",
-      "Horror",
-      "Mystery"
-    ],
-    "description": "A group of friends take refuge in an island hotel that is decorated for New Years. The problem is, it's early summer, and soon enough, even the walls themselves are striking out against them.",
-    "imdbRating": "4.5"
+    "imdbId": "tt2461132",
+    "name": "Happy New Year",
+    "year": 1987,
+    "poster": "https://m.media-amazon.com/images/M/MV5BYjc3MjY0NzctMGYwNy00ZGYyLThiOTctMjI1MWRkNmU3ZWNiXkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BYjc3MjY0NzctMGYwNy00ZGYyLThiOTctMjI1MWRkNmU3ZWNiXkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "3ece34ce58c65c1a88bb3898238d3004",
