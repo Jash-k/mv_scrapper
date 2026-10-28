@@ -148,11 +148,12 @@
     "languages": [
       "Tamil"
     ],
-    "imdbId": "tt44090278",
+    "imdbId": "tt32012509",
     "name": "Baththa",
     "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BNjRmZGFjMDctMzRiNS00MmIwLTliYmMtODY5ZGFkOTE5YmFkXkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BNjRmZGFjMDctMzRiNS00MmIwLTliYmMtODY5ZGFkOTE5YmFkXkEyXkFqcGc@._V1_SX250.jpg"
+    "poster": "https://image.tmdb.org/t/p/w500/Ag59cmNNXCcKIBYdlmZ9HqPH9zG.jpg",
+    "thumbnail": "https://image.tmdb.org/t/p/w500/Ag59cmNNXCcKIBYdlmZ9HqPH9zG.jpg",
+    "description": "In 1986 Madras, a timid eight-year-old boy accidentally traps a feared gangster inside a deserted school toilet. As the gangster is forced to confront hunger, loneliness and his own vulnerability, an unlikely bond begins to grow between the two, changing their lives forever."
   },
   {
     "id": "3375a77918649b00a370bc0c28feb763",
@@ -809,8 +810,9 @@
     "imdbId": "tt33318732",
     "name": "Jailer 2",
     "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BYmJiYzc1ODctZjQzZS00NzEzLWI0NDEtZGVkNjI4YzEzNGRjXkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BYmJiYzc1ODctZjQzZS00NzEzLWI0NDEtZGVkNjI4YzEzNGRjXkEyXkFqcGc@._V1_SX250.jpg"
+    "poster": "https://image.tmdb.org/t/p/w500/upwdEyhhYZ7pT2hD535fr2MGfpx.jpg",
+    "thumbnail": "https://image.tmdb.org/t/p/w500/upwdEyhhYZ7pT2hD535fr2MGfpx.jpg",
+    "description": "When a dangerous syndicate expands its reach to threaten his family's peace, retired jailer Tiger Muthuvel Pandian goes undercover as a driver. Operating from the shadows, he takes on ruthless new enemies to protect his home."
   },
   {
     "id": "b3f1a77df6a49d79b43f0eb39cd78756",
@@ -3731,12 +3733,7 @@
       "Tamil",
       "Hindi",
       "Telugu"
-    ],
-    "imdbId": "tt49767152",
-    "name": "Cocoons",
-    "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BYjc5NDRiYTUtYjkxZC00OGM1LWE2ZDEtYWQ3NmYwMjc5MTViXkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BYjc5NDRiYTUtYjkxZC00OGM1LWE2ZDEtYWQ3NmYwMjc5MTViXkEyXkFqcGc@._V1_SX250.jpg"
+    ]
   },
   {
     "id": "c3bf3b4a60b667ff4eb2b32912e4dedc",
@@ -20584,8 +20581,9 @@
     "imdbId": "tt2283362",
     "name": "Jumanji: Welcome to the Jungle",
     "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BZjI5MzdmODctYjA4NS00ZmMxLWJlOWUtOGVhMjA0OGMxMWYzXkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BZjI5MzdmODctYjA4NS00ZmMxLWJlOWUtOGVhMjA0OGMxMWYzXkEyXkFqcGc@._V1_SX250.jpg"
+    "poster": "https://image.tmdb.org/t/p/w500/pSgXKPU5h6U89ipF7HBYajvYt7j.jpg",
+    "thumbnail": "https://image.tmdb.org/t/p/w500/pSgXKPU5h6U89ipF7HBYajvYt7j.jpg",
+    "description": "Four teenagers in detention discover an old video game console with a game they’ve never heard of. When they decide to play, they are immediately sucked into the jungle world of Jumanji in the bodies of their avatars. They’ll have to complete the adventure of their lives filled with fun, thrills and danger or be stuck in the game forever!"
   },
   {
     "id": "71728bcc024ea9bf9e0207e41143e5ce",
