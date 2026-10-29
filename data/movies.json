@@ -8951,18 +8951,10 @@
     ],
     "imdbId": "tt0462482",
     "name": "Population 436",
-    "year": "2006",
-    "poster": "https://images.metahub.space/poster/small/tt0462482/img",
-    "thumbnail": "https://images.metahub.space/poster/small/tt0462482/img",
-    "genres": [
-      "Drama",
-      "Horror",
-      "Mystery",
-      "Romance",
-      "Thriller"
-    ],
-    "description": "A census-taker (Sisto) is sent to investigate why a certain small town has had the same population -- 436 residents -- for the last 100 years.",
-    "imdbRating": "5.7"
+    "year": 2006,
+    "poster": "https://image.tmdb.org/t/p/w500/trEcuqgfXtIt06b7Tg1fkCnOHBY.jpg",
+    "thumbnail": "https://image.tmdb.org/t/p/w500/trEcuqgfXtIt06b7Tg1fkCnOHBY.jpg",
+    "description": "A census-taker is sent to investigate why a certain small town has had the same population -- 436 residents -- for the last 100 years."
   },
   {
     "id": "4cf63f7d107ef4e977657b18cc083af9",
@@ -12476,7 +12468,12 @@
       "Telugu",
       "Hindi",
       "Multi-Lang"
-    ]
+    ],
+    "imdbId": "tt0944835",
+    "name": "Salt",
+    "year": 2010,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjIyODA2NDg4NV5BMl5BanBnXkFtZTcwMjg4NDAwMw@@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BMjIyODA2NDg4NV5BMl5BanBnXkFtZTcwMjg4NDAwMw@@._V1_SX250.jpg"
   },
   {
     "id": "ce344907bd91f2925ff0f6ef818fdc4a",
@@ -17872,8 +17869,9 @@
     "imdbId": "tt0892874",
     "name": "Halla Bol",
     "year": 2008,
-    "poster": "https://m.media-amazon.com/images/M/MV5BZDAzYjI2NWEtYmFhMC00MWUyLThhY2QtNWQ5YzE5MmYyNDE3XkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BZDAzYjI2NWEtYmFhMC00MWUyLThhY2QtNWQ5YzE5MmYyNDE3XkEyXkFqcGc@._V1_SX250.jpg"
+    "poster": "https://image.tmdb.org/t/p/w500/deVwN1G189jS89OSR5gLgg38zs3.jpg",
+    "thumbnail": "https://image.tmdb.org/t/p/w500/deVwN1G189jS89OSR5gLgg38zs3.jpg",
+    "description": "Ashfaque (Ajay Devgan) is a small town boy aspiring to be a film star in the Hindi film industry. He joins a street theatre group run by a reformed dacoit Sidhu (Pankaj Kapur) who uses street theatre as a medium to bring about an awakening in the masses. Ashfaque struggles to give a creative vent to the actor in him in order to realize his dreams."
   },
   {
     "id": "49ca16d560e0a1b677c1640911066f7f",
@@ -17946,8 +17944,9 @@
     "imdbId": "tt0765429",
     "name": "American Gangster",
     "year": 2007,
-    "poster": "https://m.media-amazon.com/images/M/MV5BZGExM2MwNjUtNThkNi00ZjBmLWJhZDgtN2ZmOWJiZWEwNGMxXkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BZGExM2MwNjUtNThkNi00ZjBmLWJhZDgtN2ZmOWJiZWEwNGMxXkEyXkFqcGc@._V1_SX250.jpg"
+    "poster": "https://image.tmdb.org/t/p/w500/sX9idXDqRUxE5ffww3n3RV5gL55.jpg",
+    "thumbnail": "https://image.tmdb.org/t/p/w500/sX9idXDqRUxE5ffww3n3RV5gL55.jpg",
+    "description": "Loosely based on the criminal career of Frank Lucas, a gangster from La Grange, North Carolina, who smuggled heroin into the United States on American service planes returning from the Vietnam War, before being detained by a task force led by Newark Detective Richie Roberts."
   },
   {
     "id": "8468f1bb42cfdac7cc52bf9176e82b19",
