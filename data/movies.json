@@ -7483,18 +7483,11 @@
     "languages": [
       "Tamil"
     ],
-    "imdbId": "tt4776998",
-    "name": "The Promise",
-    "year": "2017",
-    "poster": "https://images.metahub.space/poster/small/tt4776998/img",
-    "thumbnail": "https://images.metahub.space/poster/small/tt4776998/img",
-    "genres": [
-      "Action",
-      "Adventure",
-      "Drama"
-    ],
-    "description": "Set during the last days of the Ottoman Empire, The Promise follows a love triangle between Michael, a brilliant medical student, the beautiful and sophisticated Ana, and Chris - a renowned American journalist based in Paris.",
-    "imdbRating": "6.1"
+    "imdbId": "tt39052798",
+    "name": "Promise",
+    "year": 2026,
+    "poster": "https://m.media-amazon.com/images/M/MV5BNjI2YjYxNjQtMDk5My00YWU2LTkzNTQtODkyNTFkMjBiOGY0XkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BNjI2YjYxNjQtMDk5My00YWU2LTkzNTQtODkyNTFkMjBiOGY0XkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "d93e7f04e35dc441595909e577d4c308",
@@ -8029,8 +8022,9 @@
     "imdbId": "tt31049299",
     "name": "Animals",
     "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BZmY3MmZiZjctOTgyYy00OGIxLTkwMDUtNDU3MGNkMGI3YWJlXkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BZmY3MmZiZjctOTgyYy00OGIxLTkwMDUtNDU3MGNkMGI3YWJlXkEyXkFqcGc@._V1_SX250.jpg"
+    "poster": "https://image.tmdb.org/t/p/w500/iISM36voS1E8gX9BM0DVK0kgi3E.jpg",
+    "thumbnail": "https://image.tmdb.org/t/p/w500/iISM36voS1E8gX9BM0DVK0kgi3E.jpg",
+    "description": "When the son of an L.A. mayoral candidate is kidnapped, he and his wife have a few hours to come up with the ransom payment. With most of their money spent on his political campaign, they have to get their hands dirty and expose a side of their lives they never intended to see the light of day."
   },
   {
     "id": "633b3e4707982f2c011b6cca7cf812b5",
@@ -10326,16 +10320,9 @@
     ],
     "imdbId": "tt1670635",
     "name": "Eeram",
-    "year": "2009",
-    "poster": "https://images.metahub.space/poster/small/tt1670635/img",
-    "thumbnail": "https://images.metahub.space/poster/small/tt1670635/img",
-    "genres": [
-      "Crime",
-      "Mystery",
-      "Thriller"
-    ],
-    "description": "Vasu investigates the suicide of Ramya since he's not convinced that she killed herself. The main suspects are her husband and neighbors. As the death toll rises, Vasu deals with his own secret past.",
-    "imdbRating": "7.6"
+    "year": 2009,
+    "poster": "https://m.media-amazon.com/images/M/MV5BYTIxNmRjODctMDZlNS00Yzc4LWI4MjQtMmRhZDc3MGRmNDk2XkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BYTIxNmRjODctMDZlNS00Yzc4LWI4MjQtMmRhZDc3MGRmNDk2XkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "7d11b931844ca7ed76b8b6684502a885",
@@ -13450,7 +13437,12 @@
     "rawText": "Photographer (2026) Tamil HD + ESub - [1080p & 720p - AVC - (DD+5.1 - 640Kbps) - 6GB + Rips]",
     "languages": [
       "Tamil"
-    ]
+    ],
+    "imdbId": "tt43727339",
+    "name": "Photographer",
+    "year": 2026,
+    "poster": "https://m.media-amazon.com/images/M/MV5BN2UzMWExOWYtZjE2My00MDVkLWE5ZGUtY2JjYjc3MzdkNjI2XkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BN2UzMWExOWYtZjE2My00MDVkLWE5ZGUtY2JjYjc3MzdkNjI2XkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "fa0c602dffcdae7e5c32eda345f2b2c5",
@@ -18495,9 +18487,8 @@
     "imdbId": "tt11561116",
     "name": "The Whisper Man",
     "year": 2026,
-    "poster": "https://image.tmdb.org/t/p/w500/ndRs5lADYm0PeVjuOxaMcInY0o2.jpg",
-    "thumbnail": "https://image.tmdb.org/t/p/w500/ndRs5lADYm0PeVjuOxaMcInY0o2.jpg",
-    "description": "When his young son vanishes, a widower enlists help from his estranged father, a retired detective who put away the serial killer now linked to the case."
+    "poster": "https://m.media-amazon.com/images/M/MV5BOTI1YmY3YTQtYTg2Zi00OTZkLTk3NzQtNjcxNzIzMjk2ODZlXkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BOTI1YmY3YTQtYTg2Zi00OTZkLTk3NzQtNjcxNzIzMjk2ODZlXkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "ac7c0531077218f69041654a3101335c",
