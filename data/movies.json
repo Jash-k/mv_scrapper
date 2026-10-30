@@ -9598,8 +9598,8 @@
     "imdbId": "tt37535100",
     "name": "Bethlehem Kudumba Unit",
     "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BMTU5OWQ4YTgtZTZiMi00ZjE2LTk1MjgtYjcyNDZiODBjYTQ3XkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BMTU5OWQ4YTgtZTZiMi00ZjE2LTk1MjgtYjcyNDZiODBjYTQ3XkEyXkFqcGc@._V1_SX250.jpg"
+    "poster": "https://m.media-amazon.com/images/M/MV5BYzI3MDJiZmQtNDg3ZC00Y2MwLWE5ZDMtNGRiOTA5OTQzMjQ4XkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BYzI3MDJiZmQtNDg3ZC00Y2MwLWE5ZDMtNGRiOTA5OTQzMjQ4XkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "e13c88fd1a6e5e0bccf05c464c4d023c",
@@ -11103,7 +11103,17 @@
       "Malayalam",
       "Kannada",
       "Multi-Lang"
-    ]
+    ],
+    "imdbId": "tt33292655",
+    "name": "Oh, Hi!",
+    "year": "2025",
+    "poster": "https://images.metahub.space/poster/small/tt33292655/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt33292655/img",
+    "genres": [
+      "Comedy"
+    ],
+    "description": "Iris and Isaac's first romantic weekend getaway goes awry in a most unexpected way.",
+    "imdbRating": "6.1"
   },
   {
     "id": "9231a35edd80018f6d6f180b9683ff35",
@@ -11560,8 +11570,9 @@
     "imdbId": "tt0020613",
     "name": "The Younger Generation",
     "year": 1929,
-    "poster": "https://m.media-amazon.com/images/M/MV5BMTk3MDYyNjAxOF5BMl5BanBnXkFtZTgwNzEwODgwMzE@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BMTk3MDYyNjAxOF5BMl5BanBnXkFtZTgwNzEwODgwMzE@._V1_SX250.jpg"
+    "poster": "https://image.tmdb.org/t/p/w500/jjdA2gKcL8CQAGLvnvNqDw3B39T.jpg",
+    "thumbnail": "https://image.tmdb.org/t/p/w500/jjdA2gKcL8CQAGLvnvNqDw3B39T.jpg",
+    "description": "Soap-opera about a social-climbing Jewish man and his old-world parents who are heartbroken by his rejection of them. Young Morris Goldfish follows his immigrant father into business. His ruthless business practices cause him to become a big success, and he moves the family to Park Avenue. They go, but were happier back on the East Side. Morris is ashamed of this parents and his humble origins, but learns in the end that there is more to life than money."
   },
   {
     "id": "75d5e25b4bc38ee7bde6f202529b95ce",
