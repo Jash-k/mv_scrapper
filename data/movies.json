@@ -6151,7 +6151,19 @@
       "Malayalam",
       "Kannada",
       "Multi-Lang"
-    ]
+    ],
+    "imdbId": "tt34794166",
+    "name": "Nishaanchi",
+    "year": "2025",
+    "poster": "https://images.metahub.space/poster/small/tt34794166/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt34794166/img",
+    "genres": [
+      "Action",
+      "Crime",
+      "Drama"
+    ],
+    "description": "Twin brothers, identical looks but different values, face brotherhood, betrayal, love, and redemption. Their paths weave through crime into a deeper story of human nature and its results.",
+    "imdbRating": "6.7"
   },
   {
     "id": "755b690b0da8aa8e33101e059731bb03",
@@ -7117,12 +7129,7 @@
     "rawText": "Tenzing (2026) English HD + ESub - [1080p & 720p - AVC - (DD+5.1 - ATMOS 768Kbps) - 2.5GB + Rips]",
     "languages": [
       "Tamil"
-    ],
-    "imdbId": "tt6262770",
-    "name": "Tenzing",
-    "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BZWY5NzQxOWQtZmFjYS00YmQ1LTk4NDktNDliMGZmYzM3ZmM1XkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BZWY5NzQxOWQtZmFjYS00YmQ1LTk4NDktNDliMGZmYzM3ZmM1XkEyXkFqcGc@._V1_SX250.jpg"
+    ]
   },
   {
     "id": "bdab2f5a8fdd18f578e149326d012cd6",
@@ -11034,12 +11041,7 @@
     "rawText": "Pooja Meri Jaan (2026) Hindi HD + ESub - [1080p & 720p - AVC - (DD+5.1 ATMOS - 448Kbps) - 1.7GB + Rips] - [W]",
     "languages": [
       "Hindi"
-    ],
-    "imdbId": "tt21378820",
-    "name": "Pooja Meri Jaan",
-    "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BYWExY2JhYWItM2NlZS00ZjBkLWFkOTEtN2NiMTc5YjU0NzI3XkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BYWExY2JhYWItM2NlZS00ZjBkLWFkOTEtN2NiMTc5YjU0NzI3XkEyXkFqcGc@._V1_SX250.jpg"
+    ]
   },
   {
     "id": "2134ef82fa406599934527b976be3ad5",
@@ -11097,12 +11099,7 @@
       "Telugu",
       "Hindi",
       "Multi-Lang"
-    ],
-    "imdbId": "tt32222964",
-    "name": "The Indian Story",
-    "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BYzFkOTk1OWUtNDFjMi00ZDIzLWI3M2UtZWRmNmM1ZWNmMGM5XkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BYzFkOTk1OWUtNDFjMi00ZDIzLWI3M2UtZWRmNmM1ZWNmMGM5XkEyXkFqcGc@._V1_SX250.jpg"
+    ]
   },
   {
     "id": "00a9577e57f255c926488fc8aef41b2a",
@@ -11558,8 +11555,9 @@
     "imdbId": "tt3182644",
     "name": "Moodar Koodam",
     "year": 2013,
-    "poster": "https://m.media-amazon.com/images/M/MV5BYThkZjRiOGQtZTg4Ny00NWNlLThhZDAtOWFmZGQ2ZTUzYTNjXkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BYThkZjRiOGQtZTg4Ny00NWNlLThhZDAtOWFmZGQ2ZTUzYTNjXkEyXkFqcGc@._V1_SX250.jpg"
+    "poster": "https://image.tmdb.org/t/p/w500/62OCurCtXlOX8oPL6WFi3N1LEBu.jpg",
+    "thumbnail": "https://image.tmdb.org/t/p/w500/62OCurCtXlOX8oPL6WFi3N1LEBu.jpg",
+    "description": "Four nobodies brought together by a quirk of fate decide to rob the house of a rich man. But things turn crazy when they arrive at his doorstep and find that the man is actually bankrupt."
   },
   {
     "id": "bf81c8e94b9abafa49d11fc411a98c2b",
@@ -14563,12 +14561,7 @@
       "Telugu",
       "Hindi",
       "Multi-Lang"
-    ],
-    "imdbId": "tt39667834",
-    "name": "Lust Stories 3",
-    "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BZDZkNjJjY2YtMjZmYy00MDllLTgxZjItMjc4YjMxODMwZDMzXkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BZDZkNjJjY2YtMjZmYy00MDllLTgxZjItMjc4YjMxODMwZDMzXkEyXkFqcGc@._V1_SX250.jpg"
+    ]
   },
   {
     "id": "bc422afb2c983d69b6212fb7518dad54",
@@ -15138,8 +15131,9 @@
     "imdbId": "tt35668756",
     "name": "Kattalan",
     "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BZTFjYzIxNDUtMGJjNy00OTdmLWExNGUtM2FkNzhlYmUzYzk0XkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BZTFjYzIxNDUtMGJjNy00OTdmLWExNGUtM2FkNzhlYmUzYzk0XkEyXkFqcGc@._V1_SX250.jpg"
+    "poster": "https://image.tmdb.org/t/p/w500/53FATyQirV8BuBcrsQMGPvGKgCu.jpg",
+    "thumbnail": "https://image.tmdb.org/t/p/w500/53FATyQirV8BuBcrsQMGPvGKgCu.jpg",
+    "description": "Power-hungry forces clash in the Ivory cartel war-a fierce story of control, vengeance, and survival where compassion vanishes and only the ruthless endure."
   },
   {
     "id": "758bee937eee394dbbe442270e64de2e",
@@ -15288,8 +15282,9 @@
     "imdbId": "tt42804953",
     "name": "Mruthyudevate",
     "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BNzcxMmU0N2QtZGY0MS00OGQ2LWFlYzktODk4NmI1MjdmZmQwXkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BNzcxMmU0N2QtZGY0MS00OGQ2LWFlYzktODk4NmI1MjdmZmQwXkEyXkFqcGc@._V1_SX250.jpg"
+    "poster": "https://image.tmdb.org/t/p/w500/ghAIayJDjP60IRUahaVfNFNNRGD.jpg",
+    "thumbnail": "https://image.tmdb.org/t/p/w500/ghAIayJDjP60IRUahaVfNFNNRGD.jpg",
+    "description": "According to Hindu mythology, the God of Death is Lord Dharmaraya, the one who delivers justice and punishment for a person's deeds after their lifetime ends. But the \"Goddess of Death\" in this film is not about fate or the end of life."
   },
   {
     "id": "bb54fa277163cef97c4697662fb6cd84",
@@ -15357,12 +15352,7 @@
     "rawText": "Hushar Pittalu (2026) Telugu HD + ESub - [1080p & 720p - AVC - (DD+5.1 - 640Kbps) - 5.5GB + Rips]",
     "languages": [
       "Telugu"
-    ],
-    "imdbId": "tt43737953",
-    "name": "Hushar Pittalu",
-    "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BOTliZjJlYTItMjBlMi00NDNmLWJjNDctY2EyNWJiOTk4MzVkXkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BOTliZjJlYTItMjBlMi00NDNmLWJjNDctY2EyNWJiOTk4MzVkXkEyXkFqcGc@._V1_SX250.jpg"
+    ]
   },
   {
     "id": "31ef252c299b2ff66e6f5376db509626",
@@ -15628,11 +15618,12 @@
       "Kannada",
       "Multi-Lang"
     ],
-    "imdbId": "tt37563829",
+    "imdbId": "tt0254539",
     "name": "Magudam",
     "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BODNjNzgwNjMtYzJiMy00ODI3LTg3NGQtZWQzNWEyZjA3YjhhXkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BODNjNzgwNjMtYzJiMy00ODI3LTg3NGQtZWQzNWEyZjA3YjhhXkEyXkFqcGc@._V1_SX250.jpg"
+    "poster": "https://images.metahub.space/poster/small/tt0254539/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt0254539/img",
+    "description": "Muthuvel falls in love with a medical student, Thilakavathi, even though he thinks that she is a ghost at first. He fights for their love and encourages Thilakavathi to pursue her career."
   },
   {
     "id": "7bfcbdd9514e4e74f8ca55255012541c",
@@ -15709,8 +15700,9 @@
     "imdbId": "tt0325805",
     "name": "Matchstick Men",
     "year": 2003,
-    "poster": "https://m.media-amazon.com/images/M/MV5BMjA3NjMyNjIyMF5BMl5BanBnXkFtZTYwOTgzMDI3._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BMjA3NjMyNjIyMF5BMl5BanBnXkFtZTYwOTgzMDI3._V1_SX250.jpg"
+    "poster": "https://image.tmdb.org/t/p/w500/cIWQzIoWOvx0piZM0UpiHMhzHWW.jpg",
+    "thumbnail": "https://image.tmdb.org/t/p/w500/cIWQzIoWOvx0piZM0UpiHMhzHWW.jpg",
+    "description": "A phobic con artist and his protege are on the verge of pulling off a lucrative swindle when the con artist's teenage daughter arrives unexpectedly."
   },
   {
     "id": "f3fb46e73174783e272f83347bb63ec5",
@@ -20143,8 +20135,9 @@
     "imdbId": "tt33702400",
     "name": "Harudu",
     "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BOTAxM2VjODctNTI0My00Y2I2LWJlNzYtZTU5ZDI0NjYxYWRhXkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BOTAxM2VjODctNTI0My00Y2I2LWJlNzYtZTU5ZDI0NjYxYWRhXkEyXkFqcGc@._V1_SX250.jpg"
+    "poster": "https://image.tmdb.org/t/p/w500/2C9VFBSIGDcATC96MxHo2P60esl.jpg",
+    "thumbnail": "https://image.tmdb.org/t/p/w500/2C9VFBSIGDcATC96MxHo2P60esl.jpg",
+    "description": "A thrilling and intense story. A righteous protagonist (DCP Shankar), a cruel antagonist (Varadharaj), a group of unsuspecting thieves who get entangled in a murder case, and the complex web of corruption, revenge, and justice."
   },
   {
     "id": "e8063a626eb489811ca99e2d616ad891",
@@ -20628,8 +20621,9 @@
     "imdbId": "tt26445387",
     "name": "I, Nobody",
     "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BMWIxMjk3MmItOTRlZC00NWRhLTllNWItYzU2OGI4ZmZjOTUzXkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BMWIxMjk3MmItOTRlZC00NWRhLTllNWItYzU2OGI4ZmZjOTUzXkEyXkFqcGc@._V1_SX250.jpg"
+    "poster": "https://image.tmdb.org/t/p/w500/qFJl3w9KpVXpfZ3rpmv7p0UYZkP.jpg",
+    "thumbnail": "https://image.tmdb.org/t/p/w500/qFJl3w9KpVXpfZ3rpmv7p0UYZkP.jpg",
+    "description": "Rajeevan, an ordinary government employee, witnesses something he was never meant to see and is thrust into the centre of a serious crime. Branded a troublemaker and hunted by the system, he must protect his family while fighting to survive against forces far beyond his control."
   },
   {
     "id": "a868f6ba97cf0fef6b61db27b46b273a",
@@ -21557,9 +21551,14 @@
     ],
     "imdbId": "tt4794022",
     "name": "Udanchhoo",
-    "year": 2018,
-    "poster": "https://m.media-amazon.com/images/M/MV5BNjhlMDQ5NGItNjUwMy00OTNmLWI0YzAtOTVjMTQ1YWY2ODJhXkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BNjhlMDQ5NGItNjUwMy00OTNmLWI0YzAtOTVjMTQ1YWY2ODJhXkEyXkFqcGc@._V1_SX250.jpg"
+    "year": "2018",
+    "poster": "https://images.metahub.space/poster/small/tt4794022/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt4794022/img",
+    "genres": [
+      "Comedy"
+    ],
+    "description": "Guru G is running a black money operation through his ashram with help from his trusted devotee Billu and Julia. The film goes on to show how all the characters get involved in a huge con mystery resulting in a funny and dramatic ...",
+    "imdbRating": "3.7"
   },
   {
     "id": "02dc80a8d875815d406d19cc96035ab4",
@@ -21649,9 +21648,15 @@
     ],
     "imdbId": "tt8365426",
     "name": "Kill Mode",
-    "year": 2020,
-    "poster": "https://m.media-amazon.com/images/M/MV5BZGEzZTMzZmUtZjEwNS00YjlhLTgzNzItZDU2NTlmZjVhOTdkXkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BZGEzZTMzZmUtZjEwNS00YjlhLTgzNzItZDU2NTlmZjVhOTdkXkEyXkFqcGc@._V1_SX250.jpg"
+    "year": "2020",
+    "poster": "https://images.metahub.space/poster/small/tt8365426/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt8365426/img",
+    "genres": [
+      "Action",
+      "Sci-Fi"
+    ],
+    "description": "In a gritty near future, an ex-freedom fighter reluctantly jumps back into the fold after discovering a disturbing secret that could bring down the company that owns the world.",
+    "imdbRating": "3.0"
   },
   {
     "id": "8dad618354ba1d7a50464fe8cd5fd68e",
@@ -23074,11 +23079,12 @@
       "Hindi",
       "Multi-Lang"
     ],
-    "imdbId": "tt12144176",
+    "imdbId": "tt36454145",
     "name": "To the Max",
     "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BZjgxNDQzNzEtNzIzMy00NjE3LWI4YjktOWYzYmI2ZGQ1Yjk1XkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BZjgxNDQzNzEtNzIzMy00NjE3LWI4YjktOWYzYmI2ZGQ1Yjk1XkEyXkFqcGc@._V1_SX250.jpg"
+    "poster": "https://image.tmdb.org/t/p/w500/7KtjwHzp2EB5N63bZtxVb2gImjf.jpg",
+    "thumbnail": "https://image.tmdb.org/t/p/w500/7KtjwHzp2EB5N63bZtxVb2gImjf.jpg",
+    "description": "A group of friends bonded by their love for extreme sports discovers BASE jumping in wingsuits — but feeling like flying carries the highest risks."
   },
   {
     "id": "817160c860a260baaedd05f8d2a2282d",
