@@ -5926,7 +5926,19 @@
       "Malayalam",
       "Kannada",
       "Multi-Lang"
-    ]
+    ],
+    "imdbId": "tt34794166",
+    "name": "Nishaanchi",
+    "year": "2025",
+    "poster": "https://images.metahub.space/poster/small/tt34794166/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt34794166/img",
+    "genres": [
+      "Action",
+      "Crime",
+      "Drama"
+    ],
+    "description": "Twin brothers, identical looks but different values, face brotherhood, betrayal, love, and redemption. Their paths weave through crime into a deeper story of human nature and its results.",
+    "imdbRating": "6.7"
   },
   {
     "id": "755b690b0da8aa8e33101e059731bb03",
@@ -10948,11 +10960,18 @@
       "Hindi",
       "Multi-Lang"
     ],
-    "imdbId": "tt38682795",
-    "name": "Ip Man: Kung Fu Legend",
-    "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BYzAzMTk4YjQtMzc2OC00MWJlLTkxOWMtYzgxMDFiM2Q2MjU5XkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BYzAzMTk4YjQtMzc2OC00MWJlLTkxOWMtYzgxMDFiM2Q2MjU5XkEyXkFqcGc@._V1_SX250.jpg"
+    "imdbId": "tt1220719",
+    "name": "Ip Man",
+    "year": "2025",
+    "poster": "https://images.metahub.space/poster/small/tt1220719/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt1220719/img",
+    "genres": [
+      "Action",
+      "Biography",
+      "Drama"
+    ],
+    "description": "During the Japanese invasion of China, a wealthy martial artist is forced to leave his home when his city is occupied. With little means of providing for themselves, Ip Man and the remaining members of the city must find a way to ...",
+    "imdbRating": "8.0"
   },
   {
     "id": "2de105be5ed1a21d486933736f50375c",
@@ -11048,8 +11067,9 @@
     "imdbId": "tt43635242",
     "name": "Ameer Log",
     "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BNDMyODIxMTYtMzQ4YS00OThkLTljM2EtZWNkN2I0NWI4OTI5XkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BNDMyODIxMTYtMzQ4YS00OThkLTljM2EtZWNkN2I0NWI4OTI5XkEyXkFqcGc@._V1_SX250.jpg"
+    "poster": "https://image.tmdb.org/t/p/w500/3GeLO1YuFbXklGouyTXx9VzxRl6.jpg",
+    "thumbnail": "https://image.tmdb.org/t/p/w500/3GeLO1YuFbXklGouyTXx9VzxRl6.jpg",
+    "description": "Three carefree friends from a bustling Hyderabad basti spend their days wandering narrow lanes, sharing plates of biryani, and dreaming of a better life. When an old cook's secret recipe brings unexpected success their way, they must choose between fleeting fame and the enduring value of friendship, memories, and the taste of home."
   },
   {
     "id": "3fd13e02362d951a2950672d76002dd1",
@@ -11326,8 +11346,9 @@
     "imdbId": "tt3182644",
     "name": "Moodar Koodam",
     "year": 2013,
-    "poster": "https://m.media-amazon.com/images/M/MV5BYThkZjRiOGQtZTg4Ny00NWNlLThhZDAtOWFmZGQ2ZTUzYTNjXkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BYThkZjRiOGQtZTg4Ny00NWNlLThhZDAtOWFmZGQ2ZTUzYTNjXkEyXkFqcGc@._V1_SX250.jpg"
+    "poster": "https://image.tmdb.org/t/p/w500/62OCurCtXlOX8oPL6WFi3N1LEBu.jpg",
+    "thumbnail": "https://image.tmdb.org/t/p/w500/62OCurCtXlOX8oPL6WFi3N1LEBu.jpg",
+    "description": "Four nobodies brought together by a quirk of fate decide to rob the house of a rich man. But things turn crazy when they arrive at his doorstep and find that the man is actually bankrupt."
   },
   {
     "id": "bf81c8e94b9abafa49d11fc411a98c2b",
@@ -14136,7 +14157,12 @@
       "Kannada",
       "Hindi",
       "Multi-Lang"
-    ]
+    ],
+    "imdbId": "tt37510017",
+    "name": "Thudakkam",
+    "year": 2026,
+    "poster": "https://m.media-amazon.com/images/M/MV5BZjM5NGFiNzctOWFlOS00N2ZkLThhNmEtNDNiYWUyMGZhODFhXkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BZjM5NGFiNzctOWFlOS00N2ZkLThhNmEtNDNiYWUyMGZhODFhXkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "9938e5f7e5fcfc8413737cbc75f939b2",
@@ -14743,7 +14769,12 @@
     "rawText": "Heer Sara (2026) Hindi HD + ESub - [1080p & 720p - AVC - (DD+5.1 - 640Kbps) - 2.2GB + Rips]",
     "languages": [
       "Hindi"
-    ]
+    ],
+    "imdbId": "tt40744412",
+    "name": "Heer Sara",
+    "year": 2026,
+    "poster": "https://m.media-amazon.com/images/M/MV5BYWIwYjI1ZDgtMDM2Yi00ODI0LWI1MmUtYzQ4NDA4YTE3Yjk2XkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BYWIwYjI1ZDgtMDM2Yi00ODI0LWI1MmUtYzQ4NDA4YTE3Yjk2XkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "8beb0f8e7744dbc33483c3e509bd935e",
@@ -14930,8 +14961,9 @@
     "imdbId": "tt35668756",
     "name": "Kattalan",
     "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BZTFjYzIxNDUtMGJjNy00OTdmLWExNGUtM2FkNzhlYmUzYzk0XkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BZTFjYzIxNDUtMGJjNy00OTdmLWExNGUtM2FkNzhlYmUzYzk0XkEyXkFqcGc@._V1_SX250.jpg"
+    "poster": "https://image.tmdb.org/t/p/w500/53FATyQirV8BuBcrsQMGPvGKgCu.jpg",
+    "thumbnail": "https://image.tmdb.org/t/p/w500/53FATyQirV8BuBcrsQMGPvGKgCu.jpg",
+    "description": "Power-hungry forces clash in the Ivory cartel war-a fierce story of control, vengeance, and survival where compassion vanishes and only the ruthless endure."
   },
   {
     "id": "758bee937eee394dbbe442270e64de2e",
@@ -15080,8 +15112,9 @@
     "imdbId": "tt42804953",
     "name": "Mruthyudevate",
     "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BNzcxMmU0N2QtZGY0MS00OGQ2LWFlYzktODk4NmI1MjdmZmQwXkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BNzcxMmU0N2QtZGY0MS00OGQ2LWFlYzktODk4NmI1MjdmZmQwXkEyXkFqcGc@._V1_SX250.jpg"
+    "poster": "https://image.tmdb.org/t/p/w500/ghAIayJDjP60IRUahaVfNFNNRGD.jpg",
+    "thumbnail": "https://image.tmdb.org/t/p/w500/ghAIayJDjP60IRUahaVfNFNNRGD.jpg",
+    "description": "According to Hindu mythology, the God of Death is Lord Dharmaraya, the one who delivers justice and punishment for a person's deeds after their lifetime ends. But the \"Goddess of Death\" in this film is not about fate or the end of life."
   },
   {
     "id": "bb54fa277163cef97c4697662fb6cd84",
@@ -15149,12 +15182,7 @@
     "rawText": "Hushar Pittalu (2026) Telugu HD + ESub - [1080p & 720p - AVC - (DD+5.1 - 640Kbps) - 5.5GB + Rips]",
     "languages": [
       "Telugu"
-    ],
-    "imdbId": "tt43737953",
-    "name": "Hushar Pittalu",
-    "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BOTliZjJlYTItMjBlMi00NDNmLWJjNDctY2EyNWJiOTk4MzVkXkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BOTliZjJlYTItMjBlMi00NDNmLWJjNDctY2EyNWJiOTk4MzVkXkEyXkFqcGc@._V1_SX250.jpg"
+    ]
   },
   {
     "id": "31ef252c299b2ff66e6f5376db509626",
@@ -15420,11 +15448,12 @@
       "Kannada",
       "Multi-Lang"
     ],
-    "imdbId": "tt37563829",
+    "imdbId": "tt0254539",
     "name": "Magudam",
     "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BODNjNzgwNjMtYzJiMy00ODI3LTg3NGQtZWQzNWEyZjA3YjhhXkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BODNjNzgwNjMtYzJiMy00ODI3LTg3NGQtZWQzNWEyZjA3YjhhXkEyXkFqcGc@._V1_SX250.jpg"
+    "poster": "https://images.metahub.space/poster/small/tt0254539/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt0254539/img",
+    "description": "Muthuvel falls in love with a medical student, Thilakavathi, even though he thinks that she is a ghost at first. He fights for their love and encourages Thilakavathi to pursue her career."
   },
   {
     "id": "7bfcbdd9514e4e74f8ca55255012541c",
@@ -15501,8 +15530,9 @@
     "imdbId": "tt0325805",
     "name": "Matchstick Men",
     "year": 2003,
-    "poster": "https://m.media-amazon.com/images/M/MV5BMjA3NjMyNjIyMF5BMl5BanBnXkFtZTYwOTgzMDI3._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BMjA3NjMyNjIyMF5BMl5BanBnXkFtZTYwOTgzMDI3._V1_SX250.jpg"
+    "poster": "https://image.tmdb.org/t/p/w500/cIWQzIoWOvx0piZM0UpiHMhzHWW.jpg",
+    "thumbnail": "https://image.tmdb.org/t/p/w500/cIWQzIoWOvx0piZM0UpiHMhzHWW.jpg",
+    "description": "A phobic con artist and his protege are on the verge of pulling off a lucrative swindle when the con artist's teenage daughter arrives unexpectedly."
   },
   {
     "id": "f3fb46e73174783e272f83347bb63ec5",
@@ -16674,9 +16704,8 @@
     "imdbId": "tt37501035",
     "name": "DC",
     "year": 2026,
-    "poster": "https://image.tmdb.org/t/p/w500/grRYMAxmfk9VHXY30gm6vfiwyoN.jpg",
-    "thumbnail": "https://image.tmdb.org/t/p/w500/grRYMAxmfk9VHXY30gm6vfiwyoN.jpg",
-    "description": "From avenging his mother’s murder to battling police corruption, Das becomes a fugitive after a deadly heist. Amid a trail of bloodshed and loss, he frees Chandra from a life of exploitation, and she gives him a reason to seek a life beyond violence."
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTc0MDYyNmYtZDJkNi00YzllLWJlNTctZDU3NTY1MzRhMWEzXkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BMTc0MDYyNmYtZDJkNi00YzllLWJlNTctZDU3NTY1MzRhMWEzXkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "c757af58a30b9790a46a4f6f65bc69bd",
@@ -19936,8 +19965,9 @@
     "imdbId": "tt33702400",
     "name": "Harudu",
     "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BOTAxM2VjODctNTI0My00Y2I2LWJlNzYtZTU5ZDI0NjYxYWRhXkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BOTAxM2VjODctNTI0My00Y2I2LWJlNzYtZTU5ZDI0NjYxYWRhXkEyXkFqcGc@._V1_SX250.jpg"
+    "poster": "https://image.tmdb.org/t/p/w500/2C9VFBSIGDcATC96MxHo2P60esl.jpg",
+    "thumbnail": "https://image.tmdb.org/t/p/w500/2C9VFBSIGDcATC96MxHo2P60esl.jpg",
+    "description": "A thrilling and intense story. A righteous protagonist (DCP Shankar), a cruel antagonist (Varadharaj), a group of unsuspecting thieves who get entangled in a murder case, and the complex web of corruption, revenge, and justice."
   },
   {
     "id": "e8063a626eb489811ca99e2d616ad891",
@@ -20421,8 +20451,9 @@
     "imdbId": "tt26445387",
     "name": "I, Nobody",
     "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BMWIxMjk3MmItOTRlZC00NWRhLTllNWItYzU2OGI4ZmZjOTUzXkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BMWIxMjk3MmItOTRlZC00NWRhLTllNWItYzU2OGI4ZmZjOTUzXkEyXkFqcGc@._V1_SX250.jpg"
+    "poster": "https://image.tmdb.org/t/p/w500/qFJl3w9KpVXpfZ3rpmv7p0UYZkP.jpg",
+    "thumbnail": "https://image.tmdb.org/t/p/w500/qFJl3w9KpVXpfZ3rpmv7p0UYZkP.jpg",
+    "description": "Rajeevan, an ordinary government employee, witnesses something he was never meant to see and is thrust into the centre of a serious crime. Branded a troublemaker and hunted by the system, he must protect his family while fighting to survive against forces far beyond his control."
   },
   {
     "id": "a868f6ba97cf0fef6b61db27b46b273a",
@@ -21347,12 +21378,7 @@
       "Tamil",
       "Hindi",
       "Multi-Lang"
-    ],
-    "imdbId": "tt4794022",
-    "name": "Udanchhoo",
-    "year": 2018,
-    "poster": "https://m.media-amazon.com/images/M/MV5BNjhlMDQ5NGItNjUwMy00OTNmLWI0YzAtOTVjMTQ1YWY2ODJhXkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BNjhlMDQ5NGItNjUwMy00OTNmLWI0YzAtOTVjMTQ1YWY2ODJhXkEyXkFqcGc@._V1_SX250.jpg"
+    ]
   },
   {
     "id": "02dc80a8d875815d406d19cc96035ab4",
@@ -21439,12 +21465,7 @@
       "Tamil",
       "Hindi",
       "Multi-Lang"
-    ],
-    "imdbId": "tt8365426",
-    "name": "Kill Mode",
-    "year": 2020,
-    "poster": "https://m.media-amazon.com/images/M/MV5BZGEzZTMzZmUtZjEwNS00YjlhLTgzNzItZDU2NTlmZjVhOTdkXkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BZGEzZTMzZmUtZjEwNS00YjlhLTgzNzItZDU2NTlmZjVhOTdkXkEyXkFqcGc@._V1_SX250.jpg"
+    ]
   },
   {
     "id": "8dad618354ba1d7a50464fe8cd5fd68e",
@@ -21603,13 +21624,7 @@
     "rawText": "Lenin (2026) Hindi HD + ESub - [1080p & 720p - AVC / HEVC - (DD+5.1 - 640Kbps) - 3.2GB + Rips]",
     "languages": [
       "Hindi"
-    ],
-    "imdbId": "tt5256640",
-    "name": "Lenin",
-    "year": "2017",
-    "poster": "https://images.metahub.space/poster/small/tt5256640/img",
-    "thumbnail": "https://images.metahub.space/poster/small/tt5256640/img",
-    "genres": []
+    ]
   },
   {
     "id": "68aed7f241b44bdcc1cfca6a6ce1fb99",
@@ -22924,11 +22939,12 @@
       "Hindi",
       "Multi-Lang"
     ],
-    "imdbId": "tt12144176",
+    "imdbId": "tt36454145",
     "name": "To the Max",
     "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BZjgxNDQzNzEtNzIzMy00NjE3LWI4YjktOWYzYmI2ZGQ1Yjk1XkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BZjgxNDQzNzEtNzIzMy00NjE3LWI4YjktOWYzYmI2ZGQ1Yjk1XkEyXkFqcGc@._V1_SX250.jpg"
+    "poster": "https://image.tmdb.org/t/p/w500/7KtjwHzp2EB5N63bZtxVb2gImjf.jpg",
+    "thumbnail": "https://image.tmdb.org/t/p/w500/7KtjwHzp2EB5N63bZtxVb2gImjf.jpg",
+    "description": "A group of friends bonded by their love for extreme sports discovers BASE jumping in wingsuits — but feeling like flying carries the highest risks."
   },
   {
     "id": "817160c860a260baaedd05f8d2a2282d",
