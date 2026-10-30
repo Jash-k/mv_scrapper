@@ -65,12 +65,7 @@
     "rawText": "The Dark Heaven (2026) Tamil UHD + ESub - [4K, 1080p & 720p - AVC / HEVC - (DD+5.1 - 640Kbps) - 15GB + Rips]",
     "languages": [
       "Tamil"
-    ],
-    "imdbId": "tt45370533",
-    "name": "The Dark Heaven",
-    "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BOTUxODAxMGUtMDQwMy00ZDE1LWE2ZTEtODIwYmU1N2EyNjM0XkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BOTUxODAxMGUtMDQwMy00ZDE1LWE2ZTEtODIwYmU1N2EyNjM0XkEyXkFqcGc@._V1_SX250.jpg"
+    ]
   },
   {
     "id": "47e2412c4e1eaa6c4ea5f65d7c87814c",
@@ -5680,7 +5675,12 @@
       "Tamil",
       "Telugu",
       "Multi-Lang"
-    ]
+    ],
+    "imdbId": "tt42602688",
+    "name": "Naa Wife Missing",
+    "year": 2026,
+    "poster": "https://m.media-amazon.com/images/M/MV5BNmUzMzBmMGItOTdkOC00Mzc3LThhYmMtMmJlZjg0NTk3YmNhXkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BNmUzMzBmMGItOTdkOC00Mzc3LThhYmMtMmJlZjg0NTk3YmNhXkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "0cd851d67647c36dd67ef93c1b076219",
@@ -7127,11 +7127,18 @@
       "Hindi",
       "Multi-Lang"
     ],
-    "imdbId": "tt1471247",
-    "name": "Road to Sangam",
-    "year": 2009,
-    "poster": "https://m.media-amazon.com/images/M/MV5BMDllZTRmNWMtZmJjOS00NGE5LWE2YzEtYWE1Zjg4YWNiMjMwXkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BMDllZTRmNWMtZmJjOS00NGE5LWE2YzEtYWE1Zjg4YWNiMjMwXkEyXkFqcGc@._V1_SX250.jpg"
+    "imdbId": "tt1253859",
+    "name": "Road to Hell",
+    "year": "2008",
+    "poster": "https://images.metahub.space/poster/small/tt1253859/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt1253859/img",
+    "genres": [
+      "Action",
+      "Fantasy",
+      "Musical"
+    ],
+    "description": "A soldier who has been fighting a long war is driven mad because he no longer believes in any purpose or righteous truth behind the killing. He comes home to a surreal world looking for his first and only love from his youth, beli...",
+    "imdbRating": "5.2"
   },
   {
     "id": "1e49bfd9e3a59f3ab735ebf8812de407",
@@ -13399,12 +13406,7 @@
     "rawText": "Baby Do Die Do (2026) Hindi HD + ESub - [1080p & 720p - AVC - (DD+5.1 ATMOS - 768Kbps) - 4.9GB + Rips]",
     "languages": [
       "Hindi"
-    ],
-    "imdbId": "tt37544992",
-    "name": "Baby Do Die Do",
-    "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BNjQwMDg0NzctMTA4Zi00YzJhLTlmYTQtYmQ2MDI3YTM5NTg0XkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BNjQwMDg0NzctMTA4Zi00YzJhLTlmYTQtYmQ2MDI3YTM5NTg0XkEyXkFqcGc@._V1_SX250.jpg"
+    ]
   },
   {
     "id": "a2b3f22c9965cac40129beede4426822",
@@ -14677,7 +14679,12 @@
     "rawText": "Heer Sara (2026) Hindi HD + ESub - [1080p & 720p - AVC - (DD+5.1 - 640Kbps) - 2.2GB + Rips]",
     "languages": [
       "Hindi"
-    ]
+    ],
+    "imdbId": "tt40744412",
+    "name": "Heer Sara",
+    "year": 2026,
+    "poster": "https://m.media-amazon.com/images/M/MV5BYWIwYjI1ZDgtMDM2Yi00ODI0LWI1MmUtYzQ4NDA4YTE3Yjk2XkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BYWIwYjI1ZDgtMDM2Yi00ODI0LWI1MmUtYzQ4NDA4YTE3Yjk2XkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "8beb0f8e7744dbc33483c3e509bd935e",
@@ -16620,9 +16627,8 @@
     "imdbId": "tt37501035",
     "name": "DC",
     "year": 2026,
-    "poster": "https://image.tmdb.org/t/p/w500/grRYMAxmfk9VHXY30gm6vfiwyoN.jpg",
-    "thumbnail": "https://image.tmdb.org/t/p/w500/grRYMAxmfk9VHXY30gm6vfiwyoN.jpg",
-    "description": "From avenging his mother’s murder to battling police corruption, Das becomes a fugitive after a deadly heist. Amid a trail of bloodshed and loss, he frees Chandra from a life of exploitation, and she gives him a reason to seek a life beyond violence."
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTc0MDYyNmYtZDJkNi00YzllLWJlNTctZDU3NTY1MzRhMWEzXkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BMTc0MDYyNmYtZDJkNi00YzllLWJlNTctZDU3NTY1MzRhMWEzXkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "c757af58a30b9790a46a4f6f65bc69bd",
