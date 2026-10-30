@@ -7156,18 +7156,11 @@
       "Hindi",
       "Multi-Lang"
     ],
-    "imdbId": "tt1253859",
-    "name": "Road to Hell",
-    "year": "2008",
-    "poster": "https://images.metahub.space/poster/small/tt1253859/img",
-    "thumbnail": "https://images.metahub.space/poster/small/tt1253859/img",
-    "genres": [
-      "Action",
-      "Fantasy",
-      "Musical"
-    ],
-    "description": "A soldier who has been fighting a long war is driven mad because he no longer believes in any purpose or righteous truth behind the killing. He comes home to a surreal world looking for his first and only love from his youth, beli...",
-    "imdbRating": "5.2"
+    "imdbId": "tt1471247",
+    "name": "Road to Sangam",
+    "year": 2009,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMDllZTRmNWMtZmJjOS00NGE5LWE2YzEtYWE1Zjg4YWNiMjMwXkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BMDllZTRmNWMtZmJjOS00NGE5LWE2YzEtYWE1Zjg4YWNiMjMwXkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "1e49bfd9e3a59f3ab735ebf8812de407",
@@ -13767,12 +13760,7 @@
       "Telugu",
       "Hindi",
       "Multi-Lang"
-    ],
-    "imdbId": "tt0025366",
-    "name": "Lady by Choice",
-    "year": 1934,
-    "poster": "https://m.media-amazon.com/images/M/MV5BYzlhY2YyMzMtNGZhZS00ZGMwLTg2NTEtNmUwOWYwNWI4NmY1XkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BYzlhY2YyMzMtNGZhZS00ZGMwLTg2NTEtNmUwOWYwNWI4NmY1XkEyXkFqcGc@._V1_SX250.jpg"
+    ]
   },
   {
     "id": "00cc81ac43e7d164fee4e4eab9ea8db1",
@@ -14718,7 +14706,12 @@
     "rawText": "Heer Sara (2026) Hindi HD + ESub - [1080p & 720p - AVC - (DD+5.1 - 640Kbps) - 2.2GB + Rips]",
     "languages": [
       "Hindi"
-    ]
+    ],
+    "imdbId": "tt40744412",
+    "name": "Heer Sara",
+    "year": 2026,
+    "poster": "https://m.media-amazon.com/images/M/MV5BYWIwYjI1ZDgtMDM2Yi00ODI0LWI1MmUtYzQ4NDA4YTE3Yjk2XkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BYWIwYjI1ZDgtMDM2Yi00ODI0LWI1MmUtYzQ4NDA4YTE3Yjk2XkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "8beb0f8e7744dbc33483c3e509bd935e",
