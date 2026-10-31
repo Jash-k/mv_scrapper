@@ -188,11 +188,18 @@
     "languages": [
       "Tamil"
     ],
-    "imdbId": "tt45370533",
-    "name": "The Dark Heaven",
-    "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BOTUxODAxMGUtMDQwMy00ZDE1LWE2ZTEtODIwYmU1N2EyNjM0XkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BOTUxODAxMGUtMDQwMy00ZDE1LWE2ZTEtODIwYmU1N2EyNjM0XkEyXkFqcGc@._V1_SX250.jpg"
+    "imdbId": "tt0391044",
+    "name": "Dark Heaven",
+    "year": "2002",
+    "poster": "https://images.metahub.space/poster/small/tt0391044/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt0391044/img",
+    "genres": [
+      "Fantasy",
+      "Horror",
+      "Sci-Fi"
+    ],
+    "description": "Officer Gabe Goodman may be the last man on earth and must confront deadly dark angels.",
+    "imdbRating": "2.8"
   },
   {
     "id": "47e2412c4e1eaa6c4ea5f65d7c87814c",
@@ -371,11 +378,17 @@
       "Hindi",
       "Multi-Lang"
     ],
-    "imdbId": "tt39239754",
-    "name": "Sigma",
-    "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BY2VmZDc4ZTQtMTAxNi00MGVkLTk5OTUtMmE4ZjdjMmZjZWYyXkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BY2VmZDc4ZTQtMTAxNi00MGVkLTk5OTUtMmE4ZjdjMmZjZWYyXkEyXkFqcGc@._V1_SX250.jpg"
+    "imdbId": "tt0933389",
+    "name": "Sigma Die!",
+    "year": "2007",
+    "poster": "https://images.metahub.space/poster/small/tt0933389/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt0933389/img",
+    "genres": [
+      "Comedy",
+      "Horror"
+    ],
+    "description": "At the end of their college school year five girls decide not to go home but instead rent a house in town and thus the high-jinks then ensue.",
+    "imdbRating": "3.7"
   },
   {
     "id": "02bf204390bb5189efcb4818fd46f9fc",
@@ -1120,12 +1133,7 @@
       "Kannada",
       "Hindi",
       "Multi-Lang"
-    ],
-    "imdbId": "tt32089596",
-    "name": "Comrade Kalyan",
-    "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BMjcyOTYxN2MtMDMyNy00MTQwLTkzYjAtMGQ5MzYzNzc1NDRmXkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BMjcyOTYxN2MtMDMyNy00MTQwLTkzYjAtMGQ5MzYzNzc1NDRmXkEyXkFqcGc@._V1_SX250.jpg"
+    ]
   },
   {
     "id": "6865662889f6ddecce5998433d79de68",
@@ -1484,9 +1492,15 @@
     ],
     "imdbId": "tt38915678",
     "name": "Dorothy",
-    "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BZGZmZmEyZjMtYTJkZC00ZmVjLTg1OGEtOGUwMjgzNGQ4MGYxXkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BZGZmZmEyZjMtYTJkZC00ZmVjLTg1OGEtOGUwMjgzNGQ4MGYxXkEyXkFqcGc@._V1_SX250.jpg"
+    "year": "2026",
+    "poster": "https://images.metahub.space/poster/small/tt38915678/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt38915678/img",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Drama"
+    ],
+    "description": "Set in a world shaped by caste, violence, and toxic masculinity, two friends grow up inseparable in rural Tamil Nadu. Their lives are transformed by the arrival of Dorothy, a woman whose compassion challenges the world around them."
   },
   {
     "id": "3a61f435ac65fe6ab7791d1488facb41",
@@ -1648,9 +1662,15 @@
     ],
     "imdbId": "tt33318732",
     "name": "Jailer 2",
-    "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BYmJiYzc1ODctZjQzZS00NzEzLWI0NDEtZGVkNjI4YzEzNGRjXkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BYmJiYzc1ODctZjQzZS00NzEzLWI0NDEtZGVkNjI4YzEzNGRjXkEyXkFqcGc@._V1_SX250.jpg"
+    "year": "2026",
+    "poster": "https://images.metahub.space/poster/small/tt33318732/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt33318732/img",
+    "genres": [
+      "Action",
+      "Comedy",
+      "Crime"
+    ],
+    "description": "A retired officer's peaceful life is disrupted when a dangerous criminal organization threatens his family. He must use his skills one final time to protect his loved ones and preserve his legacy."
   },
   {
     "id": "29e8d2d69039dde54476fb0c2e98fdfb",
@@ -3914,7 +3934,12 @@
       "Telugu",
       "Hindi",
       "Multi-Lang"
-    ]
+    ],
+    "imdbId": "tt39536070",
+    "name": "Meethe Mein Kya Hai",
+    "year": 2026,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMDBhYzUyODQtOWNhZS00NzM5LWE2ZmYtZDYxMDE1N2U2NjhhXkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BMDBhYzUyODQtOWNhZS00NzM5LWE2ZmYtZDYxMDE1N2U2NjhhXkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "ef5509539ee09dd7a07a8b50021f6d46",
@@ -3999,11 +4024,18 @@
       "Hindi",
       "Multi-Lang"
     ],
-    "imdbId": "tt3416828",
-    "name": "Ice Age: Collision Course",
-    "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BZmExOGMxNzMtYjc3MC00OWU5LTg5OTAtNmRhNzBkYzk2ZGE1XkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BZmExOGMxNzMtYjc3MC00OWU5LTg5OTAtNmRhNzBkYzk2ZGE1XkEyXkFqcGc@._V1_SX250.jpg"
+    "imdbId": "tt0097081",
+    "name": "Collision Course",
+    "year": "1989",
+    "poster": "https://images.metahub.space/poster/small/tt0097081/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt0097081/img",
+    "genres": [
+      "Action",
+      "Comedy",
+      "Crime"
+    ],
+    "description": "A Japanese investigator (Morita) and a Detroit cop (Leno) team up to track down a stolen prototype turbocharger.",
+    "imdbRating": "4.7"
   },
   {
     "id": "a2e1ea047f0da5a76185d6729372de17",
@@ -4048,18 +4080,11 @@
       "Hindi",
       "Multi-Lang"
     ],
-    "imdbId": "tt0402063",
-    "name": "The Birthday",
-    "year": "2004",
-    "poster": "https://images.metahub.space/poster/small/tt0402063/img",
-    "thumbnail": "https://images.metahub.space/poster/small/tt0402063/img",
-    "genres": [
-      "Comedy",
-      "Horror",
-      "Mystery"
-    ],
-    "description": "Norman, a young man very much in love with his girlfriend, attends her father's birthday party, held in a hotel where a sect happens to be preparing for the birth of the god it worships.",
-    "imdbRating": "5.8"
+    "imdbId": "tt38999812",
+    "name": "The Birthday Gift",
+    "year": 2026,
+    "poster": "https://m.media-amazon.com/images/M/MV5BZTM2MGFiMGYtMmFhZC00YWU3LThlOTAtZTAyOGNiMzUxODc4XkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BZTM2MGFiMGYtMmFhZC00YWU3LThlOTAtZTAyOGNiMzUxODc4XkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "2b44f870c34cc6ee37bdc5df9492eda8",
@@ -4106,13 +4131,9 @@
     ],
     "imdbId": "tt37522541",
     "name": "Apocalypse Z: New World",
-    "year": "2026",
-    "poster": "https://images.metahub.space/poster/small/tt37522541/img",
-    "thumbnail": "https://images.metahub.space/poster/small/tt37522541/img",
-    "genres": [
-      "Horror"
-    ],
-    "description": "A supply mission to virus-ravaged Spain turns complex when Roberto, from the safe Canary Islands, joins with secret intentions. The team confronts infected masses and trust issues while weighing survival against humanity."
+    "year": 2026,
+    "poster": "https://m.media-amazon.com/images/M/MV5BNGI4ODQ1NGQtMTVmZS00NzcwLThmNWUtMTI4MDhkNDAyZDI0XkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BNGI4ODQ1NGQtMTVmZS00NzcwLThmNWUtMTI4MDhkNDAyZDI0XkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "c81e102fa63256998c64186d0bc34eda",
@@ -4857,9 +4878,15 @@
     ],
     "imdbId": "tt31969655",
     "name": "The Paradise",
-    "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BMGI3N2I1ZWUtYzMyZS00MTRlLThlNDUtNWZhY2MxZTlmMDJjXkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BMGI3N2I1ZWUtYzMyZS00MTRlLThlNDUtNWZhY2MxZTlmMDJjXkEyXkFqcGc@._V1_SX250.jpg"
+    "year": "2026",
+    "poster": "https://images.metahub.space/poster/small/tt31969655/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt31969655/img",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Drama"
+    ],
+    "description": "In 1980s Secunderabad, a marginalized tribe battles discrimination and fights for citizenship under an unexpected leader's guidance, challenging systemic oppression."
   },
   {
     "id": "b3f1a77df6a49d79b43f0eb39cd78756",
@@ -5219,9 +5246,16 @@
     ],
     "imdbId": "tt21285562",
     "name": "The Dog Stars",
-    "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BOThjZGM1Y2QtYTZmOS00NGE3LTk0MjEtMWM2Y2QyM2VkMmE3XkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BOThjZGM1Y2QtYTZmOS00NGE3LTk0MjEtMWM2Y2QyM2VkMmE3XkEyXkFqcGc@._V1_SX250.jpg"
+    "year": "2026",
+    "poster": "https://images.metahub.space/poster/small/tt21285562/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt21285562/img",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Drama"
+    ],
+    "description": "In a post-apocalyptic world, a virus wipes out humanity. Survivors face roaming scavengers called Reapers. Protagonist Hig, a pilot, survived the flu but lost his wife.",
+    "imdbRating": "6.5"
   },
   {
     "id": "51ff4dfca2f8a10a8f26d6cf7de12a8e",
@@ -5259,16 +5293,9 @@
     ],
     "imdbId": "tt27369017",
     "name": "Hope",
-    "year": "2026",
-    "poster": "https://images.metahub.space/poster/small/tt27369017/img",
-    "thumbnail": "https://images.metahub.space/poster/small/tt27369017/img",
-    "genres": [
-      "Action",
-      "Drama",
-      "Horror"
-    ],
-    "description": "A mysterious discovery is made on the outskirts of the remote harbor town. The residents find themselves in a desperate fight for survival against something they have never encountered before.",
-    "imdbRating": "6.9"
+    "year": 2026,
+    "poster": "https://m.media-amazon.com/images/M/MV5BZjE3ZDI0MmItMDIyMC00NzU2LTk2OTQtZTUxYTlkMjlkNmY3XkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BZjE3ZDI0MmItMDIyMC00NzU2LTk2OTQtZTUxYTlkMjlkNmY3XkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "af8866b586bb26690ff0eee55e405521",
@@ -5687,11 +5714,18 @@
       "Multi-Lang",
       "Malayalam"
     ],
-    "imdbId": "tt35963439",
-    "name": "It's A Medical Miracle",
-    "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BODAyZGM3ODAtZjMwMy00NTYxLTlkMmEtM2RkNWE2NTMzNjUxXkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BODAyZGM3ODAtZjMwMy00NTYxLTlkMmEtM2RkNWE2NTMzNjUxXkEyXkFqcGc@._V1_SX250.jpg"
+    "imdbId": "tt0038650",
+    "name": "It's a Wonderful Life",
+    "year": "1947",
+    "poster": "https://images.metahub.space/poster/small/tt0038650/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt0038650/img",
+    "genres": [
+      "Drama",
+      "Family",
+      "Fantasy"
+    ],
+    "description": "An angel is sent from Heaven to help a desperately frustrated businessman see the value of his own life.",
+    "imdbRating": "8.6"
   },
   {
     "id": "a1fbfbf2408223f429cbc75f2aabd5f7",
@@ -5836,9 +5870,16 @@
     ],
     "imdbId": "tt12446086",
     "name": "Legend of the White Dragon",
-    "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BMTcxNmY0NWYtMjJiNS00ZmZjLTkyMmItYjljYzU4YzliNTBjXkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BMTcxNmY0NWYtMjJiNS00ZmZjLTkyMmItYjljYzU4YzliNTBjXkEyXkFqcGc@._V1_SX250.jpg"
+    "year": "2026",
+    "poster": "https://images.metahub.space/poster/small/tt12446086/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt12446086/img",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy"
+    ],
+    "description": "In the Aftermath, the city was left decimated. A past reminder of the great battle and fall of heroes. The heroes were blamed, stripped of their titles and hunted.",
+    "imdbRating": "4.2"
   },
   {
     "id": "9fee9df93a04315d8467af98fbe1535d",
@@ -5983,12 +6024,7 @@
     "rawText": "Sumo Didi (2026) Hindi HD + ESub - [4K, 1080p & 720p - AVC - (DD+5.1 - 384Kbps) - 3.9GB + Rips]",
     "languages": [
       "Hindi"
-    ],
-    "imdbId": "tt24226306",
-    "name": "Sumo Didi",
-    "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BYzA0NjkxNTAtNGM1NS00MjZlLThmYjktMDM0Y2MxMzNkNjdhXkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BYzA0NjkxNTAtNGM1NS00MjZlLThmYjktMDM0Y2MxMzNkNjdhXkEyXkFqcGc@._V1_SX250.jpg"
+    ]
   },
   {
     "id": "fce1c407bad1db00a98378e841b9b16b",
@@ -6086,9 +6122,14 @@
     ],
     "imdbId": "tt27419420",
     "name": "Street Fighter",
-    "year": 2026,
+    "year": "2026",
     "poster": "https://images.metahub.space/poster/small/tt27419420/img",
-    "thumbnail": "https://images.metahub.space/poster/small/tt27419420/img"
+    "thumbnail": "https://images.metahub.space/poster/small/tt27419420/img",
+    "genres": [
+      "Action"
+    ],
+    "description": "Street Fighters Ryu and Ken reunite when Chun-Li recruits them for the World Warrior Tournament. As they face a hidden conspiracy, they must confront each other and their past-or face destruction.",
+    "imdbRating": "6.2"
   },
   {
     "id": "ea61cfa764e73f29b776f4aad4dd9fd8",
@@ -6179,11 +6220,18 @@
     "languages": [
       "Tamil"
     ],
-    "imdbId": "tt38097205",
-    "name": "Meesaya Murukku 2",
-    "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BM2M2NjRjNGUtN2IwYy00MThmLTgxZTgtMzNhZDY0MDhhZTM0XkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BM2M2NjRjNGUtN2IwYy00MThmLTgxZTgtMzNhZDY0MDhhZTM0XkEyXkFqcGc@._V1_SX250.jpg"
+    "imdbId": "tt7161122",
+    "name": "Meesaya Murukku",
+    "year": "2017",
+    "poster": "https://images.metahub.space/poster/small/tt7161122/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt7161122/img",
+    "genres": [
+      "Biography",
+      "Comedy",
+      "Drama"
+    ],
+    "description": "A semi-biopic of how India's first Tamil Hip-Hop band, Hip-hop Tamizha came to be and the struggles frontman Adhi faced in life, both in personal and professional frontiers.",
+    "imdbRating": "7.6"
   },
   {
     "id": "c095272e30232b688a23f5314a96a6e7",
@@ -6589,9 +6637,16 @@
     ],
     "imdbId": "tt34794166",
     "name": "Nishaanchi",
-    "year": 2025,
-    "poster": "https://m.media-amazon.com/images/M/MV5BMTA3OGZhNjQtM2E2OS00YmE5LWJiMGMtZDllZDk5ZWZkOTI4XkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BMTA3OGZhNjQtM2E2OS00YmE5LWJiMGMtZDllZDk5ZWZkOTI4XkEyXkFqcGc@._V1_SX250.jpg"
+    "year": "2025",
+    "poster": "https://images.metahub.space/poster/small/tt34794166/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt34794166/img",
+    "genres": [
+      "Action",
+      "Crime",
+      "Drama"
+    ],
+    "description": "Twin brothers, identical looks but different values, face brotherhood, betrayal, love, and redemption. Their paths weave through crime into a deeper story of human nature and its results.",
+    "imdbRating": "6.7"
   },
   {
     "id": "85a920b42aa33a50bd5c0e9e04c9a8e1",
@@ -6928,9 +6983,16 @@
     ],
     "imdbId": "tt0101540",
     "name": "Cape Fear",
-    "year": 1991,
-    "poster": "https://m.media-amazon.com/images/M/MV5BNTBkNTYwZTctOTgxYS00ZmIyLTgzNDAtODJhZjg2MDUwNmFlXkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BNTBkNTYwZTctOTgxYS00ZmIyLTgzNDAtODJhZjg2MDUwNmFlXkEyXkFqcGc@._V1_SX250.jpg"
+    "year": "1991",
+    "poster": "https://images.metahub.space/poster/small/tt0101540/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt0101540/img",
+    "genres": [
+      "Crime",
+      "Drama",
+      "Thriller"
+    ],
+    "description": "A convict systematically stalks the defense attorney who withheld evidence during his original trial fourteen years prior. The lawyer must protect his family from escalating psychological threats while navigating his own moral com...",
+    "imdbRating": "7.3"
   },
   {
     "id": "f9509d916e3971b0f01cd283001579d8",
@@ -7028,11 +7090,18 @@
     "languages": [
       "Tamil"
     ],
-    "imdbId": "tt38947564",
+    "imdbId": "tt6470848",
     "name": "4 Idiots",
-    "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BNTUwMDUxYjktYTQ2OC00ODdhLTg1NGEtMTc4ZmE3NGFlYzU5XkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BNTUwMDUxYjktYTQ2OC00ODdhLTg1NGEtMTc4ZmE3NGFlYzU5XkEyXkFqcGc@._V1_SX250.jpg"
+    "year": "2012",
+    "poster": "https://images.metahub.space/poster/small/tt6470848/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt6470848/img",
+    "genres": [
+      "Comedy",
+      "Crime",
+      "Drama"
+    ],
+    "description": "Four Friends Bunty,Qayuum,Nagya and Kashi from Mumbai, who help each other in the time of crisis.Qayuum is not steady about his job, Bunty is a pick pocket, Kashi is an Air conditioner Mechanic and a follower of a Bhondu Baba; whi...",
+    "imdbRating": "4.7"
   },
   {
     "id": "ef80a44766f0ad7931e1ceb3f8e1cfbf",
@@ -7169,9 +7238,11 @@
     ],
     "imdbId": "tt37894980",
     "name": "Aasha",
-    "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BNWEyMWFmNDktZjc5Ni00NGNkLTkyYWQtMTdlOGNiNTljZjcyXkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BNWEyMWFmNDktZjc5Ni00NGNkLTkyYWQtMTdlOGNiNTljZjcyXkEyXkFqcGc@._V1_SX250.jpg"
+    "year": "2026",
+    "poster": "https://images.metahub.space/poster/small/tt37894980/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt37894980/img",
+    "genres": [],
+    "description": "A stubborn, short-tempered woman named Aasha gets into an altercation with Jeemon over a road accident. She is resolved to pursue a case against him, while he threatens her with serious consequences."
   },
   {
     "id": "fab55ecca48bbaa96d44b1141fedef0b",
@@ -7344,12 +7415,7 @@
       "Kannada",
       "Hindi",
       "Multi-Lang"
-    ],
-    "imdbId": "tt33095205",
-    "name": "Enna Vilai",
-    "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BNmY1MzM2ZTMtZmJmYS00NGI2LTllYzktN2NlMGMzZGNkYjc0XkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BNmY1MzM2ZTMtZmJmYS00NGI2LTllYzktN2NlMGMzZGNkYjc0XkEyXkFqcGc@._V1_SX250.jpg"
+    ]
   },
   {
     "id": "ff7b398128637758b10495ae51b83496",
@@ -7563,9 +7629,16 @@
     ],
     "imdbId": "tt0090756",
     "name": "Blue Velvet",
-    "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BNzkwZGUyYjQtM2QyOC00MTBjLWE0NGYtMTZmOGM5MjI0Mzg0XkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BNzkwZGUyYjQtM2QyOC00MTBjLWE0NGYtMTZmOGM5MjI0Mzg0XkEyXkFqcGc@._V1_SX250.jpg"
+    "year": "1986",
+    "poster": "https://images.metahub.space/poster/small/tt0090756/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt0090756/img",
+    "genres": [
+      "Crime",
+      "Drama",
+      "Mystery"
+    ],
+    "description": "A young man finds a severed human ear that is somehow connected to a mysterious lounge singer and a group of psychopathic criminals who have kidnapped her child.",
+    "imdbRating": "7.7"
   },
   {
     "id": "2b79b9c0aeb108c450e7d265c60cfd6e",
@@ -7966,9 +8039,15 @@
     ],
     "imdbId": "tt36596965",
     "name": "Mandaadi",
-    "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BYjdjYjVkY2ItOGM4Yy00OGQ3LTg3ZDAtNmYzMWZkYzg3NGZhXkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BYjdjYjVkY2ItOGM4Yy00OGQ3LTg3ZDAtNmYzMWZkYzg3NGZhXkEyXkFqcGc@._V1_SX250.jpg"
+    "year": "2026",
+    "poster": "https://images.metahub.space/poster/small/tt36596965/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt36596965/img",
+    "genres": [
+      "Action",
+      "Drama",
+      "Sport"
+    ],
+    "description": "A fishing captain applies his maritime knowledge in a traditional boat race along Tamil Nadu's coast during a festival, leading a six-person team against other crews."
   },
   {
     "id": "6eaad514a5ed4221d563f04c4e3377ba",
@@ -8196,9 +8275,10 @@
     ],
     "imdbId": "tt28541577",
     "name": "Sardar 2",
-    "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BNTMzNjZkODEtNjRiMS00MjFiLWE0YWYtOGQ5ZGVlODQ1NDVmXkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BNTMzNjZkODEtNjRiMS00MjFiLWE0YWYtOGQ5ZGVlODQ1NDVmXkEyXkFqcGc@._V1_SX250.jpg"
+    "year": "2026",
+    "poster": "https://images.metahub.space/poster/small/tt28541577/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt28541577/img",
+    "genres": []
   },
   {
     "id": "a2c52f8050517aa3bc1c6943ecd95b3c",
@@ -8311,12 +8391,7 @@
     "rawText": "Vasudheva Sutham (2026) Telugu UHD + ESub - [4K, 1080p & 720p - AVC / HEVC - (DD+5.1 - 448Kbps) - 5GB + Rips]",
     "languages": [
       "Telugu"
-    ],
-    "imdbId": "tt43383993",
-    "name": "Vasudheva Sutham",
-    "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BMjg3ZWU2MTUtOGFhOS00ZTZmLWI0MGItYmQxZjNkOTFmNzFhXkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BMjg3ZWU2MTUtOGFhOS00ZTZmLWI0MGItYmQxZjNkOTFmNzFhXkEyXkFqcGc@._V1_SX250.jpg"
+    ]
   },
   {
     "id": "5c8a24d246a754a483e03617071dec98",
@@ -8398,7 +8473,17 @@
       "Kannada",
       "Hindi",
       "Multi-Lang"
-    ]
+    ],
+    "imdbId": "tt34384900",
+    "name": "Love of Your Life",
+    "year": "2026",
+    "poster": "https://images.metahub.space/poster/small/tt34384900/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt34384900/img",
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "description": "Maya, a smart, wry nurse, is swept up in an immersive love, that sets her life on a trajectory she never would have imagined."
   },
   {
     "id": "cd1dbb1b5d68d04d8c3c4cc3705b889e",
@@ -8663,9 +8748,16 @@
     ],
     "imdbId": "tt0454824",
     "name": "Flyboys",
-    "year": 2006,
-    "poster": "https://m.media-amazon.com/images/M/MV5BMTYxMDg5NTkxMF5BMl5BanBnXkFtZTcwNjA4MDUzMQ@@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BMTYxMDg5NTkxMF5BMl5BanBnXkFtZTcwNjA4MDUzMQ@@._V1_SX250.jpg"
+    "year": "2006",
+    "poster": "https://images.metahub.space/poster/small/tt0454824/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt0454824/img",
+    "genres": [
+      "Action",
+      "Drama",
+      "History"
+    ],
+    "description": "The adventures of the Lafayette Escadrille, young Americans who volunteered for the French military before the U.S. entered World War I, and became the country's first fighter pilots.",
+    "imdbRating": "6.5"
   },
   {
     "id": "950956a77c77cd0a32bcbea8d6fb6312",
@@ -8802,18 +8894,11 @@
     "languages": [
       "Tamil"
     ],
-    "imdbId": "tt11663228",
-    "name": "Jailer",
-    "year": "2023",
-    "poster": "https://images.metahub.space/poster/small/tt11663228/img",
-    "thumbnail": "https://images.metahub.space/poster/small/tt11663228/img",
-    "genres": [
-      "Action",
-      "Comedy",
-      "Crime"
-    ],
-    "description": "A retired jailer goes on a manhunt to find his son's killers. But the road leads him to a familiar, albeit a bit darker place. Can he emerge from this complex situation successfully?",
-    "imdbRating": "7.2"
+    "imdbId": "tt33318732",
+    "name": "Jailer 2",
+    "year": 2023,
+    "poster": "https://m.media-amazon.com/images/M/MV5BYmJiYzc1ODctZjQzZS00NzEzLWI0NDEtZGVkNjI4YzEzNGRjXkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BYmJiYzc1ODctZjQzZS00NzEzLWI0NDEtZGVkNjI4YzEzNGRjXkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "5e9689ba26e9602720dd707be2841814",
@@ -8885,9 +8970,16 @@
     ],
     "imdbId": "tt0139654",
     "name": "Training Day",
-    "year": 2001,
-    "poster": "https://m.media-amazon.com/images/M/MV5BMjRlNjUwOGYtNGQxZS00ZjhkLTg0NDgtYjcwNzZlNDU2YjBlXkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BMjRlNjUwOGYtNGQxZS00ZjhkLTg0NDgtYjcwNzZlNDU2YjBlXkEyXkFqcGc@._V1_SX250.jpg"
+    "year": "2001",
+    "poster": "https://images.metahub.space/poster/small/tt0139654/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt0139654/img",
+    "genres": [
+      "Crime",
+      "Drama",
+      "Thriller"
+    ],
+    "description": "A rookie cop spends his first day as a Los Angeles narcotics officer with a rogue detective who isn't what he appears to be.",
+    "imdbRating": "7.8"
   },
   {
     "id": "bdc51bf169bc7026e9099ea9e47a2b59",
@@ -8922,12 +9014,7 @@
     "rawText": "Arey Apandra (2026) Telugu HD + HC-ESub - [1080p & 720p - AVC - (AAC 2.0 - 192Kbps) - 1.5GB + Rips]",
     "languages": [
       "Telugu"
-    ],
-    "imdbId": "tt42664298",
-    "name": "Arey Apandra",
-    "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BYjkzMDViOTAtNjgxNi00MTFlLWE4ZWUtYTdmN2U2YjhlNDUyXkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BYjkzMDViOTAtNjgxNi00MTFlLWE4ZWUtYTdmN2U2YjhlNDUyXkEyXkFqcGc@._V1_SX250.jpg"
+    ]
   },
   {
     "id": "461fa9203a7a2c00b4868a5f92e93b42",
@@ -9060,12 +9147,7 @@
       "Hindi",
       "Multi-Lang",
       "Telugu"
-    ],
-    "imdbId": "tt37537243",
-    "name": "Maremma",
-    "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BMTk3YTliMjctMDhiYS00Y2FiLTg1YWMtOWM4ZTk0Y2JjNGNiXkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BMTk3YTliMjctMDhiYS00Y2FiLTg1YWMtOWM4ZTk0Y2JjNGNiXkEyXkFqcGc@._V1_SX250.jpg"
+    ]
   },
   {
     "id": "b6ffd108288f7307e4806cd769672a88",
@@ -9208,12 +9290,7 @@
     "rawText": "Paris Cafe (2026) Tamil UHD + ESub - [4K, 1080p & 720p - AVC / HEVC - (DD+5.1 - 640Kbps) - 12GB + Rips]",
     "languages": [
       "Tamil"
-    ],
-    "imdbId": "tt38126135",
-    "name": "Paris Cafe",
-    "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BMzFjZWZmYjgtY2QwZC00ZjE3LWJjMzctNzhiYmI1ODJhNDJiXkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BMzFjZWZmYjgtY2QwZC00ZjE3LWJjMzctNzhiYmI1ODJhNDJiXkEyXkFqcGc@._V1_SX250.jpg"
+    ]
   },
   {
     "id": "4d49d139ff6a339599277d575459e711",
@@ -9430,8 +9507,8 @@
     "imdbId": "tt38265603",
     "name": "Pradhama Drishtiya Kuttakkar",
     "year": 2026,
-    "poster": "https://images.metahub.space/poster/small/tt38265603/img",
-    "thumbnail": "https://images.metahub.space/poster/small/tt38265603/img"
+    "poster": "https://m.media-amazon.com/images/M/MV5BZmViMzIwM2ItZGUxNi00MmM5LTk0Y2EtNWI5ZWY0MjA2YmZjXkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BZmViMzIwM2ItZGUxNi00MmM5LTk0Y2EtNWI5ZWY0MjA2YmZjXkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "5e71909ac1fca0cea35868ba6c7c015b",
@@ -9640,8 +9717,8 @@
     "imdbId": "tt31049299",
     "name": "Animals",
     "year": 2026,
-    "poster": "https://images.metahub.space/poster/small/tt31049299/img",
-    "thumbnail": "https://images.metahub.space/poster/small/tt31049299/img"
+    "poster": "https://m.media-amazon.com/images/M/MV5BZmY3MmZiZjctOTgyYy00OGIxLTkwMDUtNDU3MGNkMGI3YWJlXkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BZmY3MmZiZjctOTgyYy00OGIxLTkwMDUtNDU3MGNkMGI3YWJlXkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "633b3e4707982f2c011b6cca7cf812b5",
@@ -9685,7 +9762,12 @@
       "Telugu",
       "Hindi",
       "Multi-Lang"
-    ]
+    ],
+    "imdbId": "tt47657999",
+    "name": "Reporting Live",
+    "year": 2026,
+    "poster": "https://m.media-amazon.com/images/M/MV5BYTliNTdiOTQtNmNjNC00ZGRhLWExODYtMmRlNzM4YTFhZTM5XkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BYTliNTdiOTQtNmNjNC00ZGRhLWExODYtMmRlNzM4YTFhZTM5XkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "cb9b25ebedc0ecb8158c43b493523df3",
@@ -9928,7 +10010,18 @@
       "Kannada",
       "Telugu",
       "Hindi"
-    ]
+    ],
+    "imdbId": "tt27530512",
+    "name": "Toxic",
+    "year": "2026",
+    "poster": "https://images.metahub.space/poster/small/tt27530512/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt27530512/img",
+    "genres": [
+      "Action",
+      "Crime",
+      "Drama"
+    ],
+    "description": "As Portuguese rule crumbles in Goa, Raya rises through betrayal and bloodshed to claim the city's underworld, only to learn that power always demands a price."
   },
   {
     "id": "691df589b77c2f6810b99dfab8938d38",
@@ -10178,9 +10271,15 @@
     ],
     "imdbId": "tt37535100",
     "name": "Bethlehem Kudumba Unit",
-    "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BYzI3MDJiZmQtNDg3ZC00Y2MwLWE5ZDMtNGRiOTA5OTQzMjQ4XkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BYzI3MDJiZmQtNDg3ZC00Y2MwLWE5ZDMtNGRiOTA5OTQzMjQ4XkEyXkFqcGc@._V1_SX250.jpg"
+    "year": "2026",
+    "poster": "https://images.metahub.space/poster/small/tt37535100/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt37535100/img",
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Romance"
+    ],
+    "description": "Follows a couple with a significant age difference as they navigate their romantic relationship."
   },
   {
     "id": "e13c88fd1a6e5e0bccf05c464c4d023c",
@@ -10305,11 +10404,18 @@
       "Hindi",
       "Multi-Lang"
     ],
-    "imdbId": "tt39314786",
-    "name": "The Butcher's Blade",
-    "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BMjNlMDM2OWItY2IxNC00YWI0LTgyNTUtNDQ0ZWRiMjliMjQ2XkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BMjNlMDM2OWItY2IxNC00YWI0LTgyNTUtNDQ0ZWRiMjliMjQ2XkEyXkFqcGc@._V1_SX250.jpg"
+    "imdbId": "tt0101523",
+    "name": "The Butcher's Wife",
+    "year": "1991",
+    "poster": "https://images.metahub.space/poster/small/tt0101523/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt0101523/img",
+    "genres": [
+      "Comedy",
+      "Fantasy",
+      "Romance"
+    ],
+    "description": "A clairvoyant impulsively marries a butcher, moves to New York City, and has a positive impact on the people she meets, changing their futures...which in turn changes hers.",
+    "imdbRating": "5.4"
   },
   {
     "id": "593a5574570fe17b504e4bd9ef191e9d",
@@ -10433,9 +10539,15 @@
     ],
     "imdbId": "tt22084616",
     "name": "Spider-Man: Brand New Day",
-    "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BOWNjYWM3NWItOGE0ZS00MWRjLThiZWEtYjc4ZmNmMmU5ZTVmXkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BOWNjYWM3NWItOGE0ZS00MWRjLThiZWEtYjc4ZmNmMmU5ZTVmXkEyXkFqcGc@._V1_SX250.jpg"
+    "year": "2026",
+    "poster": "https://images.metahub.space/poster/small/tt22084616/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt22084616/img",
+    "genres": [
+      "Action",
+      "Adventure"
+    ],
+    "description": "A forgotten Peter Parker lives alone as a full-time Spider-Man until mounting pressure triggers a dangerous change and a powerful new enemy emerges.",
+    "imdbRating": "8.0"
   },
   {
     "id": "29be35e17ea4dc135c46173e72601795",
@@ -10587,9 +10699,16 @@
     ],
     "imdbId": "tt1147509",
     "name": "Doraemon: Nobita and the Castle of the Undersea Devil",
-    "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BMGMyYzgyN2YtM2E3My00NzgwLWE1ZTMtODFlOTg0N2YyODgxXkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BMGMyYzgyN2YtM2E3My00NzgwLWE1ZTMtODFlOTg0N2YyODgxXkEyXkFqcGc@._V1_SX250.jpg"
+    "year": "1983",
+    "poster": "https://images.metahub.space/poster/small/tt1147509/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt1147509/img",
+    "genres": [
+      "Animation",
+      "Adventure",
+      "Comedy"
+    ],
+    "description": "Doraemon suggests going on an underwater adventure for a summer vacation, and they find a underwater civilization that doesn't have contact with surface nations.",
+    "imdbRating": "6.9"
   },
   {
     "id": "4777a14620cd3b5e462438ee3331266c",
@@ -10634,11 +10753,18 @@
       "Hindi",
       "Multi-Lang"
     ],
-    "imdbId": "tt2461150",
+    "imdbId": "tt0119630",
     "name": "Masterminds",
-    "year": 1997,
-    "poster": "https://m.media-amazon.com/images/M/MV5BMTYzMTY5Mzg1Ml5BMl5BanBnXkFtZTgwNTUzODUwNjE@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BMTYzMTY5Mzg1Ml5BMl5BanBnXkFtZTgwNTUzODUwNjE@._V1_SX250.jpg"
+    "year": "1997",
+    "poster": "https://images.metahub.space/poster/small/tt0119630/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt0119630/img",
+    "genres": [
+      "Action",
+      "Comedy",
+      "Thriller"
+    ],
+    "description": "Trapped in a school in which a gang of criminals has seized control, a young troublemaker fights a cat and mouse battle from inside.",
+    "imdbRating": "5.3"
   },
   {
     "id": "9a8c506202079398b78b09bf0892c64d",
@@ -10722,9 +10848,15 @@
     ],
     "imdbId": "tt27050858",
     "name": "Drishyam: The Conclusion",
-    "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BMzJlNzY1MTQtM2VmMy00OWQ4LTk0ZDQtODZiODUwMWZkZWYyXkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BMzJlNzY1MTQtM2VmMy00OWQ4LTk0ZDQtODZiODUwMWZkZWYyXkEyXkFqcGc@._V1_SX250.jpg"
+    "year": "2026",
+    "poster": "https://images.metahub.space/poster/small/tt27050858/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt27050858/img",
+    "genres": [
+      "Crime",
+      "Drama",
+      "Mystery"
+    ],
+    "description": "Follows the Salgaonkar family as they try to cover up a murder."
   },
   {
     "id": "3433cf48725398940bec5e258bb11806",
@@ -11293,9 +11425,16 @@
     ],
     "imdbId": "tt21378820",
     "name": "Pooja Meri Jaan",
-    "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BYWExY2JhYWItM2NlZS00ZjBkLWFkOTEtN2NiMTc5YjU0NzI3XkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BYWExY2JhYWItM2NlZS00ZjBkLWFkOTEtN2NiMTc5YjU0NzI3XkEyXkFqcGc@._V1_SX250.jpg"
+    "year": "2026",
+    "poster": "https://images.metahub.space/poster/small/tt21378820/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt21378820/img",
+    "genres": [
+      "Drama",
+      "Mystery",
+      "Romance"
+    ],
+    "description": "When free-spirited Pooja rejects her long-time friend Aniket's sudden proposal, he dies by suicide and leaves an email blaming her. Facing public outrage and an abetment charge, a guilt-ridden Pooja turns to lawyer-friend Sana.",
+    "imdbRating": "6.6"
   },
   {
     "id": "2134ef82fa406599934527b976be3ad5",
@@ -11396,9 +11535,12 @@
     ],
     "imdbId": "tt36626888",
     "name": "Ohh My Dog",
-    "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BOTk1YTBkMjktMTU4MS00ZWM1LTk1MmQtYzFlMjU0OWU4NWI2XkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BOTk1YTBkMjktMTU4MS00ZWM1LTk1MmQtYzFlMjU0OWU4NWI2XkEyXkFqcGc@._V1_SX250.jpg"
+    "year": "2026",
+    "poster": "https://images.metahub.space/poster/small/tt36626888/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt36626888/img",
+    "genres": [
+      "Thriller"
+    ]
   },
   {
     "id": "877557037d8ba31151cc2d880711cb7c",
@@ -11484,9 +11626,16 @@
     ],
     "imdbId": "tt1809398",
     "name": "Unbroken",
-    "year": 2014,
-    "poster": "https://m.media-amazon.com/images/M/MV5BMTY3ODg2OTgyOF5BMl5BanBnXkFtZTgwODk1OTAwMzE@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BMTY3ODg2OTgyOF5BMl5BanBnXkFtZTgwODk1OTAwMzE@._V1_SX250.jpg"
+    "year": "2014",
+    "poster": "https://images.metahub.space/poster/small/tt1809398/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt1809398/img",
+    "genres": [
+      "Biography",
+      "Drama",
+      "Sport"
+    ],
+    "description": "After a near-fatal plane crash in WWII, Olympian Louis Zamperini spends a harrowing 47 days in a raft with two fellow crewmen before he's caught by the Japanese navy and sent to a prisoner-of-war camp.",
+    "imdbRating": "7.2"
   },
   {
     "id": "4c5ad0cf8aee5f020ca64b188240cf8c",
@@ -11813,9 +11962,16 @@
     ],
     "imdbId": "tt3182644",
     "name": "Moodar Koodam",
-    "year": 2013,
-    "poster": "https://m.media-amazon.com/images/M/MV5BYThkZjRiOGQtZTg4Ny00NWNlLThhZDAtOWFmZGQ2ZTUzYTNjXkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BYThkZjRiOGQtZTg4Ny00NWNlLThhZDAtOWFmZGQ2ZTUzYTNjXkEyXkFqcGc@._V1_SX250.jpg"
+    "year": "2013",
+    "poster": "https://images.metahub.space/poster/small/tt3182644/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt3182644/img",
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Thriller"
+    ],
+    "description": "Four penniless, down-and-out youngsters plan to rob the house of a wealthy businessman believing that the family is out on a pilgrimage. But when they break into the house, nothing goes as planned: the family has not left, the bus...",
+    "imdbRating": "7.6"
   },
   {
     "id": "bf81c8e94b9abafa49d11fc411a98c2b",
@@ -11864,9 +12020,16 @@
     ],
     "imdbId": "tt1670635",
     "name": "Eeram",
-    "year": 2009,
-    "poster": "https://m.media-amazon.com/images/M/MV5BYTIxNmRjODctMDZlNS00Yzc4LWI4MjQtMmRhZDc3MGRmNDk2XkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BYTIxNmRjODctMDZlNS00Yzc4LWI4MjQtMmRhZDc3MGRmNDk2XkEyXkFqcGc@._V1_SX250.jpg"
+    "year": "2009",
+    "poster": "https://images.metahub.space/poster/small/tt1670635/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt1670635/img",
+    "genres": [
+      "Crime",
+      "Mystery",
+      "Thriller"
+    ],
+    "description": "Vasu investigates the suicide of Ramya since he's not convinced that she killed herself. The main suspects are her husband and neighbors. As the death toll rises, Vasu deals with his own secret past.",
+    "imdbRating": "7.6"
   },
   {
     "id": "7d11b931844ca7ed76b8b6684502a885",
@@ -12005,8 +12168,8 @@
     "imdbId": "tt35672862",
     "name": "Hokum",
     "year": 2026,
-    "poster": "https://images.metahub.space/poster/small/tt35672862/img",
-    "thumbnail": "https://images.metahub.space/poster/small/tt35672862/img"
+    "poster": "https://m.media-amazon.com/images/M/MV5BZjA1ZjFlZGItNTVjZC00NTFhLTg2YTEtODMzODRmNGFiNTdmXkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BZjA1ZjFlZGItNTVjZC00NTFhLTg2YTEtODMzODRmNGFiNTdmXkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "ca09bfbc9c0bc4be1a156757acb82f3e",
@@ -12120,12 +12283,7 @@
       "Telugu",
       "Hindi",
       "Multi-Lang"
-    ],
-    "imdbId": "tt0020613",
-    "name": "The Younger Generation",
-    "year": 1929,
-    "poster": "https://m.media-amazon.com/images/M/MV5BMTk3MDYyNjAxOF5BMl5BanBnXkFtZTgwNzEwODgwMzE@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BMTk3MDYyNjAxOF5BMl5BanBnXkFtZTgwNzEwODgwMzE@._V1_SX250.jpg"
+    ]
   },
   {
     "id": "75d5e25b4bc38ee7bde6f202529b95ce",
@@ -12553,12 +12711,7 @@
       "Malayalam",
       "Kannada",
       "Multi-Lang"
-    ],
-    "imdbId": "tt43134711",
-    "name": "Ramba Oorvasi Menaka",
-    "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BZTRmZTYxYjEtNDdiNy00ZmE0LTlmNjMtOWQ5MjJlOGU0MTBjXkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BZTRmZTYxYjEtNDdiNy00ZmE0LTlmNjMtOWQ5MjJlOGU0MTBjXkEyXkFqcGc@._V1_SX250.jpg"
+    ]
   },
   {
     "id": "3419ed03e1bdb0a1e360271279028b98",
@@ -12901,12 +13054,7 @@
       "Telugu",
       "Hindi",
       "Multi-Lang"
-    ],
-    "imdbId": "tt6933238",
-    "name": "Unabomber",
-    "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BZTVlMmRkMzctNTk5OC00OWUxLWIxMWYtYjFmYzRjZDQxNTQ5XkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BZTVlMmRkMzctNTk5OC00OWUxLWIxMWYtYjFmYzRjZDQxNTQ5XkEyXkFqcGc@._V1_SX250.jpg"
+    ]
   },
   {
     "id": "f460e87825bcd1d4c02435fd50a5fc35",
@@ -13050,12 +13198,7 @@
     "rawText": "Boys Never Compromise (2026) Kannada HD + ESub - [1080p & 720p - AVC - (DD+2.0 - 224Kbps) - 8GB + Rips]",
     "languages": [
       "Kannada"
-    ],
-    "imdbId": "tt33363258",
-    "name": "Boys Never Compromise",
-    "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BY2M1MzUzYWYtYzAzNC00MzRlLTgzOGEtZjQ0MmNhZWM1M2MyXkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BY2M1MzUzYWYtYzAzNC00MzRlLTgzOGEtZjQ0MmNhZWM1M2MyXkEyXkFqcGc@._V1_SX250.jpg"
+    ]
   },
   {
     "id": "25c64a5b2528ecd49031c0ee1bdacc87",
@@ -13085,12 +13228,7 @@
       "Telugu",
       "Hindi",
       "Multi-Lang"
-    ],
-    "imdbId": "tt30796568",
-    "name": "This Tempting Madness",
-    "year": 2025,
-    "poster": "https://m.media-amazon.com/images/M/MV5BNWE5ZGIyY2ItYmU2Mi00MTA3LTg5YWQtYzhlOGIxODk0OGEwXkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BNWE5ZGIyY2ItYmU2Mi00MTA3LTg5YWQtYzhlOGIxODk0OGEwXkEyXkFqcGc@._V1_SX250.jpg"
+    ]
   },
   {
     "id": "8c0801c2d25748a25d796d355177b103",
@@ -13289,16 +13427,9 @@
     ],
     "imdbId": "tt29355505",
     "name": "Toy Story 5",
-    "year": "2026",
-    "poster": "https://images.metahub.space/poster/small/tt29355505/img",
-    "thumbnail": "https://images.metahub.space/poster/small/tt29355505/img",
-    "genres": [
-      "Animation",
-      "Adventure",
-      "Comedy"
-    ],
-    "description": "Woody, Buzz, Jessie and the rest of the gang's jobs are challenged when they're introduced to electronics, a new threat to playtime.",
-    "imdbRating": "7.4"
+    "year": 2026,
+    "poster": "https://m.media-amazon.com/images/M/MV5BZTI1YTBiNmEtYWUxZi00YzFkLWIzNjMtMmZjMmY2NzM0ZWMzXkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BZTI1YTBiNmEtYWUxZi00YzFkLWIzNjMtMmZjMmY2NzM0ZWMzXkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "8cad3b891452a84adec960f8bb6bf008",
@@ -13965,12 +14096,7 @@
     "rawText": "Baby Do Die Do (2026) Hindi HD + ESub - [1080p & 720p - AVC - (DD+5.1 ATMOS - 768Kbps) - 4.9GB + Rips]",
     "languages": [
       "Hindi"
-    ],
-    "imdbId": "tt37544992",
-    "name": "Baby Do Die Do",
-    "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BNjQwMDg0NzctMTA4Zi00YzJhLTlmYTQtYmQ2MDI3YTM5NTg0XkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BNjQwMDg0NzctMTA4Zi00YzJhLTlmYTQtYmQ2MDI3YTM5NTg0XkEyXkFqcGc@._V1_SX250.jpg"
+    ]
   },
   {
     "id": "a2b3f22c9965cac40129beede4426822",
@@ -14031,9 +14157,15 @@
     ],
     "imdbId": "tt0944835",
     "name": "Salt",
-    "year": 2010,
-    "poster": "https://m.media-amazon.com/images/M/MV5BMjIyODA2NDg4NV5BMl5BanBnXkFtZTcwMjg4NDAwMw@@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BMjIyODA2NDg4NV5BMl5BanBnXkFtZTcwMjg4NDAwMw@@._V1_SX250.jpg"
+    "year": "2010",
+    "poster": "https://images.metahub.space/poster/small/tt0944835/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt0944835/img",
+    "genres": [
+      "Action",
+      "Thriller"
+    ],
+    "description": "A CIA agent goes on the run after a defector accuses her of being a Russian spy.",
+    "imdbRating": "6.5"
   },
   {
     "id": "ce344907bd91f2925ff0f6ef818fdc4a",
@@ -14101,13 +14233,7 @@
     "rawText": "Boys (2003) Tamil Remastered UHD + ESub - [4K, 1080p & 720p - AVC / HEVC - (DD+5.1 - 192Kbps) - 8.2GB + Rips]",
     "languages": [
       "Tamil"
-    ],
-    "imdbId": "tt0112442",
-    "name": "Bad Boys",
-    "year": 2003,
-    "poster": "https://image.tmdb.org/t/p/w500/x1ygBecKHfXX4M2kRhmFKWfWbJc.jpg",
-    "thumbnail": "https://image.tmdb.org/t/p/w500/x1ygBecKHfXX4M2kRhmFKWfWbJc.jpg",
-    "description": "Marcus Burnett is a henpecked family man. Mike Lowrey is a footloose and fancy free ladies' man. Both Miami policemen, they have 72 hours to reclaim a consignment of drugs stolen from under their station's nose. To complicate matters, in order to get the assistance of the sole witness to a murder, they have to pretend to be each other."
+    ]
   },
   {
     "id": "3d4641fd0bfdeee21b865c7e7d0f95e9",
@@ -14142,13 +14268,7 @@
     "rawText": "Andharan (2026) Telugu UHD + ESub - [4K, 1080p & 720p - AVC / HEVC - (DD+5.1 - 192Kbps) - 2.4GB + Rips]",
     "languages": [
       "Telugu"
-    ],
-    "imdbId": "tt32644729",
-    "name": "Andharan",
-    "year": 2026,
-    "poster": "https://image.tmdb.org/t/p/w500/pwyKYojrmnFOYDjaJnfGu4Hiv9j.jpg",
-    "thumbnail": "https://image.tmdb.org/t/p/w500/pwyKYojrmnFOYDjaJnfGu4Hiv9j.jpg",
-    "description": "Karthika's fiancés mysteriously die before marriage. Officer Chezhiyan investigates the deaths and discovers dark secrets from her past, revealing the hidden forces haunting her life as truth and fear collide."
+    ]
   },
   {
     "id": "6f794ced092bb8faa8529e9415741376",
@@ -14223,10 +14343,16 @@
     ],
     "imdbId": "tt1634106",
     "name": "Bloodshot",
-    "year": 2020,
-    "poster": "https://image.tmdb.org/t/p/w500/8WUVHemHFH2ZIP6NWkwlHWsyrEL.jpg",
-    "thumbnail": "https://image.tmdb.org/t/p/w500/8WUVHemHFH2ZIP6NWkwlHWsyrEL.jpg",
-    "description": "After he and his wife are murdered, marine Ray Garrison is resurrected by a team of scientists. Enhanced with nanotechnology, he becomes a superhuman, biotech killing machine—'Bloodshot'. As Ray first trains with fellow super-soldiers, he cannot recall anything from his former life. But when his memories flood back and he remembers the man that killed both him and his wife, he breaks out of the facility to get revenge, only to discover that there's more to the conspiracy than he thought."
+    "year": "2020",
+    "poster": "https://images.metahub.space/poster/small/tt1634106/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt1634106/img",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Drama"
+    ],
+    "description": "Ray Garrison, a slain soldier, is re-animated with superpowers.",
+    "imdbRating": "5.7"
   },
   {
     "id": "a883cc1558ecc35b6f0ab75b0cc4870d",
@@ -14647,9 +14773,10 @@
     ],
     "imdbId": "tt37510017",
     "name": "Thudakkam",
-    "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BZjM5NGFiNzctOWFlOS00N2ZkLThhNmEtNDNiYWUyMGZhODFhXkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BZjM5NGFiNzctOWFlOS00N2ZkLThhNmEtNDNiYWUyMGZhODFhXkEyXkFqcGc@._V1_SX250.jpg"
+    "year": "2026",
+    "poster": "https://images.metahub.space/poster/small/tt37510017/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt37510017/img",
+    "genres": []
   },
   {
     "id": "9938e5f7e5fcfc8413737cbc75f939b2",
@@ -14711,9 +14838,8 @@
     "imdbId": "tt32634611",
     "name": "Daayra",
     "year": 2026,
-    "poster": "https://image.tmdb.org/t/p/w500/qQ6ORv3AfsV6m1ERL8Muk5jKpbu.jpg",
-    "thumbnail": "https://image.tmdb.org/t/p/w500/qQ6ORv3AfsV6m1ERL8Muk5jKpbu.jpg",
-    "description": "Raman, who has had a shady record with staged encounters and police brutality, finds himself cornered as Ajooni challenges him on every step."
+    "poster": "https://m.media-amazon.com/images/M/MV5BYzI4Y2Y0OGMtMTA3Mi00ZTFkLWFjZjAtNGJmMTY3NDMxZGZmXkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BYzI4Y2Y0OGMtMTA3Mi00ZTFkLWFjZjAtNGJmMTY3NDMxZGZmXkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "87cef1e1a889cf9c607e7de98beb37b4",
@@ -14758,17 +14884,17 @@
       "Hindi",
       "Multi-Lang"
     ],
-    "imdbId": "tt0026246",
+    "imdbId": "tt0132068",
     "name": "Crime and Punishment",
-    "year": "1936",
-    "poster": "https://images.metahub.space/poster/small/tt0026246/img",
-    "thumbnail": "https://images.metahub.space/poster/small/tt0026246/img",
+    "year": "1935",
+    "poster": "https://images.metahub.space/poster/small/tt0132068/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt0132068/img",
     "genres": [
       "Crime",
       "Drama"
     ],
-    "description": "A young man is haunted by the murder of a neighborhood pawn broker and hounded by the local police inspector who suspects that he is guilty.",
-    "imdbRating": "6.9"
+    "description": "Raskolnikov is a Russian man who follows an unusual moral code. A combination of vigilantism and hubris fuels his decision to aid a hapless prostitute by removing her antagonist, a local merchant. Raskolnikov is locked up for the ...",
+    "imdbRating": "6.8"
   },
   {
     "id": "62c716ea7d1adee11783a2e7652e3969",
@@ -14844,9 +14970,8 @@
     "imdbId": "tt39667834",
     "name": "Lust Stories 3",
     "year": 2026,
-    "poster": "https://image.tmdb.org/t/p/w500/cLA83DD1qMEBwbRIYXf29RKjMja.jpg",
-    "thumbnail": "https://image.tmdb.org/t/p/w500/cLA83DD1qMEBwbRIYXf29RKjMja.jpg",
-    "description": "Through four bite-sized yet emotionally resonant films, the anthology once again explores lust, love, relationships, and repressed desire, offering fresh perspectives on intimacy, longing, and human connection in all their complexity."
+    "poster": "https://m.media-amazon.com/images/M/MV5BZDZkNjJjY2YtMjZmYy00MDllLTgxZjItMjc4YjMxODMwZDMzXkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BZDZkNjJjY2YtMjZmYy00MDllLTgxZjItMjc4YjMxODMwZDMzXkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "bc422afb2c983d69b6212fb7518dad54",
@@ -14891,12 +15016,18 @@
       "Hindi",
       "Multi-Lang"
     ],
-    "imdbId": "tt39120306",
+    "imdbId": "tt1687901",
     "name": "The Awakening",
-    "year": 2026,
-    "poster": "https://image.tmdb.org/t/p/w500/u8v2kjcb5AHARPh0ZHmCHczWPuZ.jpg",
-    "thumbnail": "https://image.tmdb.org/t/p/w500/u8v2kjcb5AHARPh0ZHmCHczWPuZ.jpg",
-    "description": "An elite military unit on a mission in the South American jungle encounters a deadly supernatural force revealing an ancient presence that continues to claim anyone who dares enter its domain."
+    "year": "2011",
+    "poster": "https://images.metahub.space/poster/small/tt1687901/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt1687901/img",
+    "genres": [
+      "Drama",
+      "Horror",
+      "Mystery"
+    ],
+    "description": "In 1921, England is overwhelmed by the loss and grief of World War I. Hoax exposer Florence Cathcart visits a boarding school to explain sightings of a child ghost. Everything she believes unravels as the 'missing' begin to show t...",
+    "imdbRating": "6.5"
   },
   {
     "id": "0615a846b3064a77e3c2b7db5e2a95b5",
@@ -14931,7 +15062,12 @@
     "rawText": "Iruttarai (2026) Tamil UHD + ESub - [4K, 1080p & 720p - AVC / HEVC - (DD+5.1 - 192Kbps) - 1.6GB + Rips] - [W]",
     "languages": [
       "Tamil"
-    ]
+    ],
+    "imdbId": "tt46067198",
+    "name": "Iruttarai",
+    "year": 2026,
+    "poster": "https://images.metahub.space/poster/small/tt46067198/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt46067198/img"
   },
   {
     "id": "0238b1d4dea3d99a401d030fe19a597b",
@@ -15000,12 +15136,18 @@
     "languages": [
       "Tamil"
     ],
-    "imdbId": "tt43727339",
-    "name": "Photographer",
-    "year": 2026,
-    "poster": "https://image.tmdb.org/t/p/w500/2viJLcdWykkcagEfHpGZupbZiq4.jpg",
-    "thumbnail": "https://image.tmdb.org/t/p/w500/2viJLcdWykkcagEfHpGZupbZiq4.jpg",
-    "description": "Photographer follows Veera, a troubled and obsessive photographer determined to prove his worth in a world that has long dismissed him. Driven by ambition and haunted by a painful past, he ventures deep into Mathikettan Solai, a mysterious reserve forest, to capture a rare and elusive natural phenomenon that could change his life forever."
+    "imdbId": "tt3646722",
+    "name": "The Photographer",
+    "year": "2015",
+    "poster": "https://images.metahub.space/poster/small/tt3646722/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt3646722/img",
+    "genres": [
+      "Action",
+      "Crime",
+      "Thriller"
+    ],
+    "description": "The Photographer is an elusive serial killer operating in modern-day Moscow. He leaves numbered tiles at the scenes of his crimes, similar to those placed at crime scenes by forensic teams. The investigation points to the old Red ...",
+    "imdbRating": "6.0"
   },
   {
     "id": "fa0c602dffcdae7e5c32eda345f2b2c5",
@@ -15036,9 +15178,14 @@
     ],
     "imdbId": "tt36926359",
     "name": "Seven Snipers",
-    "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BZDA0NDRhODAtODFjMS00MzdkLWI2ZDEtNjQxMGM5MTExY2QzXkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BZDA0NDRhODAtODFjMS00MzdkLWI2ZDEtNjQxMGM5MTExY2QzXkEyXkFqcGc@._V1_SX250.jpg"
+    "year": "2026",
+    "poster": "https://images.metahub.space/poster/small/tt36926359/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt36926359/img",
+    "genres": [
+      "Action",
+      "Thriller"
+    ],
+    "description": "A retired sniper in hiding on an Australian ranch must reunite her elite kill squad when a vengeful warlord threatens her daughter."
   },
   {
     "id": "65d2c0154f0676fb2460a56da6b33b65",
@@ -15134,9 +15281,13 @@
     ],
     "imdbId": "tt16478058",
     "name": "Best of the Best",
-    "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BMWJiYzQ5MmMtNzIyNS00YzQ0LTkyNmQtZmQ0NWQ4MmFhMzU5XkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BMWJiYzQ5MmMtNzIyNS00YzQ0LTkyNmQtZmQ0NWQ4MmFhMzU5XkEyXkFqcGc@._V1_SX250.jpg"
+    "year": "2026",
+    "poster": "https://images.metahub.space/poster/small/tt16478058/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt16478058/img",
+    "genres": [
+      "Comedy"
+    ],
+    "description": "A raucous comedy set in the cut-throat world of collegiate Bollywood dance competitions."
   },
   {
     "id": "63e9c7bd531e1c03a010f41d394ef26e",
@@ -15183,9 +15334,16 @@
     ],
     "imdbId": "tt0103855",
     "name": "The Bodyguard",
-    "year": 2024,
-    "poster": "https://m.media-amazon.com/images/M/MV5BNTM4ZWNjZmItMmUxNy00Y2M2LTlhZmItMjc0NjQzZmNiOWY5XkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BNTM4ZWNjZmItMmUxNy00Y2M2LTlhZmItMjc0NjQzZmNiOWY5XkEyXkFqcGc@._V1_SX250.jpg"
+    "year": "1992",
+    "poster": "https://images.metahub.space/poster/small/tt0103855/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt0103855/img",
+    "genres": [
+      "Drama",
+      "Music",
+      "Romance"
+    ],
+    "description": "A former Secret Service agent takes on the job of bodyguard to an R&amp;B singer, whose lifestyle is most unlike a President's.",
+    "imdbRating": "6.4"
   },
   {
     "id": "62483b0d475d2c2febba62d838137f73",
@@ -15255,12 +15413,7 @@
     "rawText": "Heer Sara (2026) Hindi HD + ESub - [1080p & 720p - AVC - (DD+5.1 - 640Kbps) - 2.2GB + Rips]",
     "languages": [
       "Hindi"
-    ],
-    "imdbId": "tt40744412",
-    "name": "Heer Sara",
-    "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BYWIwYjI1ZDgtMDM2Yi00ODI0LWI1MmUtYzQ4NDA4YTE3Yjk2XkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BYWIwYjI1ZDgtMDM2Yi00ODI0LWI1MmUtYzQ4NDA4YTE3Yjk2XkEyXkFqcGc@._V1_SX250.jpg"
+    ]
   },
   {
     "id": "8beb0f8e7744dbc33483c3e509bd935e",
@@ -15638,12 +15791,7 @@
     "rawText": "Hushar Pittalu (2026) Telugu HD + ESub - [1080p & 720p - AVC - (DD+5.1 - 640Kbps) - 5.5GB + Rips]",
     "languages": [
       "Telugu"
-    ],
-    "imdbId": "tt43737953",
-    "name": "Hushar Pittalu",
-    "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BOTliZjJlYTItMjBlMi00NDNmLWJjNDctY2EyNWJiOTk4MzVkXkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BOTliZjJlYTItMjBlMi00NDNmLWJjNDctY2EyNWJiOTk4MzVkXkEyXkFqcGc@._V1_SX250.jpg"
+    ]
   },
   {
     "id": "31ef252c299b2ff66e6f5376db509626",
@@ -15960,9 +16108,16 @@
     ],
     "imdbId": "tt1430607",
     "name": "Arthur Christmas",
-    "year": 2011,
-    "poster": "https://m.media-amazon.com/images/M/MV5BNTczMjMwMTE2OV5BMl5BanBnXkFtZTcwNDU0NTAwNw@@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BNTczMjMwMTE2OV5BMl5BanBnXkFtZTcwNDU0NTAwNw@@._V1_SX250.jpg"
+    "year": "2011",
+    "poster": "https://images.metahub.space/poster/small/tt1430607/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt1430607/img",
+    "genres": [
+      "Animation",
+      "Adventure",
+      "Comedy"
+    ],
+    "description": "Santa's clumsy son Arthur sets out on a mission with Grandsanta to give out a misplaced present to a young girl in less than two hours on Christmas Day.",
+    "imdbRating": "7.1"
   },
   {
     "id": "584a9675dee081a7b4cc672f2400b494",
@@ -15989,9 +16144,16 @@
     ],
     "imdbId": "tt0325805",
     "name": "Matchstick Men",
-    "year": 2003,
-    "poster": "https://m.media-amazon.com/images/M/MV5BMjA3NjMyNjIyMF5BMl5BanBnXkFtZTYwOTgzMDI3._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BMjA3NjMyNjIyMF5BMl5BanBnXkFtZTYwOTgzMDI3._V1_SX250.jpg"
+    "year": "2003",
+    "poster": "https://images.metahub.space/poster/small/tt0325805/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt0325805/img",
+    "genres": [
+      "Comedy",
+      "Crime",
+      "Drama"
+    ],
+    "description": "A phobic con artist and his protégé are on the verge of pulling off a lucrative swindle when the former's teenage daughter arrives unexpectedly.",
+    "imdbRating": "7.2"
   },
   {
     "id": "f3fb46e73174783e272f83347bb63ec5",
@@ -16131,9 +16293,14 @@
     ],
     "imdbId": "tt0265212",
     "name": "Grateful Dawg",
-    "year": 2000,
-    "poster": "https://m.media-amazon.com/images/M/MV5BZTgyYThjOTUtMDQ3YS00OWI4LWI5N2ItMTA1ZDAyYWVjY2JlXkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BZTgyYThjOTUtMDQ3YS00OWI4LWI5N2ItMTA1ZDAyYWVjY2JlXkEyXkFqcGc@._V1_SX250.jpg"
+    "year": "2000",
+    "poster": "https://images.metahub.space/poster/small/tt0265212/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt0265212/img",
+    "genres": [
+      "Documentary"
+    ],
+    "description": "Details the deeply rooted musical friendship between Jerry Garcia and David Grisman. Includes live Garcia/Grisman performances as well as rare and unique personal moments from the studio, backstage and home-style jam sessions. Int...",
+    "imdbRating": "7.2"
   },
   {
     "id": "b43bd07964f8ed1b97aa7f663665b69c",
@@ -16221,12 +16388,7 @@
       "Telugu",
       "Hindi",
       "Multi-Lang"
-    ],
-    "imdbId": "tt38616652",
-    "name": "Go Team!",
-    "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BMWEzOTdmYTYtOTRkNi00MGU5LWIwZWUtNTZkZDFiNTdmOWYyXkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BMWEzOTdmYTYtOTRkNi00MGU5LWIwZWUtNTZkZDFiNTdmOWYyXkEyXkFqcGc@._V1_SX250.jpg"
+    ]
   },
   {
     "id": "69bd354f18a3739873ee9f3bf63dc74a",
@@ -16738,9 +16900,16 @@
     ],
     "imdbId": "tt30887701",
     "name": "Pinocchio: Unstrung",
-    "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BNGVmODI1N2YtMjBjMC00YmMyLTg1MDYtNDViNTgxMzVhMDU2XkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BNGVmODI1N2YtMjBjMC00YmMyLTg1MDYtNDViNTgxMzVhMDU2XkEyXkFqcGc@._V1_SX250.jpg"
+    "year": "2026",
+    "poster": "https://images.metahub.space/poster/small/tt30887701/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt30887701/img",
+    "genres": [
+      "Fantasy",
+      "Horror",
+      "Thriller"
+    ],
+    "description": "A dark coming-of-age reimagining of Pinocchio, this unsettling tale follows the iconic puppet's disturbing journey toward becoming real.",
+    "imdbRating": "5.4"
   },
   {
     "id": "52164c150caa6dfb37e53efed990834f",
@@ -17162,9 +17331,14 @@
     ],
     "imdbId": "tt37501035",
     "name": "DC",
-    "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BMTc0MDYyNmYtZDJkNi00YzllLWJlNTctZDU3NTY1MzRhMWEzXkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BMTc0MDYyNmYtZDJkNi00YzllLWJlNTctZDU3NTY1MzRhMWEzXkEyXkFqcGc@._V1_SX250.jpg"
+    "year": "2026",
+    "poster": "https://images.metahub.space/poster/small/tt37501035/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt37501035/img",
+    "genres": [
+      "Action",
+      "Crime",
+      "Drama"
+    ]
   },
   {
     "id": "c757af58a30b9790a46a4f6f65bc69bd",
@@ -17211,9 +17385,14 @@
     ],
     "imdbId": "tt38061210",
     "name": "Why Did I Get Married Again?",
-    "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BNTE5YWVkMTAtODJkYi00Y2IwLTlkZDAtYTQ3MDI3ODFiMWI5XkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BNTE5YWVkMTAtODJkYi00Y2IwLTlkZDAtYTQ3MDI3ODFiMWI5XkEyXkFqcGc@._V1_SX250.jpg"
+    "year": "2026",
+    "poster": "https://images.metahub.space/poster/small/tt38061210/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt38061210/img",
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "description": "Jasmine loves Wesley, and their wedding is near - but her stern father and others disapprove, prompting couples around them to question their own \"perfect\" marriages."
   },
   {
     "id": "786357d370ba6f6752ec1068f57d9e3a",
@@ -17280,11 +17459,18 @@
       "Hindi",
       "Multi-Lang"
     ],
-    "imdbId": "tt36073210",
-    "name": "Drawn Together",
-    "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BYjdkMTRlZGItNDdkMS00NDIwLTkyYzktNDNiYjYwNjdkMzEyXkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BYjdkMTRlZGItNDdkMS00NDIwLTkyYzktNDNiYjYwNjdkMzEyXkEyXkFqcGc@._V1_SX250.jpg"
+    "imdbId": "tt1546036",
+    "name": "The Drawn Together Movie!",
+    "year": "2010",
+    "poster": "https://images.metahub.space/poster/small/tt1546036/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt1546036/img",
+    "genres": [
+      "Animation",
+      "Comedy",
+      "Mystery"
+    ],
+    "description": "Eight housemates on a fake animated reality TV show realize they've been canceled and set off on a journey to get back on the air.",
+    "imdbRating": "6.1"
   },
   {
     "id": "3878562fb4015855685640a075f9bb9d",
@@ -17379,9 +17565,16 @@
     ],
     "imdbId": "tt2006295",
     "name": "The 33",
-    "year": 2015,
-    "poster": "https://m.media-amazon.com/images/M/MV5BMTkyNDY3NDc5NF5BMl5BanBnXkFtZTgwMzI1NDM1NjE@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BMTkyNDY3NDc5NF5BMl5BanBnXkFtZTgwMzI1NDM1NjE@._V1_SX250.jpg"
+    "year": "2015",
+    "poster": "https://images.metahub.space/poster/small/tt2006295/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt2006295/img",
+    "genres": [
+      "Biography",
+      "Drama",
+      "History"
+    ],
+    "description": "Based on the real-life event, when a gold and copper mine collapses, it traps 33 miners underground for 69 days.",
+    "imdbRating": "6.9"
   },
   {
     "id": "1c931b782d16208485003f78536bfdc0",
@@ -17551,11 +17744,18 @@
     "languages": [
       "Tamil"
     ],
-    "imdbId": "tt28541577",
-    "name": "Sardar 2",
-    "year": 2022,
-    "poster": "https://m.media-amazon.com/images/M/MV5BNTMzNjZkODEtNjRiMS00MjFiLWE0YWYtOGQ5ZGVlODQ1NDVmXkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BNTMzNjZkODEtNjRiMS00MjFiLWE0YWYtOGQ5ZGVlODQ1NDVmXkEyXkFqcGc@._V1_SX250.jpg"
+    "imdbId": "tt14526318",
+    "name": "Sardar",
+    "year": "2022",
+    "poster": "https://images.metahub.space/poster/small/tt14526318/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt14526318/img",
+    "genres": [
+      "Action",
+      "Drama",
+      "Thriller"
+    ],
+    "description": "A spy, who is estranged from his family due to a mission, suddenly meets his police officer son.",
+    "imdbRating": "7.4"
   },
   {
     "id": "af226ba194a8d9bb0150b04241ec1e33",
@@ -17729,11 +17929,17 @@
       "Hindi",
       "Multi-Lang"
     ],
-    "imdbId": "tt35712605",
-    "name": "G.D.N.",
-    "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BODkxZWQ5OTktYjE3OC00YmUwLThlZTQtMmE1N2U2ZDgzZTM5XkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BODkxZWQ5OTktYjE3OC00YmUwLThlZTQtMmE1N2U2ZDgzZTM5XkEyXkFqcGc@._V1_SX250.jpg"
+    "imdbId": "tt2573438",
+    "name": "G.D.O. BlackCat",
+    "year": "2013",
+    "poster": "https://images.metahub.space/poster/small/tt2573438/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt2573438/img",
+    "genres": [
+      "Action",
+      "Comedy"
+    ],
+    "description": "The name of the film, G.D.O. BlackCat comes from the names of three brothers; Gürkan, Duran, Orhan - who all got lost in the big city and live in Balat district. The three brothers, who all have different points of view and jobs, ...",
+    "imdbRating": "5.3"
   },
   {
     "id": "29c33bb94fa856871719063cd2f6a5ff",
@@ -17844,9 +18050,13 @@
     ],
     "imdbId": "tt27977862",
     "name": "Last Days",
-    "year": 2025,
-    "poster": "https://m.media-amazon.com/images/M/MV5BMWFkYTM1NWUtMzU1Yi00NjEwLThmZGItNjQwZTZjMzBhMDZkXkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BMWFkYTM1NWUtMzU1Yi00NjEwLThmZGItNjQwZTZjMzBhMDZkXkEyXkFqcGc@._V1_SX250.jpg"
+    "year": "2025",
+    "poster": "https://images.metahub.space/poster/small/tt27977862/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt27977862/img",
+    "genres": [
+      "Drama"
+    ],
+    "description": "A 26-year-old missionary journeys to the remote North Sentinel Island, determined to convert an isolated tribe, while authorities attempt to intervene before potential harm occurs."
   },
   {
     "id": "5de9748c1cfbb42761b6aa2a06712bde",
@@ -17939,9 +18149,16 @@
     ],
     "imdbId": "tt0381061",
     "name": "Casino Royale",
-    "year": 2006,
-    "poster": "https://m.media-amazon.com/images/M/MV5BMWQ1ZDM4NDktMWY0NC00MjcxLWJlMDMtNmE2MGVhYzRjMWQ0XkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BMWQ1ZDM4NDktMWY0NC00MjcxLWJlMDMtNmE2MGVhYzRjMWQ0XkEyXkFqcGc@._V1_SX250.jpg"
+    "year": "2006",
+    "poster": "https://images.metahub.space/poster/small/tt0381061/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt0381061/img",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Thriller"
+    ],
+    "description": "After earning a licence to kill, secret agent James Bond sets out on his first mission as 007. Bond must defeat a private banker funding terrorists in a high-stakes game of poker at Casino Royale, in Montenegro.",
+    "imdbRating": "8.0"
   },
   {
     "id": "7f002f77a49c81c741dd5a2b4f67afb4",
@@ -18040,16 +18257,18 @@
       "Hindi",
       "Multi-Lang"
     ],
-    "imdbId": "tt7516468",
-    "name": "A Company of Heroes",
+    "imdbId": "tt2371486",
+    "name": "A Company Man",
     "year": "2012",
-    "poster": "https://images.metahub.space/poster/small/tt7516468/img",
-    "thumbnail": "https://images.metahub.space/poster/small/tt7516468/img",
+    "poster": "https://images.metahub.space/poster/small/tt2371486/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt2371486/img",
     "genres": [
-      "Documentary"
+      "Action",
+      "Crime",
+      "Drama"
     ],
-    "description": "They were the \"other\" Band of Brothers. A Company of Heroes features interviews with many of the men not focused on in the book \"Band of Brothers\" by Stephen Ambrose or in the television mini-series by the same name. Never before ...",
-    "imdbRating": "7.8"
+    "description": "When a change of heart moves a well-trained hitman to tender his resignation to his employers, no good comes of it for anyone.",
+    "imdbRating": "6.6"
   },
   {
     "id": "6d07adc5abefda7741b76aef87a6cd37",
@@ -18255,12 +18474,7 @@
       "Kannada",
       "Hindi",
       "Multi-Lang"
-    ],
-    "imdbId": "tt32474264",
-    "name": "Korean Kanakaraju",
-    "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BM2Q3NzY4MGQtYzMwMy00YTg2LWI1MGItYjU4ODI5YTNhYmFlXkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BM2Q3NzY4MGQtYzMwMy00YTg2LWI1MGItYjU4ODI5YTNhYmFlXkEyXkFqcGc@._V1_SX250.jpg"
+    ]
   },
   {
     "id": "3ebcd3cc58f3b0243b69fc0fcab3ec05",
@@ -18590,16 +18804,9 @@
     ],
     "imdbId": "tt1979320",
     "name": "Rush",
-    "year": "2013",
-    "poster": "https://images.metahub.space/poster/small/tt1979320/img",
-    "thumbnail": "https://images.metahub.space/poster/small/tt1979320/img",
-    "genres": [
-      "Biography",
-      "Drama",
-      "Sport"
-    ],
-    "description": "James Hunt and Niki Lauda, two extremely skilled Formula One racers, have an intense rivalry with each other. However, it is their enmity that pushes them to their limits.",
-    "imdbRating": "8.1"
+    "year": 2013,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTZhOGQxM2ItNGQyYy00YzE5LWI5MjMtNmMzNGQzNDE1OTUzXkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BMTZhOGQxM2ItNGQyYy00YzE5LWI5MjMtNmMzNGQzNDE1OTUzXkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "072861020dd5b73e4ef8d950e3d41e28",
@@ -18671,16 +18878,18 @@
       "Hindi",
       "Multi-Lang"
     ],
-    "imdbId": "tt5245942",
-    "name": "The Trolls",
+    "imdbId": "tt1679335",
+    "name": "Trolls",
     "year": "2016",
-    "poster": "https://images.metahub.space/poster/small/tt5245942/img",
-    "thumbnail": "https://images.metahub.space/poster/small/tt5245942/img",
+    "poster": "https://images.metahub.space/poster/small/tt1679335/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt1679335/img",
     "genres": [
+      "Animation",
+      "Adventure",
       "Comedy"
     ],
-    "description": "A Texas tech start-up breaks every crowdfunding record in the books, but they lose it all when a patent troll shuts them down. Refusing to go down without a fight, our heroes use a legal loophole to beat the trolls at their own ga...",
-    "imdbRating": "5.9"
+    "description": "After the Bergens invade Troll Village, Poppy, the happiest Troll ever born, and the curmudgeonly Branch set off on a journey to rescue her friends.",
+    "imdbRating": "6.4"
   },
   {
     "id": "4a5c08ebab7dcc8432868c211dee3cb9",
@@ -18974,9 +19183,16 @@
     ],
     "imdbId": "tt34564059",
     "name": "The Runner",
-    "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BYzgzYzVhY2QtNjIzNi00Zjk5LWE1ZmQtYmJkNGY3YmExNDdlXkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BYzgzYzVhY2QtNjIzNi00Zjk5LWE1ZmQtYmJkNGY3YmExNDdlXkEyXkFqcGc@._V1_SX250.jpg"
+    "year": "2026",
+    "poster": "https://images.metahub.space/poster/small/tt34564059/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt34564059/img",
+    "genres": [
+      "Action",
+      "Drama",
+      "Thriller"
+    ],
+    "description": "A high-powered attorney must race through London to save her abducted son while following cryptic commands from a mysterious caller.",
+    "imdbRating": "4.1"
   },
   {
     "id": "c358c5ea53ed0bb622382c47e0061c95",
@@ -19012,11 +19228,18 @@
     "languages": [
       "Telugu"
     ],
-    "imdbId": "tt8665778",
-    "name": "Kaa: The Forest",
-    "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BMWVmNGVmNDYtOGU0NC00MTY1LThlOWUtNTg1ZjhkYjJlODM5XkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BMWVmNGVmNDYtOGU0NC00MTY1LThlOWUtNTg1ZjhkYjJlODM5XkEyXkFqcGc@._V1_SX250.jpg"
+    "imdbId": "tt3387542",
+    "name": "The Forest",
+    "year": "2016",
+    "poster": "https://images.metahub.space/poster/small/tt3387542/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt3387542/img",
+    "genres": [
+      "Horror",
+      "Mystery",
+      "Thriller"
+    ],
+    "description": "A young woman's desperate search for her twin sister brings her to a ghost-filled stretch of wilderness known as the 'Suicide Forest.'",
+    "imdbRating": "4.8"
   },
   {
     "id": "bb9ff5a2f432c4019a4fd40325f8ad6f",
@@ -19210,11 +19433,16 @@
     "languages": [
       "Tamil"
     ],
-    "imdbId": "tt32758159",
+    "imdbId": "tt0095097",
     "name": "Once More",
-    "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BMTIzNjFjMWItM2E2ZS00ZDdmLTkxYmEtMWIxZWY4MGIzZWYwXkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BMTIzNjFjMWItM2E2ZS00ZDdmLTkxYmEtMWIxZWY4MGIzZWYwXkEyXkFqcGc@._V1_SX250.jpg"
+    "year": "1988",
+    "poster": "https://images.metahub.space/poster/small/tt0095097/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt0095097/img",
+    "genres": [
+      "Drama"
+    ],
+    "description": "A man decides to leave his wife and finds his happiness elsewhere. Along the way he meets a man with whom he falls in love.",
+    "imdbRating": "7.0"
   },
   {
     "id": "ac10477ad6a26c29666c689cfcae44e6",
@@ -19242,7 +19470,19 @@
       "Tamil",
       "Hindi",
       "Multi-Lang"
-    ]
+    ],
+    "imdbId": "tt0425061",
+    "name": "Get Smart",
+    "year": "2008",
+    "poster": "https://images.metahub.space/poster/small/tt0425061/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt0425061/img",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Comedy"
+    ],
+    "description": "Maxwell Smart, a highly intellectual but bumbling spy working for the CONTROL agency, is tasked with preventing a terrorist attack from rival spy agency KAOS.",
+    "imdbRating": "6.5"
   },
   {
     "id": "d10ea48dc129099bf90a0046537b2f18",
@@ -19356,9 +19596,15 @@
     ],
     "imdbId": "tt0892874",
     "name": "Halla Bol",
-    "year": 2008,
-    "poster": "https://m.media-amazon.com/images/M/MV5BZDAzYjI2NWEtYmFhMC00MWUyLThhY2QtNWQ5YzE5MmYyNDE3XkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BZDAzYjI2NWEtYmFhMC00MWUyLThhY2QtNWQ5YzE5MmYyNDE3XkEyXkFqcGc@._V1_SX250.jpg"
+    "year": "2008",
+    "poster": "https://images.metahub.space/poster/small/tt0892874/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt0892874/img",
+    "genres": [
+      "Crime",
+      "Drama"
+    ],
+    "description": "A popular Bollywood actor witnesses a murder but refuses to come forward to identify the killer(s).",
+    "imdbRating": "6.0"
   },
   {
     "id": "49ca16d560e0a1b677c1640911066f7f",
@@ -19430,9 +19676,16 @@
     ],
     "imdbId": "tt0765429",
     "name": "American Gangster",
-    "year": 2007,
-    "poster": "https://m.media-amazon.com/images/M/MV5BZGExM2MwNjUtNThkNi00ZjBmLWJhZDgtN2ZmOWJiZWEwNGMxXkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BZGExM2MwNjUtNThkNi00ZjBmLWJhZDgtN2ZmOWJiZWEwNGMxXkEyXkFqcGc@._V1_SX250.jpg"
+    "year": "2007",
+    "poster": "https://images.metahub.space/poster/small/tt0765429/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt0765429/img",
+    "genres": [
+      "Biography",
+      "Crime",
+      "Drama"
+    ],
+    "description": "An outcast New York City cop is charged with bringing down Harlem drug lord Frank Lucas.",
+    "imdbRating": "7.8"
   },
   {
     "id": "8468f1bb42cfdac7cc52bf9176e82b19",
@@ -19571,12 +19824,7 @@
       "Kannada",
       "Hindi",
       "Multi-Lang"
-    ],
-    "imdbId": "tt34545743",
-    "name": "Godari Gattupaina",
-    "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BOTcxNTRhMTItN2YzNS00ODhmLWIzODUtNTFiNmU1Yzg3Njc1XkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BOTcxNTRhMTItN2YzNS00ODhmLWIzODUtNTFiNmU1Yzg3Njc1XkEyXkFqcGc@._V1_SX250.jpg"
+    ]
   },
   {
     "id": "2259e6ba6bf22427a0a28ccb347f22c4",
@@ -19669,9 +19917,15 @@
     ],
     "imdbId": "tt26658360",
     "name": "DC Down",
-    "year": 2023,
+    "year": "2023",
     "poster": "https://images.metahub.space/poster/small/tt26658360/img",
-    "thumbnail": "https://images.metahub.space/poster/small/tt26658360/img"
+    "thumbnail": "https://images.metahub.space/poster/small/tt26658360/img",
+    "genres": [
+      "Action",
+      "Thriller"
+    ],
+    "description": "After an earthquake rocks Washington, D.C., the Army Corps races against the clock to rescue the president, who is trapped under the rubble, while a sinister plot aims to capitalize on the disaster.",
+    "imdbRating": "2.8"
   },
   {
     "id": "4789a72364c302c07c38c91a6631f5b8",
@@ -19825,12 +20079,7 @@
       "Kannada",
       "Hindi",
       "Multi-Lang"
-    ],
-    "imdbId": "tt39300072",
-    "name": "Anbe Diana",
-    "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BMDg3NGQ0MGQtMWI2Ny00YjE3LTgxNzctZjJjZDVkMmQ5NzFlXkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BMDg3NGQ0MGQtMWI2Ny00YjE3LTgxNzctZjJjZDVkMmQ5NzFlXkEyXkFqcGc@._V1_SX250.jpg"
+    ]
   },
   {
     "id": "d455ab9b0dd0a92cbf55150ca83f409f",
@@ -19874,7 +20123,18 @@
       "Telugu",
       "Hindi",
       "Multi-Lang"
-    ]
+    ],
+    "imdbId": "tt0106505",
+    "name": "Calendar Girl",
+    "year": "1993",
+    "poster": "https://images.metahub.space/poster/small/tt0106505/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt0106505/img",
+    "genres": [
+      "Comedy",
+      "Drama"
+    ],
+    "description": "Three young men go on an end of the summer trip to Hollywood, California. Their quest: to fulfill the fantasy of meeting Marilyn Monroe.",
+    "imdbRating": "5.2"
   },
   {
     "id": "a36b081511e4fad13dac6e070fc4697c",
@@ -19970,9 +20230,15 @@
     ],
     "imdbId": "tt11561116",
     "name": "The Whisper Man",
-    "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BOTI1YmY3YTQtYTg2Zi00OTZkLTk3NzQtNjcxNzIzMjk2ODZlXkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BOTI1YmY3YTQtYTg2Zi00OTZkLTk3NzQtNjcxNzIzMjk2ODZlXkEyXkFqcGc@._V1_SX250.jpg"
+    "year": "2026",
+    "poster": "https://images.metahub.space/poster/small/tt11561116/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt11561116/img",
+    "genres": [
+      "Crime",
+      "Drama",
+      "Thriller"
+    ],
+    "description": "A grieving father and his young son relocate to the quiet town of Featherbank, which was terrorized by a serial killer known as The Whisper Man 15 years earlier, while rumors circulated that Whisper Man worked with an accomplice."
   },
   {
     "id": "ac7c0531077218f69041654a3101335c",
@@ -20117,12 +20383,7 @@
       "Kannada",
       "Hindi",
       "Multi-Lang"
-    ],
-    "imdbId": "tt39818587",
-    "name": "Newton's 3rd Law",
-    "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BNzcwNTIyOTctNjFiMi00Yjk3LWI0MmItMTFkODMwNmE4NDRjXkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BNzcwNTIyOTctNjFiMi00Yjk3LWI0MmItMTFkODMwNmE4NDRjXkEyXkFqcGc@._V1_SX250.jpg"
+    ]
   },
   {
     "id": "77e58c87b612df580ec543fc533bd76e",
@@ -20267,11 +20528,17 @@
     "languages": [
       "Hindi"
     ],
-    "imdbId": "tt28363783",
+    "imdbId": "tt32275943",
     "name": "Alpha",
-    "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BOGQ1NzJlYzQtOTA0Yy00N2RiLTlkY2UtZWJlNzlmMzFmZjk0XkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BOGQ1NzJlYzQtOTA0Yy00N2RiLTlkY2UtZWJlNzlmMzFmZjk0XkEyXkFqcGc@._V1_SX250.jpg"
+    "year": "2026",
+    "poster": "https://images.metahub.space/poster/small/tt32275943/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt32275943/img",
+    "genres": [
+      "Drama",
+      "Horror"
+    ],
+    "description": "Alpha, a troubled 13-year-old, lives with her single mom. Their world collapses the day Alpha returns from school with a tattoo on her arm.",
+    "imdbRating": "5.9"
   },
   {
     "id": "93d7c1868a81be1beacdd64907a736d4",
@@ -20517,9 +20784,14 @@
     ],
     "imdbId": "tt37654096",
     "name": "The Last Sunrise",
-    "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BMjZlMjQxN2MtYjAyOS00YjliLWE3NjEtNDZjOWI5NTAxNTY2XkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BMjZlMjQxN2MtYjAyOS00YjliLWE3NjEtNDZjOWI5NTAxNTY2XkEyXkFqcGc@._V1_SX250.jpg"
+    "year": "2026",
+    "poster": "https://images.metahub.space/poster/small/tt37654096/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt37654096/img",
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "description": "A young American woman with health challenges finds unexpected romance with a charismatic local during her summer in Majorca, forcing her to weigh her heart's desires against family obligations and her planned return home."
   },
   {
     "id": "355f43a01a2f34e758091bd4c212e462",
@@ -20686,11 +20958,17 @@
       "Multi-Lang",
       "Telugu"
     ],
-    "imdbId": "tt43123022",
-    "name": "Mister Middle Class",
-    "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BOWViNjg3Y2EtYzUxNC00YTUxLThkMjQtYzdlNGFkMTBmZDJkXkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BOWViNjg3Y2EtYzUxNC00YTUxLThkMjQtYzdlNGFkMTBmZDJkXkEyXkFqcGc@._V1_SX250.jpg"
+    "imdbId": "tt7516778",
+    "name": "MCA Middle Class Abbayi",
+    "year": "2017",
+    "poster": "https://images.metahub.space/poster/small/tt7516778/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt7516778/img",
+    "genres": [
+      "Action",
+      "Comedy"
+    ],
+    "description": "A youngster tries to protect his sister-in-law, a transport official, from a dreaded goon who runs an illegal road transport business.",
+    "imdbRating": "6.1"
   },
   {
     "id": "e81cbf356ea4b22919ea6992f31c082c",
@@ -20749,11 +21027,16 @@
       "Hindi",
       "Multi-Lang"
     ],
-    "imdbId": "tt39294728",
-    "name": "Boonie Bears: The Hidden Protector",
-    "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BMDM1MzYxZWItYTliNS00NzYxLTg5ZWItNWRhNTNiYmRlMGQ4XkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BMDM1MzYxZWItYTliNS00NzYxLTg5ZWItNWRhNTNiYmRlMGQ4XkEyXkFqcGc@._V1_SX250.jpg"
+    "imdbId": "tt8028526",
+    "name": "Boonie Bears: The Big Shrink",
+    "year": "2018",
+    "poster": "https://images.metahub.space/poster/small/tt8028526/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt8028526/img",
+    "genres": [
+      "Animation"
+    ],
+    "description": "After Briar, Bramble and Vick are accidentally un-shrunk by Vick's shrinking flashlight, the bears return to their shrunken size, embarking on an adventure of tiny proportions to smash pollution and rescue their ecosystem.",
+    "imdbRating": "5.8"
   },
   {
     "id": "318550cc97d280afa34650e01a7f90e0",
@@ -20914,10 +21197,13 @@
       "Multi-Lang"
     ],
     "imdbId": "tt26445387",
-    "name": "I, Nobody",
-    "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BMWIxMjk3MmItOTRlZC00NWRhLTllNWItYzU2OGI4ZmZjOTUzXkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BMWIxMjk3MmItOTRlZC00NWRhLTllNWItYzU2OGI4ZmZjOTUzXkEyXkFqcGc@._V1_SX250.jpg"
+    "name": "i, Nobody",
+    "year": "2026",
+    "poster": "https://images.metahub.space/poster/small/tt26445387/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt26445387/img",
+    "genres": [
+      "Action"
+    ]
   },
   {
     "id": "a868f6ba97cf0fef6b61db27b46b273a",
@@ -21052,9 +21338,16 @@
     ],
     "imdbId": "tt1105709",
     "name": "8 x 10 Tasveer",
-    "year": 2009,
-    "poster": "https://m.media-amazon.com/images/M/MV5BZGE0OTcyOGEtNjdlMS00ZjEzLThmN2MtNDVmMzQxMzc5NGM1XkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BZGE0OTcyOGEtNjdlMS00ZjEzLThmN2MtNDVmMzQxMzc5NGM1XkEyXkFqcGc@._V1_SX250.jpg"
+    "year": "2009",
+    "poster": "https://images.metahub.space/poster/small/tt1105709/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt1105709/img",
+    "genres": [
+      "Action",
+      "Crime",
+      "Drama"
+    ],
+    "description": "A forest ranger with the ability to visit the past by looking at photographs attempts to solve the mystery behind his father's sudden death.",
+    "imdbRating": "5.5"
   },
   {
     "id": "8258fca40f1a279af2c4f0dc63e59f2c",
@@ -21111,12 +21404,7 @@
     "rawText": "Lurk (2026) Malayalam UHD + ESub - [4K, 1080p & 720p - AVC / HEVC - (DD+5.1 - 192Kbps) - 6.4GB + Rips]",
     "languages": [
       "Malayalam"
-    ],
-    "imdbId": "tt36670542",
-    "name": "Lurk",
-    "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BMzE4MzhlZWEtNzkzMC00YTE5LWE3N2YtZjZmMGIzZjE3ZmYyXkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BMzE4MzhlZWEtNzkzMC00YTE5LWE3N2YtZjZmMGIzZjE3ZmYyXkEyXkFqcGc@._V1_SX250.jpg"
+    ]
   },
   {
     "id": "3557c47cd839300068a14614ded1d92a",
@@ -21242,14 +21530,9 @@
     ],
     "imdbId": "tt3672618",
     "name": "Dekh Tamasha Dekh",
-    "year": "2014",
-    "poster": "https://images.metahub.space/poster/small/tt3672618/img",
-    "thumbnail": "https://images.metahub.space/poster/small/tt3672618/img",
-    "genres": [
-      "Comedy"
-    ],
-    "description": "A social and political satire about a true incident,it revolves around the search for the religious identity of a poor man crushed under the weight of a politician's hoarding. The film explores an Impossible India where bizarre is...",
-    "imdbRating": "6.1"
+    "year": 2014,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTQxNzAyODkyNV5BMl5BanBnXkFtZTgwMjY1NTA3MTE@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BMTQxNzAyODkyNV5BMl5BanBnXkFtZTgwMjY1NTA3MTE@._V1_SX250.jpg"
   },
   {
     "id": "c3dfd4315fc22a5c7c22d214338669d3",
@@ -21456,11 +21739,18 @@
       "Hindi",
       "Multi-Lang"
     ],
-    "imdbId": "tt39260895",
-    "name": "Pyaar Prema Kalyanam",
-    "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BMWI0NjAzZWQtYTJhZS00YmEzLTgyNmItNTJkZDcxNjM3OWQ2XkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BMWI0NjAzZWQtYTJhZS00YmEzLTgyNmItNTJkZDcxNjM3OWQ2XkEyXkFqcGc@._V1_SX250.jpg"
+    "imdbId": "tt8208098",
+    "name": "Pyaar Prema Kaadhal",
+    "year": "2018",
+    "poster": "https://images.metahub.space/poster/small/tt8208098/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt8208098/img",
+    "genres": [
+      "Drama",
+      "Musical",
+      "Romance"
+    ],
+    "description": "A man is conflicted when he falls for a free-spirited woman that he knows that his mother will not like.",
+    "imdbRating": "6.4"
   },
   {
     "id": "f9c093b01abe50f36bffeb2f3ea6d1f5",
@@ -21769,11 +22059,17 @@
       "Hindi",
       "Multi-Lang"
     ],
-    "imdbId": "tt37161651",
-    "name": "Chennai Love Story",
-    "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BYmNhOWU4ZmItNDNlYi00N2ZkLWFlZDEtM2RhNWI5NDgyYzQwXkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BYmNhOWU4ZmItNDNlYi00N2ZkLWFlZDEtM2RhNWI5NDgyYzQwXkEyXkFqcGc@._V1_SX250.jpg"
+    "imdbId": "tt0066011",
+    "name": "Love Story",
+    "year": "1970",
+    "poster": "https://images.metahub.space/poster/small/tt0066011/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt0066011/img",
+    "genres": [
+      "Drama",
+      "Romance"
+    ],
+    "description": "A boy and a girl from different backgrounds fall in love regardless of their upbringing - and then tragedy strikes.",
+    "imdbRating": "6.9"
   },
   {
     "id": "6a738d8de355fc580a3439e0ab48eb6f",
@@ -21809,11 +22105,18 @@
     "languages": [
       "Tamil"
     ],
-    "imdbId": "tt35856037",
-    "name": "Your Mother Your Mother Your Mother",
-    "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BZDEwMjk2MjMtMTI3ZS00ODg5LWI2ZDYtOTVkOGZlNzIyYzRjXkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BZDEwMjk2MjMtMTI3ZS00ODg5LWI2ZDYtOTVkOGZlNzIyYzRjXkEyXkFqcGc@._V1_SX250.jpg"
+    "imdbId": "tt27200708",
+    "name": "Mother Mary",
+    "year": "2026",
+    "poster": "https://images.metahub.space/poster/small/tt27200708/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt27200708/img",
+    "genres": [
+      "Drama",
+      "Music",
+      "Thriller"
+    ],
+    "description": "Long-buried wounds rise to the surface when iconic pop star Mother Mary reunites with her estranged best friend and former costume designer, Sam Anselm, on the eve of her comeback performance.",
+    "imdbRating": "5.4"
   },
   {
     "id": "a4aac7d8bc34909c2c1793389d80111a",
@@ -21857,9 +22160,14 @@
     ],
     "imdbId": "tt4794022",
     "name": "Udanchhoo",
-    "year": 2018,
-    "poster": "https://m.media-amazon.com/images/M/MV5BNjhlMDQ5NGItNjUwMy00OTNmLWI0YzAtOTVjMTQ1YWY2ODJhXkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BNjhlMDQ5NGItNjUwMy00OTNmLWI0YzAtOTVjMTQ1YWY2ODJhXkEyXkFqcGc@._V1_SX250.jpg"
+    "year": "2018",
+    "poster": "https://images.metahub.space/poster/small/tt4794022/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt4794022/img",
+    "genres": [
+      "Comedy"
+    ],
+    "description": "Guru G is running a black money operation through his ashram with help from his trusted devotee Billu and Julia. The film goes on to show how all the characters get involved in a huge con mystery resulting in a funny and dramatic ...",
+    "imdbRating": "3.7"
   },
   {
     "id": "02dc80a8d875815d406d19cc96035ab4",
@@ -21903,9 +22211,16 @@
     ],
     "imdbId": "tt1570417",
     "name": "Accident on Hill Road",
-    "year": 2009,
-    "poster": "https://m.media-amazon.com/images/M/MV5BMDQzMzJiYTctMWNkZi00Yjk2LWJkOGUtNWYzMTU0MjNmOWI4XkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BMDQzMzJiYTctMWNkZi00Yjk2LWJkOGUtNWYzMTU0MjNmOWI4XkEyXkFqcGc@._V1_SX250.jpg"
+    "year": "2010",
+    "poster": "https://images.metahub.space/poster/small/tt1570417/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt1570417/img",
+    "genres": [
+      "Crime",
+      "Drama",
+      "Thriller"
+    ],
+    "description": "In order not to jeopardize her overseas career, an impaired woman, who had just run over a male, decides to conceal her crime with the victim trapped in the windshield.",
+    "imdbRating": "4.2"
   },
   {
     "id": "fb7bb80cdeb67ccd1279dacda128f37d",
@@ -21949,9 +22264,15 @@
     ],
     "imdbId": "tt8365426",
     "name": "Kill Mode",
-    "year": 2020,
-    "poster": "https://m.media-amazon.com/images/M/MV5BZGEzZTMzZmUtZjEwNS00YjlhLTgzNzItZDU2NTlmZjVhOTdkXkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BZGEzZTMzZmUtZjEwNS00YjlhLTgzNzItZDU2NTlmZjVhOTdkXkEyXkFqcGc@._V1_SX250.jpg"
+    "year": "2020",
+    "poster": "https://images.metahub.space/poster/small/tt8365426/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt8365426/img",
+    "genres": [
+      "Action",
+      "Sci-Fi"
+    ],
+    "description": "In a gritty near future, an ex-freedom fighter reluctantly jumps back into the fold after discovering a disturbing secret that could bring down the company that owns the world.",
+    "imdbRating": "3.0"
   },
   {
     "id": "8dad618354ba1d7a50464fe8cd5fd68e",
@@ -22037,16 +22358,16 @@
       "Hindi",
       "Multi-Lang"
     ],
-    "imdbId": "tt36958312",
-    "name": "The Devil's Mouth",
+    "imdbId": "tt29719182",
+    "name": "Bury the Devil",
     "year": "2026",
-    "poster": "https://images.metahub.space/poster/small/tt36958312/img",
-    "thumbnail": "https://images.metahub.space/poster/small/tt36958312/img",
+    "poster": "https://images.metahub.space/poster/small/tt29719182/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt29719182/img",
     "genres": [
-      "Horror",
       "Thriller"
     ],
-    "description": "A group of college friends' Thailand adventure turns deadly when they become trapped in submerged caves with a dangerous predator. As oxygen runs low, past conflicts emerge in their desperate fight for survival."
+    "description": "When a hospice nurse finds herself trapped with a dementia patient, she begins to suspect something else is wrong with the woman, something otherworldly, and must fight to survive the night.",
+    "imdbRating": "5.8"
   },
   {
     "id": "4bd03ce2ca046b044a2e08084d3b17ef",
@@ -22073,9 +22394,16 @@
     ],
     "imdbId": "tt0840361",
     "name": "The Town",
-    "year": 2010,
-    "poster": "https://m.media-amazon.com/images/M/MV5BMTcyNzcxODg3Nl5BMl5BanBnXkFtZTcwMTUyNjQ3Mw@@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BMTcyNzcxODg3Nl5BMl5BanBnXkFtZTcwMTUyNjQ3Mw@@._V1_SX250.jpg"
+    "year": "2010",
+    "poster": "https://images.metahub.space/poster/small/tt0840361/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt0840361/img",
+    "genres": [
+      "Crime",
+      "Drama",
+      "Thriller"
+    ],
+    "description": "A proficient group of thieves rob a bank and hold the manager hostage. Things begin to get complicated when one of the crew members falls in love with her.",
+    "imdbRating": "7.5"
   },
   {
     "id": "8812cf00a3a866a5fd92de36534e7d40",
@@ -22152,11 +22480,17 @@
     "languages": [
       "Malayalam"
     ],
-    "imdbId": "tt40620387",
-    "name": "Pagida Kali",
-    "year": 2026,
-    "poster": "https://images.metahub.space/poster/small/tt40620387/img",
-    "thumbnail": "https://images.metahub.space/poster/small/tt40620387/img"
+    "imdbId": "tt3508936",
+    "name": "Kali",
+    "year": "2024",
+    "poster": "https://images.metahub.space/poster/small/tt3508936/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt3508936/img",
+    "genres": [
+      "Action",
+      "Thriller"
+    ],
+    "description": "Lisa, aka Kali, who has nothing left to lose when she finds out her husband has been executed in Rio to cover up a corruption scandal. A former Special Forces recruit, she heads to Brazil with fists, blood and explosives, to Know ...",
+    "imdbRating": "5.2"
   },
   {
     "id": "66765d7aa3ab5e3df6c70a33ab5ca2b2",
@@ -22227,9 +22561,16 @@
     ],
     "imdbId": "tt23790696",
     "name": "The Raja Saab",
-    "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BMDg4ODMzZjAtOGI0MS00Y2I3LWFkM2MtNzQ5MDI2MDE5ZTAwXkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BMDg4ODMzZjAtOGI0MS00Y2I3LWFkM2MtNzQ5MDI2MDE5ZTAwXkEyXkFqcGc@._V1_SX250.jpg"
+    "year": "2026",
+    "poster": "https://images.metahub.space/poster/small/tt23790696/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt23790696/img",
+    "genres": [
+      "Action",
+      "Comedy",
+      "Fantasy"
+    ],
+    "description": "Seeking his lost grandfather, a young man enters a haunted mansion and awakens a family curse powerful enough to upend both his life and reality.",
+    "imdbRating": "3.1"
   },
   {
     "id": "a609550fc9b826a641d06ee1c5153666",
@@ -22471,12 +22812,7 @@
       "Telugu",
       "Hindi",
       "Multi-Lang"
-    ],
-    "imdbId": "tt39530053",
-    "name": "Snake 5: Monster City",
-    "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BYWNjNWY0YjgtNDdiNC00ZmEzLTk4NzktZWE1Y2M1MmZiMDM1XkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BYWNjNWY0YjgtNDdiNC00ZmEzLTk4NzktZWE1Y2M1MmZiMDM1XkEyXkFqcGc@._V1_SX250.jpg"
+    ]
   },
   {
     "id": "9133d4176f97af5c2c90aab009d74f6d",
@@ -22895,9 +23231,15 @@
     ],
     "imdbId": "tt0088103",
     "name": "Sheena",
-    "year": 1984,
-    "poster": "https://m.media-amazon.com/images/M/MV5BZTNkN2I1OTgtMjAyOS00YWUwLTg3NDYtOTlmZjY4ZDE1N2M5XkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BZTNkN2I1OTgtMjAyOS00YWUwLTg3NDYtOTlmZjY4ZDE1N2M5XkEyXkFqcGc@._V1_SX250.jpg"
+    "year": "1984",
+    "poster": "https://images.metahub.space/poster/small/tt0088103/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt0088103/img",
+    "genres": [
+      "Adventure",
+      "Fantasy"
+    ],
+    "description": "Sheena grew up in the African wild, raised by a mystical witch woman. When her foster mother is framed for a murder Sheena is forced to flee, helped by her ability to talk to animals and her knowledge of the jungle.",
+    "imdbRating": "4.9"
   },
   {
     "id": "98b9ce51ad5efdae6d7749f4569cb849",
@@ -22943,7 +23285,12 @@
     "rawText": "Moda Kavida Vatavarana (2026) Tamil HD + ESub - [1080p & 720p - AVC / HEVC - (DD+2.0 - 224Kbps) - 2GB + Rips] - [W]",
     "languages": [
       "Tamil"
-    ]
+    ],
+    "imdbId": "tt38748101",
+    "name": "Moda Kavida Vaatavarana",
+    "year": 2026,
+    "poster": "https://m.media-amazon.com/images/M/MV5BNmZkYzkxMjMtNWEwMi00M2U5LThjYmEtNDc4MjAwODgwYjBjXkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BNmZkYzkxMjMtNWEwMi00M2U5LThjYmEtNDc4MjAwODgwYjBjXkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "92ce5167cff46d7e3818e3f5f78b2424",
@@ -23275,11 +23622,18 @@
     "languages": [
       "Hindi"
     ],
-    "imdbId": "tt33737583",
+    "imdbId": "tt5698320",
     "name": "Euphoria",
-    "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BMTRiMGMzOWUtNGFmZC00ODY4LWJlNmEtODJjNDdmNTBlYTgwXkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BMTRiMGMzOWUtNGFmZC00ODY4LWJlNmEtODJjNDdmNTBlYTgwXkEyXkFqcGc@._V1_SX250.jpg"
+    "year": "2019",
+    "poster": "https://images.metahub.space/poster/small/tt5698320/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt5698320/img",
+    "genres": [
+      "Adventure",
+      "Drama",
+      "Mystery"
+    ],
+    "description": "Sisters in conflict travelling through Europe toward a mystery destination.",
+    "imdbRating": "5.7"
   },
   {
     "id": "231d5709d05f9e0628f5f64c581cbcec",
@@ -23369,10 +23723,15 @@
       "Hindi",
       "Multi-Lang"
     ],
-    "imdbId": "tt12144176",
-    "name": "To the Max",
-    "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BZjgxNDQzNzEtNzIzMy00NjE3LWI4YjktOWYzYmI2ZGQ1Yjk1XkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BZjgxNDQzNzEtNzIzMy00NjE3LWI4YjktOWYzYmI2ZGQ1Yjk1XkEyXkFqcGc@._V1_SX250.jpg"
+    "imdbId": "tt2974902",
+    "name": "Zoey to the Max",
+    "year": "2015",
+    "poster": "https://images.metahub.space/poster/small/tt2974902/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt2974902/img",
+    "genres": [
+      "Family"
+    ],
+    "description": "Zoey, a thirteen year old foster child, watches her foster family's dog get stolen while she's in charge! The criminals, a pair of Home-Alone-like thugs, are after the mutt because he is a famous show dog. Zoey runs away from the ...",
+    "imdbRating": "5.0"
   }
 ]
