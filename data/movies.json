@@ -4171,13 +4171,9 @@
     ],
     "imdbId": "tt37522541",
     "name": "Apocalypse Z: New World",
-    "year": "2026",
-    "poster": "https://images.metahub.space/poster/small/tt37522541/img",
-    "thumbnail": "https://images.metahub.space/poster/small/tt37522541/img",
-    "genres": [
-      "Horror"
-    ],
-    "description": "A supply mission to virus-ravaged Spain turns complex when Roberto, from the safe Canary Islands, joins with secret intentions. The team confronts infected masses and trust issues while weighing survival against humanity."
+    "year": 2026,
+    "poster": "https://m.media-amazon.com/images/M/MV5BNGI4ODQ1NGQtMTVmZS00NzcwLThmNWUtMTI4MDhkNDAyZDI0XkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BNGI4ODQ1NGQtMTVmZS00NzcwLThmNWUtMTI4MDhkNDAyZDI0XkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "c81e102fa63256998c64186d0bc34eda",
@@ -6141,8 +6137,8 @@
     "imdbId": "tt27419420",
     "name": "Street Fighter",
     "year": 2026,
-    "poster": "https://images.metahub.space/poster/small/tt27419420/img",
-    "thumbnail": "https://images.metahub.space/poster/small/tt27419420/img"
+    "poster": "https://m.media-amazon.com/images/M/MV5BYjhlN2EyNGUtY2U4YS00ZTQ3LTg0NTgtNGIxZmVhMDlmMjIyXkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BYjhlN2EyNGUtY2U4YS00ZTQ3LTg0NTgtNGIxZmVhMDlmMjIyXkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "ea61cfa764e73f29b776f4aad4dd9fd8",
@@ -6791,9 +6787,15 @@
     ],
     "imdbId": "tt9000310",
     "name": "Ghost in the Cell",
-    "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BYWYzM2ZiYWQtMTVmOS00NTMyLWI0YjktOTU3ZDQ2MzE4NDc0XkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BYWYzM2ZiYWQtMTVmOS00NTMyLWI0YjktOTU3ZDQ2MzE4NDc0XkEyXkFqcGc@._V1_SX250.jpg"
+    "year": "2026",
+    "poster": "https://images.metahub.space/poster/small/tt9000310/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt9000310/img",
+    "genres": [
+      "Comedy",
+      "Horror",
+      "Thriller"
+    ],
+    "description": "A notorious prison, an invisible force starts killing inmates brutally, compelling enemy gangs and corrupt guards to work together as they try to survive the mounting bloodshed."
   },
   {
     "id": "cd80cce0948a64c342f27554b824446e",
@@ -9463,8 +9465,8 @@
     "imdbId": "tt38265603",
     "name": "Pradhama Drishtiya Kuttakkar",
     "year": 2026,
-    "poster": "https://images.metahub.space/poster/small/tt38265603/img",
-    "thumbnail": "https://images.metahub.space/poster/small/tt38265603/img"
+    "poster": "https://m.media-amazon.com/images/M/MV5BZmViMzIwM2ItZGUxNi00MmM5LTk0Y2EtNWI5ZWY0MjA2YmZjXkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BZmViMzIwM2ItZGUxNi00MmM5LTk0Y2EtNWI5ZWY0MjA2YmZjXkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "5e71909ac1fca0cea35868ba6c7c015b",
@@ -12036,8 +12038,8 @@
     "imdbId": "tt35672862",
     "name": "Hokum",
     "year": 2026,
-    "poster": "https://images.metahub.space/poster/small/tt35672862/img",
-    "thumbnail": "https://images.metahub.space/poster/small/tt35672862/img"
+    "poster": "https://m.media-amazon.com/images/M/MV5BZjA1ZjFlZGItNTVjZC00NTFhLTg2YTEtODMzODRmNGFiNTdmXkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BZjA1ZjFlZGItNTVjZC00NTFhLTg2YTEtODMzODRmNGFiNTdmXkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "ca09bfbc9c0bc4be1a156757acb82f3e",
@@ -14900,11 +14902,16 @@
       "Hindi",
       "Multi-Lang"
     ],
-    "imdbId": "tt1687901",
+    "imdbId": "tt39120306",
     "name": "The Awakening",
-    "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BMzk0ODc1NDMxOV5BMl5BanBnXkFtZTcwNTAzMzgwOA@@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BMzk0ODc1NDMxOV5BMl5BanBnXkFtZTcwNTAzMzgwOA@@._V1_SX250.jpg"
+    "year": "2025",
+    "poster": "https://images.metahub.space/poster/small/tt39120306/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt39120306/img",
+    "genres": [
+      "Action",
+      "Horror",
+      "War"
+    ]
   },
   {
     "id": "0615a846b3064a77e3c2b7db5e2a95b5",
@@ -18596,16 +18603,9 @@
     ],
     "imdbId": "tt1979320",
     "name": "Rush",
-    "year": "2013",
-    "poster": "https://images.metahub.space/poster/small/tt1979320/img",
-    "thumbnail": "https://images.metahub.space/poster/small/tt1979320/img",
-    "genres": [
-      "Biography",
-      "Drama",
-      "Sport"
-    ],
-    "description": "James Hunt and Niki Lauda, two extremely skilled Formula One racers, have an intense rivalry with each other. However, it is their enmity that pushes them to their limits.",
-    "imdbRating": "8.1"
+    "year": 2013,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTZhOGQxM2ItNGQyYy00YzE5LWI5MjMtNmMzNGQzNDE1OTUzXkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BMTZhOGQxM2ItNGQyYy00YzE5LWI5MjMtNmMzNGQzNDE1OTUzXkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "072861020dd5b73e4ef8d950e3d41e28",
@@ -19676,8 +19676,8 @@
     "imdbId": "tt26658360",
     "name": "DC Down",
     "year": 2023,
-    "poster": "https://images.metahub.space/poster/small/tt26658360/img",
-    "thumbnail": "https://images.metahub.space/poster/small/tt26658360/img"
+    "poster": "https://m.media-amazon.com/images/M/MV5BZmU0YWE2ODctZjAzMC00NzUzLTgwZWMtMDE3ZjU2NjRkYzM4XkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BZmU0YWE2ODctZjAzMC00NzUzLTgwZWMtMDE3ZjU2NjRkYzM4XkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "4789a72364c302c07c38c91a6631f5b8",
@@ -22937,7 +22937,12 @@
     "rawText": "Moda Kavida Vatavarana (2026) Tamil HD + ESub - [1080p & 720p - AVC / HEVC - (DD+2.0 - 224Kbps) - 2GB + Rips] - [W]",
     "languages": [
       "Tamil"
-    ]
+    ],
+    "imdbId": "tt38748101",
+    "name": "Moda Kavida Vaatavarana",
+    "year": 2026,
+    "poster": "https://m.media-amazon.com/images/M/MV5BNmZkYzkxMjMtNWEwMi00M2U5LThjYmEtNDc4MjAwODgwYjBjXkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BNmZkYzkxMjMtNWEwMi00M2U5LThjYmEtNDc4MjAwODgwYjBjXkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "92ce5167cff46d7e3818e3f5f78b2424",
