@@ -14896,11 +14896,16 @@
       "Hindi",
       "Multi-Lang"
     ],
-    "imdbId": "tt1687901",
+    "imdbId": "tt39120306",
     "name": "The Awakening",
-    "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BMzk0ODc1NDMxOV5BMl5BanBnXkFtZTcwNTAzMzgwOA@@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BMzk0ODc1NDMxOV5BMl5BanBnXkFtZTcwNTAzMzgwOA@@._V1_SX250.jpg"
+    "year": "2025",
+    "poster": "https://images.metahub.space/poster/small/tt39120306/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt39120306/img",
+    "genres": [
+      "Action",
+      "Horror",
+      "War"
+    ]
   },
   {
     "id": "0615a846b3064a77e3c2b7db5e2a95b5",
@@ -19422,12 +19427,7 @@
       "Tamil",
       "Hindi",
       "Multi-Lang"
-    ],
-    "imdbId": "tt0765429",
-    "name": "American Gangster",
-    "year": 2007,
-    "poster": "https://m.media-amazon.com/images/M/MV5BZGExM2MwNjUtNThkNi00ZjBmLWJhZDgtN2ZmOWJiZWEwNGMxXkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BZGExM2MwNjUtNThkNi00ZjBmLWJhZDgtN2ZmOWJiZWEwNGMxXkEyXkFqcGc@._V1_SX250.jpg"
+    ]
   },
   {
     "id": "8468f1bb42cfdac7cc52bf9176e82b19",
