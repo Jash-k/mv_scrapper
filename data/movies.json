@@ -6162,14 +6162,9 @@
     ],
     "imdbId": "tt27419420",
     "name": "Street Fighter",
-    "year": "2026",
-    "poster": "https://images.metahub.space/poster/small/tt27419420/img",
-    "thumbnail": "https://images.metahub.space/poster/small/tt27419420/img",
-    "genres": [
-      "Action"
-    ],
-    "description": "Street Fighters Ryu and Ken reunite when Chun-Li recruits them for the World Warrior Tournament. As they face a hidden conspiracy, they must confront each other and their past-or face destruction.",
-    "imdbRating": "6.2"
+    "year": 2026,
+    "poster": "https://m.media-amazon.com/images/M/MV5BYjhlN2EyNGUtY2U4YS00ZTQ3LTg0NTgtNGIxZmVhMDlmMjIyXkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BYjhlN2EyNGUtY2U4YS00ZTQ3LTg0NTgtNGIxZmVhMDlmMjIyXkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "ea61cfa764e73f29b776f4aad4dd9fd8",
@@ -9184,7 +9179,12 @@
     "rawText": "Promise (2026) Tamil HD + ESub - [1080p & 720p - AVC / HEVC - (DD+2.0 - 224Kbps) - 4.8GB + Rips]",
     "languages": [
       "Tamil"
-    ]
+    ],
+    "imdbId": "tt39052798",
+    "name": "Promise",
+    "year": 2026,
+    "poster": "https://m.media-amazon.com/images/M/MV5BNjI2YjYxNjQtMDk5My00YWU2LTkzNTQtODkyNTFkMjBiOGY0XkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BNjI2YjYxNjQtMDk5My00YWU2LTkzNTQtODkyNTFkMjBiOGY0XkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "d93e7f04e35dc441595909e577d4c308",
@@ -9793,7 +9793,12 @@
     "rawText": "Video (2026) Kannada UHD + ESub - [1080p & 720p - AVC - (DD+2.0 - 224Kbps) - 5GB + Rips]",
     "languages": [
       "Kannada"
-    ]
+    ],
+    "imdbId": "tt36984281",
+    "name": "Video",
+    "year": 2026,
+    "poster": "https://m.media-amazon.com/images/M/MV5BZGQ5ZDVmMmMtODBmNi00ZmJjLThkNmUtMGY3MjMzNjRiYTA2XkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BZGQ5ZDVmMmMtODBmNi00ZmJjLThkNmUtMGY3MjMzNjRiYTA2XkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "ec20267ec693917d0eab13a2c93517cd",
@@ -11224,13 +11229,9 @@
     ],
     "imdbId": "tt36429458",
     "name": "Doing Life",
-    "year": "2026",
-    "poster": "https://images.metahub.space/poster/small/tt36429458/img",
-    "thumbnail": "https://images.metahub.space/poster/small/tt36429458/img",
-    "genres": [
-      "Drama"
-    ],
-    "description": "A single mother fighting to survive and a reformed ex-con with untapped talent find in each other an unlikely second chance."
+    "year": 2026,
+    "poster": "https://m.media-amazon.com/images/M/MV5BYmNlYzg5NmMtMWZlMi00MWMwLWJmODEtMzVhOTQ3NjEzOGM2XkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BYmNlYzg5NmMtMWZlMi00MWMwLWJmODEtMzVhOTQ3NjEzOGM2XkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "bfb32ffd5bdb85eb7d753cb47b9104d3",
@@ -14946,18 +14947,16 @@
       "Hindi",
       "Multi-Lang"
     ],
-    "imdbId": "tt1687901",
+    "imdbId": "tt39120306",
     "name": "The Awakening",
-    "year": "2011",
-    "poster": "https://images.metahub.space/poster/small/tt1687901/img",
-    "thumbnail": "https://images.metahub.space/poster/small/tt1687901/img",
+    "year": "2025",
+    "poster": "https://images.metahub.space/poster/small/tt39120306/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt39120306/img",
     "genres": [
-      "Drama",
+      "Action",
       "Horror",
-      "Mystery"
-    ],
-    "description": "In 1921, England is overwhelmed by the loss and grief of World War I. Hoax exposer Florence Cathcart visits a boarding school to explain sightings of a child ghost. Everything she believes unravels as the 'missing' begin to show t...",
-    "imdbRating": "6.5"
+      "War"
+    ]
   },
   {
     "id": "0615a846b3064a77e3c2b7db5e2a95b5",
@@ -15257,16 +15256,9 @@
     ],
     "imdbId": "tt0103855",
     "name": "The Bodyguard",
-    "year": "1992",
-    "poster": "https://images.metahub.space/poster/small/tt0103855/img",
-    "thumbnail": "https://images.metahub.space/poster/small/tt0103855/img",
-    "genres": [
-      "Drama",
-      "Music",
-      "Romance"
-    ],
-    "description": "A former Secret Service agent takes on the job of bodyguard to an R&amp;B singer, whose lifestyle is most unlike a President's.",
-    "imdbRating": "6.4"
+    "year": 2024,
+    "poster": "https://m.media-amazon.com/images/M/MV5BNTM4ZWNjZmItMmUxNy00Y2M2LTlhZmItMjc0NjQzZmNiOWY5XkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BNTM4ZWNjZmItMmUxNy00Y2M2LTlhZmItMjc0NjQzZmNiOWY5XkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "62483b0d475d2c2febba62d838137f73",
@@ -21933,18 +21925,11 @@
     "languages": [
       "Tamil"
     ],
-    "imdbId": "tt27200708",
-    "name": "Mother Mary",
-    "year": "2026",
-    "poster": "https://images.metahub.space/poster/small/tt27200708/img",
-    "thumbnail": "https://images.metahub.space/poster/small/tt27200708/img",
-    "genres": [
-      "Drama",
-      "Music",
-      "Thriller"
-    ],
-    "description": "Long-buried wounds rise to the surface when iconic pop star Mother Mary reunites with her estranged best friend and former costume designer, Sam Anselm, on the eve of her comeback performance.",
-    "imdbRating": "5.4"
+    "imdbId": "tt35856037",
+    "name": "Your Mother Your Mother Your Mother",
+    "year": 2026,
+    "poster": "https://m.media-amazon.com/images/M/MV5BZDEwMjk2MjMtMTI3ZS00ODg5LWI2ZDYtOTVkOGZlNzIyYzRjXkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BZDEwMjk2MjMtMTI3ZS00ODg5LWI2ZDYtOTVkOGZlNzIyYzRjXkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "a4aac7d8bc34909c2c1793389d80111a",
