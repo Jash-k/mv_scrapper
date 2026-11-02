@@ -4304,11 +4304,11 @@
       "Hindi",
       "Multi-Lang"
     ],
-    "imdbId": "tt3416828",
-    "name": "Ice Age: Collision Course",
+    "imdbId": "tt38793125",
+    "name": "Collision Course",
     "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BZmExOGMxNzMtYjc3MC00OWU5LTg5OTAtNmRhNzBkYzk2ZGE1XkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BZmExOGMxNzMtYjc3MC00OWU5LTg5OTAtNmRhNzBkYzk2ZGE1XkEyXkFqcGc@._V1_SX250.jpg"
+    "poster": "https://m.media-amazon.com/images/M/MV5BMWI3NDA0NmMtODgyZS00NTk0LTg3YjUtMzI3NjdkYTZiNmMxXkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BMWI3NDA0NmMtODgyZS00NTk0LTg3YjUtMzI3NjdkYTZiNmMxXkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "a2e1ea047f0da5a76185d6729372de17",
@@ -7249,11 +7249,11 @@
     "languages": [
       "Tamil"
     ],
-    "imdbId": "tt0214529",
-    "name": "Belphegor: Phantom of the Louvre",
+    "imdbId": "tt0071994",
+    "name": "Phantom of the Paradise",
     "year": 2001,
-    "poster": "https://m.media-amazon.com/images/M/MV5BMzMwMTI3YTItYTI3MC00M2M2LThjNjAtMzg3ZWY0YTAzYjM0XkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BMzMwMTI3YTItYTI3MC00M2M2LThjNjAtMzg3ZWY0YTAzYjM0XkEyXkFqcGc@._V1_SX250.jpg"
+    "poster": "https://m.media-amazon.com/images/M/MV5BZmRkNGJjNTAtMmQzNC00ZDc2LWI5MDItYWM1ZDliMTU5YzEzXkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BZmRkNGJjNTAtMmQzNC00ZDc2LWI5MDItYWM1ZDliMTU5YzEzXkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "c2c1c7a6fea98ea04b60cedc7aed1a74",
@@ -9363,11 +9363,18 @@
     "languages": [
       "Tamil"
     ],
-    "imdbId": "tt39052798",
-    "name": "Promise",
-    "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BNjI2YjYxNjQtMDk5My00YWU2LTkzNTQtODkyNTFkMjBiOGY0XkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BNjI2YjYxNjQtMDk5My00YWU2LTkzNTQtODkyNTFkMjBiOGY0XkEyXkFqcGc@._V1_SX250.jpg"
+    "imdbId": "tt4776998",
+    "name": "The Promise",
+    "year": "2017",
+    "poster": "https://images.metahub.space/poster/small/tt4776998/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt4776998/img",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Drama"
+    ],
+    "description": "Set during the last days of the Ottoman Empire, The Promise follows a love triangle between Michael, a brilliant medical student, the beautiful and sophisticated Ana, and Chris - a renowned American journalist based in Paris.",
+    "imdbRating": "6.1"
   },
   {
     "id": "d93e7f04e35dc441595909e577d4c308",
@@ -10894,11 +10901,11 @@
       "Hindi",
       "Multi-Lang"
     ],
-    "imdbId": "tt2461150",
+    "imdbId": "tt0119630",
     "name": "Masterminds",
     "year": 1997,
-    "poster": "https://m.media-amazon.com/images/M/MV5BMTYzMTY5Mzg1Ml5BMl5BanBnXkFtZTgwNTUzODUwNjE@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BMTYzMTY5Mzg1Ml5BMl5BanBnXkFtZTgwNTUzODUwNjE@._V1_SX250.jpg"
+    "poster": "https://m.media-amazon.com/images/M/MV5BODYzMTczMGUtNjcyMy00MDU3LWE2NTQtZTk5MmQzYjhkNDdmXkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BODYzMTczMGUtNjcyMy00MDU3LWE2NTQtZTk5MmQzYjhkNDdmXkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "9a8c506202079398b78b09bf0892c64d",
@@ -13235,7 +13242,7 @@
       "Thriller"
     ],
     "description": "Follows a prehistoric arachnid that terrifies a stranded group of campers who hike into the wrong woods. Based on the spine-tingling horror novel from the actor best known as \"Murr\" on TV's Impractical Jokers.",
-    "imdbRating": "6.7"
+    "imdbRating": "4.5"
   },
   {
     "id": "58deb6dfb62e77f3a5cfae3e3b0449e4",
@@ -13550,8 +13557,8 @@
     "imdbId": "tt29355505",
     "name": "Toy Story 5",
     "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BZTI1YTBiNmEtYWUxZi00YzFkLWIzNjMtMmZjMmY2NzM0ZWMzXkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BZTI1YTBiNmEtYWUxZi00YzFkLWIzNjMtMmZjMmY2NzM0ZWMzXkEyXkFqcGc@._V1_SX250.jpg"
+    "poster": "https://images.metahub.space/poster/small/tt29355505/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt29355505/img"
   },
   {
     "id": "8cad3b891452a84adec960f8bb6bf008",
@@ -18036,11 +18043,11 @@
     "languages": [
       "Hindi"
     ],
-    "imdbId": "tt27977862",
+    "imdbId": "tt0403217",
     "name": "Last Days",
     "year": 2025,
-    "poster": "https://m.media-amazon.com/images/M/MV5BMWFkYTM1NWUtMzU1Yi00NjEwLThmZGItNjQwZTZjMzBhMDZkXkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BMWFkYTM1NWUtMzU1Yi00NjEwLThmZGItNjQwZTZjMzBhMDZkXkEyXkFqcGc@._V1_SX250.jpg"
+    "poster": "https://m.media-amazon.com/images/M/MV5BODk1OTUyZmYtNTQxYS00Y2FhLTliNmUtNTM2OTcwZjgzMzI0XkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BODk1OTUyZmYtNTQxYS00Y2FhLTliNmUtNTM2OTcwZjgzMzI0XkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "5de9748c1cfbb42761b6aa2a06712bde",
@@ -18862,7 +18869,7 @@
       "Comedy"
     ],
     "description": "A Texas tech start-up breaks every crowdfunding record in the books, but they lose it all when a patent troll shuts them down. Refusing to go down without a fight, our heroes use a legal loophole to beat the trolls at their own ga...",
-    "imdbRating": "5.9"
+    "imdbRating": "5.4"
   },
   {
     "id": "4a5c08ebab7dcc8432868c211dee3cb9",
@@ -20101,11 +20108,11 @@
       "Hindi",
       "Multi-Lang"
     ],
-    "imdbId": "tt1713476",
+    "imdbId": "tt30217600",
     "name": "The Bay",
     "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BNDEzMWU2YWUtOWVkMy00OTg0LTkyMjctMDA3MDc2NGViYjU5XkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BNDEzMWU2YWUtOWVkMy00OTg0LTkyMjctMDA3MDc2NGViYjU5XkEyXkFqcGc@._V1_SX250.jpg"
+    "poster": "https://m.media-amazon.com/images/M/MV5BY2ZlZDc3YjItNjMxNi00ZGQwLWFkMzUtMDVlODg5NDI4NGZlXkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BY2ZlZDc3YjItNjMxNi00ZGQwLWFkMzUtMDVlODg5NDI4NGZlXkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "bdf03a76e9c799cf6fdcbaebe38dd32c",
@@ -22596,8 +22603,8 @@
     "imdbId": "tt1219827",
     "name": "Ghost in the Shell",
     "year": 2017,
-    "poster": "https://images.metahub.space/poster/small/tt1219827/img",
-    "thumbnail": "https://images.metahub.space/poster/small/tt1219827/img"
+    "poster": "https://m.media-amazon.com/images/M/MV5BNzBkNjdjZTctNjdhOS00NmIyLTlkNjQtY2EwNGMwYmZjNTIxXkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BNzBkNjdjZTctNjdhOS00NmIyLTlkNjQtY2EwNGMwYmZjNTIxXkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "fa4b9bc994425bbfb271ed03cae97df2",
