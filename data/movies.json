@@ -1056,18 +1056,11 @@
       "Hindi",
       "Multi-Lang"
     ],
-    "imdbId": "tt5828640",
-    "name": "Planet of the Sharks",
-    "year": "2016",
-    "poster": "https://images.metahub.space/poster/small/tt5828640/img",
-    "thumbnail": "https://images.metahub.space/poster/small/tt5828640/img",
-    "genres": [
-      "Action",
-      "Adventure",
-      "Comedy"
-    ],
-    "description": "In the near future, glacial melting has covered ninety-eight percent of Earth's landmass. Sharks have flourished, and now dominate the planet, operating as one massive school led by a mutated alpha shark.",
-    "imdbRating": "2.6"
+    "imdbId": "tt6846128",
+    "name": "Empire of the Sharks",
+    "year": 2017,
+    "poster": "https://images.metahub.space/poster/small/tt6846128/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt6846128/img"
   },
   {
     "id": "28810085356a0ae4e43356c58a926377",
@@ -1174,8 +1167,8 @@
     "imdbId": "tt41221277",
     "name": "Anakapalli",
     "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BNTU3NTcwZWQtZDZkOC00NzliLTliMDktZWMzZGI2NzhhYzA0XkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BNTU3NTcwZWQtZDZkOC00NzliLTliMDktZWMzZGI2NzhhYzA0XkEyXkFqcGc@._V1_SX250.jpg"
+    "poster": "https://images.metahub.space/poster/small/tt41221277/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt41221277/img"
   },
   {
     "id": "29e8d2d69039dde54476fb0c2e98fdfb",
@@ -3529,7 +3522,12 @@
       "Tamil",
       "Hindi",
       "Multi-Lang"
-    ]
+    ],
+    "imdbId": "tt38349121",
+    "name": "Cold Call",
+    "year": 2026,
+    "poster": "https://images.metahub.space/poster/small/tt38349121/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt38349121/img"
   },
   {
     "id": "cd21cb53fc7223a23e317b2f8d35255f",
@@ -3574,8 +3572,8 @@
     "imdbId": "tt0335044",
     "name": "Dil Vil Pyar Vyar",
     "year": 2002,
-    "poster": "https://m.media-amazon.com/images/M/MV5BMzgyYWFmMGMtNjFhMC00ZmU4LTkwYWItOTRhYmNiYTZjMzBlXkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BMzgyYWFmMGMtNjFhMC00ZmU4LTkwYWItOTRhYmNiYTZjMzBlXkEyXkFqcGc@._V1_SX250.jpg"
+    "poster": "https://images.metahub.space/poster/small/tt0335044/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt0335044/img"
   },
   {
     "id": "65788291ab12980208135f44cb798c18",
@@ -4468,8 +4466,9 @@
     "imdbId": "tt38793125",
     "name": "Collision Course",
     "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BMWI3NDA0NmMtODgyZS00NTk0LTg3YjUtMzI3NjdkYTZiNmMxXkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BMWI3NDA0NmMtODgyZS00NTk0LTg3YjUtMzI3NjdkYTZiNmMxXkEyXkFqcGc@._V1_SX250.jpg"
+    "poster": "https://image.tmdb.org/t/p/w500/s2eAK0uiODjlNUSIiOBwdp3at2u.jpg",
+    "thumbnail": "https://image.tmdb.org/t/p/w500/s2eAK0uiODjlNUSIiOBwdp3at2u.jpg",
+    "description": "Spain, 2013. After robbing a bank, a getaway crash reveals the hidden side of each thief, exposing betrayals and lies that began long before the heist."
   },
   {
     "id": "a2e1ea047f0da5a76185d6729372de17",
@@ -4566,8 +4565,8 @@
     "imdbId": "tt37522541",
     "name": "Apocalypse Z: New World",
     "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BNGI4ODQ1NGQtMTVmZS00NzcwLThmNWUtMTI4MDhkNDAyZDI0XkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BNGI4ODQ1NGQtMTVmZS00NzcwLThmNWUtMTI4MDhkNDAyZDI0XkEyXkFqcGc@._V1_SX250.jpg"
+    "poster": "https://images.metahub.space/poster/small/tt37522541/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt37522541/img"
   },
   {
     "id": "c81e102fa63256998c64186d0bc34eda",
@@ -5409,8 +5408,8 @@
     "imdbId": "tt32261958",
     "name": "Verity",
     "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BZmE0OWRiNzktY2MwMy00YzQ5LWFkMzctNjI1ZWQ1NTRiZGM3XkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BZmE0OWRiNzktY2MwMy00YzQ5LWFkMzctNjI1ZWQ1NTRiZGM3XkEyXkFqcGc@._V1_SX250.jpg"
+    "poster": "https://images.metahub.space/poster/small/tt32261958/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt32261958/img"
   },
   {
     "id": "6b794190c4a1c052d0e339aff082a00f",
@@ -8691,7 +8690,7 @@
       "Comedy"
     ],
     "description": "At an elite fundraising gala, celebrities and socialites find themselves in danger when armed activists storm the venue in pursuit of a legendary relic that could unlock supernatural powers.",
-    "imdbRating": "5.0"
+    "imdbRating": "5.7"
   },
   {
     "id": "906b34664be67193f53d9373353c5620",
@@ -9860,8 +9859,8 @@
     "imdbId": "tt38265603",
     "name": "Pradhama Drishtiya Kuttakkar",
     "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BZmViMzIwM2ItZGUxNi00MmM5LTk0Y2EtNWI5ZWY0MjA2YmZjXkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BZmViMzIwM2ItZGUxNi00MmM5LTk0Y2EtNWI5ZWY0MjA2YmZjXkEyXkFqcGc@._V1_SX250.jpg"
+    "poster": "https://images.metahub.space/poster/small/tt38265603/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt38265603/img"
   },
   {
     "id": "5e71909ac1fca0cea35868ba6c7c015b",
@@ -13718,8 +13717,8 @@
     "imdbId": "tt29355505",
     "name": "Toy Story 5",
     "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BZTI1YTBiNmEtYWUxZi00YzFkLWIzNjMtMmZjMmY2NzM0ZWMzXkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BZTI1YTBiNmEtYWUxZi00YzFkLWIzNjMtMmZjMmY2NzM0ZWMzXkEyXkFqcGc@._V1_SX250.jpg"
+    "poster": "https://images.metahub.space/poster/small/tt29355505/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt29355505/img"
   },
   {
     "id": "8cad3b891452a84adec960f8bb6bf008",
