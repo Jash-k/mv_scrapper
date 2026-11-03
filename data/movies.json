@@ -1253,8 +1253,9 @@
     "imdbId": "tt20726444",
     "name": "Top Gunner: Danger Zone",
     "year": 2022,
-    "poster": "https://m.media-amazon.com/images/M/MV5BYzg0NTY0ZTMtZGFlYi00ZDQxLWIwZDEtZGM0NDI4NDBlYjk4XkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BYzg0NTY0ZTMtZGFlYi00ZDQxLWIwZDEtZGM0NDI4NDBlYjk4XkEyXkFqcGc@._V1_SX250.jpg"
+    "poster": "https://image.tmdb.org/t/p/w500/29UCk1nvPzn2XubLk5rKDMlHBRu.jpg",
+    "thumbnail": "https://image.tmdb.org/t/p/w500/29UCk1nvPzn2XubLk5rKDMlHBRu.jpg",
+    "description": "An airliner filled with 800 passengers is forced to fly fast and low, above farmlands, suburbs and skyscraper-packed cities or the tons of explosives aboard will detonate. When an elite unit of US Air Force fighter jets is sent to provide escort, they find themselves facing a squadron of unidentifiable warplanes which ignites a deadly air battle that threatens to destroy all life above and below."
   },
   {
     "id": "29e8d2d69039dde54476fb0c2e98fdfb",
@@ -5750,8 +5751,8 @@
     "imdbId": "tt21285562",
     "name": "The Dog Stars",
     "year": 2026,
-    "poster": "https://images.metahub.space/poster/small/tt21285562/img",
-    "thumbnail": "https://images.metahub.space/poster/small/tt21285562/img"
+    "poster": "https://m.media-amazon.com/images/M/MV5BOThjZGM1Y2QtYTZmOS00NGE3LTk0MjEtMWM2Y2QyM2VkMmE3XkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BOThjZGM1Y2QtYTZmOS00NGE3LTk0MjEtMWM2Y2QyM2VkMmE3XkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "51ff4dfca2f8a10a8f26d6cf7de12a8e",
@@ -6773,7 +6774,12 @@
       "Tamil",
       "Telugu",
       "Multi-Lang"
-    ]
+    ],
+    "imdbId": "tt42602688",
+    "name": "Naa Wife Missing",
+    "year": 2026,
+    "poster": "https://m.media-amazon.com/images/M/MV5BNmUzMzBmMGItOTdkOC00Mzc3LThhYmMtMmJlZjg0NTk3YmNhXkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BNmUzMzBmMGItOTdkOC00Mzc3LThhYmMtMmJlZjg0NTk3YmNhXkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "0cd851d67647c36dd67ef93c1b076219",
@@ -11092,11 +11098,11 @@
       "Telugu",
       "Multi-Lang"
     ],
-    "imdbId": "tt1147509",
-    "name": "Doraemon: Nobita and the Castle of the Undersea Devil",
+    "imdbId": "tt38201958",
+    "name": "Doraemon: Nobita and the New Castle of the Undersea Devil",
     "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BMGMyYzgyN2YtM2E3My00NzgwLWE1ZTMtODFlOTg0N2YyODgxXkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BMGMyYzgyN2YtM2E3My00NzgwLWE1ZTMtODFlOTg0N2YyODgxXkEyXkFqcGc@._V1_SX250.jpg"
+    "poster": "https://m.media-amazon.com/images/M/MV5BNTZlMzRjZTUtZDVjNi00ODFiLWFmMzEtMzQ1ODIwOWQ3YjIwXkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BNTZlMzRjZTUtZDVjNi00ODFiLWFmMzEtMzQ1ODIwOWQ3YjIwXkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "4777a14620cd3b5e462438ee3331266c",
@@ -12583,7 +12589,12 @@
     "rawText": "Bombay Stories (2026) Hindi HD + ESub - [1080p & 720p - AVC - (DD+5.1 - 640Kbps) - 2.2GB + Rips]",
     "languages": [
       "Hindi"
-    ]
+    ],
+    "imdbId": "tt42481138",
+    "name": "Bombay Stories",
+    "year": 2026,
+    "poster": "https://m.media-amazon.com/images/M/MV5BNmViYjA1ODAtZmZiYy00NzJlLTk2MzQtOWE2NDE0YTc2ZTBlXkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BNmViYjA1ODAtZmZiYy00NzJlLTk2MzQtOWE2NDE0YTc2ZTBlXkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "5a4a96066d58c59fb8ad071b09afdf17",
@@ -14060,12 +14071,7 @@
       "Malayalam",
       "Kannada",
       "Multi-Lang"
-    ],
-    "imdbId": "tt39073377",
-    "name": "Ram and Leela",
-    "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BZTJkZmQxYWUtMTIzNS00OTQzLTg3N2EtOTA2NmMwODhjNTQ5XkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BZTJkZmQxYWUtMTIzNS00OTQzLTg3N2EtOTA2NmMwODhjNTQ5XkEyXkFqcGc@._V1_SX250.jpg"
+    ]
   },
   {
     "id": "35aad325755f013c6825bd9493394d40",
@@ -18989,7 +18995,12 @@
       "Telugu",
       "Hindi",
       "Multi-Lang"
-    ]
+    ],
+    "imdbId": "tt1979320",
+    "name": "Rush",
+    "year": 2013,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTZhOGQxM2ItNGQyYy00YzE5LWI5MjMtNmMzNGQzNDE1OTUzXkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BMTZhOGQxM2ItNGQyYy00YzE5LWI5MjMtNmMzNGQzNDE1OTUzXkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "072861020dd5b73e4ef8d950e3d41e28",
