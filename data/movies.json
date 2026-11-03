@@ -1112,9 +1112,8 @@
     "imdbId": "tt20726444",
     "name": "Top Gunner: Danger Zone",
     "year": 2022,
-    "poster": "https://image.tmdb.org/t/p/w500/29UCk1nvPzn2XubLk5rKDMlHBRu.jpg",
-    "thumbnail": "https://image.tmdb.org/t/p/w500/29UCk1nvPzn2XubLk5rKDMlHBRu.jpg",
-    "description": "An airliner filled with 800 passengers is forced to fly fast and low, above farmlands, suburbs and skyscraper-packed cities or the tons of explosives aboard will detonate. When an elite unit of US Air Force fighter jets is sent to provide escort, they find themselves facing a squadron of unidentifiable warplanes which ignites a deadly air battle that threatens to destroy all life above and below."
+    "poster": "https://m.media-amazon.com/images/M/MV5BYzg0NTY0ZTMtZGFlYi00ZDQxLWIwZDEtZGM0NDI4NDBlYjk4XkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BYzg0NTY0ZTMtZGFlYi00ZDQxLWIwZDEtZGM0NDI4NDBlYjk4XkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "9207233b3f2b1cdfe903ec294fa06dda",
@@ -8692,7 +8691,7 @@
       "Comedy"
     ],
     "description": "At an elite fundraising gala, celebrities and socialites find themselves in danger when armed activists storm the venue in pursuit of a legendary relic that could unlock supernatural powers.",
-    "imdbRating": "5.7"
+    "imdbRating": "5.0"
   },
   {
     "id": "906b34664be67193f53d9373353c5620",
@@ -21503,7 +21502,12 @@
     "rawText": "Pluto (2026) Malayalam HD + ESub - [1080p & 720p - AVC - (AAC 2.0) - 2.4GB + Rips] - [W]",
     "languages": [
       "Malayalam"
-    ]
+    ],
+    "imdbId": "tt36580813",
+    "name": "Pluto",
+    "year": 2026,
+    "poster": "https://m.media-amazon.com/images/M/MV5BYWRhNzBmZDUtZWJjYi00ZDNjLTg1YTgtOTBlZjA1ZmYyYTQwXkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BYWRhNzBmZDUtZWJjYi00ZDNjLTg1YTgtOTBlZjA1ZmYyYTQwXkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "71dfc4011cc07a00e4eba0920b98bb40",
