@@ -71,8 +71,8 @@
     "imdbId": "tt35538033",
     "name": "Resident Evil",
     "year": 2026,
-    "poster": "https://images.metahub.space/poster/small/tt35538033/img",
-    "thumbnail": "https://images.metahub.space/poster/small/tt35538033/img"
+    "poster": "https://m.media-amazon.com/images/M/MV5BOGZjZWI1NTItOGUwZC00YWZkLWIxZWEtNzE2ZTIxODdjNmZmXkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BOGZjZWI1NTItOGUwZC00YWZkLWIxZWEtNzE2ZTIxODdjNmZmXkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "abb48783fbebb172d5eec17765f2c27d",
@@ -6795,12 +6795,7 @@
       "Tamil",
       "Telugu",
       "Multi-Lang"
-    ],
-    "imdbId": "tt42602688",
-    "name": "Naa Wife Missing",
-    "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BNmUzMzBmMGItOTdkOC00Mzc3LThhYmMtMmJlZjg0NTk3YmNhXkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BNmUzMzBmMGItOTdkOC00Mzc3LThhYmMtMmJlZjg0NTk3YmNhXkEyXkFqcGc@._V1_SX250.jpg"
+    ]
   },
   {
     "id": "0cd851d67647c36dd67ef93c1b076219",
@@ -8788,9 +8783,16 @@
     ],
     "imdbId": "tt32268992",
     "name": "Sacrifice",
-    "year": 2026,
+    "year": "2026",
     "poster": "https://images.metahub.space/poster/small/tt32268992/img",
-    "thumbnail": "https://images.metahub.space/poster/small/tt32268992/img"
+    "thumbnail": "https://images.metahub.space/poster/small/tt32268992/img",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Comedy"
+    ],
+    "description": "At an elite fundraising gala, celebrities and socialites find themselves in danger when armed activists storm the venue in pursuit of a legendary relic that could unlock supernatural powers.",
+    "imdbRating": "5.7"
   },
   {
     "id": "906b34664be67193f53d9373353c5620",
@@ -15951,8 +15953,8 @@
     "imdbId": "tt41228546",
     "name": "Sultana",
     "year": 2026,
-    "poster": "https://images.metahub.space/poster/small/tt41228546/img",
-    "thumbnail": "https://images.metahub.space/poster/small/tt41228546/img"
+    "poster": "https://m.media-amazon.com/images/M/MV5BNWYxNzhkY2UtYzA0Mi00YjlmLTlkZDEtZGU4OGQ1MTEwNjg4XkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BNWYxNzhkY2UtYzA0Mi00YjlmLTlkZDEtZGU4OGQ1MTEwNjg4XkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "06f1821a1f25047cf688f7834b20e6a1",
@@ -19009,12 +19011,7 @@
       "Telugu",
       "Hindi",
       "Multi-Lang"
-    ],
-    "imdbId": "tt1979320",
-    "name": "Rush",
-    "year": 2013,
-    "poster": "https://m.media-amazon.com/images/M/MV5BMTZhOGQxM2ItNGQyYy00YzE5LWI5MjMtNmMzNGQzNDE1OTUzXkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BMTZhOGQxM2ItNGQyYy00YzE5LWI5MjMtNmMzNGQzNDE1OTUzXkEyXkFqcGc@._V1_SX250.jpg"
+    ]
   },
   {
     "id": "072861020dd5b73e4ef8d950e3d41e28",
