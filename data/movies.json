@@ -504,8 +504,8 @@
     "imdbId": "tt0039682",
     "name": "Angelina",
     "year": 2026,
-    "poster": "https://images.metahub.space/poster/small/tt0039682/img",
-    "thumbnail": "https://images.metahub.space/poster/small/tt0039682/img"
+    "poster": "https://m.media-amazon.com/images/M/MV5BMzAyNzI5NDgtODUwNS00MGM5LTlhNzQtOGYzY2IzNzY4NTc2XkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BMzAyNzI5NDgtODUwNS00MGM5LTlhNzQtOGYzY2IzNzY4NTc2XkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "d23bc088a02b57d12a92bc2c4fe85586",
@@ -867,11 +867,18 @@
       "Hindi",
       "Multi-Lang"
     ],
-    "imdbId": "tt38789002",
-    "name": "Frequency of Fear",
-    "year": 2026,
-    "poster": "https://images.metahub.space/poster/small/tt38789002/img",
-    "thumbnail": "https://images.metahub.space/poster/small/tt38789002/img"
+    "imdbId": "tt39369643",
+    "name": "State of Fear",
+    "year": "2026",
+    "poster": "https://images.metahub.space/poster/small/tt39369643/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt39369643/img",
+    "genres": [
+      "Action",
+      "Crime",
+      "Drama"
+    ],
+    "description": "Brotherhood members face a crisis as key leaders transfer to maximum security prisons. Elisa, 18, daughter of founder Edson, is kidnapped by corrupt police. Her aunt Cristina attempts rescue while the faction orders \"Salve Geral.\"",
+    "imdbRating": "4.9"
   },
   {
     "id": "158d7b7fdf6408b6ff8b05a85f50d84e",
@@ -1018,8 +1025,8 @@
     "imdbId": "tt50107649",
     "name": "Dilwali Diwali",
     "year": 2026,
-    "poster": "https://images.metahub.space/poster/small/tt50107649/img",
-    "thumbnail": "https://images.metahub.space/poster/small/tt50107649/img"
+    "poster": "https://m.media-amazon.com/images/M/MV5BMGYxYWE4ODEtZDZlNS00NWIzLWFmMTItYmJlMzlkNGM0NWE2XkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BMGYxYWE4ODEtZDZlNS00NWIzLWFmMTItYmJlMzlkNGM0NWE2XkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "29e8d2d69039dde54476fb0c2e98fdfb",
@@ -6524,8 +6531,8 @@
     "imdbId": "tt37180686",
     "name": "Drive - The Pretenders",
     "year": 2026,
-    "poster": "https://images.metahub.space/poster/small/tt37180686/img",
-    "thumbnail": "https://images.metahub.space/poster/small/tt37180686/img"
+    "poster": "https://m.media-amazon.com/images/M/MV5BMDgzNGNhMjktZjA0MC00NGQ2LWJlNWMtM2NiMDQ3OWI2MzRmXkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BMDgzNGNhMjktZjA0MC00NGQ2LWJlNWMtM2NiMDQ3OWI2MzRmXkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "3375a77918649b00a370bc0c28feb763",
@@ -8640,8 +8647,8 @@
     "imdbId": "tt9000310",
     "name": "Ghost in the Cell",
     "year": 2026,
-    "poster": "https://images.metahub.space/poster/small/tt9000310/img",
-    "thumbnail": "https://images.metahub.space/poster/small/tt9000310/img"
+    "poster": "https://m.media-amazon.com/images/M/MV5BYWYzM2ZiYWQtMTVmOS00NTMyLWI0YjktOTU3ZDQ2MzE4NDc0XkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BYWYzM2ZiYWQtMTVmOS00NTMyLWI0YjktOTU3ZDQ2MzE4NDc0XkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "cd80cce0948a64c342f27554b824446e",
@@ -11318,8 +11325,8 @@
     "imdbId": "tt38265603",
     "name": "Pradhama Drishtiya Kuttakkar",
     "year": 2026,
-    "poster": "https://images.metahub.space/poster/small/tt38265603/img",
-    "thumbnail": "https://images.metahub.space/poster/small/tt38265603/img"
+    "poster": "https://m.media-amazon.com/images/M/MV5BZmViMzIwM2ItZGUxNi00MmM5LTk0Y2EtNWI5ZWY0MjA2YmZjXkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BZmViMzIwM2ItZGUxNi00MmM5LTk0Y2EtNWI5ZWY0MjA2YmZjXkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "5e71909ac1fca0cea35868ba6c7c015b",
@@ -11528,8 +11535,8 @@
     "imdbId": "tt31049299",
     "name": "Animals",
     "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BZmY3MmZiZjctOTgyYy00OGIxLTkwMDUtNDU3MGNkMGI3YWJlXkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BZmY3MmZiZjctOTgyYy00OGIxLTkwMDUtNDU3MGNkMGI3YWJlXkEyXkFqcGc@._V1_SX250.jpg"
+    "poster": "https://images.metahub.space/poster/small/tt31049299/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt31049299/img"
   },
   {
     "id": "633b3e4707982f2c011b6cca7cf812b5",
@@ -22761,12 +22768,7 @@
     "rawText": "Pluto (2026) Malayalam HD + ESub - [1080p & 720p - AVC - (AAC 2.0) - 2.4GB + Rips] - [W]",
     "languages": [
       "Malayalam"
-    ],
-    "imdbId": "tt36580813",
-    "name": "Pluto",
-    "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BYWRhNzBmZDUtZWJjYi00ZDNjLTg1YTgtOTBlZjA1ZmYyYTQwXkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BYWRhNzBmZDUtZWJjYi00ZDNjLTg1YTgtOTBlZjA1ZmYyYTQwXkEyXkFqcGc@._V1_SX250.jpg"
+    ]
   },
   {
     "id": "71dfc4011cc07a00e4eba0920b98bb40",
@@ -23060,8 +23062,8 @@
     "imdbId": "tt33379543",
     "name": "Jana Nayagan",
     "year": 2026,
-    "poster": "https://images.metahub.space/poster/small/tt33379543/img",
-    "thumbnail": "https://images.metahub.space/poster/small/tt33379543/img"
+    "poster": "https://m.media-amazon.com/images/M/MV5BZWFmMGQ4YjUtNmNjYS00MWRlLWI1YzMtMmMyZGIzMmE1NWYwXkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BZWFmMGQ4YjUtNmNjYS00MWRlLWI1YzMtMmMyZGIzMmE1NWYwXkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "3704c30bedaef73569f5d5f475ca59c0",
