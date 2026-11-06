@@ -687,7 +687,18 @@
       "Telugu",
       "Malayalam",
       "Kannada"
-    ]
+    ],
+    "imdbId": "tt27988879",
+    "name": "Ramayana",
+    "year": "2026",
+    "poster": "https://images.metahub.space/poster/small/tt27988879/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt27988879/img",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Drama"
+    ],
+    "description": "An ancient epic follows a young prince and princess whose marriage and subsequent exile mark the beginning of a legendary journey. Their story of love, duty and destiny sets the stage for greater challenges ahead."
   },
   {
     "id": "ea61cfa764e73f29b776f4aad4dd9fd8",
@@ -8570,8 +8581,8 @@
     "imdbId": "tt27419466",
     "name": "Moana",
     "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BMTQ1OTQ2Y2UtMzllNS00ODFiLWFkNGItNGRjOWRlMjIwNTRlXkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BMTQ1OTQ2Y2UtMzllNS00ODFiLWFkNGItNGRjOWRlMjIwNTRlXkEyXkFqcGc@._V1_SX250.jpg"
+    "poster": "https://images.metahub.space/poster/small/tt27419466/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt27419466/img"
   },
   {
     "id": "48ef194a131aa50297958c86da9d6043",
@@ -11535,8 +11546,8 @@
     "imdbId": "tt31049299",
     "name": "Animals",
     "year": 2026,
-    "poster": "https://images.metahub.space/poster/small/tt31049299/img",
-    "thumbnail": "https://images.metahub.space/poster/small/tt31049299/img"
+    "poster": "https://m.media-amazon.com/images/M/MV5BZmY3MmZiZjctOTgyYy00OGIxLTkwMDUtNDU3MGNkMGI3YWJlXkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BZmY3MmZiZjctOTgyYy00OGIxLTkwMDUtNDU3MGNkMGI3YWJlXkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "633b3e4707982f2c011b6cca7cf812b5",
@@ -12478,11 +12489,11 @@
       "Telugu",
       "Multi-Lang"
     ],
-    "imdbId": "tt38201958",
-    "name": "Doraemon: Nobita and the New Castle of the Undersea Devil",
+    "imdbId": "tt1147509",
+    "name": "Doraemon: Nobita and the Castle of the Undersea Devil",
     "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BNTZlMzRjZTUtZDVjNi00ODFiLWFmMzEtMzQ1ODIwOWQ3YjIwXkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BNTZlMzRjZTUtZDVjNi00ODFiLWFmMzEtMzQ1ODIwOWQ3YjIwXkEyXkFqcGc@._V1_SX250.jpg"
+    "poster": "https://m.media-amazon.com/images/M/MV5BMGMyYzgyN2YtM2E3My00NzgwLWE1ZTMtODFlOTg0N2YyODgxXkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BMGMyYzgyN2YtM2E3My00NzgwLWE1ZTMtODFlOTg0N2YyODgxXkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "4777a14620cd3b5e462438ee3331266c",
@@ -13112,8 +13123,8 @@
     "imdbId": "tt27165187",
     "name": "The End of Oak Street",
     "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BZDQ1MDhmZWQtNjdhOS00MGE0LTkxMTItN2Q4NjIyYzUzZmRlXkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BZDQ1MDhmZWQtNjdhOS00MGE0LTkxMTItN2Q4NjIyYzUzZmRlXkEyXkFqcGc@._V1_SX250.jpg"
+    "poster": "https://images.metahub.space/poster/small/tt27165187/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt27165187/img"
   },
   {
     "id": "dca00e6048c8eb696be11cf083594bbd",
