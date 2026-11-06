@@ -179,7 +179,18 @@
       "Telugu",
       "Malayalam",
       "Kannada"
-    ]
+    ],
+    "imdbId": "tt27988879",
+    "name": "Ramayana",
+    "year": "2026",
+    "poster": "https://images.metahub.space/poster/small/tt27988879/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt27988879/img",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Drama"
+    ],
+    "description": "An ancient epic follows a young prince and princess whose marriage and subsequent exile mark the beginning of a legendary journey. Their story of love, duty and destiny sets the stage for greater challenges ahead."
   },
   {
     "id": "10e2e32227b59fe0be91597e209dad78",
@@ -863,8 +874,8 @@
     "imdbId": "tt0039682",
     "name": "Angelina",
     "year": 2026,
-    "poster": "https://images.metahub.space/poster/small/tt0039682/img",
-    "thumbnail": "https://images.metahub.space/poster/small/tt0039682/img"
+    "poster": "https://m.media-amazon.com/images/M/MV5BMzAyNzI5NDgtODUwNS00MGM5LTlhNzQtOGYzY2IzNzY4NTc2XkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BMzAyNzI5NDgtODUwNS00MGM5LTlhNzQtOGYzY2IzNzY4NTc2XkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "12eaec8fecf74dfaa193c5492d94bd4e",
@@ -997,11 +1008,18 @@
       "Hindi",
       "Multi-Lang"
     ],
-    "imdbId": "tt38789002",
-    "name": "Frequency of Fear",
-    "year": 2026,
-    "poster": "https://images.metahub.space/poster/small/tt38789002/img",
-    "thumbnail": "https://images.metahub.space/poster/small/tt38789002/img"
+    "imdbId": "tt39369643",
+    "name": "State of Fear",
+    "year": "2026",
+    "poster": "https://images.metahub.space/poster/small/tt39369643/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt39369643/img",
+    "genres": [
+      "Action",
+      "Crime",
+      "Drama"
+    ],
+    "description": "Brotherhood members face a crisis as key leaders transfer to maximum security prisons. Elisa, 18, daughter of founder Edson, is kidnapped by corrupt police. Her aunt Cristina attempts rescue while the faction orders \"Salve Geral.\"",
+    "imdbRating": "4.9"
   },
   {
     "id": "158d7b7fdf6408b6ff8b05a85f50d84e",
@@ -1080,8 +1098,8 @@
     "imdbId": "tt7526136",
     "name": "Heart of the Beast",
     "year": 2026,
-    "poster": "https://images.metahub.space/poster/small/tt7526136/img",
-    "thumbnail": "https://images.metahub.space/poster/small/tt7526136/img"
+    "poster": "https://m.media-amazon.com/images/M/MV5BMDVlMTRhMjgtMjdmZi00NjJhLWExMmYtODExNWJkZGZjNjdhXkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BMDVlMTRhMjgtMjdmZi00NjJhLWExMmYtODExNWJkZGZjNjdhXkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "49cd574a05db841e6aa909a6771e78a0",
@@ -1129,8 +1147,8 @@
     "imdbId": "tt50107649",
     "name": "Dilwali Diwali",
     "year": 2026,
-    "poster": "https://images.metahub.space/poster/small/tt50107649/img",
-    "thumbnail": "https://images.metahub.space/poster/small/tt50107649/img"
+    "poster": "https://m.media-amazon.com/images/M/MV5BMGYxYWE4ODEtZDZlNS00NWIzLWFmMTItYmJlMzlkNGM0NWE2XkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BMGYxYWE4ODEtZDZlNS00NWIzLWFmMTItYmJlMzlkNGM0NWE2XkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "29e8d2d69039dde54476fb0c2e98fdfb",
@@ -6635,8 +6653,8 @@
     "imdbId": "tt37180686",
     "name": "Drive - The Pretenders",
     "year": 2026,
-    "poster": "https://images.metahub.space/poster/small/tt37180686/img",
-    "thumbnail": "https://images.metahub.space/poster/small/tt37180686/img"
+    "poster": "https://m.media-amazon.com/images/M/MV5BMDgzNGNhMjktZjA0MC00NGQ2LWJlNWMtM2NiMDQ3OWI2MzRmXkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BMDgzNGNhMjktZjA0MC00NGQ2LWJlNWMtM2NiMDQ3OWI2MzRmXkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "3375a77918649b00a370bc0c28feb763",
@@ -8751,8 +8769,8 @@
     "imdbId": "tt9000310",
     "name": "Ghost in the Cell",
     "year": 2026,
-    "poster": "https://images.metahub.space/poster/small/tt9000310/img",
-    "thumbnail": "https://images.metahub.space/poster/small/tt9000310/img"
+    "poster": "https://m.media-amazon.com/images/M/MV5BYWYzM2ZiYWQtMTVmOS00NTMyLWI0YjktOTU3ZDQ2MzE4NDc0XkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BYWYzM2ZiYWQtMTVmOS00NTMyLWI0YjktOTU3ZDQ2MzE4NDc0XkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "cd80cce0948a64c342f27554b824446e",
@@ -12582,11 +12600,11 @@
       "Telugu",
       "Multi-Lang"
     ],
-    "imdbId": "tt38201958",
-    "name": "Doraemon: Nobita and the New Castle of the Undersea Devil",
+    "imdbId": "tt1147509",
+    "name": "Doraemon: Nobita and the Castle of the Undersea Devil",
     "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BNTZlMzRjZTUtZDVjNi00ODFiLWFmMzEtMzQ1ODIwOWQ3YjIwXkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BNTZlMzRjZTUtZDVjNi00ODFiLWFmMzEtMzQ1ODIwOWQ3YjIwXkEyXkFqcGc@._V1_SX250.jpg"
+    "poster": "https://m.media-amazon.com/images/M/MV5BMGMyYzgyN2YtM2E3My00NzgwLWE1ZTMtODFlOTg0N2YyODgxXkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BMGMyYzgyN2YtM2E3My00NzgwLWE1ZTMtODFlOTg0N2YyODgxXkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "4777a14620cd3b5e462438ee3331266c",
@@ -23171,8 +23189,8 @@
     "imdbId": "tt33379543",
     "name": "Jana Nayagan",
     "year": 2026,
-    "poster": "https://images.metahub.space/poster/small/tt33379543/img",
-    "thumbnail": "https://images.metahub.space/poster/small/tt33379543/img"
+    "poster": "https://m.media-amazon.com/images/M/MV5BZWFmMGQ4YjUtNmNjYS00MWRlLWI1YzMtMmMyZGIzMmE1NWYwXkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BZWFmMGQ4YjUtNmNjYS00MWRlLWI1YzMtMmMyZGIzMmE1NWYwXkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "3704c30bedaef73569f5d5f475ca59c0",
