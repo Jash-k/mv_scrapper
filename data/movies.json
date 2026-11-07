@@ -88,12 +88,7 @@
     "languages": [
       "Tamil",
       "Telugu"
-    ],
-    "imdbId": "tt38192494",
-    "name": "Scene",
-    "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BOGExMjg5N2ItYmQ2NC00YjhjLTk3MWQtYTI5MDE5NWNkZjE1XkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BOGExMjg5N2ItYmQ2NC00YjhjLTk3MWQtYTI5MDE5NWNkZjE1XkEyXkFqcGc@._V1_SX250.jpg"
+    ]
   },
   {
     "id": "3a61f435ac65fe6ab7791d1488facb41",
@@ -826,18 +821,11 @@
       "Malayalam",
       "Telugu"
     ],
-    "imdbId": "tt14961016",
-    "name": "I'm Still Here",
-    "year": "2025",
-    "poster": "https://images.metahub.space/poster/small/tt14961016/img",
-    "thumbnail": "https://images.metahub.space/poster/small/tt14961016/img",
-    "genres": [
-      "Biography",
-      "Drama",
-      "History"
-    ],
-    "description": "A woman married to a former politician during the military dictatorship in Brazil is forced to reinvent herself and chart a new course for her family after a violent and arbitrary act.",
-    "imdbRating": "8.1"
+    "imdbId": "tt34284946",
+    "name": "I'm Game",
+    "year": 2026,
+    "poster": "https://images.metahub.space/poster/small/tt34284946/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt34284946/img"
   },
   {
     "id": "56c6e999b0cd6ed3b4c1825b2f99fffd",
@@ -3737,8 +3725,8 @@
     "imdbId": "tt37803364",
     "name": "Possible Love",
     "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BMTk4NjU5NjQtZjQxOS00OGIwLThhM2MtYWU1OTc4Y2M4NGVmXkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BMTk4NjU5NjQtZjQxOS00OGIwLThhM2MtYWU1OTc4Y2M4NGVmXkEyXkFqcGc@._V1_SX250.jpg"
+    "poster": "https://images.metahub.space/poster/small/tt37803364/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt37803364/img"
   },
   {
     "id": "e2672571ee4037e198ca5b17a4abc2eb",
@@ -3932,8 +3920,8 @@
     "imdbId": "tt7526136",
     "name": "Heart of the Beast",
     "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BMDVlMTRhMjgtMjdmZi00NjJhLWExMmYtODExNWJkZGZjNjdhXkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BMDVlMTRhMjgtMjdmZi00NjJhLWExMmYtODExNWJkZGZjNjdhXkEyXkFqcGc@._V1_SX250.jpg"
+    "poster": "https://images.metahub.space/poster/small/tt7526136/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt7526136/img"
   },
   {
     "id": "49cd574a05db841e6aa909a6771e78a0",
@@ -5626,8 +5614,8 @@
     "imdbId": "tt43407940",
     "name": "Thellakaagitham",
     "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BZjBjOWY2YWMtZGZkOC00ZjE5LWFlMTQtODYwNjg0MTQ1ZTFlXkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BZjBjOWY2YWMtZGZkOC00ZjE5LWFlMTQtODYwNjg0MTQ1ZTFlXkEyXkFqcGc@._V1_SX250.jpg"
+    "poster": "https://images.metahub.space/poster/small/tt43407940/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt43407940/img"
   },
   {
     "id": "33e842fe8230b693de2bf5510816c736",
@@ -6583,8 +6571,9 @@
     "imdbId": "tt37522541",
     "name": "Apocalypse Z: New World",
     "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BNGI4ODQ1NGQtMTVmZS00NzcwLThmNWUtMTI4MDhkNDAyZDI0XkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BNGI4ODQ1NGQtMTVmZS00NzcwLThmNWUtMTI4MDhkNDAyZDI0XkEyXkFqcGc@._V1_SX250.jpg"
+    "poster": "https://image.tmdb.org/t/p/w500/wXln4DUrwcyjcFPwgQxFPYTlG1Z.jpg",
+    "thumbnail": "https://image.tmdb.org/t/p/w500/wXln4DUrwcyjcFPwgQxFPYTlG1Z.jpg",
+    "description": "The Canary Islands have become Europe’s last refuge following the outbreak of the TSJ virus. When a special mission sets out for the mainland in search of vital supplies, Roberto joins the team with questionable intentions. The dangerous operation turns into a desperate race for survival, and Roberto and his companions find themselves caught between hordes of infected and divided loyalties."
   },
   {
     "id": "c81e102fa63256998c64186d0bc34eda",
@@ -9759,8 +9748,8 @@
     "imdbId": "tt6262770",
     "name": "Tenzing",
     "year": 2026,
-    "poster": "https://images.metahub.space/poster/small/tt6262770/img",
-    "thumbnail": "https://images.metahub.space/poster/small/tt6262770/img"
+    "poster": "https://m.media-amazon.com/images/M/MV5BZWY5NzQxOWQtZmFjYS00YmQ1LTk4NDktNDliMGZmYzM3ZmM1XkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BZWY5NzQxOWQtZmFjYS00YmQ1LTk4NDktNDliMGZmYzM3ZmM1XkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "bdab2f5a8fdd18f578e149326d012cd6",
@@ -11787,8 +11776,8 @@
     "imdbId": "tt38265603",
     "name": "Pradhama Drishtiya Kuttakkar",
     "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BZmViMzIwM2ItZGUxNi00MmM5LTk0Y2EtNWI5ZWY0MjA2YmZjXkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BZmViMzIwM2ItZGUxNi00MmM5LTk0Y2EtNWI5ZWY0MjA2YmZjXkEyXkFqcGc@._V1_SX250.jpg"
+    "poster": "https://images.metahub.space/poster/small/tt38265603/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt38265603/img"
   },
   {
     "id": "5e71909ac1fca0cea35868ba6c7c015b",
