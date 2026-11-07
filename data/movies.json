@@ -20828,7 +20828,17 @@
       "Telugu",
       "Hindi",
       "Multi-Lang"
-    ]
+    ],
+    "imdbId": "tt5245942",
+    "name": "The Trolls",
+    "year": "2016",
+    "poster": "https://images.metahub.space/poster/small/tt5245942/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt5245942/img",
+    "genres": [
+      "Comedy"
+    ],
+    "description": "A Texas tech start-up breaks every crowdfunding record in the books, but they lose it all when a patent troll shuts them down. Refusing to go down without a fight, our heroes use a legal loophole to beat the trolls at their own ga...",
+    "imdbRating": "5.4"
   },
   {
     "id": "4a5c08ebab7dcc8432868c211dee3cb9",
