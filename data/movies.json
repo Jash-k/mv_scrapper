@@ -5874,7 +5874,12 @@
     "rawText": "#Cult (2026) Telugu HQ PreDVD (HQ Clean) - [1080p & 720p - x264 - 2.6GB + Rips] - [W]",
     "languages": [
       "Telugu"
-    ]
+    ],
+    "imdbId": "tt36915004",
+    "name": "#Cult",
+    "year": 2026,
+    "poster": "https://m.media-amazon.com/images/M/MV5BYTU3MmZmNTktYTY1Yy00NzM2LTgxOWEtZWFmYmFmNmQ1YWUwXkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BYTU3MmZmNTktYTY1Yy00NzM2LTgxOWEtZWFmYmFmNmQ1YWUwXkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "d3aee22507c6059ef5039b016147ae09",
@@ -9879,8 +9884,8 @@
     "imdbId": "tt6262770",
     "name": "Tenzing",
     "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BZWY5NzQxOWQtZmFjYS00YmQ1LTk4NDktNDliMGZmYzM3ZmM1XkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BZWY5NzQxOWQtZmFjYS00YmQ1LTk4NDktNDliMGZmYzM3ZmM1XkEyXkFqcGc@._V1_SX250.jpg"
+    "poster": "https://images.metahub.space/poster/small/tt6262770/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt6262770/img"
   },
   {
     "id": "bdab2f5a8fdd18f578e149326d012cd6",
@@ -15832,11 +15837,18 @@
       "Hindi",
       "Multi-Lang"
     ],
-    "imdbId": "tt22526100",
-    "name": "The Love Hypothesis",
-    "year": 2026,
-    "poster": "https://images.metahub.space/poster/small/tt22526100/img",
-    "thumbnail": "https://images.metahub.space/poster/small/tt22526100/img"
+    "imdbId": "tt33381401",
+    "name": "The Love That Remains",
+    "year": "2026",
+    "poster": "https://images.metahub.space/poster/small/tt33381401/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt33381401/img",
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Family"
+    ],
+    "description": "Captures a year in the life of a family as the parents navigate their separation. Through intimate vignettes and strange occurrences, the film explores the complexities of family, love, and the impact of shared memories.",
+    "imdbRating": "6.8"
   },
   {
     "id": "9e2e6c53396c1d66724bd6c1ddb316ce",
@@ -23343,12 +23355,7 @@
     "rawText": "Pluto (2026) Malayalam HD + ESub - [1080p & 720p - AVC - (AAC 2.0) - 2.4GB + Rips] - [W]",
     "languages": [
       "Malayalam"
-    ],
-    "imdbId": "tt36580813",
-    "name": "Pluto",
-    "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BYWRhNzBmZDUtZWJjYi00ZDNjLTg1YTgtOTBlZjA1ZmYyYTQwXkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BYWRhNzBmZDUtZWJjYi00ZDNjLTg1YTgtOTBlZjA1ZmYyYTQwXkEyXkFqcGc@._V1_SX250.jpg"
+    ]
   },
   {
     "id": "71dfc4011cc07a00e4eba0920b98bb40",
