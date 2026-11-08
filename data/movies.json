@@ -9203,8 +9203,8 @@
     "imdbId": "tt27419466",
     "name": "Moana",
     "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BMTQ1OTQ2Y2UtMzllNS00ODFiLWFkNGItNGRjOWRlMjIwNTRlXkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BMTQ1OTQ2Y2UtMzllNS00ODFiLWFkNGItNGRjOWRlMjIwNTRlXkEyXkFqcGc@._V1_SX250.jpg"
+    "poster": "https://images.metahub.space/poster/small/tt27419466/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt27419466/img"
   },
   {
     "id": "48ef194a131aa50297958c86da9d6043",
@@ -16743,7 +16743,12 @@
       "Telugu",
       "Hindi",
       "Multi-Lang"
-    ]
+    ],
+    "imdbId": "tt0025366",
+    "name": "Lady by Choice",
+    "year": 1934,
+    "poster": "https://m.media-amazon.com/images/M/MV5BYzlhY2YyMzMtNGZhZS00ZGMwLTg2NTEtNmUwOWYwNWI4NmY1XkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BYzlhY2YyMzMtNGZhZS00ZGMwLTg2NTEtNmUwOWYwNWI4NmY1XkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "00cc81ac43e7d164fee4e4eab9ea8db1",
@@ -17276,9 +17281,8 @@
     "imdbId": "tt39667834",
     "name": "Lust Stories 3",
     "year": 2026,
-    "poster": "https://image.tmdb.org/t/p/w500/cLA83DD1qMEBwbRIYXf29RKjMja.jpg",
-    "thumbnail": "https://image.tmdb.org/t/p/w500/cLA83DD1qMEBwbRIYXf29RKjMja.jpg",
-    "description": "Through four bite-sized yet emotionally resonant films, the anthology once again explores lust, love, relationships, and repressed desire, offering fresh perspectives on intimacy, longing, and human connection in all their complexity."
+    "poster": "https://m.media-amazon.com/images/M/MV5BZDZkNjJjY2YtMjZmYy00MDllLTgxZjItMjc4YjMxODMwZDMzXkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BZDZkNjJjY2YtMjZmYy00MDllLTgxZjItMjc4YjMxODMwZDMzXkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "bc422afb2c983d69b6212fb7518dad54",
@@ -17367,7 +17371,12 @@
     "rawText": "Iruttarai (2026) Tamil UHD + ESub - [4K, 1080p & 720p - AVC / HEVC - (DD+5.1 - 192Kbps) - 1.6GB + Rips] - [W]",
     "languages": [
       "Tamil"
-    ]
+    ],
+    "imdbId": "tt46067198",
+    "name": "Iruttarai",
+    "year": 2026,
+    "poster": "https://images.metahub.space/poster/small/tt46067198/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt46067198/img"
   },
   {
     "id": "0238b1d4dea3d99a401d030fe19a597b",
@@ -19626,7 +19635,12 @@
     "rawText": "Magic Mushrooms (2026) Malayalam HD + ESub - [1080p & 720p - AVC / HEVC - (DD+5.1 - 640Kbps) - 7.3GB + Rips]",
     "languages": [
       "Malayalam"
-    ]
+    ],
+    "imdbId": "tt37250830",
+    "name": "Magic Mushrooms",
+    "year": 2026,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMWQzY2NiMjEtYTcyYi00M2M3LWFjNmUtNWRiMTZjNDcwNjg2XkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BMWQzY2NiMjEtYTcyYi00M2M3LWFjNmUtNWRiMTZjNDcwNjg2XkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "16946a40093d3675ceb76809b515de29",
@@ -23402,12 +23416,7 @@
     "rawText": "Pluto (2026) Malayalam HD + ESub - [1080p & 720p - AVC - (AAC 2.0) - 2.4GB + Rips] - [W]",
     "languages": [
       "Malayalam"
-    ],
-    "imdbId": "tt36580813",
-    "name": "Pluto",
-    "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BYWRhNzBmZDUtZWJjYi00ZDNjLTg1YTgtOTBlZjA1ZmYyYTQwXkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BYWRhNzBmZDUtZWJjYi00ZDNjLTg1YTgtOTBlZjA1ZmYyYTQwXkEyXkFqcGc@._V1_SX250.jpg"
+    ]
   },
   {
     "id": "71dfc4011cc07a00e4eba0920b98bb40",
