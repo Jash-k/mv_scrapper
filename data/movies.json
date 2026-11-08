@@ -154,8 +154,8 @@
     "imdbId": "tt38192494",
     "name": "Scene",
     "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BOGExMjg5N2ItYmQ2NC00YjhjLTk3MWQtYTI5MDE5NWNkZjE1XkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BOGExMjg5N2ItYmQ2NC00YjhjLTk3MWQtYTI5MDE5NWNkZjE1XkEyXkFqcGc@._V1_SX250.jpg"
+    "poster": "https://images.metahub.space/poster/small/tt38192494/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt38192494/img"
   },
   {
     "id": "3a61f435ac65fe6ab7791d1488facb41",
@@ -477,8 +477,8 @@
     "imdbId": "tt33764258",
     "name": "The Odyssey",
     "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BNTcyNmJlZmQtNDUwYy00NDBjLTg1NGQtYTY2Y2UxMWM3NmI1XkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BNTcyNmJlZmQtNDUwYy00NDBjLTg1NGQtYTY2Y2UxMWM3NmI1XkEyXkFqcGc@._V1_SX250.jpg"
+    "poster": "https://images.metahub.space/poster/small/tt33764258/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt33764258/img"
   },
   {
     "id": "d23bc088a02b57d12a92bc2c4fe85586",
@@ -9930,8 +9930,8 @@
     "imdbId": "tt6262770",
     "name": "Tenzing",
     "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BZWY5NzQxOWQtZmFjYS00YmQ1LTk4NDktNDliMGZmYzM3ZmM1XkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BZWY5NzQxOWQtZmFjYS00YmQ1LTk4NDktNDliMGZmYzM3ZmM1XkEyXkFqcGc@._V1_SX250.jpg"
+    "poster": "https://images.metahub.space/poster/small/tt6262770/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt6262770/img"
   },
   {
     "id": "bdab2f5a8fdd18f578e149326d012cd6",
@@ -16743,12 +16743,7 @@
       "Telugu",
       "Hindi",
       "Multi-Lang"
-    ],
-    "imdbId": "tt0025366",
-    "name": "Lady by Choice",
-    "year": 1934,
-    "poster": "https://m.media-amazon.com/images/M/MV5BYzlhY2YyMzMtNGZhZS00ZGMwLTg2NTEtNmUwOWYwNWI4NmY1XkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BYzlhY2YyMzMtNGZhZS00ZGMwLTg2NTEtNmUwOWYwNWI4NmY1XkEyXkFqcGc@._V1_SX250.jpg"
+    ]
   },
   {
     "id": "00cc81ac43e7d164fee4e4eab9ea8db1",
@@ -19635,12 +19630,7 @@
     "rawText": "Magic Mushrooms (2026) Malayalam HD + ESub - [1080p & 720p - AVC / HEVC - (DD+5.1 - 640Kbps) - 7.3GB + Rips]",
     "languages": [
       "Malayalam"
-    ],
-    "imdbId": "tt37250830",
-    "name": "Magic Mushrooms",
-    "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BMWQzY2NiMjEtYTcyYi00M2M3LWFjNmUtNWRiMTZjNDcwNjg2XkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BMWQzY2NiMjEtYTcyYi00M2M3LWFjNmUtNWRiMTZjNDcwNjg2XkEyXkFqcGc@._V1_SX250.jpg"
+    ]
   },
   {
     "id": "16946a40093d3675ceb76809b515de29",
@@ -22548,11 +22538,12 @@
     "languages": [
       "Hindi"
     ],
-    "imdbId": "tt28363783",
+    "imdbId": "tt32275943",
     "name": "Alpha",
     "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BOGQ1NzJlYzQtOTA0Yy00N2RiLTlkY2UtZWJlNzlmMzFmZjk0XkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BOGQ1NzJlYzQtOTA0Yy00N2RiLTlkY2UtZWJlNzlmMzFmZjk0XkEyXkFqcGc@._V1_SX250.jpg"
+    "poster": "https://image.tmdb.org/t/p/w500/oUZlrGPTAtinic87FF7jIT6EHmN.jpg",
+    "thumbnail": "https://image.tmdb.org/t/p/w500/oUZlrGPTAtinic87FF7jIT6EHmN.jpg",
+    "description": "Alpha, a troubled 13-year-old lives with her single mom. Their world collapses the day she returns from school with a tattoo on her arm."
   },
   {
     "id": "93d7c1868a81be1beacdd64907a736d4",
