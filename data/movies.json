@@ -477,8 +477,8 @@
     "imdbId": "tt33764258",
     "name": "The Odyssey",
     "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BNTcyNmJlZmQtNDUwYy00NDBjLTg1NGQtYTY2Y2UxMWM3NmI1XkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BNTcyNmJlZmQtNDUwYy00NDBjLTg1NGQtYTY2Y2UxMWM3NmI1XkEyXkFqcGc@._V1_SX250.jpg"
+    "poster": "https://images.metahub.space/poster/small/tt33764258/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt33764258/img"
   },
   {
     "id": "d23bc088a02b57d12a92bc2c4fe85586",
@@ -9930,8 +9930,8 @@
     "imdbId": "tt6262770",
     "name": "Tenzing",
     "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BZWY5NzQxOWQtZmFjYS00YmQ1LTk4NDktNDliMGZmYzM3ZmM1XkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BZWY5NzQxOWQtZmFjYS00YmQ1LTk4NDktNDliMGZmYzM3ZmM1XkEyXkFqcGc@._V1_SX250.jpg"
+    "poster": "https://images.metahub.space/poster/small/tt6262770/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt6262770/img"
   },
   {
     "id": "bdab2f5a8fdd18f578e149326d012cd6",
@@ -11958,8 +11958,8 @@
     "imdbId": "tt38265603",
     "name": "Pradhama Drishtiya Kuttakkar",
     "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BZmViMzIwM2ItZGUxNi00MmM5LTk0Y2EtNWI5ZWY0MjA2YmZjXkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BZmViMzIwM2ItZGUxNi00MmM5LTk0Y2EtNWI5ZWY0MjA2YmZjXkEyXkFqcGc@._V1_SX250.jpg"
+    "poster": "https://images.metahub.space/poster/small/tt38265603/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt38265603/img"
   },
   {
     "id": "5e71909ac1fca0cea35868ba6c7c015b",
@@ -18176,7 +18176,12 @@
       "Kannada",
       "Hindi",
       "Multi-Lang"
-    ]
+    ],
+    "imdbId": "tt35836025",
+    "name": "Vishwanath and Sons",
+    "year": 2026,
+    "poster": "https://m.media-amazon.com/images/M/MV5BOGRkYWFjNzAtODFhNS00NzM4LTk3NTAtNzgwMDg0OTE2ZTIzXkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BOGRkYWFjNzAtODFhNS00NzM4LTk3NTAtNzgwMDg0OTE2ZTIzXkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "8b6739c376ffb53ce1c4f71fcf5230ce",
@@ -22533,11 +22538,12 @@
     "languages": [
       "Hindi"
     ],
-    "imdbId": "tt28363783",
+    "imdbId": "tt32275943",
     "name": "Alpha",
     "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BOGQ1NzJlYzQtOTA0Yy00N2RiLTlkY2UtZWJlNzlmMzFmZjk0XkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BOGQ1NzJlYzQtOTA0Yy00N2RiLTlkY2UtZWJlNzlmMzFmZjk0XkEyXkFqcGc@._V1_SX250.jpg"
+    "poster": "https://image.tmdb.org/t/p/w500/oUZlrGPTAtinic87FF7jIT6EHmN.jpg",
+    "thumbnail": "https://image.tmdb.org/t/p/w500/oUZlrGPTAtinic87FF7jIT6EHmN.jpg",
+    "description": "Alpha, a troubled 13-year-old lives with her single mom. Their world collapses the day she returns from school with a tattoo on her arm."
   },
   {
     "id": "93d7c1868a81be1beacdd64907a736d4",
@@ -23401,12 +23407,7 @@
     "rawText": "Pluto (2026) Malayalam HD + ESub - [1080p & 720p - AVC - (AAC 2.0) - 2.4GB + Rips] - [W]",
     "languages": [
       "Malayalam"
-    ],
-    "imdbId": "tt36580813",
-    "name": "Pluto",
-    "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BYWRhNzBmZDUtZWJjYi00ZDNjLTg1YTgtOTBlZjA1ZmYyYTQwXkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BYWRhNzBmZDUtZWJjYi00ZDNjLTg1YTgtOTBlZjA1ZmYyYTQwXkEyXkFqcGc@._V1_SX250.jpg"
+    ]
   },
   {
     "id": "71dfc4011cc07a00e4eba0920b98bb40",
