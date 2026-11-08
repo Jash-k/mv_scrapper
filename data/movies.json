@@ -5993,12 +5993,7 @@
     "rawText": "#Cult (2026) Telugu HQ PreDVD (HQ Clean) - [1080p & 720p - x264 - 2.6GB + Rips] - [W]",
     "languages": [
       "Telugu"
-    ],
-    "imdbId": "tt36915004",
-    "name": "#Cult",
-    "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BYTU3MmZmNTktYTY1Yy00NzM2LTgxOWEtZWFmYmFmNmQ1YWUwXkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BYTU3MmZmNTktYTY1Yy00NzM2LTgxOWEtZWFmYmFmNmQ1YWUwXkEyXkFqcGc@._V1_SX250.jpg"
+    ]
   },
   {
     "id": "d3aee22507c6059ef5039b016147ae09",
@@ -14221,7 +14216,17 @@
       "Malayalam",
       "Kannada",
       "Multi-Lang"
-    ]
+    ],
+    "imdbId": "tt33292655",
+    "name": "Oh, Hi!",
+    "year": "2025",
+    "poster": "https://images.metahub.space/poster/small/tt33292655/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt33292655/img",
+    "genres": [
+      "Comedy"
+    ],
+    "description": "Iris and Isaac's first romantic weekend getaway goes awry in a most unexpected way.",
+    "imdbRating": "6.1"
   },
   {
     "id": "9231a35edd80018f6d6f180b9683ff35",
@@ -16771,7 +16776,12 @@
       "Telugu",
       "Hindi",
       "Multi-Lang"
-    ]
+    ],
+    "imdbId": "tt0025366",
+    "name": "Lady by Choice",
+    "year": 1934,
+    "poster": "https://m.media-amazon.com/images/M/MV5BYzlhY2YyMzMtNGZhZS00ZGMwLTg2NTEtNmUwOWYwNWI4NmY1XkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BYzlhY2YyMzMtNGZhZS00ZGMwLTg2NTEtNmUwOWYwNWI4NmY1XkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "00cc81ac43e7d164fee4e4eab9ea8db1",
@@ -19658,7 +19668,12 @@
     "rawText": "Magic Mushrooms (2026) Malayalam HD + ESub - [1080p & 720p - AVC / HEVC - (DD+5.1 - 640Kbps) - 7.3GB + Rips]",
     "languages": [
       "Malayalam"
-    ]
+    ],
+    "imdbId": "tt37250830",
+    "name": "Magic Mushrooms",
+    "year": 2026,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMWQzY2NiMjEtYTcyYi00M2M3LWFjNmUtNWRiMTZjNDcwNjg2XkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BMWQzY2NiMjEtYTcyYi00M2M3LWFjNmUtNWRiMTZjNDcwNjg2XkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "16946a40093d3675ceb76809b515de29",
@@ -23837,6 +23852,11 @@
     "rawText": "Mother (2026) Tamil HD + ESub - [1080p & 720p - AVC - (DD+5.1 - 192Kbps) - 2.2GB + Rips] - [W]",
     "languages": [
       "Tamil"
-    ]
+    ],
+    "imdbId": "tt35856037",
+    "name": "Your Mother Your Mother Your Mother",
+    "year": 2026,
+    "poster": "https://m.media-amazon.com/images/M/MV5BZDEwMjk2MjMtMTI3ZS00ODg5LWI2ZDYtOTVkOGZlNzIyYzRjXkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BZDEwMjk2MjMtMTI3ZS00ODg5LWI2ZDYtOTVkOGZlNzIyYzRjXkEyXkFqcGc@._V1_SX250.jpg"
   }
 ]
