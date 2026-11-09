@@ -5992,7 +5992,19 @@
     "rawText": "Zodiac (2007) Director's Cut (BluRay + Org Auds) - [1080p & 720p - x264 - (Tamil + Eng) - 2.9GB + Rips]",
     "languages": [
       "Tamil"
-    ]
+    ],
+    "imdbId": "tt0371739",
+    "name": "The Zodiac",
+    "year": "2006",
+    "poster": "https://images.metahub.space/poster/small/tt0371739/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt0371739/img",
+    "genres": [
+      "Crime",
+      "Drama",
+      "Horror"
+    ],
+    "description": "An elusive serial killer known as the Zodiac terrorizes the San Francisco Bay in the late 1960s, while detectives aim to stop him before he claims more victims. Based on a true story.",
+    "imdbRating": "5.3"
   },
   {
     "id": "9ce39d9c2952a8d62dc66811976b2ad3",
@@ -9666,11 +9678,11 @@
     "languages": [
       "Tamil"
     ],
-    "imdbId": "tt0214529",
-    "name": "Belphegor: Phantom of the Louvre",
+    "imdbId": "tt0071994",
+    "name": "Phantom of the Paradise",
     "year": 2001,
-    "poster": "https://m.media-amazon.com/images/M/MV5BMzMwMTI3YTItYTI3MC00M2M2LThjNjAtMzg3ZWY0YTAzYjM0XkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BMzMwMTI3YTItYTI3MC00M2M2LThjNjAtMzg3ZWY0YTAzYjM0XkEyXkFqcGc@._V1_SX250.jpg"
+    "poster": "https://m.media-amazon.com/images/M/MV5BZmRkNGJjNTAtMmQzNC00ZDc2LWI5MDItYWM1ZDliMTU5YzEzXkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BZmRkNGJjNTAtMmQzNC00ZDc2LWI5MDItYWM1ZDliMTU5YzEzXkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "c2c1c7a6fea98ea04b60cedc7aed1a74",
