@@ -222,8 +222,8 @@
     "imdbId": "tt38192494",
     "name": "Scene",
     "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BOGExMjg5N2ItYmQ2NC00YjhjLTk3MWQtYTI5MDE5NWNkZjE1XkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BOGExMjg5N2ItYmQ2NC00YjhjLTk3MWQtYTI5MDE5NWNkZjE1XkEyXkFqcGc@._V1_SX250.jpg"
+    "poster": "https://images.metahub.space/poster/small/tt38192494/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt38192494/img"
   },
   {
     "id": "3a61f435ac65fe6ab7791d1488facb41",
@@ -545,8 +545,8 @@
     "imdbId": "tt33764258",
     "name": "The Odyssey",
     "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BNTcyNmJlZmQtNDUwYy00NDBjLTg1NGQtYTY2Y2UxMWM3NmI1XkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BNTcyNmJlZmQtNDUwYy00NDBjLTg1NGQtYTY2Y2UxMWM3NmI1XkEyXkFqcGc@._V1_SX250.jpg"
+    "poster": "https://images.metahub.space/poster/small/tt33764258/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt33764258/img"
   },
   {
     "id": "d23bc088a02b57d12a92bc2c4fe85586",
@@ -5870,8 +5870,8 @@
     "imdbId": "tt43407940",
     "name": "Thellakaagitham",
     "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BZjBjOWY2YWMtZGZkOC00ZjE5LWFlMTQtODYwNjg0MTQ1ZTFlXkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BZjBjOWY2YWMtZGZkOC00ZjE5LWFlMTQtODYwNjg0MTQ1ZTFlXkEyXkFqcGc@._V1_SX250.jpg"
+    "poster": "https://images.metahub.space/poster/small/tt43407940/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt43407940/img"
   },
   {
     "id": "33e842fe8230b693de2bf5510816c736",
@@ -5993,12 +5993,7 @@
     "rawText": "#Cult (2026) Telugu HQ PreDVD (HQ Clean) - [1080p & 720p - x264 - 2.6GB + Rips] - [W]",
     "languages": [
       "Telugu"
-    ],
-    "imdbId": "tt36915004",
-    "name": "#Cult",
-    "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BYTU3MmZmNTktYTY1Yy00NzM2LTgxOWEtZWFmYmFmNmQ1YWUwXkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BYTU3MmZmNTktYTY1Yy00NzM2LTgxOWEtZWFmYmFmNmQ1YWUwXkEyXkFqcGc@._V1_SX250.jpg"
+    ]
   },
   {
     "id": "d3aee22507c6059ef5039b016147ae09",
@@ -10003,8 +9998,8 @@
     "imdbId": "tt6262770",
     "name": "Tenzing",
     "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BZWY5NzQxOWQtZmFjYS00YmQ1LTk4NDktNDliMGZmYzM3ZmM1XkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BZWY5NzQxOWQtZmFjYS00YmQ1LTk4NDktNDliMGZmYzM3ZmM1XkEyXkFqcGc@._V1_SX250.jpg"
+    "poster": "https://images.metahub.space/poster/small/tt6262770/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt6262770/img"
   },
   {
     "id": "bdab2f5a8fdd18f578e149326d012cd6",
@@ -14221,7 +14216,17 @@
       "Malayalam",
       "Kannada",
       "Multi-Lang"
-    ]
+    ],
+    "imdbId": "tt33292655",
+    "name": "Oh, Hi!",
+    "year": "2025",
+    "poster": "https://images.metahub.space/poster/small/tt33292655/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt33292655/img",
+    "genres": [
+      "Comedy"
+    ],
+    "description": "Iris and Isaac's first romantic weekend getaway goes awry in a most unexpected way.",
+    "imdbRating": "6.1"
   },
   {
     "id": "9231a35edd80018f6d6f180b9683ff35",
