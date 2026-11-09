@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-11-08T17:33:25.189Z",
+  "updatedAt": "2026-11-09T12:30:50.839Z",
   "mode": "direct-mp4-only",
   "qualitiesAllowed": [
     "720p",
     "1080p"
   ],
   "movies": 22,
-  "mp4Streams": 74,
+  "mp4Streams": 76,
   "stremioStreamFiles": 0,
   "stremioCatalog": 0
 }
