@@ -340,15 +340,9 @@
     ],
     "imdbId": "tt27988879",
     "name": "Ramayana",
-    "year": "2026",
-    "poster": "https://images.metahub.space/poster/small/tt27988879/img",
-    "thumbnail": "https://images.metahub.space/poster/small/tt27988879/img",
-    "genres": [
-      "Action",
-      "Adventure",
-      "Drama"
-    ],
-    "description": "An ancient epic follows a young prince and princess whose marriage and subsequent exile mark the beginning of a legendary journey. Their story of love, duty and destiny sets the stage for greater challenges ahead."
+    "year": 2026,
+    "poster": "https://m.media-amazon.com/images/M/MV5BYWE4NWVmZjItN2Y0ZC00YmMzLThhNWEtM2VkZjA3MmFlNjdmXkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BYWE4NWVmZjItN2Y0ZC00YmMzLThhNWEtM2VkZjA3MmFlNjdmXkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "e13c88fd1a6e5e0bccf05c464c4d023c",
@@ -4515,8 +4509,8 @@
     "imdbId": "tt38515310",
     "name": "A Dog's Perfect Christmas",
     "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BMWYzMGYxZjgtZjc2Yy00YzQ2LThhMWItZmU5Y2FjNjRkYjRmXkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BMWYzMGYxZjgtZjc2Yy00YzQ2LThhMWItZmU5Y2FjNjRkYjRmXkEyXkFqcGc@._V1_SX250.jpg"
+    "poster": "https://m.media-amazon.com/images/M/MV5BMGQ0NDYzNGItZDJjZS00OTI4LWIwYjgtN2I0NDZmZmI5M2Q5XkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BMGQ0NDYzNGItZDJjZS00OTI4LWIwYjgtN2I0NDZmZmI5M2Q5XkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "21bfe13d9a73abc37245e1c7ce17c5a8",
@@ -15638,7 +15632,7 @@
       "Thriller"
     ],
     "description": "Follows a prehistoric arachnid that terrifies a stranded group of campers who hike into the wrong woods. Based on the spine-tingling horror novel from the actor best known as \"Murr\" on TV's Impractical Jokers.",
-    "imdbRating": "6.7"
+    "imdbRating": "4.5"
   },
   {
     "id": "58deb6dfb62e77f3a5cfae3e3b0449e4",
@@ -17577,11 +17571,11 @@
     "languages": [
       "Tamil"
     ],
-    "imdbId": "tt43727339",
+    "imdbId": "tt3662686",
     "name": "Photographer",
     "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BN2UzMWExOWYtZjE2My00MDVkLWE5ZGUtY2JjYjc3MzdkNjI2XkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BN2UzMWExOWYtZjE2My00MDVkLWE5ZGUtY2JjYjc3MzdkNjI2XkEyXkFqcGc@._V1_SX250.jpg"
+    "poster": "https://m.media-amazon.com/images/M/MV5BNzk3MDQwYzktNmY3OS00YThhLWJlZmEtNDhhNjI1Y2E4ZDZlXkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BNzk3MDQwYzktNmY3OS00YThhLWJlZmEtNDhhNjI1Y2E4ZDZlXkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "fa0c602dffcdae7e5c32eda345f2b2c5",
@@ -19966,11 +19960,11 @@
     "languages": [
       "Tamil"
     ],
-    "imdbId": "tt28541577",
-    "name": "Sardar 2",
+    "imdbId": "tt14526318",
+    "name": "Sardar",
     "year": 2022,
-    "poster": "https://m.media-amazon.com/images/M/MV5BNTMzNjZkODEtNjRiMS00MjFiLWE0YWYtOGQ5ZGVlODQ1NDVmXkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BNTMzNjZkODEtNjRiMS00MjFiLWE0YWYtOGQ5ZGVlODQ1NDVmXkEyXkFqcGc@._V1_SX250.jpg"
+    "poster": "https://m.media-amazon.com/images/M/MV5BOTYzMTEzYmEtZDdjZS00YzdiLWE5MzgtOTRmZmIwYjQ4YzFiXkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BOTYzMTEzYmEtZDdjZS00YzdiLWE5MzgtOTRmZmIwYjQ4YzFiXkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "af226ba194a8d9bb0150b04241ec1e33",
@@ -20464,7 +20458,7 @@
       "Documentary"
     ],
     "description": "They were the \"other\" Band of Brothers. A Company of Heroes features interviews with many of the men not focused on in the book \"Band of Brothers\" by Stephen Ambrose or in the television mini-series by the same name. Never before ...",
-    "imdbRating": "8.3"
+    "imdbRating": "7.8"
   },
   {
     "id": "6d07adc5abefda7741b76aef87a6cd37",
@@ -23543,12 +23537,7 @@
     "rawText": "Pluto (2026) Malayalam HD + ESub - [1080p & 720p - AVC - (AAC 2.0) - 2.4GB + Rips] - [W]",
     "languages": [
       "Malayalam"
-    ],
-    "imdbId": "tt36580813",
-    "name": "Pluto",
-    "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BYWRhNzBmZDUtZWJjYi00ZDNjLTg1YTgtOTBlZjA1ZmYyYTQwXkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BYWRhNzBmZDUtZWJjYi00ZDNjLTg1YTgtOTBlZjA1ZmYyYTQwXkEyXkFqcGc@._V1_SX250.jpg"
+    ]
   },
   {
     "id": "71dfc4011cc07a00e4eba0920b98bb40",
