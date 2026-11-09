@@ -1515,11 +1515,11 @@
     "languages": [
       "Tamil"
     ],
-    "imdbId": "tt11732018",
+    "imdbId": "tt0039682",
     "name": "Angelina",
     "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BODNhYzc2OGItN2Q1Mi00MDU0LThhMDEtZTVjODIwZDI5Y2M1XkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BODNhYzc2OGItN2Q1Mi00MDU0LThhMDEtZTVjODIwZDI5Y2M1XkEyXkFqcGc@._V1_SX250.jpg"
+    "poster": "https://m.media-amazon.com/images/M/MV5BMzAyNzI5NDgtODUwNS00MGM5LTlhNzQtOGYzY2IzNzY4NTc2XkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BMzAyNzI5NDgtODUwNS00MGM5LTlhNzQtOGYzY2IzNzY4NTc2XkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "12eaec8fecf74dfaa193c5492d94bd4e",
@@ -6033,7 +6033,12 @@
     "rawText": "#Cult (2026) Telugu HQ PreDVD (HQ Clean) - [1080p & 720p - x264 - 2.6GB + Rips] - [W]",
     "languages": [
       "Telugu"
-    ]
+    ],
+    "imdbId": "tt36915004",
+    "name": "#Cult",
+    "year": 2026,
+    "poster": "https://m.media-amazon.com/images/M/MV5BYTU3MmZmNTktYTY1Yy00NzM2LTgxOWEtZWFmYmFmNmQ1YWUwXkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BYTU3MmZmNTktYTY1Yy00NzM2LTgxOWEtZWFmYmFmNmQ1YWUwXkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "d3aee22507c6059ef5039b016147ae09",
@@ -14263,17 +14268,7 @@
       "Malayalam",
       "Kannada",
       "Multi-Lang"
-    ],
-    "imdbId": "tt33292655",
-    "name": "Oh, Hi!",
-    "year": "2025",
-    "poster": "https://images.metahub.space/poster/small/tt33292655/img",
-    "thumbnail": "https://images.metahub.space/poster/small/tt33292655/img",
-    "genres": [
-      "Comedy"
-    ],
-    "description": "Iris and Isaac's first romantic weekend getaway goes awry in a most unexpected way.",
-    "imdbRating": "6.1"
+    ]
   },
   {
     "id": "9231a35edd80018f6d6f180b9683ff35",
@@ -18261,12 +18256,7 @@
       "Kannada",
       "Hindi",
       "Multi-Lang"
-    ],
-    "imdbId": "tt35836025",
-    "name": "Vishwanath and Sons",
-    "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BOGRkYWFjNzAtODFhNS00NzM4LTk3NTAtNzgwMDg0OTE2ZTIzXkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BOGRkYWFjNzAtODFhNS00NzM4LTk3NTAtNzgwMDg0OTE2ZTIzXkEyXkFqcGc@._V1_SX250.jpg"
+    ]
   },
   {
     "id": "8b6739c376ffb53ce1c4f71fcf5230ce",
