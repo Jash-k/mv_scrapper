@@ -743,7 +743,12 @@
       "Telugu",
       "Hindi",
       "Multi-Lang"
-    ]
+    ],
+    "imdbId": "tt18933846",
+    "name": "Nooru Kodi Vaanavil",
+    "year": 2026,
+    "poster": "https://m.media-amazon.com/images/M/MV5BYmU3MjAzMDgtZDViOC00ODgyLWE1NzUtZGY1MzkxYTVkMjMxXkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BYmU3MjAzMDgtZDViOC00ODgyLWE1NzUtZGY1MzkxYTVkMjMxXkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "b15b18bb5d1f22493c2d003bc8c1723b",
@@ -7506,14 +7511,9 @@
     ],
     "imdbId": "tt37180686",
     "name": "Drive - The Pretenders",
-    "year": "2026",
-    "poster": "https://images.metahub.space/poster/small/tt37180686/img",
-    "thumbnail": "https://images.metahub.space/poster/small/tt37180686/img",
-    "genres": [
-      "Drama",
-      "Romance"
-    ],
-    "description": "A young race car mechanic pretends to be engaged to the most scandalous racing star in the scene - officially for his reputation, but secretly for her own chance behind the wheel. Soon the lie threatens to destroy everything."
+    "year": 2026,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMDgzNGNhMjktZjA0MC00NGQ2LWJlNWMtM2NiMDQ3OWI2MzRmXkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BMDgzNGNhMjktZjA0MC00NGQ2LWJlNWMtM2NiMDQ3OWI2MzRmXkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "3375a77918649b00a370bc0c28feb763",
@@ -9551,8 +9551,8 @@
     "imdbId": "tt27419466",
     "name": "Moana",
     "year": 2026,
-    "poster": "https://images.metahub.space/poster/small/tt27419466/img",
-    "thumbnail": "https://images.metahub.space/poster/small/tt27419466/img"
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTQ1OTQ2Y2UtMzllNS00ODFiLWFkNGItNGRjOWRlMjIwNTRlXkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BMTQ1OTQ2Y2UtMzllNS00ODFiLWFkNGItNGRjOWRlMjIwNTRlXkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "48ef194a131aa50297958c86da9d6043",
