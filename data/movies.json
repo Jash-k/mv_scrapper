@@ -9861,11 +9861,18 @@
     "languages": [
       "Tamil"
     ],
-    "imdbId": "tt0214529",
-    "name": "Belphegor: Phantom of the Louvre",
-    "year": 2001,
-    "poster": "https://m.media-amazon.com/images/M/MV5BMzMwMTI3YTItYTI3MC00M2M2LThjNjAtMzg3ZWY0YTAzYjM0XkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BMzMwMTI3YTItYTI3MC00M2M2LThjNjAtMzg3ZWY0YTAzYjM0XkEyXkFqcGc@._V1_SX250.jpg"
+    "imdbId": "tt0293508",
+    "name": "The Phantom of the Opera",
+    "year": "2005",
+    "poster": "https://images.metahub.space/poster/small/tt0293508/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt0293508/img",
+    "genres": [
+      "Drama",
+      "Musical",
+      "Romance"
+    ],
+    "description": "A young soprano becomes the obsession of a disfigured and murderous musical genius who lives beneath the Paris Opéra House.",
+    "imdbRating": "7.2"
   },
   {
     "id": "c2c1c7a6fea98ea04b60cedc7aed1a74",
