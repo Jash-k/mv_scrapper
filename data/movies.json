@@ -92,8 +92,8 @@
     "imdbId": "tt38192494",
     "name": "Scene",
     "year": 2026,
-    "poster": "https://images.metahub.space/poster/small/tt38192494/img",
-    "thumbnail": "https://images.metahub.space/poster/small/tt38192494/img"
+    "poster": "https://m.media-amazon.com/images/M/MV5BOGExMjg5N2ItYmQ2NC00YjhjLTk3MWQtYTI5MDE5NWNkZjE1XkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BOGExMjg5N2ItYmQ2NC00YjhjLTk3MWQtYTI5MDE5NWNkZjE1XkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "0f8d829f6e436eb7a46ab339a090d6e5",
@@ -340,9 +340,15 @@
     ],
     "imdbId": "tt27988879",
     "name": "Ramayana",
-    "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BYWE4NWVmZjItN2Y0ZC00YmMzLThhNWEtM2VkZjA3MmFlNjdmXkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BYWE4NWVmZjItN2Y0ZC00YmMzLThhNWEtM2VkZjA3MmFlNjdmXkEyXkFqcGc@._V1_SX250.jpg"
+    "year": "2026",
+    "poster": "https://images.metahub.space/poster/small/tt27988879/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt27988879/img",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Drama"
+    ],
+    "description": "An ancient epic follows a young prince and princess whose marriage and subsequent exile mark the beginning of a legendary journey. Their story of love, duty and destiny sets the stage for greater challenges ahead."
   },
   {
     "id": "e13c88fd1a6e5e0bccf05c464c4d023c",
@@ -10953,7 +10959,19 @@
       "Telugu",
       "Hindi",
       "Multi-Lang"
-    ]
+    ],
+    "imdbId": "tt32268992",
+    "name": "Sacrifice",
+    "year": "2026",
+    "poster": "https://images.metahub.space/poster/small/tt32268992/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt32268992/img",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Comedy"
+    ],
+    "description": "At an elite fundraising gala, celebrities and socialites find themselves in danger when armed activists storm the venue in pursuit of a legendary relic that could unlock supernatural powers.",
+    "imdbRating": "5.7"
   },
   {
     "id": "906b34664be67193f53d9373353c5620",
@@ -11097,7 +11115,12 @@
       "Kannada",
       "Hindi",
       "Multi-Lang"
-    ]
+    ],
+    "imdbId": "tt34384900",
+    "name": "Love of Your Life",
+    "year": 2026,
+    "poster": "https://images.metahub.space/poster/small/tt34384900/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt34384900/img"
   },
   {
     "id": "cd1dbb1b5d68d04d8c3c4cc3705b889e",
@@ -12332,8 +12355,8 @@
     "imdbId": "tt31049299",
     "name": "Animals",
     "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BZmY3MmZiZjctOTgyYy00OGIxLTkwMDUtNDU3MGNkMGI3YWJlXkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BZmY3MmZiZjctOTgyYy00OGIxLTkwMDUtNDU3MGNkMGI3YWJlXkEyXkFqcGc@._V1_SX250.jpg"
+    "poster": "https://images.metahub.space/poster/small/tt31049299/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt31049299/img"
   },
   {
     "id": "633b3e4707982f2c011b6cca7cf812b5",
@@ -15625,7 +15648,7 @@
       "Thriller"
     ],
     "description": "Follows a prehistoric arachnid that terrifies a stranded group of campers who hike into the wrong woods. Based on the spine-tingling horror novel from the actor best known as \"Murr\" on TV's Impractical Jokers.",
-    "imdbRating": "6.7"
+    "imdbRating": "4.5"
   },
   {
     "id": "58deb6dfb62e77f3a5cfae3e3b0449e4",
@@ -21075,7 +21098,7 @@
       "Comedy"
     ],
     "description": "A Texas tech start-up breaks every crowdfunding record in the books, but they lose it all when a patent troll shuts them down. Refusing to go down without a fight, our heroes use a legal loophole to beat the trolls at their own ga...",
-    "imdbRating": "5.4"
+    "imdbRating": "5.9"
   },
   {
     "id": "4a5c08ebab7dcc8432868c211dee3cb9",
@@ -21370,8 +21393,8 @@
     "imdbId": "tt34564059",
     "name": "The Runner",
     "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BYzgzYzVhY2QtNjIzNi00Zjk5LWE1ZmQtYmJkNGY3YmExNDdlXkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BYzgzYzVhY2QtNjIzNi00Zjk5LWE1ZmQtYmJkNGY3YmExNDdlXkEyXkFqcGc@._V1_SX250.jpg"
+    "poster": "https://images.metahub.space/poster/small/tt34564059/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt34564059/img"
   },
   {
     "id": "c358c5ea53ed0bb622382c47e0061c95",
