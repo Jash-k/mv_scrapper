@@ -6700,7 +6700,7 @@
       "Thriller"
     ],
     "description": "Follows a prehistoric arachnid that terrifies a stranded group of campers who hike into the wrong woods. Based on the spine-tingling horror novel from the actor best known as \"Murr\" on TV's Impractical Jokers.",
-    "imdbRating": "6.7"
+    "imdbRating": "4.5"
   },
   {
     "id": "22f42a223d53f1b0ac405c3029793c6a",
@@ -9883,11 +9883,18 @@
     "languages": [
       "Tamil"
     ],
-    "imdbId": "tt0214529",
-    "name": "Belphegor: Phantom of the Louvre",
-    "year": 2001,
-    "poster": "https://m.media-amazon.com/images/M/MV5BMzMwMTI3YTItYTI3MC00M2M2LThjNjAtMzg3ZWY0YTAzYjM0XkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BMzMwMTI3YTItYTI3MC00M2M2LThjNjAtMzg3ZWY0YTAzYjM0XkEyXkFqcGc@._V1_SX250.jpg"
+    "imdbId": "tt0293508",
+    "name": "The Phantom of the Opera",
+    "year": "2005",
+    "poster": "https://images.metahub.space/poster/small/tt0293508/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt0293508/img",
+    "genres": [
+      "Drama",
+      "Musical",
+      "Romance"
+    ],
+    "description": "A young soprano becomes the obsession of a disfigured and murderous musical genius who lives beneath the Paris Opéra House.",
+    "imdbRating": "7.2"
   },
   {
     "id": "c2c1c7a6fea98ea04b60cedc7aed1a74",
@@ -11315,7 +11322,12 @@
       "Kannada",
       "Hindi",
       "Multi-Lang"
-    ]
+    ],
+    "imdbId": "tt34384900",
+    "name": "Love of Your Life",
+    "year": 2026,
+    "poster": "https://images.metahub.space/poster/small/tt34384900/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt34384900/img"
   },
   {
     "id": "cd1dbb1b5d68d04d8c3c4cc3705b889e",
@@ -15843,7 +15855,7 @@
       "Thriller"
     ],
     "description": "Follows a prehistoric arachnid that terrifies a stranded group of campers who hike into the wrong woods. Based on the spine-tingling horror novel from the actor best known as \"Murr\" on TV's Impractical Jokers.",
-    "imdbRating": "6.7"
+    "imdbRating": "4.5"
   },
   {
     "id": "58deb6dfb62e77f3a5cfae3e3b0449e4",
