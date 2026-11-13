@@ -33,6 +33,20 @@
         ],
         "seeders": 100,
         "leechers": 10
+      },
+      {
+        "quality": "720p HEVC",
+        "size": "1.4GB",
+        "type": "magnet",
+        "url": "magnet:?xt=urn:btih:01d94bf743270423cd299ca8a2afb19f050e04e7&xt=urn:btmh:122066306c10a9607db6f4188f5fc8d256b6f5bf2edad2c2c5d0649cf1c323223e65&dn=www.1TamilMV.io%20-%20Avengers%20Endgame%20%20Encore%20%282026%29%20HQ%20HDRip%20-%20720p%20-%20x265%20-%20HEVC%20-%20%5BTam%20%2B%20Tel%20%2B%20Hin%20%2B%20Eng%5D%20-%20AAC%20-%201.4GB%20-%20ESub.mkv&xl=1551342432&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Ftracker.dler.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=https%3A%2F%2Ftracker.moeblog.cn%3A443%2Fannounce&tr=udp%3A%2F%2Fopen.dstud.io%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.srv00.com%3A6969%2Fannounce&tr=https%3A%2F%2Ftracker.zhuqiy.com%3A443%2Fannounce&tr=https%3A%2F%2Ftracker.pmman.tech%3A443%2Fannounce&tr=udp%3A%2F%2Ftracker.publictracker.xyz%3A6969%2Fannounce&tr=http%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.wildkat.net%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.qu.ax%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.peerfect.org%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.opentorrent.top%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.filemail.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Fexplodie.org%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.filebase.online%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.moeking.me%3A6969%2Fannounce&tr=udp%3A%2F%2Fp4p.arenabg.com%3A1337%2Fannounce",
+        "languages": [
+          "Tamil",
+          "Telugu",
+          "Hindi",
+          "Multi-Lang"
+        ],
+        "seeders": 100,
+        "leechers": 10
       }
     ],
     "rawText": "Avengers Endgame : Encore (2026) (HD + Org Auds) - [1080p & 720p - x264 - (Tamil + Telugu + Hindi + Eng) - 5.5GB + Rips]",
@@ -801,8 +815,8 @@
     "imdbId": "tt27419420",
     "name": "Street Fighter",
     "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BYjhlN2EyNGUtY2U4YS00ZTQ3LTg0NTgtNGIxZmVhMDlmMjIyXkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BYjhlN2EyNGUtY2U4YS00ZTQ3LTg0NTgtNGIxZmVhMDlmMjIyXkEyXkFqcGc@._V1_SX250.jpg"
+    "poster": "https://images.metahub.space/poster/small/tt27419420/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt27419420/img"
   },
   {
     "id": "b04b2615ab49ce332df29ae867a4e78f",
@@ -7393,7 +7407,12 @@
     "rawText": "#Cult (2026) Telugu HQ PreDVD (HQ Clean) - [1080p & 720p - x264 - 2.6GB + Rips] - [W]",
     "languages": [
       "Telugu"
-    ]
+    ],
+    "imdbId": "tt36915004",
+    "name": "#Cult",
+    "year": 2026,
+    "poster": "https://m.media-amazon.com/images/M/MV5BYTU3MmZmNTktYTY1Yy00NzM2LTgxOWEtZWFmYmFmNmQ1YWUwXkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BYTU3MmZmNTktYTY1Yy00NzM2LTgxOWEtZWFmYmFmNmQ1YWUwXkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "d3aee22507c6059ef5039b016147ae09",
@@ -8218,7 +8237,12 @@
       "Telugu",
       "Hindi",
       "Multi-Lang"
-    ]
+    ],
+    "imdbId": "tt37522541",
+    "name": "Apocalypse Z: New World",
+    "year": 2026,
+    "poster": "https://images.metahub.space/poster/small/tt37522541/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt37522541/img"
   },
   {
     "id": "c81e102fa63256998c64186d0bc34eda",
@@ -8561,8 +8585,8 @@
     "imdbId": "tt43655467",
     "name": "Ali G: Who Iz I?",
     "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BYjIyYWYyMzEtMDkwOC00NDk0LWEwYzItNTk1NWYxNWEwMjA5XkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BYjIyYWYyMzEtMDkwOC00NDk0LWEwYzItNTk1NWYxNWEwMjA5XkEyXkFqcGc@._V1_SX250.jpg"
+    "poster": "https://images.metahub.space/poster/small/tt43655467/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt43655467/img"
   },
   {
     "id": "47e1708bf7552733c57b709f6756de6e",
@@ -9070,8 +9094,8 @@
     "imdbId": "tt32261958",
     "name": "Verity",
     "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BZmE0OWRiNzktY2MwMy00YzQ5LWFkMzctNjI1ZWQ1NTRiZGM3XkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BZmE0OWRiNzktY2MwMy00YzQ5LWFkMzctNjI1ZWQ1NTRiZGM3XkEyXkFqcGc@._V1_SX250.jpg"
+    "poster": "https://images.metahub.space/poster/small/tt32261958/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt32261958/img"
   },
   {
     "id": "6b794190c4a1c052d0e339aff082a00f",
@@ -22418,8 +22442,8 @@
     "imdbId": "tt26657236",
     "name": "Backrooms",
     "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BYzQyYjZmMjctMzIyZi00MDI0LWJhNGQtMzQ3MTFlNDgwNGM5XkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BYzQyYjZmMjctMzIyZi00MDI0LWJhNGQtMzQ3MTFlNDgwNGM5XkEyXkFqcGc@._V1_SX250.jpg"
+    "poster": "https://images.metahub.space/poster/small/tt26657236/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt26657236/img"
   },
   {
     "id": "01ea657718d327c2e3c7899d7586fe13",
