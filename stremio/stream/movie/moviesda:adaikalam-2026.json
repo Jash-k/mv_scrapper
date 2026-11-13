@@ -2,14 +2,14 @@
  "streams": [
   {
    "title": "1080p • MoviesDa",
-   "url": "https://site.fileraja.click/Moviesda.Mobi_-_Adaikalam_2026_Original_1080p_HD_(1.5_GB).mp4?htag=f38b16e86dd3a5716bcd15109fc937bea43cadd231efdc36c8b5d21788d802ca&etag=1794570412&ztag=7154c9d3399cc25b1ee390c60116478b1e865d7aa2ef4757639245f43e5b914e",
+   "url": "https://api.5a4a40ed2b55cf97fd7bf598ab40ae72.r2.cloudflarestorage.com/Moviesda.Mobi_-_Adaikalam_2026_Original_1080p_HD_%281.5_GB%29.mp4?response-content-disposition=attachment%3B%20filename%3D%22Moviesda.Mobi_-_Adaikalam_2026_Original_1080p_HD_%281.5_GB%29.mp4%22&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=dc771f1df4495bfae12cf86b2fdcfb97%2F20261113%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20261113T175255Z&X-Amz-SignedHeaders=host&X-Amz-Expires=172800&X-Amz-Signature=720db47491ad3d8c1b9b18b1f445c55dd87c279aeb1c7dd2f7074233f23c00b5",
    "behaviorHints": {
     "notProxy": true
    }
   },
   {
    "title": "720p • MoviesDa",
-   "url": "https://web.skyvault-assets.xyz/Moviesda.Mobi_-_Adaikalam_2026_Original_720p_HD.mp4?htag=f05480596508ad84a81faebe8389fd065d1b9dea4b74beb4d3f1a61bbbdeb031&etag=1794570418&ztag=ff9646db5cc06b87d1c44b2a2c540683a6010ffdc83fafec8f5d2ce0762a6f83",
+   "url": "https://fastspot.fa5a10fde41b12986512801a600ce280.r2.cloudflarestorage.com/Moviesda.Mobi_-_Adaikalam_2026_Original_720p_HD.mp4?response-content-disposition=attachment%3B%20filename%3D%22Moviesda.Mobi_-_Adaikalam_2026_Original_720p_HD.mp4%22&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=81db46c88a0391c9219abfd7fe69f5b5%2F20261113%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20261113T175301Z&X-Amz-SignedHeaders=host&X-Amz-Expires=172800&X-Amz-Signature=14e70790c00ed4a61300924006b72b606d962a0d2e4743b5455b4e215d01db4d",
    "behaviorHints": {
     "notProxy": true
    }

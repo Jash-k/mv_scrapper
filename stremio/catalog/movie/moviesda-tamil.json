@@ -1,6 +1,13 @@
 {
  "metas": [
   {
+   "id": "moviesda:sandakari-2026",
+   "type": "movie",
+   "name": "Sandakari",
+   "poster": "",
+   "releaseInfo": "2026"
+  },
+  {
    "id": "moviesda:vibe-2026",
    "type": "movie",
    "name": "Vibe",
@@ -102,13 +109,6 @@
    "id": "moviesda:all-pass-2026",
    "type": "movie",
    "name": "All Pass",
-   "poster": "",
-   "releaseInfo": "2026"
-  },
-  {
-   "id": "moviesda:meesaya-murukku-2-2026",
-   "type": "movie",
-   "name": "Meesaya Murukku 2",
    "poster": "",
    "releaseInfo": "2026"
   },
