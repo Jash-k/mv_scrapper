@@ -39,7 +39,7 @@
         "leechers": 10
       }
     ],
-    "rawText": "Obsession (2026) (BluRay + Org Auds) - [1080p & 720p - x264 - (Tamil + Telugu + Hindi + Malayalam + Kannada + Eng) - 2.4GB + Rips]",
+    "rawText": "Obsession (2026) (BluRay + Org Auds) - [1080p & 720p - x264 - (Tamil + Telugu + Hindi + Malayalam + Kannada + Eng) - 2.4GB + Rips] - [W]",
     "languages": [
       "Tamil",
       "Malayalam",
@@ -118,7 +118,7 @@
         "leechers": 10
       }
     ],
-    "rawText": "Avengers Endgame : Encore (2026) (HD + Org Auds) - [1080p & 720p - x264 - (Tamil + Telugu + Hindi + Eng) - 5.5GB + Rips]",
+    "rawText": "Avengers Endgame : Encore (2026) (HD + Org Auds) - [1080p & 720p - x264 - (Tamil + Telugu + Hindi + Eng) - 5.5GB + Rips] - [W]",
     "languages": [
       "Tamil",
       "Telugu",
@@ -294,7 +294,7 @@
         "leechers": 10
       }
     ],
-    "rawText": "Ranabaali (2026) Tamil UHD + ESub - [4K, 1080p & 720p - AVC / HEVC - (DD5.1 - 640Kbps) - 12GB + Rips]",
+    "rawText": "Ranabaali (2026) Tamil UHD + ESub - [4K, 1080p & 720p - AVC / HEVC - (DD5.1 - 640Kbps) - 12GB + Rips] - [W]",
     "languages": [
       "Tamil",
       "Telugu",
@@ -874,7 +874,7 @@
         "leechers": 10
       }
     ],
-    "rawText": "Street Fighter (2026) HQ HDRip (HQ Clean) + HC-KorSub - [1080p & 720p - x264 - [Tamil + Telugu + Hindi + Eng] - 2.2GB + Rips]",
+    "rawText": "Street Fighter (2026) HQ HDRip (HQ Clean) + HC-KorSub - [1080p & 720p - x264 - [Tamil + Telugu + Hindi + Eng] - 2.2GB + Rips] - [W]",
     "languages": [
       "Tamil",
       "Telugu",
@@ -4606,8 +4606,8 @@
     "imdbId": "tt39453578",
     "name": "The Good Lawyer",
     "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BNjVhODFmODItMWRjNi00ZjNjLTg1YmQtMjdlZTZkYWFiNjJlXkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BNjVhODFmODItMWRjNi00ZjNjLTg1YmQtMjdlZTZkYWFiNjJlXkEyXkFqcGc@._V1_SX250.jpg"
+    "poster": "https://images.metahub.space/poster/small/tt39453578/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt39453578/img"
   },
   {
     "id": "8a671f6ef3f24d5df6585a2dde39dd63",
@@ -22871,19 +22871,7 @@
       "Tamil",
       "Hindi",
       "Multi-Lang"
-    ],
-    "imdbId": "tt0425061",
-    "name": "Get Smart",
-    "year": "2008",
-    "poster": "https://images.metahub.space/poster/small/tt0425061/img",
-    "thumbnail": "https://images.metahub.space/poster/small/tt0425061/img",
-    "genres": [
-      "Action",
-      "Adventure",
-      "Comedy"
-    ],
-    "description": "Maxwell Smart, a highly intellectual but bumbling spy working for the CONTROL agency, is tasked with preventing a terrorist attack from rival spy agency KAOS.",
-    "imdbRating": "6.5"
+    ]
   },
   {
     "id": "d10ea48dc129099bf90a0046537b2f18",
@@ -23573,7 +23561,12 @@
       "Telugu",
       "Hindi",
       "Multi-Lang"
-    ]
+    ],
+    "imdbId": "tt11561116",
+    "name": "The Whisper Man",
+    "year": 2026,
+    "poster": "https://m.media-amazon.com/images/M/MV5BOTI1YmY3YTQtYTg2Zi00OTZkLTk3NzQtNjcxNzIzMjk2ODZlXkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BOTI1YmY3YTQtYTg2Zi00OTZkLTk3NzQtNjcxNzIzMjk2ODZlXkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "ac7c0531077218f69041654a3101335c",
