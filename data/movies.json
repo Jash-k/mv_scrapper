@@ -40,7 +40,7 @@
         "leechers": 10
       }
     ],
-    "rawText": "Sandakari (2026) Tamil HD + ESub - [1080p & 720p - AVC / HEVC - (DD5.1 - 384Kbps) - 4.5GB + Rips]",
+    "rawText": "Sandakari (2026) Tamil HD + ESub - [1080p & 720p - AVC / HEVC - (DD5.1 - 384Kbps) - 4.5GB + Rips] - [W]",
     "languages": [
       "Tamil"
     ],
@@ -4153,7 +4153,12 @@
     "rawText": "Bandra (2023) Malayalam HD + ESub - [1080p & 720p - AVC - (DD+5.1 - 192Kbps) - 2GB + Rips]",
     "languages": [
       "Malayalam"
-    ]
+    ],
+    "imdbId": "tt21990434",
+    "name": "Bandra",
+    "year": 2023,
+    "poster": "https://m.media-amazon.com/images/M/MV5BZjUxMmQ2OGQtMTVjOC00OGIwLWE3MjAtMjE4MmJhYTAwNTQ0XkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BZjUxMmQ2OGQtMTVjOC00OGIwLWE3MjAtMjE4MmJhYTAwNTQ0XkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "f0e6be2eb5bef619ecf8bcfee7343291",
@@ -4639,7 +4644,12 @@
     "rawText": "Adaikalam (2026) Tamil HD + ESub - [1080p & 720p - AVC - (DD5.1 - 384Kbps) - 1.7GB + Rips]",
     "languages": [
       "Tamil"
-    ]
+    ],
+    "imdbId": "tt11338432",
+    "name": "Adaikalam",
+    "year": 2026,
+    "poster": "https://m.media-amazon.com/images/M/MV5BNDM5NTY5OGUtNWQyMy00ZTkwLTg1NmUtMGZmMTk0NGM4Y2RhXkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BNDM5NTY5OGUtNWQyMy00ZTkwLTg1NmUtMGZmMTk0NGM4Y2RhXkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "e0e84f0ef08ac9f9cba83056c158edab",
@@ -4723,7 +4733,12 @@
     "rawText": "A History of Violence (2005) (BluRay + Org Auds) - [1080p & 720p - x264 - (Tamil + Eng) - 1.5GB + Rips]",
     "languages": [
       "Tamil"
-    ]
+    ],
+    "imdbId": "tt0399146",
+    "name": "A History of Violence",
+    "year": 2005,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTczMzIzMTQ1OV5BMl5BanBnXkFtZTYwMDQwNjk2._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BMTczMzIzMTQ1OV5BMl5BanBnXkFtZTYwMDQwNjk2._V1_SX250.jpg"
   },
   {
     "id": "0080f30de56023255ec569b74d359588",
@@ -5857,8 +5872,8 @@
     "imdbId": "tt7526136",
     "name": "Heart of the Beast",
     "year": 2026,
-    "poster": "https://images.metahub.space/poster/small/tt7526136/img",
-    "thumbnail": "https://images.metahub.space/poster/small/tt7526136/img"
+    "poster": "https://m.media-amazon.com/images/M/MV5BMDVlMTRhMjgtMjdmZi00NjJhLWExMmYtODExNWJkZGZjNjdhXkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BMDVlMTRhMjgtMjdmZi00NjJhLWExMmYtODExNWJkZGZjNjdhXkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "49cd574a05db841e6aa909a6771e78a0",
@@ -6022,7 +6037,12 @@
       "Telugu",
       "Hindi",
       "Multi-Lang"
-    ]
+    ],
+    "imdbId": "tt38515310",
+    "name": "A Dog's Perfect Christmas",
+    "year": 2026,
+    "poster": "https://m.media-amazon.com/images/M/MV5BMWYzMGYxZjgtZjc2Yy00YzQ2LThhMWItZmU5Y2FjNjRkYjRmXkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BMWYzMGYxZjgtZjc2Yy00YzQ2LThhMWItZmU5Y2FjNjRkYjRmXkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "21bfe13d9a73abc37245e1c7ce17c5a8",
@@ -7315,7 +7335,12 @@
       "Tamil",
       "Hindi",
       "Multi-Lang"
-    ]
+    ],
+    "imdbId": "tt20726444",
+    "name": "Top Gunner: Danger Zone",
+    "year": 2022,
+    "poster": "https://m.media-amazon.com/images/M/MV5BYzg0NTY0ZTMtZGFlYi00ZDQxLWIwZDEtZGM0NDI4NDBlYjk4XkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BYzg0NTY0ZTMtZGFlYi00ZDQxLWIwZDEtZGM0NDI4NDBlYjk4XkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "b5b901c503f1590026053c43307c04e4",
@@ -7990,7 +8015,18 @@
       "Kannada",
       "Hindi",
       "Multi-Lang"
-    ]
+    ],
+    "imdbId": "tt29630464",
+    "name": "Don't Move",
+    "year": "2026",
+    "poster": "https://images.metahub.space/poster/small/tt29630464/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt29630464/img",
+    "genres": [
+      "Horror",
+      "Thriller"
+    ],
+    "description": "Follows a prehistoric arachnid that terrifies a stranded group of campers who hike into the wrong woods. Based on the spine-tingling horror novel from the actor best known as \"Murr\" on TV's Impractical Jokers.",
+    "imdbRating": "6.7"
   },
   {
     "id": "22f42a223d53f1b0ac405c3029793c6a",
@@ -23518,7 +23554,12 @@
       "Telugu",
       "Hindi",
       "Multi-Lang"
-    ]
+    ],
+    "imdbId": "tt0106505",
+    "name": "Calendar Girl",
+    "year": 1993,
+    "poster": "https://m.media-amazon.com/images/M/MV5BZTQ1NTZhYzAtZDAxZi00YTI4LTljMzEtN2E3Y2RlM2M0YjBmXkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BZTQ1NTZhYzAtZDAxZi00YTI4LTljMzEtN2E3Y2RlM2M0YjBmXkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "a36b081511e4fad13dac6e070fc4697c",
