@@ -2,28 +2,28 @@
  "streams": [
   {
    "title": "1080p • MoviesDa",
-   "url": "https://web.skyvault-assets.xyz/Moviesda.Mobi_-_Yezhu_Kadal_Yezhu_Malai_2026_Original_1080p_HD.mp4?htag=daab807ff7fff5b9af6de88b16f18a431e8baa64369cf7de48ecbbbf5bc9918c&etag=1794592391&ztag=c2ff4432867c0e56a8f615e1d2b921a1cc2f10012b15d77bcc1586500884e2de",
+   "url": "https://api.5a4a40ed2b55cf97fd7bf598ab40ae72.r2.cloudflarestorage.com/Moviesda.Mobi_-_Yezhu_Kadal_Yezhu_Malai_2026_Original_1080p_HD.mp4?response-content-disposition=attachment%3B%20filename%3D%22Moviesda.Mobi_-_Yezhu_Kadal_Yezhu_Malai_2026_Original_1080p_HD.mp4%22&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=dc771f1df4495bfae12cf86b2fdcfb97%2F20261113%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20261113T235320Z&X-Amz-SignedHeaders=host&X-Amz-Expires=172800&X-Amz-Signature=d2f80cd00df3b65a4abc44da9cbdc2b17c4a8e1ce2e142697a4713b23e110cec",
    "behaviorHints": {
     "notProxy": true
    }
   },
   {
    "title": "1080p • MoviesDa",
-   "url": "https://app.kollybytes.xyz/Moviesda.Mobi_-_Yezhu_Kadal_Yezhu_Malai_2026_Original_1080p_HD_(3.6_GB).mp4?htag=656bd616e98bfcc25ee6bd5ce741705141efc699c09b6429541c29680ccc12e2&etag=1794592394&ztag=379f6b0bb1e383e8bea7a9969d137d9cd9780b49c2457f5e174df07d4d72a934",
+   "url": "https://md0.ddd4e6375c4ccc2c2b37f71c5ff555a5.r2.cloudflarestorage.com/Moviesda.Mobi_-_Yezhu_Kadal_Yezhu_Malai_2026_Original_1080p_HD_%283.6_GB%29.mp4?response-content-disposition=attachment%3B%20filename%3D%22Moviesda.Mobi_-_Yezhu_Kadal_Yezhu_Malai_2026_Original_1080p_HD_%283.6_GB%29.mp4%22&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ab9a9407454977c1f0e6cbb0e5a749e1%2F20261113%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20261113T235323Z&X-Amz-SignedHeaders=host&X-Amz-Expires=172800&X-Amz-Signature=97cfa6dea28ac3a9f3675e82b939d24c46c4c876b65c80cd8ef434593982ad0b",
    "behaviorHints": {
     "notProxy": true
    }
   },
   {
    "title": "720p • MoviesDa",
-   "url": "https://app.kollybytes.xyz/Moviesda.Mobi_-_Yezhu_Kadal_Yezhu_Malai_2026_Original_720p_HD.mp4?htag=9babb556a5f46a7b01d5ae7309a72b9842721f964fedd6a2ec941ee73bc2b23b&etag=1794592400&ztag=79daaa5b01ed1f53a608d86b482c12aed0cfb3f36a13a747b0b41d70255a8f4c",
+   "url": "https://app.kollybytes.xyz/Moviesda.Mobi_-_Yezhu_Kadal_Yezhu_Malai_2026_Original_720p_HD.mp4?htag=a93bfa5fac3ad08fe5e4fefeb63d78a7914e809a70c20a56ccd8065331cfb7a1&etag=1794614009&ztag=494378505951071f25ac1961c83e61e5e8bac8fcf019e745bc366b4355c1bbd7",
    "behaviorHints": {
     "notProxy": true
    }
   },
   {
    "title": "720p • MoviesDa",
-   "url": "https://site.fileraja.click/Moviesda.Mobi_-_Yezhu_Kadal_Yezhu_Malai_2026_Original_720p_HD_(950_MB).mp4?htag=c848f7a6be7a256d73af80ff50b8e52659f3ed306e9c241632c4bb2ba77a89e8&etag=1794592403&ztag=008245face7afed273c6c25fc673487416d6bd97a76745cdd1162cfd2ce2a60a",
+   "url": "https://site.fileraja.click/Moviesda.Mobi_-_Yezhu_Kadal_Yezhu_Malai_2026_Original_720p_HD_(950_MB).mp4?htag=1e9367f05f185c6b7d0a325106b517cdef677363dcb474a4ee4ba0fc5ac13784&etag=1794614013&ztag=13105846408bc9b50c71f726083e30b045d2b3728386f539af0f04af54132685",
    "behaviorHints": {
     "notProxy": true
    }

@@ -2,14 +2,14 @@
  "streams": [
   {
    "title": "1080p • MoviesDa",
-   "url": "https://api.5a4a40ed2b55cf97fd7bf598ab40ae72.r2.cloudflarestorage.com/Moviesda.Mobi_-_Adaikalam_2026_Original_1080p_HD_%281.5_GB%29.mp4?response-content-disposition=attachment%3B%20filename%3D%22Moviesda.Mobi_-_Adaikalam_2026_Original_1080p_HD_%281.5_GB%29.mp4%22&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=dc771f1df4495bfae12cf86b2fdcfb97%2F20261113%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20261113T175255Z&X-Amz-SignedHeaders=host&X-Amz-Expires=172800&X-Amz-Signature=720db47491ad3d8c1b9b18b1f445c55dd87c279aeb1c7dd2f7074233f23c00b5",
+   "url": "https://fastspot.fa5a10fde41b12986512801a600ce280.r2.cloudflarestorage.com/Moviesda.Mobi_-_Adaikalam_2026_Original_1080p_HD_%281.5_GB%29.mp4?response-content-disposition=attachment%3B%20filename%3D%22Moviesda.Mobi_-_Adaikalam_2026_Original_1080p_HD_%281.5_GB%29.mp4%22&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=81db46c88a0391c9219abfd7fe69f5b5%2F20261113%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20261113T235303Z&X-Amz-SignedHeaders=host&X-Amz-Expires=172800&X-Amz-Signature=d4deb19622aef90b1a4f7bb2786d83fd660b89aa7603d193275d5d53f73043a5",
    "behaviorHints": {
     "notProxy": true
    }
   },
   {
    "title": "720p • MoviesDa",
-   "url": "https://fastspot.fa5a10fde41b12986512801a600ce280.r2.cloudflarestorage.com/Moviesda.Mobi_-_Adaikalam_2026_Original_720p_HD.mp4?response-content-disposition=attachment%3B%20filename%3D%22Moviesda.Mobi_-_Adaikalam_2026_Original_720p_HD.mp4%22&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=81db46c88a0391c9219abfd7fe69f5b5%2F20261113%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20261113T175301Z&X-Amz-SignedHeaders=host&X-Amz-Expires=172800&X-Amz-Signature=14e70790c00ed4a61300924006b72b606d962a0d2e4743b5455b4e215d01db4d",
+   "url": "https://app.kollybytes.xyz/Moviesda.Mobi_-_Adaikalam_2026_Original_720p_HD.mp4?htag=d70baa600b57705cbf956ebf9bdf06997380dfc11ef124a1a26d94496c1def56&etag=1794613989&ztag=5ce7d689f9cd00b9f3283904116f8df2d0cf020cec320b0549648ebedce85518",
    "behaviorHints": {
     "notProxy": true
    }

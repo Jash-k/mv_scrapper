@@ -2,28 +2,28 @@
  "streams": [
   {
    "title": "1080p • MoviesDa",
-   "url": "https://md0.ddd4e6375c4ccc2c2b37f71c5ff555a5.r2.cloudflarestorage.com/Moviesda.Mobi_-_Ranabaali_2026_Original_1080p_HD_%284.1_GB%29.mp4?response-content-disposition=attachment%3B%20filename%3D%22Moviesda.Mobi_-_Ranabaali_2026_Original_1080p_HD_%284.1_GB%29.mp4%22&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ab9a9407454977c1f0e6cbb0e5a749e1%2F20261113%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20261113T175144Z&X-Amz-SignedHeaders=host&X-Amz-Expires=172800&X-Amz-Signature=284dd2520c43cf1cfdd16ac4283815329982a79e022258d6dee5af324471fffe",
+   "url": "https://web.skyvault-assets.xyz/Moviesda.Mobi_-_Ranabaali_2026_Original_1080p_HD_(4.1_GB).mp4?htag=3586d6c671a004600a7133bfbf7b6767e8d4acbb0bd70f6859dac220c8b932a1&etag=1794613912&ztag=59a6ddeb18d5271a867a0761f8f8f7eabc6408d23168a1738a50efca2f97bc72",
    "behaviorHints": {
     "notProxy": true
    }
   },
   {
    "title": "1080p • MoviesDa",
-   "url": "https://web.skyvault-assets.xyz/Moviesda.Mobi_-_Ranabaali_2026_Original_1080p_HD.mp4?htag=19b8125c4c8ab60fefae42de96c7baf02c172252583eef421d75e59f1fe6a0df&etag=1794592307&ztag=b5c63e5ab0572f83a9d851b2185836029c616a871bfc80f9f1587d4e8ba8f49c",
+   "url": "https://api.5a4a40ed2b55cf97fd7bf598ab40ae72.r2.cloudflarestorage.com/Moviesda.Mobi_-_Ranabaali_2026_Original_1080p_HD.mp4?response-content-disposition=attachment%3B%20filename%3D%22Moviesda.Mobi_-_Ranabaali_2026_Original_1080p_HD.mp4%22&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=dc771f1df4495bfae12cf86b2fdcfb97%2F20261113%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20261113T235155Z&X-Amz-SignedHeaders=host&X-Amz-Expires=172800&X-Amz-Signature=0d4dc7d10f354d43a045b428bf98791010f4bcab54c7328edaa0a15d89359275",
    "behaviorHints": {
     "notProxy": true
    }
   },
   {
    "title": "720p • MoviesDa",
-   "url": "https://api.5a4a40ed2b55cf97fd7bf598ab40ae72.r2.cloudflarestorage.com/Moviesda.Mobi_-_Ranabaali_2026_Original_720p_HD_%28950_MB%29.mp4?response-content-disposition=attachment%3B%20filename%3D%22Moviesda.Mobi_-_Ranabaali_2026_Original_720p_HD_%28950_MB%29.mp4%22&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=dc771f1df4495bfae12cf86b2fdcfb97%2F20261113%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20261113T175152Z&X-Amz-SignedHeaders=host&X-Amz-Expires=172800&X-Amz-Signature=e3bbe3691578ca89d1324cf3a0dbd85491ebd337787f8aa0073814f1fc1c61ee",
+   "url": "https://app.kollybytes.xyz/Moviesda.Mobi_-_Ranabaali_2026_Original_720p_HD_(950_MB).mp4?htag=d7a294aa52d198dee522b51aaf5cd024d8b6f3782c6116e2d4e92add663bbe94&etag=1794613922&ztag=597b564a8e1a34753f110820fbe4cb8e0f98687724c357d8e96d9bd6df256baa",
    "behaviorHints": {
     "notProxy": true
    }
   },
   {
    "title": "720p • MoviesDa",
-   "url": "https://md0.ddd4e6375c4ccc2c2b37f71c5ff555a5.r2.cloudflarestorage.com/Moviesda.Mobi_-_Ranabaali_2026_Original_720p_HD.mp4?response-content-disposition=attachment%3B%20filename%3D%22Moviesda.Mobi_-_Ranabaali_2026_Original_720p_HD.mp4%22&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ab9a9407454977c1f0e6cbb0e5a749e1%2F20261113%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20261113T175155Z&X-Amz-SignedHeaders=host&X-Amz-Expires=172800&X-Amz-Signature=82fb053f4c5d4de0cd5fdb0c1b29b008492e8c16291ae2dd7d158f17df23e993",
+   "url": "https://web.skyvault-assets.xyz/Moviesda.Mobi_-_Ranabaali_2026_Original_720p_HD.mp4?htag=ef57ba799bedb21075d297b6986f4e1f65f6f6e227f7d07321538f398b7e545b&etag=1794613925&ztag=516513105c121555f4c43e88922f091206df46882c0229073480ed79b4029b70",
    "behaviorHints": {
     "notProxy": true
    }
