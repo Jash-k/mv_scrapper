@@ -19,7 +19,7 @@
  *   MOVIESDA_MAX_MOVIES=60  max movie pages per run (delay-friendly)
  *   MOVIESDA_LATEST=25      max items from tamil-latest-updates
  *   TMDB_API_KEY=...        enables TMDB id/poster/imdb resolution (Stremio ids)
- *   MOVIESDA_SKIP_VERIFY=1  emergency: commit unverified (NEVER in CI)
+ *   Verification is mandatory; no bypass.
  */
 import { scrapeLatest, scrapeYear, scrapeMovie } from './moviesda/extractor.js';
 import { verifyAll, verifyMp4 } from './moviesda/verify.js';
@@ -31,6 +31,10 @@ const LATEST = Number(process.env.MOVIESDA_LATEST ?? 25);
 const LIMIT = Number(
   (process.argv.find((a) => a.startsWith('--limit=')) || '').split('=')[1] || 0
 );
+
+for (const [name, value, max] of [['YEARS_BACK', YEARS_BACK, 20], ['MAX_MOVIES', MAX_MOVIES, 1000], ['LATEST', LATEST, 1000], ['LIMIT', LIMIT, 1000]]) {
+  if (!Number.isInteger(value) || value < 0 || value > max) throw new Error(`Invalid ${name}; expected integer 0..${max}`);
+}
 
 const started = Date.now();
 const currentYear = new Date().getFullYear();
@@ -103,25 +107,20 @@ const mp4Urls = scraped.flatMap((m) => m.mp4s.map((q) => q.url));
 console.log(`[moviesda] verifying ${mp4Urls.length} direct mp4 urls…`);
 
 const mp4Verify = new Map();
-if (process.env.MOVIESDA_SKIP_VERIFY === '1') {
-  console.warn('[moviesda] VERIFY DISABLED — emergency mode, never use in CI');
-  for (const u of mp4Urls) mp4Verify.set(u, true);
-} else {
-  const unique = [...new Set(mp4Urls)].map((url) => ({ url }));
-  const results = await verifyAll(unique, verifyMp4, {
-    concurrency: 4,
-    onProgress: (d, t) => process.stdout.write(`\r  mp4 ${d}/${t}   `),
-  });
-  for (const r of results) mp4Verify.set(r.item.url, r.ok);
-  console.log('');
-  const alive = [...mp4Verify.values()].filter(Boolean).length;
-  const dead = unique.length - alive;
-  console.log(`[moviesda] verify result: ${alive} alive / ${dead} dead of ${unique.length}`);
-}
+const unique = [...new Set(mp4Urls)].map((url) => ({ url }));
+const results = await verifyAll(unique, verifyMp4, {
+  concurrency: 4,
+  onProgress: (d, t) => process.stdout.write(`\r  mp4 ${d}/${t}   `),
+});
+for (const r of results) mp4Verify.set(r.item.url, r);
+console.log('');
+const failures = {};
+for (const r of results.filter(r => !r.ok)) failures[r.error] = (failures[r.error] || 0) + 1;
+console.log('[moviesda] verification failures:', JSON.stringify(failures));
 
 // ---- 4. safety gate BEFORE writing anything ----
-const aliveMp4 = [...mp4Verify.values()].filter(Boolean).length;
-if (!aliveMp4 && !process.env.MOVIESDA_SKIP_VERIFY) {
+const aliveMp4 = [...mp4Verify.values()].filter(r => r.ok).length;
+if (!aliveMp4) {
   console.error(
     '[moviesda] ZERO verified MP4s — upstream layout probably changed. NOT overwriting good data with empty files.'
   );

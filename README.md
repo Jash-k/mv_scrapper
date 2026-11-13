@@ -1,3 +1,7 @@
+> **Direct-MP4 reliability update:** see [README-moviesda.md](README-moviesda.md).
+> Run `npm test` for offline/local fixture checks. MoviesDa output is now direct-only,
+> including its Stremio files. The TamilMV magnet scraper below remains separate.
+
 # 🎬 1TamilMV Custom Scraper (720p & 1080p Only) + GitHub Actions Cron
 
 A standalone, self-hosted **1TamilMV Movie Scraper & Metadata Enricher** designed for total independence and sustainability.

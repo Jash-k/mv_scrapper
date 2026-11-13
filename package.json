@@ -8,7 +8,8 @@
     "scrape": "node src/scrape-cli.js",
     "scrape:tamilmv": "node src/scrape-cli.js",
     "scrape:moviesda": "node src/moviesda-cli.js",
-    "start": "node src/scrape-cli.js"
+    "start": "node src/scrape-cli.js",
+    "test": "node --test"
   },
   "keywords": [
     "scraper",

@@ -12,7 +12,7 @@
  */
 import * as cheerio from 'cheerio';
 
-const BASES = ['https://moviesda34.com', 'https://movies.downloadpage.xyz'];
+const BASES = (process.env.MOVIESDA_BASES || 'https://moviesda34.com,https://movies.downloadpage.xyz').split(',').map(s => s.trim()).filter(Boolean);
 const HEADERS = {
   'User-Agent':
     'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36',
@@ -92,7 +92,11 @@ function absolute(base, href) {
 async function fetchPage(urlOrPath) {
   if (/^https?:\/\//i.test(urlOrPath)) {
     const u = new URL(urlOrPath);
-    return { html: await fetchWithRetry(urlOrPath), base: u.origin };
+    try { return { html: await fetchWithRetry(urlOrPath), base: urlOrPath }; }
+    catch (error) {
+      if (!BASES.some(base => new URL(base).origin === u.origin)) throw error;
+      return fetchFromMirrors(u.pathname + u.search);
+    }
   }
   return fetchFromMirrors(urlOrPath);
 }
@@ -151,7 +155,8 @@ export async function getDownloadSelectionUrls(resolutionUrl) {
   const set = new Set();
   $('a, div.f a, div.folder a').each((_, el) => {
     const href = $(el).attr('href') || '';
-    if (href.startsWith('/download/')) set.add(absolute(base, href));
+    const target = absolute(base, href);
+    if (target && /^\/download\//.test(new URL(target).pathname)) set.add(target);
   });
   return [...set];
 }
@@ -244,62 +249,41 @@ export async function getServerCandidates(serverPageUrl) {
  */
 export async function resolveServerLink(url) {
   if (!url) return null;
-  if (/onestream\.today|play\.onestream|iframe|embed/i.test(url)) return null;
-
-  // Already a bare/direct mp4 host — keep (byte-verify later)
-  if (/\.mp4(\?|$)/i.test(url) && !/download\.php/i.test(url)) {
-    return { type: 'mp4', url };
-  }
-
-  for (let attempt = 0; attempt <= 1; attempt += 1) {
+  const visited = new Set();
+  let current = url;
+  for (let hop = 0; hop < 8; hop++) {
+    let parsed;
+    try { parsed = new URL(current); } catch { return null; }
+    if (!['http:', 'https:'].includes(parsed.protocol) || parsed.username || parsed.password
+        || /onestream/i.test(parsed.hostname) || visited.has(current)) return null;
+    visited.add(current);
+    // Verification later checks real bytes, not the extension.
+    if (/\.mp4$/i.test(parsed.pathname)) return { type: 'mp4', url: current };
+    const controller = new AbortController();
+    const timer = setTimeout(() => controller.abort(), TIMEOUT_MS);
     try {
-      const controller = new AbortController();
-      const timer = setTimeout(() => controller.abort(), TIMEOUT_MS);
-      try {
-        const res = await fetch(url, {
-          method: 'GET',
-          headers: { ...HEADERS, Referer: 'https://movies.downloadpage.xyz/' },
-          redirect: 'manual',
-          signal: controller.signal,
-        });
-        const location = res.headers.get('location');
-        if (location && /^https?:\/\//.test(location)) {
-          // Follow one more hop if still a gateway, else return
-          if (/download\.php|fastbytes|uptodl/i.test(location) && !/\.mp4/i.test(location)) {
-            const hop = await fetch(location, {
-              method: 'GET',
-              headers: { ...HEADERS, Referer: url },
-              redirect: 'manual',
-              signal: AbortSignal.timeout(TIMEOUT_MS),
-            });
-            const loc2 = hop.headers.get('location');
-            if (loc2 && /^https?:\/\//.test(loc2)) return { type: 'mp4', url: loc2 };
-          }
-          return { type: 'mp4', url: location };
-        }
-        // Some servers 200 with the FILE itself — never buffer a video body.
-        const ctype = (res.headers.get('content-type') || '').toLowerCase();
-        if (res.ok && /video\/|octet-stream/.test(ctype)) {
-          try {
-            await res.body.cancel();
-          } catch {
-            /* already drained */
-          }
-          return { type: 'mp4', url };
-        }
-        // Otherwise 200 with a meta-refresh or HTML page; sniff the first 4 KiB.
-        if (res.ok) {
-          const body = await readCapped(res, 4096);
-          const meta = body.match(/https?:\/\/[^"'\s]+\.mp4[^"'\s]*/i);
-          if (meta) return { type: 'mp4', url: meta[0] };
-        }
-        return null;
-      } finally {
-        clearTimeout(timer);
+      const res = await fetch(current, { headers: { ...HEADERS, Range: 'bytes=0-4095' },
+        redirect: 'manual', signal: controller.signal });
+      const location = res.headers.get('location');
+      if ([301,302,303,307,308].includes(res.status) && location) {
+        await res.body?.cancel();
+        current = new URL(location, current).href;
+        continue;
       }
-    } catch {
-      await sleep(600);
-    }
+      if (!res.ok) { await res.body?.cancel(); return null; }
+      if (/video\/|octet-stream/i.test(res.headers.get('content-type') || '')) {
+        await res.body?.cancel();
+        return { type: 'mp4', url: current };
+      }
+      const html = await readCapped(res, 16384);
+      const $ = cheerio.load(html);
+      const refresh = $('meta[http-equiv]').filter((_, e) => String($(e).attr('http-equiv')).toLowerCase() === 'refresh').first().attr('content');
+      const target = refresh?.match(/url\s*=\s*['"]?([^'"]+)/i)?.[1]?.trim()
+        || $('video source[src], video[src], a[href*=".mp4"]').first().attr('src')
+        || $('a[href*=".mp4"]').first().attr('href');
+      if (!target) return null;
+      current = new URL(target, current).href;
+    } catch { return null; } finally { clearTimeout(timer); }
   }
   return null;
 }

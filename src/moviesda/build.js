@@ -3,19 +3,16 @@
  *
  *   data/moviesda.json        direct MP4 tier (720p/1080p only, byte-verified)
  *   data/moviesda.m3u         M3U twin of the MP4 tier
- *   stremio/**                static Stremio addon (Pages) — MP4 + magnets
+ *   stremio/**                static Stremio addon (Pages) — direct MP4 only
  *   data/moviesda-stats.json  run metadata
  *
  * Embeds are intentionally NOT produced.
- * Magnets are READ from data/movies.json (never written here) and only enter
- * the stremio/ output.
+ * The independent TamilMV magnet feed is never read or modified here.
  */
 import { promises as fs } from 'node:fs';
 import path from 'node:path';
 
-const ROOT = process.cwd();
-const DATA = path.join(ROOT, 'data');
-const STREMIO = path.join(ROOT, 'stremio');
+
 
 const TMDB_API = process.env.TMDB_API_KEY || '';
 
@@ -59,22 +56,6 @@ async function resolveTmdb(title, year) {
   }
 }
 
-/** Read the existing TamilMV magnets file (read-only, never modified). */
-async function loadMagnets() {
-  try {
-    const raw = await fs.readFile(path.join(DATA, 'movies.json'), 'utf8');
-    const list = JSON.parse(raw);
-    const map = new Map();
-    for (const movie of Array.isArray(list) ? list : []) {
-      const key = `${slug(movie.titleGuess || movie.rawTitle)}:${movie.yearGuess || ''}`;
-      map.set(key, movie);
-    }
-    return map;
-  } catch {
-    return new Map();
-  }
-}
-
 /** Collapse mirror copies of the same file (same host + filename, token-only diffs). */
 function dedupeStreams(streams) {
   const seen = new Set();
@@ -82,7 +63,7 @@ function dedupeStreams(streams) {
   for (const q of streams || []) {
     try {
       const u = new URL(q.url);
-      const sig = `${u.hostname}/${u.pathname.split('/').pop().toLowerCase()}`;
+      const sig = u.href;
       if (seen.has(sig)) continue;
       seen.add(sig);
     } catch {
@@ -105,16 +86,13 @@ function normalizeIdentity(movie) {
   };
 }
 
-function extractInfoHash(magnet) {
-  const m = String(magnet || '').match(/btih:([a-f0-9]{32,40})/i);
-  return m ? m[1] : '';
-}
-
 /**
  * @param scraped  array of scrapeMovie() results
  * @param opts     { mp4Verify: Map<url,bool> }
  */
-export async function buildOutputs(scraped, { mp4Verify }) {
+export async function buildOutputs(scraped, { mp4Verify, root = process.cwd() }) {
+  const DATA = path.join(root, "data");
+  const STREMIO = path.join(root, "stremio");
   await fs.mkdir(DATA, { recursive: true });
   await fs.mkdir(path.join(STREMIO, 'catalog', 'movie'), { recursive: true });
   await fs.mkdir(path.join(STREMIO, 'stream', 'movie'), { recursive: true });
@@ -131,14 +109,19 @@ export async function buildOutputs(scraped, { mp4Verify }) {
     /* dir may not exist yet */
   }
 
-  const magnets = await loadMagnets();
+
   const movies = [];
 
   for (const movie of scraped) {
     const { title: parsedTitle, year: parsedYear } = normalizeIdentity(movie);
     const goodMp4 = dedupeStreams(
       (movie.mp4s || [])
-        .filter((q) => mp4Verify.get(q.url))
+        .filter((q) => q.type === 'mp4' && mp4Verify.get(q.url)?.ok === true)
+        .map(q => {
+          const verified = mp4Verify.get(q.url);
+          return { ...q, url: verified.url || q.url, size_bytes: verified.size_bytes,
+            verifiedAt: verified.verifiedAt };
+        })
         .filter((q) => /720p|1080p/i.test(q.quality || ''))
     );
     if (!goodMp4.length) continue;
@@ -188,10 +171,10 @@ export async function buildOutputs(scraped, { mp4Verify }) {
   // ---- Stremio static addon ----
   const addonId = 'jash-moviesda-pages';
   const catalog = movies
-    .filter((m) => m.tmdbId)
     .slice(0, 300)
     .map((m) => ({
-      id: `tmdb:${m.tmdbId}`,
+      id: m.imdbId || (m.tmdbId ? `tmdb:${m.tmdbId}` : `moviesda:${m.id}`),
+      type: "movie",
       name: m.titleGuess,
       poster: m.poster || '',
       releaseInfo: m.yearGuess ? String(m.yearGuess) : '',
@@ -205,10 +188,10 @@ export async function buildOutputs(scraped, { mp4Verify }) {
     types: ['movie'],
     catalogs: [{ type: 'movie', id: 'moviesda-tamil', name: 'MoviesDa Tamil' }],
     resources: [
-      { name: 'catalog', types: ['movie'], idPrefixes: ['tmdb'] },
-      { name: 'stream', types: ['movie'], idPrefixes: ['tt', 'tmdb'] },
+      { name: 'catalog', types: ['movie'], idPrefixes: ['tt', 'tmdb', 'moviesda:'] },
+      { name: 'stream', types: ['movie'], idPrefixes: ['tt', 'tmdb', 'moviesda:'] },
     ],
-    idPrefixes: ['tt', 'tmdb'],
+    idPrefixes: ['tt', 'tmdb', 'moviesda:'],
     background: 'https://images.unsplash.com/photo-1440404653325-ab127d49abc1',
     behaviorHints: { configurable: false },
   };
@@ -220,7 +203,7 @@ export async function buildOutputs(scraped, { mp4Verify }) {
 
   const byId = new Map();
   for (const movie of movies) {
-    const ids = [movie.imdbId, movie.tmdbId ? `tmdb:${movie.tmdbId}` : ''].filter(Boolean);
+    const ids = [...new Set([`moviesda:${movie.id}`, movie.imdbId, movie.tmdbId ? `tmdb:${movie.tmdbId}` : ''].filter(Boolean))];
     for (const id of ids) {
       const streams = byId.get(id) || [];
       for (const q of movie.qualities) {
@@ -229,19 +212,6 @@ export async function buildOutputs(scraped, { mp4Verify }) {
           url: q.url,
           behaviorHints: { notProxy: true },
         });
-      }
-      // merge the TamilMV magnets for the same title (Stremio ONLY)
-      const mag = magnets.get(`${slug(movie.titleGuess)}:${movie.yearGuess || ''}`);
-      if (mag) {
-        for (const q of mag.qualities || []) {
-          if (String(q.type) === 'magnet' && q.url) {
-            streams.push({
-              title: `${q.quality} • Torrent`,
-              infoHash: extractInfoHash(q.url),
-              sources: [q.url.slice(0, 120)],
-            });
-          }
-        }
       }
       byId.set(id, streams);
     }
