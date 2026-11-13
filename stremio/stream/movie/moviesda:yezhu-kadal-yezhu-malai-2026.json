@@ -1,0 +1,32 @@
+{
+ "streams": [
+  {
+   "title": "1080p • MoviesDa",
+   "url": "https://fastspot.fa5a10fde41b12986512801a600ce280.r2.cloudflarestorage.com/Moviesda.Mobi_-_Yezhu_Kadal_Yezhu_Malai_2026_Original_1080p_HD.mp4?response-content-disposition=attachment%3B%20filename%3D%22Moviesda.Mobi_-_Yezhu_Kadal_Yezhu_Malai_2026_Original_1080p_HD.mp4%22&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=81db46c88a0391c9219abfd7fe69f5b5%2F20261113%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20261113T114708Z&X-Amz-SignedHeaders=host&X-Amz-Expires=172800&X-Amz-Signature=795480e2e6a9bfd4cdfcb5fdc7b28899c45549368beb253821b513932d6cdba6",
+   "behaviorHints": {
+    "notProxy": true
+   }
+  },
+  {
+   "title": "1080p • MoviesDa",
+   "url": "https://md0.ddd4e6375c4ccc2c2b37f71c5ff555a5.r2.cloudflarestorage.com/Moviesda.Mobi_-_Yezhu_Kadal_Yezhu_Malai_2026_Original_1080p_HD_%283.6_GB%29.mp4?response-content-disposition=attachment%3B%20filename%3D%22Moviesda.Mobi_-_Yezhu_Kadal_Yezhu_Malai_2026_Original_1080p_HD_%283.6_GB%29.mp4%22&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ab9a9407454977c1f0e6cbb0e5a749e1%2F20261113%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20261113T114711Z&X-Amz-SignedHeaders=host&X-Amz-Expires=172800&X-Amz-Signature=4cb4f05914f5656e6e173a1cbd9c16394745ec7f2865b57697bf1a0c8630972e",
+   "behaviorHints": {
+    "notProxy": true
+   }
+  },
+  {
+   "title": "720p • MoviesDa",
+   "url": "https://web.skyvault-assets.xyz/Moviesda.Mobi_-_Yezhu_Kadal_Yezhu_Malai_2026_Original_720p_HD.mp4?htag=d58f447cf5441042dbffeee811f4ed2527f39ef39c4e4441ebf5b7b437e3ed03&etag=1794570437&ztag=43d8f6d1612f4e2cb84a15b8239bc58527e259053a3ecf744eba010d7c7464a3",
+   "behaviorHints": {
+    "notProxy": true
+   }
+  },
+  {
+   "title": "720p • MoviesDa",
+   "url": "https://md0.ddd4e6375c4ccc2c2b37f71c5ff555a5.r2.cloudflarestorage.com/Moviesda.Mobi_-_Yezhu_Kadal_Yezhu_Malai_2026_Original_720p_HD_%28950_MB%29.mp4?response-content-disposition=attachment%3B%20filename%3D%22Moviesda.Mobi_-_Yezhu_Kadal_Yezhu_Malai_2026_Original_720p_HD_%28950_MB%29.mp4%22&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ab9a9407454977c1f0e6cbb0e5a749e1%2F20261113%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20261113T114720Z&X-Amz-SignedHeaders=host&X-Amz-Expires=172800&X-Amz-Signature=36b84d6fbb962bcf951e6954f3644b5189cd420e52a8771f9beb2e9746de00aa",
+   "behaviorHints": {
+    "notProxy": true
+   }
+  }
+ ]
+}

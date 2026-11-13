@@ -20,7 +20,9 @@
         "movie"
       ],
       "idPrefixes": [
-        "tmdb"
+        "tt",
+        "tmdb",
+        "moviesda:"
       ]
     },
     {
@@ -30,13 +32,15 @@
       ],
       "idPrefixes": [
         "tt",
-        "tmdb"
+        "tmdb",
+        "moviesda:"
       ]
     }
   ],
   "idPrefixes": [
     "tt",
-    "tmdb"
+    "tmdb",
+    "moviesda:"
   ],
   "background": "https://images.unsplash.com/photo-1440404653325-ab127d49abc1",
   "behaviorHints": {

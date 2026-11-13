@@ -1,0 +1,32 @@
+{
+ "streams": [
+  {
+   "title": "1080p • MoviesDa",
+   "url": "https://app.kollybytes.xyz/Moviesda.Mobi_-_The_Grandmaster_2026_Original_1080p_HD.mp4?htag=1bbad83d3a8da74746f0172c6b8d3b9ad0772702b5a12dc1d0ffee66589a6453&etag=1794570531&ztag=4c76db01a3fd96191ee987e94083a93615860bc9cd5e44b472a2c6fca78d9571",
+   "behaviorHints": {
+    "notProxy": true
+   }
+  },
+  {
+   "title": "1080p • MoviesDa",
+   "url": "https://app.kollybytes.xyz/Moviesda.Mobi_-_The_Grandmaster_2026_Original_1080p_HD_(3.4_GB).mp4?htag=ecf07a351bd6502b84d8e8ece604b6f029ad736b17defffa83ebbc82c0615eef&etag=1794570534&ztag=9a666f6df02130eee3b7321a5028f10cd3cbeea667dab33ee8da0f0ffd56b290",
+   "behaviorHints": {
+    "notProxy": true
+   }
+  },
+  {
+   "title": "720p • MoviesDa",
+   "url": "https://md0.ddd4e6375c4ccc2c2b37f71c5ff555a5.r2.cloudflarestorage.com/Moviesda.Mobi_-_The_Grandmaster_2026_Original_720p_HD_%28950_MB%29.mp4?response-content-disposition=attachment%3B%20filename%3D%22Moviesda.Mobi_-_The_Grandmaster_2026_Original_720p_HD_%28950_MB%29.mp4%22&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ab9a9407454977c1f0e6cbb0e5a749e1%2F20261113%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20261113T114900Z&X-Amz-SignedHeaders=host&X-Amz-Expires=172800&X-Amz-Signature=9601b8bda77577058e7540005c7a84e0c2afe2ae2c8220f84351a75e8bd34885",
+   "behaviorHints": {
+    "notProxy": true
+   }
+  },
+  {
+   "title": "720p • MoviesDa",
+   "url": "https://api.5a4a40ed2b55cf97fd7bf598ab40ae72.r2.cloudflarestorage.com/Moviesda.Mobi_-_The_Grandmaster_2026_Original_720p_HD.mp4?response-content-disposition=attachment%3B%20filename%3D%22Moviesda.Mobi_-_The_Grandmaster_2026_Original_720p_HD.mp4%22&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=dc771f1df4495bfae12cf86b2fdcfb97%2F20261113%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20261113T114903Z&X-Amz-SignedHeaders=host&X-Amz-Expires=172800&X-Amz-Signature=0e63d8fed0f4d806e3e3ecf30fd31ec17fca190e241d3115bcfb7b90bb42e09d",
+   "behaviorHints": {
+    "notProxy": true
+   }
+  }
+ ]
+}
