@@ -2,28 +2,28 @@
  "streams": [
   {
    "title": "1080p • MoviesDa",
-   "url": "https://fastspot.fa5a10fde41b12986512801a600ce280.r2.cloudflarestorage.com/The_Third_Murder_2026_Original_1080p_HD.mp4?response-content-disposition=attachment%3B%20filename%3D%22The_Third_Murder_2026_Original_1080p_HD.mp4%22&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=81db46c88a0391c9219abfd7fe69f5b5%2F20261114%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20261114T110912Z&X-Amz-SignedHeaders=host&X-Amz-Expires=172800&X-Amz-Signature=4813dadc8d6c576bda1f01c21bdabc36b7dcc6273e88ac11de11b55f6cc41687",
+   "url": "https://md0.ddd4e6375c4ccc2c2b37f71c5ff555a5.r2.cloudflarestorage.com/The_Third_Murder_2026_Original_1080p_HD.mp4?response-content-disposition=attachment%3B%20filename%3D%22The_Third_Murder_2026_Original_1080p_HD.mp4%22&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ab9a9407454977c1f0e6cbb0e5a749e1%2F20261114%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20261114T115310Z&X-Amz-SignedHeaders=host&X-Amz-Expires=172800&X-Amz-Signature=e79df3cb273056d254137d8de21aec7bc235d10912569d98c1a6c8c8c9b6c4f6",
    "behaviorHints": {
     "notProxy": true
    }
   },
   {
    "title": "1080p • MoviesDa",
-   "url": "https://api.5a4a40ed2b55cf97fd7bf598ab40ae72.r2.cloudflarestorage.com/The_Third_Murder_2026_Original_1080p_HD_%283.5_GB%29.mp4?response-content-disposition=attachment%3B%20filename%3D%22The_Third_Murder_2026_Original_1080p_HD_%283.5_GB%29.mp4%22&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=dc771f1df4495bfae12cf86b2fdcfb97%2F20261114%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20261114T110918Z&X-Amz-SignedHeaders=host&X-Amz-Expires=172800&X-Amz-Signature=2f3fdaec03aeaf6889307e48bce19ba9ba49b1fb164576ef04f58ab003e2d144",
+   "url": "https://app.kollybytes.xyz/The_Third_Murder_2026_Original_1080p_HD_(3.5_GB).mp4?htag=1e345d0d9631b4cd0d42c9346ab488f9a2ae8a5544237ea03042f598e0c5a81a&etag=1794657195&ztag=6654db8b1e1f3c56b416865bc0e27477954cd1a2ce670792eb37f5c06ab4e210",
    "behaviorHints": {
     "notProxy": true
    }
   },
   {
    "title": "720p • MoviesDa",
-   "url": "https://fastspot.fa5a10fde41b12986512801a600ce280.r2.cloudflarestorage.com/The_Third_Murder_2026_Original_720p_HD.mp4?response-content-disposition=attachment%3B%20filename%3D%22The_Third_Murder_2026_Original_720p_HD.mp4%22&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=81db46c88a0391c9219abfd7fe69f5b5%2F20261114%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20261114T110927Z&X-Amz-SignedHeaders=host&X-Amz-Expires=172800&X-Amz-Signature=ecfd15146ca1c59a6bb6ef69ebdb83f215e58e843ffbf7659adbb0cbab44227e",
+   "url": "https://app.kollybytes.xyz/The_Third_Murder_2026_Original_720p_HD.mp4?htag=2398e9c4c0f474c7434730ac2625d7c95dfd2181c41b62cfaf258bc3ab010c11&etag=1794657203&ztag=f145c269c97eac02e1ff651f4fec0e7cd90e87dda51181658a2db25ab1b1f39f",
    "behaviorHints": {
     "notProxy": true
    }
   },
   {
    "title": "720p • MoviesDa",
-   "url": "https://web.skyvault-assets.xyz/The_Third_Murder_2026_Original_720p_HD_(750_MB).mp4?htag=d667b4aa09a82f7171a36ba8860e77d210c0bfeb8f258c9d52d5cddf74cf5ac3&etag=1794654572&ztag=028faca81b99fe665188b34a7b50e6dd4adee9f13688fd274727b5e40124b567",
+   "url": "https://fastspot.fa5a10fde41b12986512801a600ce280.r2.cloudflarestorage.com/The_Third_Murder_2026_Original_720p_HD_%28750_MB%29.mp4?response-content-disposition=attachment%3B%20filename%3D%22The_Third_Murder_2026_Original_720p_HD_%28750_MB%29.mp4%22&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=81db46c88a0391c9219abfd7fe69f5b5%2F20261114%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20261114T115328Z&X-Amz-SignedHeaders=host&X-Amz-Expires=172800&X-Amz-Signature=7a68ebc0a63704c5727f701c724baa2996462fd2acc7e3bf31dbacfd5a29a185",
    "behaviorHints": {
     "notProxy": true
    }
