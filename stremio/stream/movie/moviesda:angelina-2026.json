@@ -2,14 +2,14 @@
  "streams": [
   {
    "title": "1080p • MoviesDa",
-   "url": "https://md0.ddd4e6375c4ccc2c2b37f71c5ff555a5.r2.cloudflarestorage.com/Moviesda.Mobi_-_Angelina_2026_Original_1080p_HD_%282.2_GB%29.mp4?response-content-disposition=attachment%3B%20filename%3D%22Moviesda.Mobi_-_Angelina_2026_Original_1080p_HD_%282.2_GB%29.mp4%22&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ab9a9407454977c1f0e6cbb0e5a749e1%2F20261114%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20261114T055601Z&X-Amz-SignedHeaders=host&X-Amz-Expires=172800&X-Amz-Signature=175fa98715914050ceb1497e22fab1dafd64d169a5bf6a2000579124479a452f",
+   "url": "https://web.skyvault-assets.xyz/Moviesda.Mobi_-_Angelina_2026_Original_1080p_HD_(2.2_GB).mp4?htag=4121836843f1fcc7b60062bf75e5ebdfb4b400ded5b8b9f1a5d11bc8bfaa9e90&etag=1794654918&ztag=a07d240a11e4b063adefefb097b728b919fc398f80ce9f9c97e8d6522c1de994",
    "behaviorHints": {
     "notProxy": true
    }
   },
   {
    "title": "720p • MoviesDa",
-   "url": "https://md0.ddd4e6375c4ccc2c2b37f71c5ff555a5.r2.cloudflarestorage.com/Moviesda.Mobi_-_Angelina_2026_Original_720p_HD.mp4?response-content-disposition=attachment%3B%20filename%3D%22Moviesda.Mobi_-_Angelina_2026_Original_720p_HD.mp4%22&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ab9a9407454977c1f0e6cbb0e5a749e1%2F20261114%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20261114T055606Z&X-Amz-SignedHeaders=host&X-Amz-Expires=172800&X-Amz-Signature=58c5be383f173ccec3ed420480f0f866835e7a6215719b84ded5f454d61f9553",
+   "url": "https://web.skyvault-assets.xyz/Moviesda.Mobi_-_Angelina_2026_Original_720p_HD.mp4?htag=5e85d0d5bd644efaa4e1a46ee1b0310d0390be31742eb550c68fa2a6911778be&etag=1794654927&ztag=c466948e603c3fcec518faaee726a920c423059fff7319e4330b6de39c4c62af",
    "behaviorHints": {
     "notProxy": true
    }

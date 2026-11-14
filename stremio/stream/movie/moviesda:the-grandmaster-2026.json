@@ -2,28 +2,28 @@
  "streams": [
   {
    "title": "1080p • MoviesDa",
-   "url": "https://web.skyvault-assets.xyz/Moviesda.Mobi_-_The_Grandmaster_2026_Original_1080p_HD.mp4?htag=c778796a910aa99766f69cd82ef23a37611db3d4b6ddecd75c2fdaa0bb40bba9&etag=1794635697&ztag=14203901a6ae139b9a6183854d2465420f1ef8f861d8c61e6ddecfab66ff0c12",
+   "url": "https://api.5a4a40ed2b55cf97fd7bf598ab40ae72.r2.cloudflarestorage.com/Moviesda.Mobi_-_The_Grandmaster_2026_Original_1080p_HD.mp4?response-content-disposition=attachment%3B%20filename%3D%22Moviesda.Mobi_-_The_Grandmaster_2026_Original_1080p_HD.mp4%22&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=dc771f1df4495bfae12cf86b2fdcfb97%2F20261114%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20261114T111330Z&X-Amz-SignedHeaders=host&X-Amz-Expires=172800&X-Amz-Signature=ee8e8a32a71466b726efeec3dc7b071eaede04220c5a051c39e995fe584a53e4",
    "behaviorHints": {
     "notProxy": true
    }
   },
   {
    "title": "1080p • MoviesDa",
-   "url": "https://site.fileraja.click/Moviesda.Mobi_-_The_Grandmaster_2026_Original_1080p_HD_(3.4_GB).mp4?htag=f801c85c9f727b31f93033c86dee4c1cb5a2f8db02a19a960ed7626a4d73ca4d&etag=1794635700&ztag=80ed58f563be90e09031a0bf205011b4028ac35b67b3248f6bc3c1002e250c2f",
+   "url": "https://web.skyvault-assets.xyz/Moviesda.Mobi_-_The_Grandmaster_2026_Original_1080p_HD_(3.4_GB).mp4?htag=483560cb4f13f901f1d0e39d0a8cf6c6b825c0a039af87b6819c9b08bfdee244&etag=1794654815&ztag=0565d0e9efb6ce523fc6886cb75f62da1d21b1e2be29b3d41015487a3ccca451",
    "behaviorHints": {
     "notProxy": true
    }
   },
   {
    "title": "720p • MoviesDa",
-   "url": "https://web.skyvault-assets.xyz/Moviesda.Mobi_-_The_Grandmaster_2026_Original_720p_HD_(950_MB).mp4?htag=8a8467db795baaf20550c2075aa72143097600ad3931da2ff40573df2e01182f&etag=1794635705&ztag=dc1aa671134dfde42ac1a288f6bfb564a1157f2bd4811c229d8f3171f57cd61b",
+   "url": "https://api.5a4a40ed2b55cf97fd7bf598ab40ae72.r2.cloudflarestorage.com/Moviesda.Mobi_-_The_Grandmaster_2026_Original_720p_HD_%28950_MB%29.mp4?response-content-disposition=attachment%3B%20filename%3D%22Moviesda.Mobi_-_The_Grandmaster_2026_Original_720p_HD_%28950_MB%29.mp4%22&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=dc771f1df4495bfae12cf86b2fdcfb97%2F20261114%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20261114T111345Z&X-Amz-SignedHeaders=host&X-Amz-Expires=172800&X-Amz-Signature=9164cbf45faf0f6c374ebbe74d5f4a726e8541531ec6430f82a8075ef59deb3d",
    "behaviorHints": {
     "notProxy": true
    }
   },
   {
    "title": "720p • MoviesDa",
-   "url": "https://md0.ddd4e6375c4ccc2c2b37f71c5ff555a5.r2.cloudflarestorage.com/Moviesda.Mobi_-_The_Grandmaster_2026_Original_720p_HD.mp4?response-content-disposition=attachment%3B%20filename%3D%22Moviesda.Mobi_-_The_Grandmaster_2026_Original_720p_HD.mp4%22&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ab9a9407454977c1f0e6cbb0e5a749e1%2F20261114%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20261114T055508Z&X-Amz-SignedHeaders=host&X-Amz-Expires=172800&X-Amz-Signature=6ea1828a0695c4f7b77623a9c7a66fbff9fbc568779288dc5aff8d6c03c1c93d",
+   "url": "https://fastspot.fa5a10fde41b12986512801a600ce280.r2.cloudflarestorage.com/Moviesda.Mobi_-_The_Grandmaster_2026_Original_720p_HD.mp4?response-content-disposition=attachment%3B%20filename%3D%22Moviesda.Mobi_-_The_Grandmaster_2026_Original_720p_HD.mp4%22&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=81db46c88a0391c9219abfd7fe69f5b5%2F20261114%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20261114T111350Z&X-Amz-SignedHeaders=host&X-Amz-Expires=172800&X-Amz-Signature=44edb37f29274e35c5d6da3f29f6a99321e552f0906c0c81f4993e8ff63c4f1a",
    "behaviorHints": {
     "notProxy": true
    }
