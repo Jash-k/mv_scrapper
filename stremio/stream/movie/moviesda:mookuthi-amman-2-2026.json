@@ -2,21 +2,21 @@
  "streams": [
   {
    "title": "1080p • MoviesDa",
-   "url": "https://fastspot.fa5a10fde41b12986512801a600ce280.r2.cloudflarestorage.com/Mookuthi_Amman_2_2026_HQ_HDTS_1080p_HD.mp4?response-content-disposition=attachment%3B%20filename%3D%22Mookuthi_Amman_2_2026_HQ_HDTS_1080p_HD.mp4%22&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=81db46c88a0391c9219abfd7fe69f5b5%2F20261113%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20261113T235343Z&X-Amz-SignedHeaders=host&X-Amz-Expires=172800&X-Amz-Signature=d325ab5a75b8ef4d8adb98ca19641fe18cf807a3c3a1715ab4734277972e76ba",
+   "url": "https://web.skyvault-assets.xyz/Mookuthi_Amman_2_2026_HQ_HDTS_1080p_HD.mp4?htag=a80e1063909d56dedf1c47072855f3624aff6d4f7d6245ee788ff04d2fb8a5ac&etag=1794616741&ztag=6d94a13d71cd99b58980ef94ce5bd118e5a6a8cd15e2596c402ab6a84438fcac",
    "behaviorHints": {
     "notProxy": true
    }
   },
   {
    "title": "720p • MoviesDa",
-   "url": "https://fastspot.fa5a10fde41b12986512801a600ce280.r2.cloudflarestorage.com/Mookuthi_Amman_2_2026_HQ_HDTS_720p_HD.mp4?response-content-disposition=attachment%3B%20filename%3D%22Mookuthi_Amman_2_2026_HQ_HDTS_720p_HD.mp4%22&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=81db46c88a0391c9219abfd7fe69f5b5%2F20261113%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20261113T235350Z&X-Amz-SignedHeaders=host&X-Amz-Expires=172800&X-Amz-Signature=4a3d7297710a93d419c67584143b90be9da8664c2534e975e434aabe503c9512",
+   "url": "https://api.5a4a40ed2b55cf97fd7bf598ab40ae72.r2.cloudflarestorage.com/Mookuthi_Amman_2_2026_HQ_HDTS_720p_HD.mp4?response-content-disposition=attachment%3B%20filename%3D%22Mookuthi_Amman_2_2026_HQ_HDTS_720p_HD.mp4%22&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=dc771f1df4495bfae12cf86b2fdcfb97%2F20261114%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20261114T003910Z&X-Amz-SignedHeaders=host&X-Amz-Expires=172800&X-Amz-Signature=f0cbe0497c271b5509a56e4b245641c844d83058fc939679138fdf1a6ddf5625",
    "behaviorHints": {
     "notProxy": true
    }
   },
   {
    "title": "720p • MoviesDa",
-   "url": "https://md0.ddd4e6375c4ccc2c2b37f71c5ff555a5.r2.cloudflarestorage.com/Mookuthi_Amman_2_2026_HQ_HDTS_720p_HD_%28950_MB%29.mp4?response-content-disposition=attachment%3B%20filename%3D%22Mookuthi_Amman_2_2026_HQ_HDTS_720p_HD_%28950_MB%29.mp4%22&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ab9a9407454977c1f0e6cbb0e5a749e1%2F20261113%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20261113T235353Z&X-Amz-SignedHeaders=host&X-Amz-Expires=172800&X-Amz-Signature=1b93e0b997ddbe9d76c2548413e16c5d78ccb227697a21ea0954365dfba52dff",
+   "url": "https://fastspot.fa5a10fde41b12986512801a600ce280.r2.cloudflarestorage.com/Mookuthi_Amman_2_2026_HQ_HDTS_720p_HD_%28950_MB%29.mp4?response-content-disposition=attachment%3B%20filename%3D%22Mookuthi_Amman_2_2026_HQ_HDTS_720p_HD_%28950_MB%29.mp4%22&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=81db46c88a0391c9219abfd7fe69f5b5%2F20261114%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20261114T003914Z&X-Amz-SignedHeaders=host&X-Amz-Expires=172800&X-Amz-Signature=2aa1c6fabc814cfe66717741fd4db414e04e479952c445d0ae61a8c2c94e1e3f",
    "behaviorHints": {
     "notProxy": true
    }
