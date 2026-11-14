@@ -2,14 +2,14 @@
  "streams": [
   {
    "title": "1080p • MoviesDa",
-   "url": "https://md0.ddd4e6375c4ccc2c2b37f71c5ff555a5.r2.cloudflarestorage.com/Moviesda.Mobi_-_Adaikalam_2026_Original_1080p_HD_%281.5_GB%29.mp4?response-content-disposition=attachment%3B%20filename%3D%22Moviesda.Mobi_-_Adaikalam_2026_Original_1080p_HD_%281.5_GB%29.mp4%22&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ab9a9407454977c1f0e6cbb0e5a749e1%2F20261114%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20261114T003808Z&X-Amz-SignedHeaders=host&X-Amz-Expires=172800&X-Amz-Signature=ecee69a4361db555bd58e2dc3e64ba8bfdc426f5597a6fbab1459cbf1e4cffe8",
+   "url": "https://api.5a4a40ed2b55cf97fd7bf598ab40ae72.r2.cloudflarestorage.com/Moviesda.Mobi_-_Adaikalam_2026_Original_1080p_HD_%281.5_GB%29.mp4?response-content-disposition=attachment%3B%20filename%3D%22Moviesda.Mobi_-_Adaikalam_2026_Original_1080p_HD_%281.5_GB%29.mp4%22&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=dc771f1df4495bfae12cf86b2fdcfb97%2F20261114%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20261114T055304Z&X-Amz-SignedHeaders=host&X-Amz-Expires=172800&X-Amz-Signature=f4745b18679f91ff59e1f8d9d972bc3a2190da8a9b76cc45fc600abcf4036ec9",
    "behaviorHints": {
     "notProxy": true
    }
   },
   {
    "title": "720p • MoviesDa",
-   "url": "https://app.kollybytes.xyz/Moviesda.Mobi_-_Adaikalam_2026_Original_720p_HD.mp4?htag=7df2bf00c3ebc453df3b244a2177c620ef2e20d0f5aaadbbab209f1e1d8f329e&etag=1794616697&ztag=7e29ae032f7d1b58e8b570d652d3e084a2e13bcf66e1d1d1b064247682497f9e",
+   "url": "https://app.kollybytes.xyz/Moviesda.Mobi_-_Adaikalam_2026_Original_720p_HD.mp4?htag=e1efb0dbbdb11e7d2124ffbd86834f046b636f76a7592d4e3a7653695fefc1fc&etag=1794635590&ztag=4160fbcd43d6a57fba0525b75a528430ef72ae34512b580b1ba0202f4a179656",
    "behaviorHints": {
     "notProxy": true
    }
