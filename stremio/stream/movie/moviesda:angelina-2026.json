@@ -2,14 +2,14 @@
  "streams": [
   {
    "title": "1080p • MoviesDa",
-   "url": "https://md0.ddd4e6375c4ccc2c2b37f71c5ff555a5.r2.cloudflarestorage.com/Moviesda.Mobi_-_Angelina_2026_Original_1080p_HD_%282.2_GB%29.mp4?response-content-disposition=attachment%3B%20filename%3D%22Moviesda.Mobi_-_Angelina_2026_Original_1080p_HD_%282.2_GB%29.mp4%22&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ab9a9407454977c1f0e6cbb0e5a749e1%2F20261115%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20261115T055655Z&X-Amz-SignedHeaders=host&X-Amz-Expires=172800&X-Amz-Signature=9cee92016bb05a8b1733ac8c6cb47ba2be310112d29ad2bda5148206318a6ec3",
+   "url": "https://fastspot.fa5a10fde41b12986512801a600ce280.r2.cloudflarestorage.com/Moviesda.Mobi_-_Angelina_2026_Original_1080p_HD_%282.2_GB%29.mp4?response-content-disposition=attachment%3B%20filename%3D%22Moviesda.Mobi_-_Angelina_2026_Original_1080p_HD_%282.2_GB%29.mp4%22&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=81db46c88a0391c9219abfd7fe69f5b5%2F20261115%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20261115T115623Z&X-Amz-SignedHeaders=host&X-Amz-Expires=172800&X-Amz-Signature=7284640a49058072cb065b0af16aebee2c5df6d7dbc7455d8d659627f30e9895",
    "behaviorHints": {
     "notProxy": true
    }
   },
   {
    "title": "720p • MoviesDa",
-   "url": "https://api.5a4a40ed2b55cf97fd7bf598ab40ae72.r2.cloudflarestorage.com/Moviesda.Mobi_-_Angelina_2026_Original_720p_HD.mp4?response-content-disposition=attachment%3B%20filename%3D%22Moviesda.Mobi_-_Angelina_2026_Original_720p_HD.mp4%22&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=dc771f1df4495bfae12cf86b2fdcfb97%2F20261115%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20261115T055700Z&X-Amz-SignedHeaders=host&X-Amz-Expires=172800&X-Amz-Signature=005da219fc76a610fe77900692c4456c09e407e73044a5b25d2f423e8b475ef1",
+   "url": "https://app.kollybytes.xyz/Moviesda.Mobi_-_Angelina_2026_Original_720p_HD.mp4?htag=d123835d4838183a11987f9e52e9a84516ea94059675d2f446bdc18b78724538&etag=1794743789&ztag=4cc5ed0a1ed70557e309dcbb0a028a70fac7002af62c5dd19e1c6349515a1c0e",
    "behaviorHints": {
     "notProxy": true
    }
