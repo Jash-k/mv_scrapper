@@ -2,14 +2,14 @@
  "streams": [
   {
    "title": "1080p • MoviesDa",
-   "url": "https://site.fileraja.click/Moviesda.Mobi_-_Maaya_Oviyan_2026_Original_1080p_HD_(3.0_GB).mp4?htag=9bfe3b12b4e209d7b92ea23f983e1d7c2f3495978c1131dda26d3d64a6ccc362&etag=1794766665&ztag=6526284aed6d1172ec63db2052e01677d22ab6bebe1c5fd946c0a9f3d054d3e8",
+   "url": "https://api.5a4a40ed2b55cf97fd7bf598ab40ae72.r2.cloudflarestorage.com/Moviesda.Mobi_-_Maaya_Oviyan_2026_Original_1080p_HD_%283.0_GB%29.mp4?response-content-disposition=attachment%3B%20filename%3D%22Moviesda.Mobi_-_Maaya_Oviyan_2026_Original_1080p_HD_%283.0_GB%29.mp4%22&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=dc771f1df4495bfae12cf86b2fdcfb97%2F20261115%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20261115T234020Z&X-Amz-SignedHeaders=host&X-Amz-Expires=172800&X-Amz-Signature=80ae805578dcb0b3729ad05aebed9ff23ad881b6ca26bbb006ada473966f40d8",
    "behaviorHints": {
     "notProxy": true
    }
   },
   {
    "title": "720p • MoviesDa",
-   "url": "https://md0.ddd4e6375c4ccc2c2b37f71c5ff555a5.r2.cloudflarestorage.com/Moviesda.Mobi_-_Maaya_Oviyan_2026_Original_720p_HD.mp4?response-content-disposition=attachment%3B%20filename%3D%22Moviesda.Mobi_-_Maaya_Oviyan_2026_Original_720p_HD.mp4%22&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ab9a9407454977c1f0e6cbb0e5a749e1%2F20261115%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20261115T181751Z&X-Amz-SignedHeaders=host&X-Amz-Expires=172800&X-Amz-Signature=277435a96d4b5bff1a2a655a2700a4cfa4ca9f825cd348d40c7d745130ace0e4",
+   "url": "https://api.5a4a40ed2b55cf97fd7bf598ab40ae72.r2.cloudflarestorage.com/Moviesda.Mobi_-_Maaya_Oviyan_2026_Original_720p_HD.mp4?response-content-disposition=attachment%3B%20filename%3D%22Moviesda.Mobi_-_Maaya_Oviyan_2026_Original_720p_HD.mp4%22&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=dc771f1df4495bfae12cf86b2fdcfb97%2F20261115%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20261115T234029Z&X-Amz-SignedHeaders=host&X-Amz-Expires=172800&X-Amz-Signature=6240ac242aa0675fc2799aeb6455219a1d5cf7bca0f195a869b237b4b24189b3",
    "behaviorHints": {
     "notProxy": true
    }
