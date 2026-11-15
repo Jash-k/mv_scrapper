@@ -1327,8 +1327,8 @@
     "imdbId": "tt27419420",
     "name": "Street Fighter",
     "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BYjhlN2EyNGUtY2U4YS00ZTQ3LTg0NTgtNGIxZmVhMDlmMjIyXkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BYjhlN2EyNGUtY2U4YS00ZTQ3LTg0NTgtNGIxZmVhMDlmMjIyXkEyXkFqcGc@._V1_SX250.jpg"
+    "poster": "https://images.metahub.space/poster/small/tt27419420/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt27419420/img"
   },
   {
     "id": "203b775fcf7b6585b3485c53453511ee",
@@ -1373,11 +1373,11 @@
       "Hindi",
       "Multi-Lang"
     ],
-    "imdbId": "tt0082508",
+    "imdbId": "tt38213251",
     "name": "Heartland",
     "year": 2026,
-    "poster": "https://images.metahub.space/poster/small/tt0082508/img",
-    "thumbnail": "https://images.metahub.space/poster/small/tt0082508/img"
+    "poster": "https://m.media-amazon.com/images/M/MV5BYWEzOTg5ZWQtODE1Mi00NzFiLTllYWQtYzk4ZTQ0NjI4YzVjXkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BYWEzOTg5ZWQtODE1Mi00NzFiLTllYWQtYzk4ZTQ0NjI4YzVjXkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "29e8d2d69039dde54476fb0c2e98fdfb",
@@ -4273,8 +4273,8 @@
     "imdbId": "tt44632490",
     "name": "Heggana Muddu",
     "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BMWY5M2MzYmEtYzVhMC00OTFjLTk3NzgtYzRjOGY3MGRmYTI3XkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BMWY5M2MzYmEtYzVhMC00OTFjLTk3NzgtYzRjOGY3MGRmYTI3XkEyXkFqcGc@._V1_SX250.jpg"
+    "poster": "https://images.metahub.space/poster/small/tt44632490/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt44632490/img"
   },
   {
     "id": "99f3a1cd6803eb53c9bb8e243412a87b",
@@ -4781,8 +4781,8 @@
     "imdbId": "tt33764258",
     "name": "The Odyssey",
     "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BNTcyNmJlZmQtNDUwYy00NDBjLTg1NGQtYTY2Y2UxMWM3NmI1XkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BNTcyNmJlZmQtNDUwYy00NDBjLTg1NGQtYTY2Y2UxMWM3NmI1XkEyXkFqcGc@._V1_SX250.jpg"
+    "poster": "https://images.metahub.space/poster/small/tt33764258/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt33764258/img"
   },
   {
     "id": "10e2e32227b59fe0be91597e209dad78",
@@ -5280,8 +5280,8 @@
     "imdbId": "tt1462900",
     "name": "The Grandmaster",
     "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BZjYzYTcxMjYtZWNlYy00Y2UwLTg5MDYtZDZmNTExYmVjZjc4XkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BZjYzYTcxMjYtZWNlYy00Y2UwLTg5MDYtZDZmNTExYmVjZjc4XkEyXkFqcGc@._V1_SX250.jpg"
+    "poster": "https://images.metahub.space/poster/small/tt1462900/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt1462900/img"
   },
   {
     "id": "ef036a7e7803a224ef920b1e26c29b3b",
@@ -5682,8 +5682,8 @@
     "imdbId": "tt7526136",
     "name": "Heart of the Beast",
     "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BMDVlMTRhMjgtMjdmZi00NjJhLWExMmYtODExNWJkZGZjNjdhXkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BMDVlMTRhMjgtMjdmZi00NjJhLWExMmYtODExNWJkZGZjNjdhXkEyXkFqcGc@._V1_SX250.jpg"
+    "poster": "https://images.metahub.space/poster/small/tt7526136/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt7526136/img"
   },
   {
     "id": "49cd574a05db841e6aa909a6771e78a0",
@@ -7332,7 +7332,12 @@
     "languages": [
       "Tamil",
       "Malayalam"
-    ]
+    ],
+    "imdbId": "tt34792531",
+    "name": "Avarachan & Sons",
+    "year": 2026,
+    "poster": "https://images.metahub.space/poster/small/tt34792531/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt34792531/img"
   },
   {
     "id": "71a60e2d11bbc6f3fb79fe3693c6a491",
@@ -8956,8 +8961,8 @@
     "imdbId": "tt27369017",
     "name": "Hope",
     "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BZjE3ZDI0MmItMDIyMC00NzU2LTk2OTQtZTUxYTlkMjlkNmY3XkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BZjE3ZDI0MmItMDIyMC00NzU2LTk2OTQtZTUxYTlkMjlkNmY3XkEyXkFqcGc@._V1_SX250.jpg"
+    "poster": "https://images.metahub.space/poster/small/tt27369017/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt27369017/img"
   },
   {
     "id": "af8866b586bb26690ff0eee55e405521",
@@ -9907,8 +9912,8 @@
     "imdbId": "tt34794166",
     "name": "Nishaanchi",
     "year": 2025,
-    "poster": "https://m.media-amazon.com/images/M/MV5BMTA3OGZhNjQtM2E2OS00YmE5LWJiMGMtZDllZDk5ZWZkOTI4XkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BMTA3OGZhNjQtM2E2OS00YmE5LWJiMGMtZDllZDk5ZWZkOTI4XkEyXkFqcGc@._V1_SX250.jpg"
+    "poster": "https://images.metahub.space/poster/small/tt34794166/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt34794166/img"
   },
   {
     "id": "85a920b42aa33a50bd5c0e9e04c9a8e1",
@@ -11864,11 +11869,11 @@
     "languages": [
       "Tamil"
     ],
-    "imdbId": "tt33318732",
-    "name": "Jailer 2",
+    "imdbId": "tt11663228",
+    "name": "Jailer",
     "year": 2023,
-    "poster": "https://m.media-amazon.com/images/M/MV5BYmJiYzc1ODctZjQzZS00NzEzLWI0NDEtZGVkNjI4YzEzNGRjXkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BYmJiYzc1ODctZjQzZS00NzEzLWI0NDEtZGVkNjI4YzEzNGRjXkEyXkFqcGc@._V1_SX250.jpg"
+    "poster": "https://images.metahub.space/poster/small/tt11663228/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt11663228/img"
   },
   {
     "id": "5e9689ba26e9602720dd707be2841814",
@@ -11981,8 +11986,8 @@
     "imdbId": "tt42664298",
     "name": "Arey Apandra",
     "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BYjkzMDViOTAtNjgxNi00MTFlLWE4ZWUtYTdmN2U2YjhlNDUyXkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BYjkzMDViOTAtNjgxNi00MTFlLWE4ZWUtYTdmN2U2YjhlNDUyXkEyXkFqcGc@._V1_SX250.jpg"
+    "poster": "https://images.metahub.space/poster/small/tt42664298/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt42664298/img"
   },
   {
     "id": "461fa9203a7a2c00b4868a5f92e93b42",
@@ -12251,8 +12256,8 @@
     "imdbId": "tt38126135",
     "name": "Paris Cafe",
     "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BMzFjZWZmYjgtY2QwZC00ZjE3LWJjMzctNzhiYmI1ODJhNDJiXkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BMzFjZWZmYjgtY2QwZC00ZjE3LWJjMzctNzhiYmI1ODJhNDJiXkEyXkFqcGc@._V1_SX250.jpg"
+    "poster": "https://images.metahub.space/poster/small/tt38126135/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt38126135/img"
   },
   {
     "id": "4d49d139ff6a339599277d575459e711",
@@ -12397,7 +12402,12 @@
       "Kannada",
       "Hindi",
       "Multi-Lang"
-    ]
+    ],
+    "imdbId": "tt0848537",
+    "name": "Epic",
+    "year": 2026,
+    "poster": "https://images.metahub.space/poster/small/tt0848537/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt0848537/img"
   },
   {
     "id": "c614c0d2260208cadc384d3b531ae4a3",
@@ -12583,8 +12593,8 @@
     "imdbId": "tt43596525",
     "name": "Chandrappann",
     "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BNmQ3ZGIzNjYtNDUwMS00MDBjLTgwYmItZmJlMzc2YzllNTdkXkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BNmQ3ZGIzNjYtNDUwMS00MDBjLTgwYmItZmJlMzc2YzllNTdkXkEyXkFqcGc@._V1_SX250.jpg"
+    "poster": "https://images.metahub.space/poster/small/tt43596525/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt43596525/img"
   },
   {
     "id": "6ca05e54a008901820c7fd2dfa34ac44",
@@ -18895,8 +18905,8 @@
     "imdbId": "tt37963237",
     "name": "Varavu",
     "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BMTVmZGQwYjAtMWVhNS00NDc2LWJjZDMtYmRiOGYyNzJhZTI4XkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BMTVmZGQwYjAtMWVhNS00NDc2LWJjZDMtYmRiOGYyNzJhZTI4XkEyXkFqcGc@._V1_SX250.jpg"
+    "poster": "https://images.metahub.space/poster/small/tt37963237/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt37963237/img"
   },
   {
     "id": "409e68a3d65ae2c7d1c72876cd448513",
@@ -20296,18 +20306,11 @@
     "languages": [
       "Tamil"
     ],
-    "imdbId": "tt5335774",
-    "name": "The Yellow Tie",
-    "year": "2025",
-    "poster": "https://images.metahub.space/poster/small/tt5335774/img",
-    "thumbnail": "https://images.metahub.space/poster/small/tt5335774/img",
-    "genres": [
-      "Adventure",
-      "Biography",
-      "Drama"
-    ],
-    "description": "The extraordinary life of Sergiu Celibidache. From his childhood in Romania, to his exile in pursuit of a career in music, his struggle for survival in wartime Germany and his rise, fall and rise again, in an unimaginable life jou...",
-    "imdbRating": "8.3"
+    "imdbId": "tt45115557",
+    "name": "The Yellow Elephant",
+    "year": 2026,
+    "poster": "https://images.metahub.space/poster/small/tt45115557/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt45115557/img"
   },
   {
     "id": "eec3bc22a81ed955989293711e0e8909",
