@@ -1,6 +1,13 @@
 {
  "metas": [
   {
+   "id": "moviesda:maaya-oviyan-2026",
+   "type": "movie",
+   "name": "Maaya Oviyan",
+   "poster": "",
+   "releaseInfo": "2026"
+  },
+  {
    "id": "moviesda:sandakari-2026",
    "type": "movie",
    "name": "Sandakari",
@@ -102,13 +109,6 @@
    "id": "moviesda:angelina-2026",
    "type": "movie",
    "name": "Angelina",
-   "poster": "",
-   "releaseInfo": "2026"
-  },
-  {
-   "id": "moviesda:all-pass-2026",
-   "type": "movie",
-   "name": "All Pass",
    "poster": "",
    "releaseInfo": "2026"
   },

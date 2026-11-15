@@ -1,0 +1,18 @@
+{
+ "streams": [
+  {
+   "title": "1080p • MoviesDa",
+   "url": "https://md0.ddd4e6375c4ccc2c2b37f71c5ff555a5.r2.cloudflarestorage.com/Moviesda.Mobi_-_Maaya_Oviyan_2026_Original_1080p_HD_%283.0_GB%29.mp4?response-content-disposition=attachment%3B%20filename%3D%22Moviesda.Mobi_-_Maaya_Oviyan_2026_Original_1080p_HD_%283.0_GB%29.mp4%22&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ab9a9407454977c1f0e6cbb0e5a749e1%2F20261114%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20261114T235151Z&X-Amz-SignedHeaders=host&X-Amz-Expires=172800&X-Amz-Signature=ffc1845facbfe38c10281a038677a61432caad889f4e46b6e456999fc7f7aa8c",
+   "behaviorHints": {
+    "notProxy": true
+   }
+  },
+  {
+   "title": "720p • MoviesDa",
+   "url": "https://md0.ddd4e6375c4ccc2c2b37f71c5ff555a5.r2.cloudflarestorage.com/Moviesda.Mobi_-_Maaya_Oviyan_2026_Original_720p_HD.mp4?response-content-disposition=attachment%3B%20filename%3D%22Moviesda.Mobi_-_Maaya_Oviyan_2026_Original_720p_HD.mp4%22&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ab9a9407454977c1f0e6cbb0e5a749e1%2F20261114%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20261114T235201Z&X-Amz-SignedHeaders=host&X-Amz-Expires=172800&X-Amz-Signature=8b5c60fdd14476d100bae6b7a89cbc1bac97f53cb143ab20656fc427b5a646c3",
+   "behaviorHints": {
+    "notProxy": true
+   }
+  }
+ ]
+}

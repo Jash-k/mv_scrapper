@@ -2,21 +2,21 @@
  "streams": [
   {
    "title": "1080p • MoviesDa",
-   "url": "https://fastspot.fa5a10fde41b12986512801a600ce280.r2.cloudflarestorage.com/Scene_2026_HQ_HDTS_1080p_HD.mp4?response-content-disposition=attachment%3B%20filename%3D%22Scene_2026_HQ_HDTS_1080p_HD.mp4%22&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=81db46c88a0391c9219abfd7fe69f5b5%2F20261114%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20261114T175423Z&X-Amz-SignedHeaders=host&X-Amz-Expires=172800&X-Amz-Signature=fbdb65e40a77a4b99ef251b70cca4ea202b1dfb7936f2761ef9cd2169d03f589",
+   "url": "https://api.5a4a40ed2b55cf97fd7bf598ab40ae72.r2.cloudflarestorage.com/Scene_2026_HQ_HDTS_1080p_HD.mp4?response-content-disposition=attachment%3B%20filename%3D%22Scene_2026_HQ_HDTS_1080p_HD.mp4%22&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=dc771f1df4495bfae12cf86b2fdcfb97%2F20261114%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20261114T235640Z&X-Amz-SignedHeaders=host&X-Amz-Expires=172800&X-Amz-Signature=3fb02e23b6c794ccfdf877e0128f646f39bb3fca81f7c71e2318f42bccab01fb",
    "behaviorHints": {
     "notProxy": true
    }
   },
   {
    "title": "720p • MoviesDa",
-   "url": "https://site.fileraja.click/Scene_2026_HQ_HDTS_720p_HD.mp4?htag=29d159a33d99569d619671bdc783b62306f6cee3d9d6056e695bcb052a19ebe4&etag=1794678869&ztag=6fcbdd1e67789f9c0f60b827f4434fd3eb983010609012eda453c128bc3ba172",
+   "url": "https://api.5a4a40ed2b55cf97fd7bf598ab40ae72.r2.cloudflarestorage.com/Scene_2026_HQ_HDTS_720p_HD.mp4?response-content-disposition=attachment%3B%20filename%3D%22Scene_2026_HQ_HDTS_720p_HD.mp4%22&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=dc771f1df4495bfae12cf86b2fdcfb97%2F20261114%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20261114T235650Z&X-Amz-SignedHeaders=host&X-Amz-Expires=172800&X-Amz-Signature=98c057dde6b70a2a4b5feae02aa56cf33e64e8016a79e13c4c0aed2a0a65d29b",
    "behaviorHints": {
     "notProxy": true
    }
   },
   {
    "title": "720p • MoviesDa",
-   "url": "https://web.skyvault-assets.xyz/Scene_2026_HQ_HDTS_720p_HD_(950_MB).mp4?htag=433b03a5d793fd5cf9ebace27e62a9c2da14d504ec2155fb6a283b19a57e81b1&etag=1794678872&ztag=b60bb904c6a3d0c6470959574b1ae8ac90081ba3babf06e41ad174439b33e85a",
+   "url": "https://web.skyvault-assets.xyz/Scene_2026_HQ_HDTS_720p_HD_(950_MB).mp4?htag=5d440e8f7be599cd9c4e6e1cf4bb3ee28c4211b429ed8fc711e2ae67b67105da&etag=1794700615&ztag=4edc85b23e4ab9ea34bb39ab8f88104493158f5463d3319d316a2d26b0a02be0",
    "behaviorHints": {
     "notProxy": true
    }
