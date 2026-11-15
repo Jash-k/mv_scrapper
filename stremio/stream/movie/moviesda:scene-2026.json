@@ -2,21 +2,21 @@
  "streams": [
   {
    "title": "1080p • MoviesDa",
-   "url": "https://web.skyvault-assets.xyz/Scene_2026_HQ_HDTS_1080p_HD.mp4?htag=be94d7e0448f2be2dc00cac12f2d1934cb633505a34eac7c16a015d62466245e&etag=1794765305&ztag=8b5854fa7d3cc93a437a13f8f3037ac5b49e2f257b58daee4963a90fc9308706",
+   "url": "https://fastspot.fa5a10fde41b12986512801a600ce280.r2.cloudflarestorage.com/Scene_2026_HQ_HDTS_1080p_HD.mp4?response-content-disposition=attachment%3B%20filename%3D%22Scene_2026_HQ_HDTS_1080p_HD.mp4%22&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=81db46c88a0391c9219abfd7fe69f5b5%2F20261115%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20261115T182052Z&X-Amz-SignedHeaders=host&X-Amz-Expires=172800&X-Amz-Signature=863422dd14af6296f8ff2557712613d368b04fe576611434b4214cdf52580a35",
    "behaviorHints": {
     "notProxy": true
    }
   },
   {
    "title": "720p • MoviesDa",
-   "url": "https://fastspot.fa5a10fde41b12986512801a600ce280.r2.cloudflarestorage.com/Scene_2026_HQ_HDTS_720p_HD.mp4?response-content-disposition=attachment%3B%20filename%3D%22Scene_2026_HQ_HDTS_720p_HD.mp4%22&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=81db46c88a0391c9219abfd7fe69f5b5%2F20261115%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20261115T175511Z&X-Amz-SignedHeaders=host&X-Amz-Expires=172800&X-Amz-Signature=95faa47183315100aac53bce5a34f852697926e31fc9cb60668366609bdc29fc",
+   "url": "https://web.skyvault-assets.xyz/Scene_2026_HQ_HDTS_720p_HD.mp4?htag=f712a5a71394e02a9c4f95f37a3137d7c8da15fbf2e598470e3360cd92eb56a0&etag=1794766857&ztag=300c4cae5dd6a7d2e57bd60ad9cf6d8c3a687713b702de0815b4f45a33c7c382",
    "behaviorHints": {
     "notProxy": true
    }
   },
   {
    "title": "720p • MoviesDa",
-   "url": "https://fastspot.fa5a10fde41b12986512801a600ce280.r2.cloudflarestorage.com/Scene_2026_HQ_HDTS_720p_HD_%28950_MB%29.mp4?response-content-disposition=attachment%3B%20filename%3D%22Scene_2026_HQ_HDTS_720p_HD_%28950_MB%29.mp4%22&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=81db46c88a0391c9219abfd7fe69f5b5%2F20261115%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20261115T175513Z&X-Amz-SignedHeaders=host&X-Amz-Expires=172800&X-Amz-Signature=4772df729a027823163b1fab79d1f78f1217865be0a2a223c37789df2c1cd709",
+   "url": "https://md0.ddd4e6375c4ccc2c2b37f71c5ff555a5.r2.cloudflarestorage.com/Scene_2026_HQ_HDTS_720p_HD_%28950_MB%29.mp4?response-content-disposition=attachment%3B%20filename%3D%22Scene_2026_HQ_HDTS_720p_HD_%28950_MB%29.mp4%22&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ab9a9407454977c1f0e6cbb0e5a749e1%2F20261115%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20261115T182100Z&X-Amz-SignedHeaders=host&X-Amz-Expires=172800&X-Amz-Signature=c5476643c2883b8bd7eac562b05ef9eac029a7c4f0c98c729355c85c2fe01099",
    "behaviorHints": {
     "notProxy": true
    }
