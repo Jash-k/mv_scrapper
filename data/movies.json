@@ -890,8 +890,8 @@
     "imdbId": "tt7526136",
     "name": "Heart of the Beast",
     "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BMDVlMTRhMjgtMjdmZi00NjJhLWExMmYtODExNWJkZGZjNjdhXkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BMDVlMTRhMjgtMjdmZi00NjJhLWExMmYtODExNWJkZGZjNjdhXkEyXkFqcGc@._V1_SX250.jpg"
+    "poster": "https://images.metahub.space/poster/small/tt7526136/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt7526136/img"
   },
   {
     "id": "b6ff05ea4c9abbbb34a1659baf2d5904",
@@ -1109,7 +1109,12 @@
     "rawText": "G.O.A.T (2026) Telugu HQ PreDVD (HQ Clean) - [1080p & 720p - x264 - 2.6GB + Rips]",
     "languages": [
       "Telugu"
-    ]
+    ],
+    "imdbId": "tt27730178",
+    "name": "G.O.A.T",
+    "year": 2026,
+    "poster": "https://images.metahub.space/poster/small/tt27730178/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt27730178/img"
   },
   {
     "id": "f317794a223416df8e59b6e026e822da",
@@ -1322,8 +1327,8 @@
     "imdbId": "tt27419420",
     "name": "Street Fighter",
     "year": 2026,
-    "poster": "https://images.metahub.space/poster/small/tt27419420/img",
-    "thumbnail": "https://images.metahub.space/poster/small/tt27419420/img"
+    "poster": "https://m.media-amazon.com/images/M/MV5BYjhlN2EyNGUtY2U4YS00ZTQ3LTg0NTgtNGIxZmVhMDlmMjIyXkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BYjhlN2EyNGUtY2U4YS00ZTQ3LTg0NTgtNGIxZmVhMDlmMjIyXkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "203b775fcf7b6585b3485c53453511ee",
@@ -4268,8 +4273,8 @@
     "imdbId": "tt44632490",
     "name": "Heggana Muddu",
     "year": 2026,
-    "poster": "https://images.metahub.space/poster/small/tt44632490/img",
-    "thumbnail": "https://images.metahub.space/poster/small/tt44632490/img"
+    "poster": "https://m.media-amazon.com/images/M/MV5BMWY5M2MzYmEtYzVhMC00OTFjLTk3NzgtYzRjOGY3MGRmYTI3XkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BMWY5M2MzYmEtYzVhMC00OTFjLTk3NzgtYzRjOGY3MGRmYTI3XkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "99f3a1cd6803eb53c9bb8e243412a87b",
@@ -4481,8 +4486,8 @@
     "imdbId": "tt38420997",
     "name": "The Gospel of Christmas",
     "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BODEzYWUyMTItZWUzYi00YWE1LTg2NjItYTk2Y2RmMGJjYzdlXkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BODEzYWUyMTItZWUzYi00YWE1LTg2NjItYTk2Y2RmMGJjYzdlXkEyXkFqcGc@._V1_SX250.jpg"
+    "poster": "https://images.metahub.space/poster/small/tt38420997/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt38420997/img"
   },
   {
     "id": "b15b18bb5d1f22493c2d003bc8c1723b",
@@ -4776,8 +4781,8 @@
     "imdbId": "tt33764258",
     "name": "The Odyssey",
     "year": 2026,
-    "poster": "https://images.metahub.space/poster/small/tt33764258/img",
-    "thumbnail": "https://images.metahub.space/poster/small/tt33764258/img"
+    "poster": "https://m.media-amazon.com/images/M/MV5BNTcyNmJlZmQtNDUwYy00NDBjLTg1NGQtYTY2Y2UxMWM3NmI1XkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BNTcyNmJlZmQtNDUwYy00NDBjLTg1NGQtYTY2Y2UxMWM3NmI1XkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "10e2e32227b59fe0be91597e209dad78",
@@ -4958,18 +4963,11 @@
       "Malayalam",
       "Telugu"
     ],
-    "imdbId": "tt14961016",
-    "name": "I'm Still Here",
-    "year": "2025",
-    "poster": "https://images.metahub.space/poster/small/tt14961016/img",
-    "thumbnail": "https://images.metahub.space/poster/small/tt14961016/img",
-    "genres": [
-      "Biography",
-      "Drama",
-      "History"
-    ],
-    "description": "A woman married to a former politician during the military dictatorship in Brazil is forced to reinvent herself and chart a new course for her family after a violent and arbitrary act.",
-    "imdbRating": "8.1"
+    "imdbId": "tt34284946",
+    "name": "I'm Game",
+    "year": 2026,
+    "poster": "https://images.metahub.space/poster/small/tt34284946/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt34284946/img"
   },
   {
     "id": "ea61cfa764e73f29b776f4aad4dd9fd8",
@@ -5216,7 +5214,12 @@
     "rawText": "All Pass (2026) Tamil HD + ESub - [1080p & 720p - AVC / HEVC - (DD+5.1 - 640Kbps) - 3.6GB + Rips] - [W]",
     "languages": [
       "Tamil"
-    ]
+    ],
+    "imdbId": "tt39089210",
+    "name": "All Pass",
+    "year": 2026,
+    "poster": "https://images.metahub.space/poster/small/tt39089210/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt39089210/img"
   },
   {
     "id": "b46a8f75f2b4274d9ce364152d5519df",
@@ -5277,8 +5280,8 @@
     "imdbId": "tt1462900",
     "name": "The Grandmaster",
     "year": 2026,
-    "poster": "https://images.metahub.space/poster/small/tt1462900/img",
-    "thumbnail": "https://images.metahub.space/poster/small/tt1462900/img"
+    "poster": "https://m.media-amazon.com/images/M/MV5BZjYzYTcxMjYtZWNlYy00Y2UwLTg5MDYtZDZmNTExYmVjZjc4XkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BZjYzYTcxMjYtZWNlYy00Y2UwLTg5MDYtZDZmNTExYmVjZjc4XkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "ef036a7e7803a224ef920b1e26c29b3b",
@@ -5303,11 +5306,11 @@
     "languages": [
       "Tamil"
     ],
-    "imdbId": "tt11732018",
+    "imdbId": "tt0039682",
     "name": "Angelina",
     "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BODNhYzc2OGItN2Q1Mi00MDU0LThhMDEtZTVjODIwZDI5Y2M1XkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BODNhYzc2OGItN2Q1Mi00MDU0LThhMDEtZTVjODIwZDI5Y2M1XkEyXkFqcGc@._V1_SX250.jpg"
+    "poster": "https://images.metahub.space/poster/small/tt0039682/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt0039682/img"
   },
   {
     "id": "12eaec8fecf74dfaa193c5492d94bd4e",
@@ -5335,8 +5338,8 @@
     "imdbId": "tt38990721",
     "name": "Lakshmikanthan Kolai Vazhakku",
     "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BNzY2ODgxZDItOTE3Yy00ZWY3LTg1NTAtZDgyZjhiMzYxOGJjXkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BNzY2ODgxZDItOTE3Yy00ZWY3LTg1NTAtZDgyZjhiMzYxOGJjXkEyXkFqcGc@._V1_SX250.jpg"
+    "poster": "https://images.metahub.space/poster/small/tt38990721/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt38990721/img"
   },
   {
     "id": "abb48783fbebb172d5eec17765f2c27d",
@@ -5639,8 +5642,8 @@
     "imdbId": "tt36267730",
     "name": "Last Man in Tower",
     "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BMmZhYzdhYTktOGMzMy00YzEwLWFlMTgtZWFjZWE2MGU3YjljXkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BMmZhYzdhYTktOGMzMy00YzEwLWFlMTgtZWFjZWE2MGU3YjljXkEyXkFqcGc@._V1_SX250.jpg"
+    "poster": "https://images.metahub.space/poster/small/tt36267730/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt36267730/img"
   },
   {
     "id": "4db7f4ad55c1194ebdbaff952d3bbdfc",
@@ -5679,8 +5682,8 @@
     "imdbId": "tt7526136",
     "name": "Heart of the Beast",
     "year": 2026,
-    "poster": "https://images.metahub.space/poster/small/tt7526136/img",
-    "thumbnail": "https://images.metahub.space/poster/small/tt7526136/img"
+    "poster": "https://m.media-amazon.com/images/M/MV5BMDVlMTRhMjgtMjdmZi00NjJhLWExMmYtODExNWJkZGZjNjdhXkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BMDVlMTRhMjgtMjdmZi00NjJhLWExMmYtODExNWJkZGZjNjdhXkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "49cd574a05db841e6aa909a6771e78a0",
@@ -5894,8 +5897,8 @@
     "imdbId": "tt41110859",
     "name": "Aakhri Sawal",
     "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BOTJkODZiOWItOTY2YS00N2VkLTlkZjEtYzMyZTQzZGQ1ZDcxXkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BOTJkODZiOWItOTY2YS00N2VkLTlkZjEtYzMyZTQzZGQ1ZDcxXkEyXkFqcGc@._V1_SX250.jpg"
+    "poster": "https://images.metahub.space/poster/small/tt41110859/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt41110859/img"
   },
   {
     "id": "4cc9783194a44e77002521b4d34a4539",
@@ -7172,18 +7175,11 @@
     "languages": [
       "Tamil"
     ],
-    "imdbId": "tt0371739",
-    "name": "The Zodiac",
-    "year": "2006",
-    "poster": "https://images.metahub.space/poster/small/tt0371739/img",
-    "thumbnail": "https://images.metahub.space/poster/small/tt0371739/img",
-    "genres": [
-      "Crime",
-      "Drama",
-      "Horror"
-    ],
-    "description": "An elusive serial killer known as the Zodiac terrorizes the San Francisco Bay in the late 1960s, while detectives aim to stop him before he claims more victims. Based on a true story.",
-    "imdbRating": "5.3"
+    "imdbId": "tt0443706",
+    "name": "Zodiac",
+    "year": 2007,
+    "poster": "https://images.metahub.space/poster/small/tt0443706/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt0443706/img"
   },
   {
     "id": "9ce39d9c2952a8d62dc66811976b2ad3",
@@ -7336,12 +7332,7 @@
     "languages": [
       "Tamil",
       "Malayalam"
-    ],
-    "imdbId": "tt34792531",
-    "name": "Avarachan & Sons",
-    "year": 2026,
-    "poster": "https://images.metahub.space/poster/small/tt34792531/img",
-    "thumbnail": "https://images.metahub.space/poster/small/tt34792531/img"
+    ]
   },
   {
     "id": "71a60e2d11bbc6f3fb79fe3693c6a491",
@@ -7413,8 +7404,8 @@
     "imdbId": "tt47421307",
     "name": "SI Yugandhar",
     "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BZTQyZDcyNmUtYTBmYy00YmQ3LWFjMGYtOTAzNDhhODU1MjFhXkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BZTQyZDcyNmUtYTBmYy00YmQ3LWFjMGYtOTAzNDhhODU1MjFhXkEyXkFqcGc@._V1_SX250.jpg"
+    "poster": "https://images.metahub.space/poster/small/tt47421307/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt47421307/img"
   },
   {
     "id": "895b7b1fba6987d7a2ab86dd2bb0e874",
@@ -7842,8 +7833,8 @@
     "imdbId": "tt39536070",
     "name": "Meethe Mein Kya Hai",
     "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BMDBhYzUyODQtOWNhZS00NzM5LWE2ZmYtZDYxMDE1N2U2NjhhXkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BMDBhYzUyODQtOWNhZS00NzM5LWE2ZmYtZDYxMDE1N2U2NjhhXkEyXkFqcGc@._V1_SX250.jpg"
+    "poster": "https://images.metahub.space/poster/small/tt39536070/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt39536070/img"
   },
   {
     "id": "ef5509539ee09dd7a07a8b50021f6d46",
@@ -8029,8 +8020,8 @@
     "imdbId": "tt37522541",
     "name": "Apocalypse Z: New World",
     "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BNGI4ODQ1NGQtMTVmZS00NzcwLThmNWUtMTI4MDhkNDAyZDI0XkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BNGI4ODQ1NGQtMTVmZS00NzcwLThmNWUtMTI4MDhkNDAyZDI0XkEyXkFqcGc@._V1_SX250.jpg"
+    "poster": "https://images.metahub.space/poster/small/tt37522541/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt37522541/img"
   },
   {
     "id": "c81e102fa63256998c64186d0bc34eda",
@@ -8161,18 +8152,11 @@
     "languages": [
       "Hindi"
     ],
-    "imdbId": "tt32560777",
-    "name": "Plankton: The Movie",
-    "year": "2025",
-    "poster": "https://images.metahub.space/poster/small/tt32560777/img",
-    "thumbnail": "https://images.metahub.space/poster/small/tt32560777/img",
-    "genres": [
-      "Animation",
-      "Adventure",
-      "Comedy"
-    ],
-    "description": "When Karen the Computer decides to take over the world, it's up to Plankton to stop her - with a little help from SpongeBob and the Gal Pals (Pearl, Sandy, and Mrs. Puff).",
-    "imdbRating": "5.3"
+    "imdbId": "tt34339725",
+    "name": "Mirzapur: The Movie",
+    "year": 2026,
+    "poster": "https://images.metahub.space/poster/small/tt34339725/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt34339725/img"
   },
   {
     "id": "44ec13902290a6acfb70e6f6a5f8d14b",
@@ -8200,8 +8184,8 @@
     "imdbId": "tt38354937",
     "name": "Sarala Subbarao",
     "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BNTlhOTE3YTUtYjYxMC00YTE4LTg4ZTMtZGU2MDkxOGMxMWQ5XkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BNTlhOTE3YTUtYjYxMC00YTE4LTg4ZTMtZGU2MDkxOGMxMWQ5XkEyXkFqcGc@._V1_SX250.jpg"
+    "poster": "https://images.metahub.space/poster/small/tt38354937/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt38354937/img"
   },
   {
     "id": "152aede16af3c6b3e93c0393139ca73f",
@@ -8437,15 +8421,10 @@
       "Multi-Lang"
     ],
     "imdbId": "tt37180686",
-    "name": "Drive - The Pretenders",
-    "year": "2026",
+    "name": "Drive: The Pretenders",
+    "year": 2026,
     "poster": "https://images.metahub.space/poster/small/tt37180686/img",
-    "thumbnail": "https://images.metahub.space/poster/small/tt37180686/img",
-    "genres": [
-      "Drama",
-      "Romance"
-    ],
-    "description": "A young race car mechanic pretends to be engaged to the most scandalous racing star in the scene - officially for his reputation, but secretly for her own chance behind the wheel. Soon the lie threatens to destroy everything."
+    "thumbnail": "https://images.metahub.space/poster/small/tt37180686/img"
   },
   {
     "id": "7c788a67964f218f1294a8bb842de86e",
@@ -8739,19 +8718,7 @@
       "Telugu",
       "Hindi",
       "Multi-Lang"
-    ],
-    "imdbId": "tt1477834",
-    "name": "Aquaman",
-    "year": "2018",
-    "poster": "https://images.metahub.space/poster/small/tt1477834/img",
-    "thumbnail": "https://images.metahub.space/poster/small/tt1477834/img",
-    "genres": [
-      "Action",
-      "Adventure",
-      "Fantasy"
-    ],
-    "description": "Arthur Curry, the human-born heir to the underwater kingdom of Atlantis, goes on a quest to prevent a war between the worlds of ocean and land.",
-    "imdbRating": "6.8"
+    ]
   },
   {
     "id": "8d7f302f487e87d69db96fdf9a57d3e0",
@@ -8868,16 +8835,9 @@
     ],
     "imdbId": "tt0264429",
     "name": "Black Mask 2: City of Masks",
-    "year": "2003",
+    "year": 2002,
     "poster": "https://images.metahub.space/poster/small/tt0264429/img",
-    "thumbnail": "https://images.metahub.space/poster/small/tt0264429/img",
-    "genres": [
-      "Action",
-      "Drama",
-      "Sci-Fi"
-    ],
-    "description": "The Black Mask must stop a group intent on setting off a DNA bomb that could cause mutations to the human race.",
-    "imdbRating": "3.7"
+    "thumbnail": "https://images.metahub.space/poster/small/tt0264429/img"
   },
   {
     "id": "42958b45459c20067e7368009b69d82a",
@@ -9170,8 +9130,8 @@
     "imdbId": "tt38990864",
     "name": "Dhoomakethu",
     "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BNTE1ZDFiMGEtMTRjMS00ZWZlLTgyMDctNjJkZDM2YjI4NGFlXkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BNTE1ZDFiMGEtMTRjMS00ZWZlLTgyMDctNjJkZDM2YjI4NGFlXkEyXkFqcGc@._V1_SX250.jpg"
+    "poster": "https://images.metahub.space/poster/small/tt38990864/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt38990864/img"
   },
   {
     "id": "c3bf3b4a60b667ff4eb2b32912e4dedc",
@@ -9210,8 +9170,8 @@
     "imdbId": "tt50055171",
     "name": "Chola Kollai Bommai",
     "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BZGMyMDcwNzItZjExMi00ZWRlLWExMDktNTk2ZTM0ODY5OThkXkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BZGMyMDcwNzItZjExMi00ZWRlLWExMDktNTk2ZTM0ODY5OThkXkEyXkFqcGc@._V1_SX250.jpg"
+    "poster": "https://images.metahub.space/poster/small/tt50055171/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt50055171/img"
   },
   {
     "id": "cf8831765fc3b97594c6df12b3d6fed4",
@@ -9267,8 +9227,8 @@
     "imdbId": "tt35963439",
     "name": "It's A Medical Miracle",
     "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BODAyZGM3ODAtZjMwMy00NTYxLTlkMmEtM2RkNWE2NTMzNjUxXkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BODAyZGM3ODAtZjMwMy00NTYxLTlkMmEtM2RkNWE2NTMzNjUxXkEyXkFqcGc@._V1_SX250.jpg"
+    "poster": "https://images.metahub.space/poster/small/tt35963439/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt35963439/img"
   },
   {
     "id": "a1fbfbf2408223f429cbc75f2aabd5f7",
@@ -9326,7 +9286,12 @@
       "Telugu",
       "Hindi",
       "Multi-Lang"
-    ]
+    ],
+    "imdbId": "tt39631280",
+    "name": "Gajab Raat",
+    "year": 2026,
+    "poster": "https://images.metahub.space/poster/small/tt39631280/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt39631280/img"
   },
   {
     "id": "d927423e19b634b602a1a6a52b60ed9a",
@@ -9374,8 +9339,8 @@
     "imdbId": "tt12446086",
     "name": "Legend of the White Dragon",
     "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BMTcxNmY0NWYtMjJiNS00ZmZjLTkyMmItYjljYzU4YzliNTBjXkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BMTcxNmY0NWYtMjJiNS00ZmZjLTkyMmItYjljYzU4YzliNTBjXkEyXkFqcGc@._V1_SX250.jpg"
+    "poster": "https://images.metahub.space/poster/small/tt12446086/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt12446086/img"
   },
   {
     "id": "9fee9df93a04315d8467af98fbe1535d",
@@ -9596,8 +9561,8 @@
     "imdbId": "tt42602688",
     "name": "Naa Wife Missing",
     "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BNmUzMzBmMGItOTdkOC00Mzc3LThhYmMtMmJlZjg0NTk3YmNhXkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BNmUzMzBmMGItOTdkOC00Mzc3LThhYmMtMmJlZjg0NTk3YmNhXkEyXkFqcGc@._V1_SX250.jpg"
+    "poster": "https://images.metahub.space/poster/small/tt42602688/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt42602688/img"
   },
   {
     "id": "0cd851d67647c36dd67ef93c1b076219",
@@ -9942,8 +9907,8 @@
     "imdbId": "tt34794166",
     "name": "Nishaanchi",
     "year": 2025,
-    "poster": "https://images.metahub.space/poster/small/tt34794166/img",
-    "thumbnail": "https://images.metahub.space/poster/small/tt34794166/img"
+    "poster": "https://m.media-amazon.com/images/M/MV5BMTA3OGZhNjQtM2E2OS00YmE5LWJiMGMtZDllZDk5ZWZkOTI4XkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BMTA3OGZhNjQtM2E2OS00YmE5LWJiMGMtZDllZDk5ZWZkOTI4XkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "85a920b42aa33a50bd5c0e9e04c9a8e1",
@@ -10191,8 +10156,8 @@
     "imdbId": "tt38916037",
     "name": "Lenin Pandiyan",
     "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BMDkwMGE4MDctZDUxNS00MTYwLWFjNTQtNDZhMmMzYTg2OTViXkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BMDkwMGE4MDctZDUxNS00MTYwLWFjNTQtNDZhMmMzYTg2OTViXkEyXkFqcGc@._V1_SX250.jpg"
+    "poster": "https://images.metahub.space/poster/small/tt38916037/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt38916037/img"
   },
   {
     "id": "295ff001fb4f929cebb93d22258eaa09",
@@ -10286,8 +10251,8 @@
     "imdbId": "tt0101540",
     "name": "Cape Fear",
     "year": 1991,
-    "poster": "https://m.media-amazon.com/images/M/MV5BNTBkNTYwZTctOTgxYS00ZmIyLTgzNDAtODJhZjg2MDUwNmFlXkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BNTBkNTYwZTctOTgxYS00ZmIyLTgzNDAtODJhZjg2MDUwNmFlXkEyXkFqcGc@._V1_SX250.jpg"
+    "poster": "https://images.metahub.space/poster/small/tt0101540/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt0101540/img"
   },
   {
     "id": "f9509d916e3971b0f01cd283001579d8",
@@ -10388,8 +10353,8 @@
     "imdbId": "tt38947564",
     "name": "4 Idiots",
     "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BNTUwMDUxYjktYTQ2OC00ODdhLTg1NGEtMTc4ZmE3NGFlYzU5XkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BNTUwMDUxYjktYTQ2OC00ODdhLTg1NGEtMTc4ZmE3NGFlYzU5XkEyXkFqcGc@._V1_SX250.jpg"
+    "poster": "https://images.metahub.space/poster/small/tt38947564/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt38947564/img"
   },
   {
     "id": "ef80a44766f0ad7931e1ceb3f8e1cfbf",
@@ -10527,8 +10492,8 @@
     "imdbId": "tt37894980",
     "name": "Aasha",
     "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BNWEyMWFmNDktZjc5Ni00NGNkLTkyYWQtMTdlOGNiNTljZjcyXkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BNWEyMWFmNDktZjc5Ni00NGNkLTkyYWQtMTdlOGNiNTljZjcyXkEyXkFqcGc@._V1_SX250.jpg"
+    "poster": "https://images.metahub.space/poster/small/tt37894980/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt37894980/img"
   },
   {
     "id": "fab55ecca48bbaa96d44b1141fedef0b",
@@ -10825,8 +10790,8 @@
     "imdbId": "tt34385135",
     "name": "Colony",
     "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BNzI5YWViNGUtNGRiMy00OThhLWIwOGUtZjkyZDk2NjliODY2XkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BNzI5YWViNGUtNGRiMy00OThhLWIwOGUtZjkyZDk2NjliODY2XkEyXkFqcGc@._V1_SX250.jpg"
+    "poster": "https://images.metahub.space/poster/small/tt34385135/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt34385135/img"
   },
   {
     "id": "29c941645754f75b6bda1dabf664dfe9",
@@ -10871,11 +10836,11 @@
       "Hindi",
       "Multi-Lang"
     ],
-    "imdbId": "tt0090756",
-    "name": "Blue Velvet",
+    "imdbId": "tt9362930",
+    "name": "Blue Beetle",
     "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BNzkwZGUyYjQtM2QyOC00MTBjLWE0NGYtMTZmOGM5MjI0Mzg0XkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BNzkwZGUyYjQtM2QyOC00MTBjLWE0NGYtMTZmOGM5MjI0Mzg0XkEyXkFqcGc@._V1_SX250.jpg"
+    "poster": "https://images.metahub.space/poster/small/tt9362930/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt9362930/img"
   },
   {
     "id": "2b79b9c0aeb108c450e7d265c60cfd6e",
@@ -11167,8 +11132,8 @@
     "imdbId": "tt36596965",
     "name": "Mandaadi",
     "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BYjdjYjVkY2ItOGM4Yy00OGQ3LTg3ZDAtNmYzMWZkYzg3NGZhXkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BYjdjYjVkY2ItOGM4Yy00OGQ3LTg3ZDAtNmYzMWZkYzg3NGZhXkEyXkFqcGc@._V1_SX250.jpg"
+    "poster": "https://images.metahub.space/poster/small/tt36596965/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt36596965/img"
   },
   {
     "id": "6eaad514a5ed4221d563f04c4e3377ba",
@@ -11379,16 +11344,9 @@
     ],
     "imdbId": "tt32268992",
     "name": "Sacrifice",
-    "year": "2026",
+    "year": 2026,
     "poster": "https://images.metahub.space/poster/small/tt32268992/img",
-    "thumbnail": "https://images.metahub.space/poster/small/tt32268992/img",
-    "genres": [
-      "Action",
-      "Adventure",
-      "Comedy"
-    ],
-    "description": "At an elite fundraising gala, celebrities and socialites find themselves in danger when armed activists storm the venue in pursuit of a legendary relic that could unlock supernatural powers.",
-    "imdbRating": "5.7"
+    "thumbnail": "https://images.metahub.space/poster/small/tt32268992/img"
   },
   {
     "id": "906b34664be67193f53d9373353c5620",
@@ -11832,7 +11790,12 @@
     "rawText": "Thoonga Nagaram (2011) Tamil HD + ESub - [1080p & 720p - AVC / HEVC - (DD+5.1 - 640Kbps) - 10GB + Rips]",
     "languages": [
       "Tamil"
-    ]
+    ],
+    "imdbId": "tt1927165",
+    "name": "Thoonga Nagaram",
+    "year": 2011,
+    "poster": "https://images.metahub.space/poster/small/tt1927165/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt1927165/img"
   },
   {
     "id": "cc383c008c191dc3a12cc16f1519eb77",
@@ -11901,11 +11864,11 @@
     "languages": [
       "Tamil"
     ],
-    "imdbId": "tt11663228",
-    "name": "Jailer",
+    "imdbId": "tt33318732",
+    "name": "Jailer 2",
     "year": 2023,
-    "poster": "https://images.metahub.space/poster/small/tt11663228/img",
-    "thumbnail": "https://images.metahub.space/poster/small/tt11663228/img"
+    "poster": "https://m.media-amazon.com/images/M/MV5BYmJiYzc1ODctZjQzZS00NzEzLWI0NDEtZGVkNjI4YzEzNGRjXkEyXkFqcGc@._V1_SX250.jpg",
+    "thumbnail": "https://m.media-amazon.com/images/M/MV5BYmJiYzc1ODctZjQzZS00NzEzLWI0NDEtZGVkNjI4YzEzNGRjXkEyXkFqcGc@._V1_SX250.jpg"
   },
   {
     "id": "5e9689ba26e9602720dd707be2841814",
@@ -12156,8 +12119,8 @@
     "imdbId": "tt37537243",
     "name": "Maremma",
     "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BMTk3YTliMjctMDhiYS00Y2FiLTg1YWMtOWM4ZTk0Y2JjNGNiXkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BMTk3YTliMjctMDhiYS00Y2FiLTg1YWMtOWM4ZTk0Y2JjNGNiXkEyXkFqcGc@._V1_SX250.jpg"
+    "poster": "https://images.metahub.space/poster/small/tt37537243/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt37537243/img"
   },
   {
     "id": "b6ffd108288f7307e4806cd769672a88",
@@ -12192,19 +12155,7 @@
     "rawText": "Promise (2026) Tamil HD + ESub - [1080p & 720p - AVC / HEVC - (DD+2.0 - 224Kbps) - 4.8GB + Rips]",
     "languages": [
       "Tamil"
-    ],
-    "imdbId": "tt4776998",
-    "name": "The Promise",
-    "year": "2017",
-    "poster": "https://images.metahub.space/poster/small/tt4776998/img",
-    "thumbnail": "https://images.metahub.space/poster/small/tt4776998/img",
-    "genres": [
-      "Action",
-      "Adventure",
-      "Drama"
-    ],
-    "description": "Set during the last days of the Ottoman Empire, The Promise follows a love triangle between Michael, a brilliant medical student, the beautiful and sophisticated Ana, and Chris - a renowned American journalist based in Paris.",
-    "imdbRating": "6.1"
+    ]
   },
   {
     "id": "d93e7f04e35dc441595909e577d4c308",
@@ -12239,18 +12190,7 @@
     "rawText": "Jailer 2 Super Show (2026) Tamil TRUE WEB-DL - [1080p & 720p - AVC - (AAC 2.0) - 2.9GB & 1.5GB + Rips]",
     "languages": [
       "Tamil"
-    ],
-    "imdbId": "tt33318732",
-    "name": "Jailer 2",
-    "year": "2026",
-    "poster": "https://images.metahub.space/poster/small/tt33318732/img",
-    "thumbnail": "https://images.metahub.space/poster/small/tt33318732/img",
-    "genres": [
-      "Action",
-      "Comedy",
-      "Crime"
-    ],
-    "description": "A retired officer's peaceful life is disrupted when a dangerous criminal organization threatens his family. He must use his skills one final time to protect his loved ones and preserve his legacy."
+    ]
   },
   {
     "id": "a1bd7176cdd35e1dc48af6287b767863",
@@ -12457,12 +12397,7 @@
       "Kannada",
       "Hindi",
       "Multi-Lang"
-    ],
-    "imdbId": "tt0848537",
-    "name": "Epic",
-    "year": 2026,
-    "poster": "https://images.metahub.space/poster/small/tt0848537/img",
-    "thumbnail": "https://images.metahub.space/poster/small/tt0848537/img"
+    ]
   },
   {
     "id": "c614c0d2260208cadc384d3b531ae4a3",
@@ -12737,8 +12672,8 @@
     "imdbId": "tt31049299",
     "name": "Animals",
     "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BZmY3MmZiZjctOTgyYy00OGIxLTkwMDUtNDU3MGNkMGI3YWJlXkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BZmY3MmZiZjctOTgyYy00OGIxLTkwMDUtNDU3MGNkMGI3YWJlXkEyXkFqcGc@._V1_SX250.jpg"
+    "poster": "https://images.metahub.space/poster/small/tt31049299/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt31049299/img"
   },
   {
     "id": "633b3e4707982f2c011b6cca7cf812b5",
@@ -12786,8 +12721,8 @@
     "imdbId": "tt47657999",
     "name": "Reporting Live",
     "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BYTliNTdiOTQtNmNjNC00ZGRhLWExODYtMmRlNzM4YTFhZTM5XkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BYTliNTdiOTQtNmNjNC00ZGRhLWExODYtMmRlNzM4YTFhZTM5XkEyXkFqcGc@._V1_SX250.jpg"
+    "poster": "https://images.metahub.space/poster/small/tt47657999/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt47657999/img"
   },
   {
     "id": "cb9b25ebedc0ecb8158c43b493523df3",
@@ -13243,8 +13178,8 @@
     "imdbId": "tt39314786",
     "name": "The Butcher's Blade",
     "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BMjNlMDM2OWItY2IxNC00YWI0LTgyNTUtNDQ0ZWRiMjliMjQ2XkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BMjNlMDM2OWItY2IxNC00YWI0LTgyNTUtNDQ0ZWRiMjliMjQ2XkEyXkFqcGc@._V1_SX250.jpg"
+    "poster": "https://images.metahub.space/poster/small/tt39314786/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt39314786/img"
   },
   {
     "id": "593a5574570fe17b504e4bd9ef191e9d",
@@ -13347,8 +13282,8 @@
     "imdbId": "tt22084616",
     "name": "Spider-Man: Brand New Day",
     "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BOWNjYWM3NWItOGE0ZS00MWRjLThiZWEtYjc4ZmNmMmU5ZTVmXkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BOWNjYWM3NWItOGE0ZS00MWRjLThiZWEtYjc4ZmNmMmU5ZTVmXkEyXkFqcGc@._V1_SX250.jpg"
+    "poster": "https://images.metahub.space/poster/small/tt22084616/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt22084616/img"
   },
   {
     "id": "29be35e17ea4dc135c46173e72601795",
@@ -13434,8 +13369,8 @@
     "imdbId": "tt0086984",
     "name": "Body Double",
     "year": 1984,
-    "poster": "https://m.media-amazon.com/images/M/MV5BYjhkM2Q4MWUtOGY1OC00MDgxLTgxYzMtMjdhOTdlNDUxYzlhXkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BYjhkM2Q4MWUtOGY1OC00MDgxLTgxYzMtMjdhOTdlNDUxYzlhXkEyXkFqcGc@._V1_SX250.jpg"
+    "poster": "https://images.metahub.space/poster/small/tt0086984/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt0086984/img"
   },
   {
     "id": "2d5e63fbe973ef33ef802a49ea79a556",
@@ -13477,11 +13412,11 @@
       "Telugu",
       "Multi-Lang"
     ],
-    "imdbId": "tt38201958",
-    "name": "Doraemon: Nobita and the New Castle of the Undersea Devil",
+    "imdbId": "tt1147509",
+    "name": "Doraemon: Nobita and the Castle of the Undersea Devil",
     "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BNTZlMzRjZTUtZDVjNi00ODFiLWFmMzEtMzQ1ODIwOWQ3YjIwXkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BNTZlMzRjZTUtZDVjNi00ODFiLWFmMzEtMzQ1ODIwOWQ3YjIwXkEyXkFqcGc@._V1_SX250.jpg"
+    "poster": "https://images.metahub.space/poster/small/tt1147509/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt1147509/img"
   },
   {
     "id": "3433cf48725398940bec5e258bb11806",
@@ -14053,8 +13988,8 @@
     "imdbId": "tt32222964",
     "name": "The Indian Story",
     "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BYzFkOTk1OWUtNDFjMi00ZDIzLWI3M2UtZWRmNmM1ZWNmMGM5XkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BYzFkOTk1OWUtNDFjMi00ZDIzLWI3M2UtZWRmNmM1ZWNmMGM5XkEyXkFqcGc@._V1_SX250.jpg"
+    "poster": "https://images.metahub.space/poster/small/tt32222964/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt32222964/img"
   },
   {
     "id": "00a9577e57f255c926488fc8aef41b2a",
@@ -14125,18 +14060,11 @@
       "Hindi",
       "Multi-Lang"
     ],
-    "imdbId": "tt1220719",
-    "name": "Ip Man",
-    "year": "2025",
-    "poster": "https://images.metahub.space/poster/small/tt1220719/img",
-    "thumbnail": "https://images.metahub.space/poster/small/tt1220719/img",
-    "genres": [
-      "Action",
-      "Biography",
-      "Drama"
-    ],
-    "description": "During the Japanese invasion of China, a wealthy martial artist is forced to leave his home when his city is occupied. With little means of providing for themselves, Ip Man and the remaining members of the city must find a way to ...",
-    "imdbRating": "8.0"
+    "imdbId": "tt38682795",
+    "name": "Ip Man: Kung Fu Legend",
+    "year": 2026,
+    "poster": "https://images.metahub.space/poster/small/tt38682795/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt38682795/img"
   },
   {
     "id": "2de105be5ed1a21d486933736f50375c",
@@ -14232,8 +14160,8 @@
     "imdbId": "tt43635242",
     "name": "Ameer Log",
     "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BNDMyODIxMTYtMzQ4YS00OThkLTljM2EtZWNkN2I0NWI4OTI5XkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BNDMyODIxMTYtMzQ4YS00OThkLTljM2EtZWNkN2I0NWI4OTI5XkEyXkFqcGc@._V1_SX250.jpg"
+    "poster": "https://images.metahub.space/poster/small/tt43635242/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt43635242/img"
   },
   {
     "id": "3fd13e02362d951a2950672d76002dd1",
@@ -14505,8 +14433,8 @@
     "imdbId": "tt3182644",
     "name": "Moodar Koodam",
     "year": 2013,
-    "poster": "https://m.media-amazon.com/images/M/MV5BYThkZjRiOGQtZTg4Ny00NWNlLThhZDAtOWFmZGQ2ZTUzYTNjXkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BYThkZjRiOGQtZTg4Ny00NWNlLThhZDAtOWFmZGQ2ZTUzYTNjXkEyXkFqcGc@._V1_SX250.jpg"
+    "poster": "https://images.metahub.space/poster/small/tt3182644/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt3182644/img"
   },
   {
     "id": "bf81c8e94b9abafa49d11fc411a98c2b",
@@ -14653,16 +14581,9 @@
     ],
     "imdbId": "tt3322940",
     "name": "Annabelle",
-    "year": "2014",
+    "year": 2014,
     "poster": "https://images.metahub.space/poster/small/tt3322940/img",
-    "thumbnail": "https://images.metahub.space/poster/small/tt3322940/img",
-    "genres": [
-      "Horror",
-      "Mystery",
-      "Thriller"
-    ],
-    "description": "A couple begins to experience terrifying supernatural occurrences involving a vintage doll shortly after their home is invaded by satanic cultists.",
-    "imdbRating": "5.5"
+    "thumbnail": "https://images.metahub.space/poster/small/tt3322940/img"
   },
   {
     "id": "a3beb508f8d55d3e4663f657d5a8442d",
@@ -14771,8 +14692,8 @@
     "imdbId": "tt42481138",
     "name": "Bombay Stories",
     "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BNmViYjA1ODAtZmZiYy00NzJlLTk2MzQtOWE2NDE0YTc2ZTBlXkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BNmViYjA1ODAtZmZiYy00NzJlLTk2MzQtOWE2NDE0YTc2ZTBlXkEyXkFqcGc@._V1_SX250.jpg"
+    "poster": "https://images.metahub.space/poster/small/tt42481138/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt42481138/img"
   },
   {
     "id": "5a4a96066d58c59fb8ad071b09afdf17",
@@ -14820,8 +14741,8 @@
     "imdbId": "tt0020613",
     "name": "The Younger Generation",
     "year": 1929,
-    "poster": "https://m.media-amazon.com/images/M/MV5BMTk3MDYyNjAxOF5BMl5BanBnXkFtZTgwNzEwODgwMzE@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BMTk3MDYyNjAxOF5BMl5BanBnXkFtZTgwNzEwODgwMzE@._V1_SX250.jpg"
+    "poster": "https://images.metahub.space/poster/small/tt0020613/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt0020613/img"
   },
   {
     "id": "75d5e25b4bc38ee7bde6f202529b95ce",
@@ -14905,7 +14826,12 @@
       "Telugu",
       "Hindi",
       "Multi-Lang"
-    ]
+    ],
+    "imdbId": "tt0022856",
+    "name": "End of the Trail",
+    "year": 1932,
+    "poster": "https://images.metahub.space/poster/small/tt0022856/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt0022856/img"
   },
   {
     "id": "a80bc85f4e30c3fbbbd817a4a4af7972",
@@ -15375,8 +15301,8 @@
     "imdbId": "tt41101621",
     "name": "Habeebi",
     "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BNjZmNTVmZWEtOWViMy00YmNiLWE3NmYtOWY3MmExOWE5MjkyXkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BNjZmNTVmZWEtOWViMy00YmNiLWE3NmYtOWY3MmExOWE5MjkyXkEyXkFqcGc@._V1_SX250.jpg"
+    "poster": "https://images.metahub.space/poster/small/tt41101621/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt41101621/img"
   },
   {
     "id": "3cc605a7b5dfa6a93f6c448cce43f6b9",
@@ -15522,8 +15448,8 @@
     "imdbId": "tt41790460",
     "name": "Agadha",
     "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BNjYwOWQ1NjMtYTRmYS00ZDc2LTkwNjAtN2JhYjE3NmVjMTA4XkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BNjYwOWQ1NjMtYTRmYS00ZDc2LTkwNjAtN2JhYjE3NmVjMTA4XkEyXkFqcGc@._V1_SX250.jpg"
+    "poster": "https://images.metahub.space/poster/small/tt41790460/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt41790460/img"
   },
   {
     "id": "c6ab20197830c7845b17a59ef25aad6c",
@@ -15600,8 +15526,8 @@
     "imdbId": "tt6933238",
     "name": "Unabomber",
     "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BZTVlMmRkMzctNTk5OC00OWUxLWIxMWYtYjFmYzRjZDQxNTQ5XkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BZTVlMmRkMzctNTk5OC00OWUxLWIxMWYtYjFmYzRjZDQxNTQ5XkEyXkFqcGc@._V1_SX250.jpg"
+    "poster": "https://images.metahub.space/poster/small/tt6933238/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt6933238/img"
   },
   {
     "id": "f460e87825bcd1d4c02435fd50a5fc35",
@@ -15714,8 +15640,8 @@
     "imdbId": "tt36300841",
     "name": "Awarapan 2",
     "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BZDJiYmZhMGYtMDZlYi00YTY1LWI3NDktNzYxMTY4NzhkNTU5XkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BZDJiYmZhMGYtMDZlYi00YTY1LWI3NDktNzYxMTY4NzhkNTU5XkEyXkFqcGc@._V1_SX250.jpg"
+    "poster": "https://images.metahub.space/poster/small/tt36300841/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt36300841/img"
   },
   {
     "id": "f6bf7868af117ff7242b662c7a5d44c7",
@@ -15853,7 +15779,12 @@
       "Tamil",
       "Hindi",
       "Multi-Lang"
-    ]
+    ],
+    "imdbId": "tt33610673",
+    "name": "Mension House Mallesh",
+    "year": 2026,
+    "poster": "https://images.metahub.space/poster/small/tt33610673/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt33610673/img"
   },
   {
     "id": "1bf9a165685747e60ed990a6dd457d9b",
@@ -15900,16 +15831,9 @@
     ],
     "imdbId": "tt0259324",
     "name": "Ghost Rider",
-    "year": "2007",
+    "year": 2007,
     "poster": "https://images.metahub.space/poster/small/tt0259324/img",
-    "thumbnail": "https://images.metahub.space/poster/small/tt0259324/img",
-    "genres": [
-      "Action",
-      "Fantasy",
-      "Thriller"
-    ],
-    "description": "A motorcycle stuntman who sold his soul becomes a supernatural agent of vengeance.",
-    "imdbRating": "5.3"
+    "thumbnail": "https://images.metahub.space/poster/small/tt0259324/img"
   },
   {
     "id": "1c70adba93dbff83c67f1754ea228b96",
@@ -16526,7 +16450,12 @@
     "rawText": "Dark Syndicate (2026) Tamil HD + ESub - [1080p & 720p - AVC - (AAC 2.0) - 1.6GB + Rips]",
     "languages": [
       "Tamil"
-    ]
+    ],
+    "imdbId": "tt47524422",
+    "name": "Dark Syndicate",
+    "year": 2026,
+    "poster": "https://images.metahub.space/poster/small/tt47524422/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt47524422/img"
   },
   {
     "id": "73f930633776d4556c9f5d2657ec05ab",
@@ -16576,8 +16505,8 @@
     "imdbId": "tt37544992",
     "name": "Baby Do Die Do",
     "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BNjQwMDg0NzctMTA4Zi00YzJhLTlmYTQtYmQ2MDI3YTM5NTg0XkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BNjQwMDg0NzctMTA4Zi00YzJhLTlmYTQtYmQ2MDI3YTM5NTg0XkEyXkFqcGc@._V1_SX250.jpg"
+    "poster": "https://images.metahub.space/poster/small/tt37544992/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt37544992/img"
   },
   {
     "id": "a2b3f22c9965cac40129beede4426822",
@@ -16703,7 +16632,12 @@
     "rawText": "Boys (2003) Tamil Remastered UHD + ESub - [4K, 1080p & 720p - AVC / HEVC - (DD+5.1 - 192Kbps) - 8.2GB + Rips]",
     "languages": [
       "Tamil"
-    ]
+    ],
+    "imdbId": "tt0112442",
+    "name": "Bad Boys",
+    "year": 2003,
+    "poster": "https://images.metahub.space/poster/small/tt0112442/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt0112442/img"
   },
   {
     "id": "3d4641fd0bfdeee21b865c7e7d0f95e9",
@@ -16766,7 +16700,12 @@
       "Tamil",
       "Hindi",
       "Multi-Lang"
-    ]
+    ],
+    "imdbId": "tt37495239",
+    "name": "The Desert Child",
+    "year": 2026,
+    "poster": "https://images.metahub.space/poster/small/tt37495239/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt37495239/img"
   },
   {
     "id": "b0590c8b2d4926e971515a055c9c5d72",
@@ -16854,8 +16793,8 @@
     "imdbId": "tt10908160",
     "name": "Idi Mazha Kaattu",
     "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BYWRmNWM5ZDQtMDlmYS00MmZjLWI5MTItYmMzNDcxZDYyNmJhXkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BYWRmNWM5ZDQtMDlmYS00MmZjLWI5MTItYmMzNDcxZDYyNmJhXkEyXkFqcGc@._V1_SX250.jpg"
+    "poster": "https://images.metahub.space/poster/small/tt10908160/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt10908160/img"
   },
   {
     "id": "b51c4eb66c0dd2581edb454956da5f90",
@@ -16903,8 +16842,8 @@
     "imdbId": "tt0025366",
     "name": "Lady by Choice",
     "year": 1934,
-    "poster": "https://m.media-amazon.com/images/M/MV5BYzlhY2YyMzMtNGZhZS00ZGMwLTg2NTEtNmUwOWYwNWI4NmY1XkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BYzlhY2YyMzMtNGZhZS00ZGMwLTg2NTEtNmUwOWYwNWI4NmY1XkEyXkFqcGc@._V1_SX250.jpg"
+    "poster": "https://images.metahub.space/poster/small/tt0025366/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt0025366/img"
   },
   {
     "id": "00cc81ac43e7d164fee4e4eab9ea8db1",
@@ -17064,8 +17003,8 @@
     "imdbId": "tt43056433",
     "name": "Karmakhya",
     "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BYTg4NjY2NTctM2I2MC00NzdmLThiNjktMjBhMzk1ZjE2M2M5XkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BYTg4NjY2NTctM2I2MC00NzdmLThiNjktMjBhMzk1ZjE2M2M5XkEyXkFqcGc@._V1_SX250.jpg"
+    "poster": "https://images.metahub.space/poster/small/tt43056433/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt43056433/img"
   },
   {
     "id": "1727e6e59594aa52f7527c759ba00346",
@@ -17242,8 +17181,8 @@
     "imdbId": "tt37510017",
     "name": "Thudakkam",
     "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BZjM5NGFiNzctOWFlOS00N2ZkLThhNmEtNDNiYWUyMGZhODFhXkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BZjM5NGFiNzctOWFlOS00N2ZkLThhNmEtNDNiYWUyMGZhODFhXkEyXkFqcGc@._V1_SX250.jpg"
+    "poster": "https://images.metahub.space/poster/small/tt37510017/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt37510017/img"
   },
   {
     "id": "87cef1e1a889cf9c607e7de98beb37b4",
@@ -17288,17 +17227,11 @@
       "Hindi",
       "Multi-Lang"
     ],
-    "imdbId": "tt0026246",
+    "imdbId": "tt0086199",
     "name": "Crime and Punishment",
-    "year": "1936",
-    "poster": "https://images.metahub.space/poster/small/tt0026246/img",
-    "thumbnail": "https://images.metahub.space/poster/small/tt0026246/img",
-    "genres": [
-      "Crime",
-      "Drama"
-    ],
-    "description": "A young man is haunted by the murder of a neighborhood pawn broker and hounded by the local police inspector who suspects that he is guilty.",
-    "imdbRating": "6.9"
+    "year": 1935,
+    "poster": "https://images.metahub.space/poster/small/tt0086199/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt0086199/img"
   },
   {
     "id": "62c716ea7d1adee11783a2e7652e3969",
@@ -17374,8 +17307,8 @@
     "imdbId": "tt39667834",
     "name": "Lust Stories 3",
     "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BZDZkNjJjY2YtMjZmYy00MDllLTgxZjItMjc4YjMxODMwZDMzXkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BZDZkNjJjY2YtMjZmYy00MDllLTgxZjItMjc4YjMxODMwZDMzXkEyXkFqcGc@._V1_SX250.jpg"
+    "poster": "https://images.metahub.space/poster/small/tt39667834/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt39667834/img"
   },
   {
     "id": "bc422afb2c983d69b6212fb7518dad54",
@@ -17533,11 +17466,11 @@
     "languages": [
       "Tamil"
     ],
-    "imdbId": "tt3662686",
+    "imdbId": "tt43727339",
     "name": "Photographer",
     "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BNzk3MDQwYzktNmY3OS00YThhLWJlZmEtNDhhNjI1Y2E4ZDZlXkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BNzk3MDQwYzktNmY3OS00YThhLWJlZmEtNDhhNjI1Y2E4ZDZlXkEyXkFqcGc@._V1_SX250.jpg"
+    "poster": "https://images.metahub.space/poster/small/tt43727339/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt43727339/img"
   },
   {
     "id": "fa0c602dffcdae7e5c32eda345f2b2c5",
@@ -17667,8 +17600,8 @@
     "imdbId": "tt16478058",
     "name": "Best of the Best",
     "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BMWJiYzQ5MmMtNzIyNS00YzQ0LTkyNmQtZmQ0NWQ4MmFhMzU5XkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BMWJiYzQ5MmMtNzIyNS00YzQ0LTkyNmQtZmQ0NWQ4MmFhMzU5XkEyXkFqcGc@._V1_SX250.jpg"
+    "poster": "https://images.metahub.space/poster/small/tt16478058/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt16478058/img"
   },
   {
     "id": "63e9c7bd531e1c03a010f41d394ef26e",
@@ -17791,8 +17724,8 @@
     "imdbId": "tt40744412",
     "name": "Heer Sara",
     "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BYWIwYjI1ZDgtMDM2Yi00ODI0LWI1MmUtYzQ4NDA4YTE3Yjk2XkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BYWIwYjI1ZDgtMDM2Yi00ODI0LWI1MmUtYzQ4NDA4YTE3Yjk2XkEyXkFqcGc@._V1_SX250.jpg"
+    "poster": "https://images.metahub.space/poster/small/tt40744412/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt40744412/img"
   },
   {
     "id": "8beb0f8e7744dbc33483c3e509bd935e",
@@ -17837,19 +17770,11 @@
       "Hindi",
       "Multi-Lang"
     ],
-    "imdbId": "tt0443676",
-    "name": "Undisputed 2: Last Man Standing",
-    "year": "2006",
-    "poster": "https://images.metahub.space/poster/small/tt0443676/img",
-    "thumbnail": "https://images.metahub.space/poster/small/tt0443676/img",
-    "genres": [
-      "Action",
-      "Crime",
-      "Drama",
-      "Sport"
-    ],
-    "description": "Sequel to the 2002 film. This time, Heavyweight Champ George \"Iceman\" Chambers is sent to a Russian Jail on trumped-up drug charges.",
-    "imdbRating": "7.1"
+    "imdbId": "tt0116830",
+    "name": "Last Man Standing",
+    "year": 2006,
+    "poster": "https://images.metahub.space/poster/small/tt0116830/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt0116830/img"
   },
   {
     "id": "3f755c5a04d75109d91cc73cddea114e",
@@ -17987,8 +17912,8 @@
     "imdbId": "tt41228546",
     "name": "Sultana",
     "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BNWYxNzhkY2UtYzA0Mi00YjlmLTlkZDEtZGU4OGQ1MTEwNjg4XkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BNWYxNzhkY2UtYzA0Mi00YjlmLTlkZDEtZGU4OGQ1MTEwNjg4XkEyXkFqcGc@._V1_SX250.jpg"
+    "poster": "https://images.metahub.space/poster/small/tt41228546/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt41228546/img"
   },
   {
     "id": "06f1821a1f25047cf688f7834b20e6a1",
@@ -18100,8 +18025,8 @@
     "imdbId": "tt43737953",
     "name": "Hushar Pittalu",
     "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BOTliZjJlYTItMjBlMi00NDNmLWJjNDctY2EyNWJiOTk4MzVkXkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BOTliZjJlYTItMjBlMi00NDNmLWJjNDctY2EyNWJiOTk4MzVkXkEyXkFqcGc@._V1_SX250.jpg"
+    "poster": "https://images.metahub.space/poster/small/tt43737953/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt43737953/img"
   },
   {
     "id": "31ef252c299b2ff66e6f5376db509626",
@@ -18239,8 +18164,8 @@
     "imdbId": "tt35836025",
     "name": "Vishwanath and Sons",
     "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BOGRkYWFjNzAtODFhNS00NzM4LTk3NTAtNzgwMDg0OTE2ZTIzXkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BOGRkYWFjNzAtODFhNS00NzM4LTk3NTAtNzgwMDg0OTE2ZTIzXkEyXkFqcGc@._V1_SX250.jpg"
+    "poster": "https://images.metahub.space/poster/small/tt35836025/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt35836025/img"
   },
   {
     "id": "8b6739c376ffb53ce1c4f71fcf5230ce",
@@ -18424,8 +18349,8 @@
     "imdbId": "tt1430607",
     "name": "Arthur Christmas",
     "year": 2011,
-    "poster": "https://m.media-amazon.com/images/M/MV5BNTczMjMwMTE2OV5BMl5BanBnXkFtZTcwNDU0NTAwNw@@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BNTczMjMwMTE2OV5BMl5BanBnXkFtZTcwNDU0NTAwNw@@._V1_SX250.jpg"
+    "poster": "https://images.metahub.space/poster/small/tt1430607/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt1430607/img"
   },
   {
     "id": "584a9675dee081a7b4cc672f2400b494",
@@ -18453,8 +18378,8 @@
     "imdbId": "tt0325805",
     "name": "Matchstick Men",
     "year": 2003,
-    "poster": "https://m.media-amazon.com/images/M/MV5BMjA3NjMyNjIyMF5BMl5BanBnXkFtZTYwOTgzMDI3._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BMjA3NjMyNjIyMF5BMl5BanBnXkFtZTYwOTgzMDI3._V1_SX250.jpg"
+    "poster": "https://images.metahub.space/poster/small/tt0325805/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt0325805/img"
   },
   {
     "id": "f3fb46e73174783e272f83347bb63ec5",
@@ -18548,8 +18473,8 @@
     "imdbId": "tt0265212",
     "name": "Grateful Dawg",
     "year": 2000,
-    "poster": "https://m.media-amazon.com/images/M/MV5BZTgyYThjOTUtMDQ3YS00OWI4LWI5N2ItMTA1ZDAyYWVjY2JlXkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BZTgyYThjOTUtMDQ3YS00OWI4LWI5N2ItMTA1ZDAyYWVjY2JlXkEyXkFqcGc@._V1_SX250.jpg"
+    "poster": "https://images.metahub.space/poster/small/tt0265212/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt0265212/img"
   },
   {
     "id": "b43bd07964f8ed1b97aa7f663665b69c",
@@ -18593,7 +18518,12 @@
       "Telugu",
       "Hindi",
       "Multi-Lang"
-    ]
+    ],
+    "imdbId": "tt29283995",
+    "name": "Hen",
+    "year": 2025,
+    "poster": "https://images.metahub.space/poster/small/tt29283995/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt29283995/img"
   },
   {
     "id": "e150616774153c3c6572ea069909b8a3",
@@ -18641,8 +18571,8 @@
     "imdbId": "tt38616652",
     "name": "Go Team!",
     "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BMWEzOTdmYTYtOTRkNi00MGU5LWIwZWUtNTZkZDFiNTdmOWYyXkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BMWEzOTdmYTYtOTRkNi00MGU5LWIwZWUtNTZkZDFiNTdmOWYyXkEyXkFqcGc@._V1_SX250.jpg"
+    "poster": "https://images.metahub.space/poster/small/tt38616652/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt38616652/img"
   },
   {
     "id": "69bd354f18a3739873ee9f3bf63dc74a",
@@ -18805,8 +18735,8 @@
     "imdbId": "tt43665767",
     "name": "Maharaja Hostel",
     "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BNDY3ZjA2ZWYtZjg2Yy00ZDhhLTk4NDgtMDk0N2QyYTE1MDJjXkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BNDY3ZjA2ZWYtZjg2Yy00ZDhhLTk4NDgtMDk0N2QyYTE1MDJjXkEyXkFqcGc@._V1_SX250.jpg"
+    "poster": "https://images.metahub.space/poster/small/tt43665767/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt43665767/img"
   },
   {
     "id": "dfa074a62da17bdcbba5de2651429159",
@@ -19067,8 +18997,8 @@
     "imdbId": "tt43675327",
     "name": "Vivaah",
     "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BNGY4ZmIzYjAtMjgwMS00ZmU0LWJiYjgtZDVlZGY2ZGU4NjQ1XkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BNGY4ZmIzYjAtMjgwMS00ZmU0LWJiYjgtZDVlZGY2ZGU4NjQ1XkEyXkFqcGc@._V1_SX250.jpg"
+    "poster": "https://images.metahub.space/poster/small/tt43675327/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt43675327/img"
   },
   {
     "id": "44ddcb4ac93482958a8358368db14ee4",
@@ -19112,7 +19042,12 @@
       "Telugu",
       "Hindi",
       "Multi-Lang"
-    ]
+    ],
+    "imdbId": "tt39833109",
+    "name": "Salmokji: Whispering Water",
+    "year": 2026,
+    "poster": "https://images.metahub.space/poster/small/tt39833109/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt39833109/img"
   },
   {
     "id": "ece7bcc5d7782e7363ffa749872cb894",
@@ -19160,8 +19095,8 @@
     "imdbId": "tt30887701",
     "name": "Pinocchio: Unstrung",
     "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BNGVmODI1N2YtMjBjMC00YmMyLTg1MDYtNDViNTgxMzVhMDU2XkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BNGVmODI1N2YtMjBjMC00YmMyLTg1MDYtNDViNTgxMzVhMDU2XkEyXkFqcGc@._V1_SX250.jpg"
+    "poster": "https://images.metahub.space/poster/small/tt30887701/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt30887701/img"
   },
   {
     "id": "52164c150caa6dfb37e53efed990834f",
@@ -19200,8 +19135,8 @@
     "imdbId": "tt33744610",
     "name": "Ghamasaan",
     "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BYjMwMzgwMzctNzM0NC00N2VlLTg1MjAtNDczNDIzOTRlYjM0XkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BYjMwMzgwMzctNzM0NC00N2VlLTg1MjAtNDczNDIzOTRlYjM0XkEyXkFqcGc@._V1_SX250.jpg"
+    "poster": "https://images.metahub.space/poster/small/tt33744610/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt33744610/img"
   },
   {
     "id": "d9adce016441bfd061b09861ed856a95",
@@ -19251,8 +19186,8 @@
     "imdbId": "tt33240865",
     "name": "Rakkasapuradhol",
     "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BNzZlYzZlOGItNzExNy00NmQyLTkzYjctMDk2NDhiOGNmZTA0XkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BNzZlYzZlOGItNzExNy00NmQyLTkzYjctMDk2NDhiOGNmZTA0XkEyXkFqcGc@._V1_SX250.jpg"
+    "poster": "https://images.metahub.space/poster/small/tt33240865/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt33240865/img"
   },
   {
     "id": "8489829c653d4c6b6aeddd70476bfa8a",
@@ -19300,8 +19235,8 @@
     "imdbId": "tt34494076",
     "name": "Hungry",
     "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BNWRhMjRlYTQtMWNhNy00YzRmLThiZjktYjQ4NDMyZWNiY2QwXkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BNWRhMjRlYTQtMWNhNy00YzRmLThiZjktYjQ4NDMyZWNiY2QwXkEyXkFqcGc@._V1_SX250.jpg"
+    "poster": "https://images.metahub.space/poster/small/tt34494076/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt34494076/img"
   },
   {
     "id": "605e01d3c02c8bc9fadc35f343780d99",
@@ -19458,8 +19393,8 @@
     "imdbId": "tt37501035",
     "name": "DC",
     "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BMTc0MDYyNmYtZDJkNi00YzllLWJlNTctZDU3NTY1MzRhMWEzXkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BMTc0MDYyNmYtZDJkNi00YzllLWJlNTctZDU3NTY1MzRhMWEzXkEyXkFqcGc@._V1_SX250.jpg"
+    "poster": "https://images.metahub.space/poster/small/tt37501035/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt37501035/img"
   },
   {
     "id": "c757af58a30b9790a46a4f6f65bc69bd",
@@ -19507,8 +19442,8 @@
     "imdbId": "tt38061210",
     "name": "Why Did I Get Married Again?",
     "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BNTE5YWVkMTAtODJkYi00Y2IwLTlkZDAtYTQ3MDI3ODFiMWI5XkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BNTE5YWVkMTAtODJkYi00Y2IwLTlkZDAtYTQ3MDI3ODFiMWI5XkEyXkFqcGc@._V1_SX250.jpg"
+    "poster": "https://images.metahub.space/poster/small/tt38061210/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt38061210/img"
   },
   {
     "id": "786357d370ba6f6752ec1068f57d9e3a",
@@ -19578,8 +19513,8 @@
     "imdbId": "tt36073210",
     "name": "Drawn Together",
     "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BYjdkMTRlZGItNDdkMS00NDIwLTkyYzktNDNiYjYwNjdkMzEyXkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BYjdkMTRlZGItNDdkMS00NDIwLTkyYzktNDNiYjYwNjdkMzEyXkEyXkFqcGc@._V1_SX250.jpg"
+    "poster": "https://images.metahub.space/poster/small/tt36073210/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt36073210/img"
   },
   {
     "id": "3878562fb4015855685640a075f9bb9d",
@@ -19651,8 +19586,8 @@
     "imdbId": "tt37250830",
     "name": "Magic Mushrooms",
     "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BMWQzY2NiMjEtYTcyYi00M2M3LWFjNmUtNWRiMTZjNDcwNjg2XkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BMWQzY2NiMjEtYTcyYi00M2M3LWFjNmUtNWRiMTZjNDcwNjg2XkEyXkFqcGc@._V1_SX250.jpg"
+    "poster": "https://images.metahub.space/poster/small/tt37250830/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt37250830/img"
   },
   {
     "id": "16946a40093d3675ceb76809b515de29",
@@ -19729,8 +19664,8 @@
     "imdbId": "tt30691214",
     "name": "Forbidden Fruits",
     "year": 1932,
-    "poster": "https://m.media-amazon.com/images/M/MV5BMDA1MDRhOTAtMmFjNi00MmUwLWI4MjYtY2ExN2U0YmYwMmQwXkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BMDA1MDRhOTAtMmFjNi00MmUwLWI4MjYtY2ExN2U0YmYwMmQwXkEyXkFqcGc@._V1_SX250.jpg"
+    "poster": "https://images.metahub.space/poster/small/tt30691214/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt30691214/img"
   },
   {
     "id": "c4f3e9906ba378e2e4fffcc735b342ab",
@@ -19771,18 +19706,7 @@
       "Tamil",
       "Hindi",
       "Multi-Lang"
-    ],
-    "imdbId": "tt28096092",
-    "name": "Transmorphers: Mech Beasts",
-    "year": "2023",
-    "poster": "https://images.metahub.space/poster/small/tt28096092/img",
-    "thumbnail": "https://images.metahub.space/poster/small/tt28096092/img",
-    "genres": [
-      "Action",
-      "Sci-Fi"
-    ],
-    "description": "20 years after the events of TRANSMORPHERS, a newer, more advanced species of alien robot descends on a rebuilt Earth, threatening once again to destroy the planet.",
-    "imdbRating": "2.2"
+    ]
   },
   {
     "id": "bc4ef6877e320af868700f694a4f5587",
@@ -20032,8 +19956,8 @@
     "imdbId": "tt35712605",
     "name": "G.D.N.",
     "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BODkxZWQ5OTktYjE3OC00YmUwLThlZTQtMmE1N2U2ZDgzZTM5XkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BODkxZWQ5OTktYjE3OC00YmUwLThlZTQtMmE1N2U2ZDgzZTM5XkEyXkFqcGc@._V1_SX250.jpg"
+    "poster": "https://images.metahub.space/poster/small/tt35712605/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt35712605/img"
   },
   {
     "id": "29c33bb94fa856871719063cd2f6a5ff",
@@ -20105,8 +20029,8 @@
     "imdbId": "tt40706424",
     "name": "Arulvaan",
     "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BNjdhYjcyMmMtMGViNC00YTAyLTkzNDUtODBmNzc1OWNkNjJkXkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BNjdhYjcyMmMtMGViNC00YTAyLTkzNDUtODBmNzc1OWNkNjJkXkEyXkFqcGc@._V1_SX250.jpg"
+    "poster": "https://images.metahub.space/poster/small/tt40706424/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt40706424/img"
   },
   {
     "id": "4b92db7ba7b273d035391b22ce9e928f",
@@ -20191,8 +20115,8 @@
     "imdbId": "tt2229842",
     "name": "Table No. 21",
     "year": 2013,
-    "poster": "https://m.media-amazon.com/images/M/MV5BZDEwOThkNTctZjQ4OS00OGVhLWFkMWEtNTJhNDYyODc4Zjc3XkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BZDEwOThkNTctZjQ4OS00OGVhLWFkMWEtNTJhNDYyODc4Zjc3XkEyXkFqcGc@._V1_SX250.jpg"
+    "poster": "https://images.metahub.space/poster/small/tt2229842/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt2229842/img"
   },
   {
     "id": "83381c6a24dc234d7542ea6884648f27",
@@ -20287,18 +20211,10 @@
       "Multi-Lang"
     ],
     "imdbId": "tt1156466",
-    "name": "Undisputed 3: Redemption",
-    "year": "2010",
+    "name": "Undisputed III: Redemption",
+    "year": 2010,
     "poster": "https://images.metahub.space/poster/small/tt1156466/img",
-    "thumbnail": "https://images.metahub.space/poster/small/tt1156466/img",
-    "genres": [
-      "Action",
-      "Crime",
-      "Drama",
-      "Sport"
-    ],
-    "description": "Boyka is back. This time he is fighting in the first ever inter-prison tournament with one knee.",
-    "imdbRating": "7.4"
+    "thumbnail": "https://images.metahub.space/poster/small/tt1156466/img"
   },
   {
     "id": "d4edf3677d3e574bc83bdb38d6065fa2",
@@ -20340,16 +20256,11 @@
       "Hindi",
       "Multi-Lang"
     ],
-    "imdbId": "tt7516468",
-    "name": "A Company of Heroes",
-    "year": "2012",
-    "poster": "https://images.metahub.space/poster/small/tt7516468/img",
-    "thumbnail": "https://images.metahub.space/poster/small/tt7516468/img",
-    "genres": [
-      "Documentary"
-    ],
-    "description": "They were the \"other\" Band of Brothers. A Company of Heroes features interviews with many of the men not focused on in the book \"Band of Brothers\" by Stephen Ambrose or in the television mini-series by the same name. Never before ...",
-    "imdbRating": "7.8"
+    "imdbId": "tt2371486",
+    "name": "A Company Man",
+    "year": 2012,
+    "poster": "https://images.metahub.space/poster/small/tt2371486/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt2371486/img"
   },
   {
     "id": "6d07adc5abefda7741b76aef87a6cd37",
@@ -20559,8 +20470,8 @@
     "imdbId": "tt32474264",
     "name": "Korean Kanakaraju",
     "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BM2Q3NzY4MGQtYzMwMy00YTg2LWI1MGItYjU4ODI5YTNhYmFlXkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BM2Q3NzY4MGQtYzMwMy00YTg2LWI1MGItYjU4ODI5YTNhYmFlXkEyXkFqcGc@._V1_SX250.jpg"
+    "poster": "https://images.metahub.space/poster/small/tt32474264/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt32474264/img"
   },
   {
     "id": "3ebcd3cc58f3b0243b69fc0fcab3ec05",
@@ -20709,8 +20620,8 @@
     "imdbId": "tt38286171",
     "name": "Unmadham",
     "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BYWYyMWY4ZmEtNjI4Ny00Mjg0LWJlNGYtN2JhNzdmZWY0ZjUxXkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BYWYyMWY4ZmEtNjI4Ny00Mjg0LWJlNGYtN2JhNzdmZWY0ZjUxXkEyXkFqcGc@._V1_SX250.jpg"
+    "poster": "https://images.metahub.space/poster/small/tt38286171/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt38286171/img"
   },
   {
     "id": "0a82f93eb9244a1ecaf96222bcfafc40",
@@ -20856,8 +20767,8 @@
     "imdbId": "tt33083436",
     "name": "Ananthan Kaadu",
     "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BMzc5ZDNlZjgtN2Y2Yi00YjI1LTkxMDktYmRiNGE0Y2I2OWJlXkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BMzc5ZDNlZjgtN2Y2Yi00YjI1LTkxMDktYmRiNGE0Y2I2OWJlXkEyXkFqcGc@._V1_SX250.jpg"
+    "poster": "https://images.metahub.space/poster/small/tt33083436/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt33083436/img"
   },
   {
     "id": "b502514ac70d2e8ab07a401f970276b8",
@@ -20933,7 +20844,12 @@
       "Tamil",
       "Hindi",
       "Multi-Lang"
-    ]
+    ],
+    "imdbId": "tt37520553",
+    "name": "President Down",
+    "year": 2025,
+    "poster": "https://images.metahub.space/poster/small/tt37520553/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt37520553/img"
   },
   {
     "id": "afeefc55d976dd5d3c3c16c18ce31b12",
@@ -20964,16 +20880,11 @@
       "Hindi",
       "Multi-Lang"
     ],
-    "imdbId": "tt5245942",
-    "name": "The Trolls",
-    "year": "2016",
-    "poster": "https://images.metahub.space/poster/small/tt5245942/img",
-    "thumbnail": "https://images.metahub.space/poster/small/tt5245942/img",
-    "genres": [
-      "Comedy"
-    ],
-    "description": "A Texas tech start-up breaks every crowdfunding record in the books, but they lose it all when a patent troll shuts them down. Refusing to go down without a fight, our heroes use a legal loophole to beat the trolls at their own ga...",
-    "imdbRating": "5.9"
+    "imdbId": "tt1679335",
+    "name": "Trolls",
+    "year": 2016,
+    "poster": "https://images.metahub.space/poster/small/tt1679335/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt1679335/img"
   },
   {
     "id": "4a5c08ebab7dcc8432868c211dee3cb9",
@@ -21012,8 +20923,8 @@
     "imdbId": "tt27548557",
     "name": "Dhamaal 4",
     "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BNTI2YTA2YzktMGUwOS00Njk3LWE0M2MtNDE4YTljNDdjNjNlXkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BNTI2YTA2YzktMGUwOS00Njk3LWE0M2MtNDE4YTljNDdjNjNlXkEyXkFqcGc@._V1_SX250.jpg"
+    "poster": "https://images.metahub.space/poster/small/tt27548557/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt27548557/img"
   },
   {
     "id": "c19f81aea6e1c6dd76a2d133bc92ec95",
@@ -21126,8 +21037,8 @@
     "imdbId": "tt33354945",
     "name": "Gandhari",
     "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BNTc0OTFmMmYtZDk2Mi00NTQyLWJiM2EtY2UwNWY0NDRkNTIxXkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BNTc0OTFmMmYtZDk2Mi00NTQyLWJiM2EtY2UwNWY0NDRkNTIxXkEyXkFqcGc@._V1_SX250.jpg"
+    "poster": "https://images.metahub.space/poster/small/tt33354945/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt33354945/img"
   },
   {
     "id": "0af1eb22731df625fd13df2b680d3a06",
@@ -21268,8 +21179,8 @@
     "imdbId": "tt34564059",
     "name": "The Runner",
     "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BYzgzYzVhY2QtNjIzNi00Zjk5LWE1ZmQtYmJkNGY3YmExNDdlXkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BYzgzYzVhY2QtNjIzNi00Zjk5LWE1ZmQtYmJkNGY3YmExNDdlXkEyXkFqcGc@._V1_SX250.jpg"
+    "poster": "https://images.metahub.space/poster/small/tt34564059/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt34564059/img"
   },
   {
     "id": "c358c5ea53ed0bb622382c47e0061c95",
@@ -21308,8 +21219,8 @@
     "imdbId": "tt8665778",
     "name": "Kaa: The Forest",
     "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BMWVmNGVmNDYtOGU0NC00MTY1LThlOWUtNTg1ZjhkYjJlODM5XkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BMWVmNGVmNDYtOGU0NC00MTY1LThlOWUtNTg1ZjhkYjJlODM5XkEyXkFqcGc@._V1_SX250.jpg"
+    "poster": "https://images.metahub.space/poster/small/tt8665778/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt8665778/img"
   },
   {
     "id": "bb9ff5a2f432c4019a4fd40325f8ad6f",
@@ -21535,7 +21446,12 @@
       "Tamil",
       "Hindi",
       "Multi-Lang"
-    ]
+    ],
+    "imdbId": "tt0425061",
+    "name": "Get Smart",
+    "year": 2008,
+    "poster": "https://images.metahub.space/poster/small/tt0425061/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt0425061/img"
   },
   {
     "id": "d10ea48dc129099bf90a0046537b2f18",
@@ -21655,8 +21571,8 @@
     "imdbId": "tt0892874",
     "name": "Halla Bol",
     "year": 2008,
-    "poster": "https://m.media-amazon.com/images/M/MV5BZDAzYjI2NWEtYmFhMC00MWUyLThhY2QtNWQ5YzE5MmYyNDE3XkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BZDAzYjI2NWEtYmFhMC00MWUyLThhY2QtNWQ5YzE5MmYyNDE3XkEyXkFqcGc@._V1_SX250.jpg"
+    "poster": "https://images.metahub.space/poster/small/tt0892874/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt0892874/img"
   },
   {
     "id": "49ca16d560e0a1b677c1640911066f7f",
@@ -21867,8 +21783,8 @@
     "imdbId": "tt34545743",
     "name": "Godari Gattupaina",
     "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BOTcxNTRhMTItN2YzNS00ODhmLWIzODUtNTFiNmU1Yzg3Njc1XkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BOTcxNTRhMTItN2YzNS00ODhmLWIzODUtNTFiNmU1Yzg3Njc1XkEyXkFqcGc@._V1_SX250.jpg"
+    "poster": "https://images.metahub.space/poster/small/tt34545743/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt34545743/img"
   },
   {
     "id": "2259e6ba6bf22427a0a28ccb347f22c4",
@@ -21916,8 +21832,8 @@
     "imdbId": "tt29262075",
     "name": "Monster Island",
     "year": 2025,
-    "poster": "https://m.media-amazon.com/images/M/MV5BMGRmYjNlNjMtMzIxOS00ZDY2LTk5NjAtZTQ2MGZlNWJjZDViXkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BMGRmYjNlNjMtMzIxOS00ZDY2LTk5NjAtZTQ2MGZlNWJjZDViXkEyXkFqcGc@._V1_SX250.jpg"
+    "poster": "https://images.metahub.space/poster/small/tt29262075/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt29262075/img"
   },
   {
     "id": "0019c0008b44b5a6620305ee41a9071b",
@@ -21962,8 +21878,8 @@
     "imdbId": "tt26658360",
     "name": "DC Down",
     "year": 2023,
-    "poster": "https://m.media-amazon.com/images/M/MV5BZmU0YWE2ODctZjAzMC00NzUzLTgwZWMtMDE3ZjU2NjRkYzM4XkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BZmU0YWE2ODctZjAzMC00NzUzLTgwZWMtMDE3ZjU2NjRkYzM4XkEyXkFqcGc@._V1_SX250.jpg"
+    "poster": "https://images.metahub.space/poster/small/tt26658360/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt26658360/img"
   },
   {
     "id": "4789a72364c302c07c38c91a6631f5b8",
@@ -22013,8 +21929,8 @@
     "imdbId": "tt37174734",
     "name": "Angikaaram",
     "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BMjI4MjAyOWYtYjJjNS00YzQzLWI0YWItZDQyMDFmYzRkYjRiXkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BMjI4MjAyOWYtYjJjNS00YzQzLWI0YWItZDQyMDFmYzRkYjRiXkEyXkFqcGc@._V1_SX250.jpg"
+    "poster": "https://images.metahub.space/poster/small/tt37174734/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt37174734/img"
   },
   {
     "id": "943bc40018a7279b4b3a52e7683167aa",
@@ -22121,8 +22037,8 @@
     "imdbId": "tt39300072",
     "name": "Anbe Diana",
     "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BMDg3NGQ0MGQtMWI2Ny00YjE3LTgxNzctZjJjZDVkMmQ5NzFlXkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BMDg3NGQ0MGQtMWI2Ny00YjE3LTgxNzctZjJjZDVkMmQ5NzFlXkEyXkFqcGc@._V1_SX250.jpg"
+    "poster": "https://images.metahub.space/poster/small/tt39300072/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt39300072/img"
   },
   {
     "id": "d455ab9b0dd0a92cbf55150ca83f409f",
@@ -22413,8 +22329,8 @@
     "imdbId": "tt39818587",
     "name": "Newton's 3rd Law",
     "year": 2026,
-    "poster": "https://m.media-amazon.com/images/M/MV5BNzcwNTIyOTctNjFiMi00Yjk3LWI0MmItMTFkODMwNmE4NDRjXkEyXkFqcGc@._V1_SX250.jpg",
-    "thumbnail": "https://m.media-amazon.com/images/M/MV5BNzcwNTIyOTctNjFiMi00Yjk3LWI0MmItMTFkODMwNmE4NDRjXkEyXkFqcGc@._V1_SX250.jpg"
+    "poster": "https://images.metahub.space/poster/small/tt39818587/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt39818587/img"
   },
   {
     "id": "77e58c87b612df580ec543fc533bd76e",
