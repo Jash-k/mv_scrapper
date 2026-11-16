@@ -2,28 +2,28 @@
  "streams": [
   {
    "title": "1080p • MoviesDa",
-   "url": "https://api.5a4a40ed2b55cf97fd7bf598ab40ae72.r2.cloudflarestorage.com/Moviesda.Mobi_-_The_Grandmaster_2026_Original_1080p_HD.mp4?response-content-disposition=attachment%3B%20filename%3D%22Moviesda.Mobi_-_The_Grandmaster_2026_Original_1080p_HD.mp4%22&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=dc771f1df4495bfae12cf86b2fdcfb97%2F20261116%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20261116T040404Z&X-Amz-SignedHeaders=host&X-Amz-Expires=172800&X-Amz-Signature=9c00ca11c20b8f9dc8e00b8c03c492c6693761a4ca79869050b7b5869ce45289",
+   "url": "https://md0.ddd4e6375c4ccc2c2b37f71c5ff555a5.r2.cloudflarestorage.com/Moviesda.Mobi_-_The_Grandmaster_2026_Original_1080p_HD.mp4?response-content-disposition=attachment%3B%20filename%3D%22Moviesda.Mobi_-_The_Grandmaster_2026_Original_1080p_HD.mp4%22&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ab9a9407454977c1f0e6cbb0e5a749e1%2F20261116%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20261116T055921Z&X-Amz-SignedHeaders=host&X-Amz-Expires=172800&X-Amz-Signature=e825448166df02ff8025d40b2038e37001b7b75698919533720cc59e334960b8",
    "behaviorHints": {
     "notProxy": true
    }
   },
   {
    "title": "1080p • MoviesDa",
-   "url": "https://api.5a4a40ed2b55cf97fd7bf598ab40ae72.r2.cloudflarestorage.com/Moviesda.Mobi_-_The_Grandmaster_2026_Original_1080p_HD_%283.4_GB%29.mp4?response-content-disposition=attachment%3B%20filename%3D%22Moviesda.Mobi_-_The_Grandmaster_2026_Original_1080p_HD_%283.4_GB%29.mp4%22&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=dc771f1df4495bfae12cf86b2fdcfb97%2F20261116%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20261116T040408Z&X-Amz-SignedHeaders=host&X-Amz-Expires=172800&X-Amz-Signature=929fdfe12e07b1f979e6f939acc8fd51b26ee474d3ba737920faa00d5470cc44",
+   "url": "https://app.kollybytes.xyz/Moviesda.Mobi_-_The_Grandmaster_2026_Original_1080p_HD_(3.4_GB).mp4?htag=8647fb795f3ea0f65b0745476e122f36e6a65638f7b3bf863f81589b352875a9&etag=1794808767&ztag=a3671ca6eb04b453975eb4cab8ff3a8f32667fd4f20a1ad12def6919266ea00c",
    "behaviorHints": {
     "notProxy": true
    }
   },
   {
    "title": "720p • MoviesDa",
-   "url": "https://api.5a4a40ed2b55cf97fd7bf598ab40ae72.r2.cloudflarestorage.com/Moviesda.Mobi_-_The_Grandmaster_2026_Original_720p_HD_%28950_MB%29.mp4?response-content-disposition=attachment%3B%20filename%3D%22Moviesda.Mobi_-_The_Grandmaster_2026_Original_720p_HD_%28950_MB%29.mp4%22&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=dc771f1df4495bfae12cf86b2fdcfb97%2F20261116%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20261116T040413Z&X-Amz-SignedHeaders=host&X-Amz-Expires=172800&X-Amz-Signature=90056b7100fd05371bcab2f0f9637e23c261ce13bac764e2270ba03d02640003",
+   "url": "https://app.kollybytes.xyz/Moviesda.Mobi_-_The_Grandmaster_2026_Original_720p_HD_(950_MB).mp4?htag=1491430ea4d616b1c9d87aac62cc9355c13657018e6f37f3e2cd8705a325274a&etag=1794808775&ztag=8042b4d448fb5aa379ac4ddf802c9e67bb11491480cd05009ed28f4ea51f40e3",
    "behaviorHints": {
     "notProxy": true
    }
   },
   {
    "title": "720p • MoviesDa",
-   "url": "https://api.5a4a40ed2b55cf97fd7bf598ab40ae72.r2.cloudflarestorage.com/Moviesda.Mobi_-_The_Grandmaster_2026_Original_720p_HD.mp4?response-content-disposition=attachment%3B%20filename%3D%22Moviesda.Mobi_-_The_Grandmaster_2026_Original_720p_HD.mp4%22&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=dc771f1df4495bfae12cf86b2fdcfb97%2F20261116%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20261116T040416Z&X-Amz-SignedHeaders=host&X-Amz-Expires=172800&X-Amz-Signature=6fa830a61bedad42ade6366cd69a61e9ec797e8564fef4927f07eaf07cfba478",
+   "url": "https://api.5a4a40ed2b55cf97fd7bf598ab40ae72.r2.cloudflarestorage.com/Moviesda.Mobi_-_The_Grandmaster_2026_Original_720p_HD.mp4?response-content-disposition=attachment%3B%20filename%3D%22Moviesda.Mobi_-_The_Grandmaster_2026_Original_720p_HD.mp4%22&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=dc771f1df4495bfae12cf86b2fdcfb97%2F20261116%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20261116T055940Z&X-Amz-SignedHeaders=host&X-Amz-Expires=172800&X-Amz-Signature=fe36358003c7131b62764e4c90e57d9cc074f10859689a8c2462baf99d10911a",
    "behaviorHints": {
     "notProxy": true
    }
