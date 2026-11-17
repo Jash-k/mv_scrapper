@@ -2,28 +2,28 @@
  "streams": [
   {
    "title": "1080p • MoviesDa",
-   "url": "https://api.5a4a40ed2b55cf97fd7bf598ab40ae72.r2.cloudflarestorage.com/Moviesda.Mobi_-_Vibe_2026_Original_1080p_HD_%283.3_GB%29.mp4?response-content-disposition=attachment%3B%20filename%3D%22Moviesda.Mobi_-_Vibe_2026_Original_1080p_HD_%283.3_GB%29.mp4%22&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=dc771f1df4495bfae12cf86b2fdcfb97%2F20261117%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20261117T055458Z&X-Amz-SignedHeaders=host&X-Amz-Expires=172800&X-Amz-Signature=7ce8f7e5738fb7f2b94be43bd5cb57e479e27bf9a64735cc42710fddf5375b61",
+   "url": "https://app.kollybytes.xyz/Moviesda.Mobi_-_Vibe_2026_Original_1080p_HD_(3.3_GB).mp4?htag=fcba49dbf7e53b52303a9af11d06891f1c3ed0156a253b07af96419190cf5010&etag=1794916510&ztag=8fb70f79f95916c78179d65f7b338b294189a624f519d6be3710c9dc2cf713f4",
    "behaviorHints": {
     "notProxy": true
    }
   },
   {
    "title": "1080p • MoviesDa",
-   "url": "https://md0.ddd4e6375c4ccc2c2b37f71c5ff555a5.r2.cloudflarestorage.com/Moviesda.Mobi_-_Vibe_2026_Original_1080p_HD.mp4?response-content-disposition=attachment%3B%20filename%3D%22Moviesda.Mobi_-_Vibe_2026_Original_1080p_HD.mp4%22&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ab9a9407454977c1f0e6cbb0e5a749e1%2F20261117%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20261117T055503Z&X-Amz-SignedHeaders=host&X-Amz-Expires=172800&X-Amz-Signature=753a5873e1231e00b0cc6816f9dd8b45bcb5c6e8542ced9d53e4ee9e159ba41d",
+   "url": "https://fastspot.fa5a10fde41b12986512801a600ce280.r2.cloudflarestorage.com/Moviesda.Mobi_-_Vibe_2026_Original_1080p_HD.mp4?response-content-disposition=attachment%3B%20filename%3D%22Moviesda.Mobi_-_Vibe_2026_Original_1080p_HD.mp4%22&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=81db46c88a0391c9219abfd7fe69f5b5%2F20261117%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20261117T115515Z&X-Amz-SignedHeaders=host&X-Amz-Expires=172800&X-Amz-Signature=fdec5ec1c7ab9ca16f1e242a9f45fa990eb28bb59f9a9bc33c43707cd7c25108",
    "behaviorHints": {
     "notProxy": true
    }
   },
   {
    "title": "720p • MoviesDa",
-   "url": "https://web.skyvault-assets.xyz/Moviesda.Mobi_-_Vibe_2026_Original_720p_HD.mp4?htag=9291b80e5e66013ad009528d5b87e052f8da957183bc85a2454b184462e17419&etag=1794894912&ztag=400cf642660e9492335cb68f16f5df0414f7a5341386f1cc1800d57b529b3cb1",
+   "url": "https://md0.ddd4e6375c4ccc2c2b37f71c5ff555a5.r2.cloudflarestorage.com/Moviesda.Mobi_-_Vibe_2026_Original_720p_HD.mp4?response-content-disposition=attachment%3B%20filename%3D%22Moviesda.Mobi_-_Vibe_2026_Original_720p_HD.mp4%22&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ab9a9407454977c1f0e6cbb0e5a749e1%2F20261117%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20261117T115524Z&X-Amz-SignedHeaders=host&X-Amz-Expires=172800&X-Amz-Signature=184d9e0cd01f4204387f025c437731530e0b8b25e88df46d869b4de906b76d54",
    "behaviorHints": {
     "notProxy": true
    }
   },
   {
    "title": "720p • MoviesDa",
-   "url": "https://app.kollybytes.xyz/Moviesda.Mobi_-_Vibe_2026_Original_720p_HD_(600_MB).mp4?htag=20dcb63a6bc09e2f734ce17388d41f1698ffc5957bf7b4ac978bc7eb5639dffc&etag=1794894917&ztag=6522f8975c319c074b59408ce1bd96c1797b7f8b9bd4f1e66eb60f7f566b3b85",
+   "url": "https://app.kollybytes.xyz/Moviesda.Mobi_-_Vibe_2026_Original_720p_HD_(600_MB).mp4?htag=3e486036e55ad2ac624c2c196126b6b5c52131bb45d3124a879a0c4f714a6b64&etag=1794916529&ztag=29cf6b7567fdc8f24bd3475796e17da5f2860867aab94f7f9d55b8ce1d62a823",
    "behaviorHints": {
     "notProxy": true
    }
