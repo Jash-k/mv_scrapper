@@ -2,14 +2,14 @@
  "streams": [
   {
    "title": "1080p • MoviesDa",
-   "url": "https://md0.ddd4e6375c4ccc2c2b37f71c5ff555a5.r2.cloudflarestorage.com/Moviesda.Mobi_-_Adaikalam_2026_Original_1080p_HD_%281.5_GB%29.mp4?response-content-disposition=attachment%3B%20filename%3D%22Moviesda.Mobi_-_Adaikalam_2026_Original_1080p_HD_%281.5_GB%29.mp4%22&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ab9a9407454977c1f0e6cbb0e5a749e1%2F20261117%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20261117T115726Z&X-Amz-SignedHeaders=host&X-Amz-Expires=172800&X-Amz-Signature=b66e237390ae59b83a6ab3fd602898d9894b0666b9628eb8c42d24592eaf9cbf",
+   "url": "https://md0.ddd4e6375c4ccc2c2b37f71c5ff555a5.r2.cloudflarestorage.com/Moviesda.Mobi_-_Adaikalam_2026_Original_1080p_HD_%281.5_GB%29.mp4?response-content-disposition=attachment%3B%20filename%3D%22Moviesda.Mobi_-_Adaikalam_2026_Original_1080p_HD_%281.5_GB%29.mp4%22&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ab9a9407454977c1f0e6cbb0e5a749e1%2F20261117%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20261117T171932Z&X-Amz-SignedHeaders=host&X-Amz-Expires=172800&X-Amz-Signature=3e85a3a2db45cb6fbe62fb1dab86eb996d66b506c9d59da6aab541aee12e9637",
    "behaviorHints": {
     "notProxy": true
    }
   },
   {
    "title": "720p • MoviesDa",
-   "url": "https://fastspot.fa5a10fde41b12986512801a600ce280.r2.cloudflarestorage.com/Moviesda.Mobi_-_Adaikalam_2026_Original_720p_HD.mp4?response-content-disposition=attachment%3B%20filename%3D%22Moviesda.Mobi_-_Adaikalam_2026_Original_720p_HD.mp4%22&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=81db46c88a0391c9219abfd7fe69f5b5%2F20261117%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20261117T115735Z&X-Amz-SignedHeaders=host&X-Amz-Expires=172800&X-Amz-Signature=c6bdcd0729cd09b6ceb954122a1c0cb8056c7bf43c76b7dd25b3fdaaf5823c86",
+   "url": "https://md0.ddd4e6375c4ccc2c2b37f71c5ff555a5.r2.cloudflarestorage.com/Moviesda.Mobi_-_Adaikalam_2026_Original_720p_HD.mp4?response-content-disposition=attachment%3B%20filename%3D%22Moviesda.Mobi_-_Adaikalam_2026_Original_720p_HD.mp4%22&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ab9a9407454977c1f0e6cbb0e5a749e1%2F20261117%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20261117T171941Z&X-Amz-SignedHeaders=host&X-Amz-Expires=172800&X-Amz-Signature=7e30b063ad81345de9be0879976d1aa5869f605092928832693e86c23551e7dc",
    "behaviorHints": {
     "notProxy": true
    }
