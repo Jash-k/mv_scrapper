@@ -1,0 +1,25 @@
+{
+ "streams": [
+  {
+   "title": "1080p • MoviesDa",
+   "url": "https://fastspot.fa5a10fde41b12986512801a600ce280.r2.cloudflarestorage.com/Moviesda.Mobi_-_Premada_Oorali_2026_Original_1080p_HD.mp4?response-content-disposition=attachment%3B%20filename%3D%22Moviesda.Mobi_-_Premada_Oorali_2026_Original_1080p_HD.mp4%22&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=81db46c88a0391c9219abfd7fe69f5b5%2F20261116%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20261116T235244Z&X-Amz-SignedHeaders=host&X-Amz-Expires=172800&X-Amz-Signature=e0d82aeb746ab5f2dba0ba19013afc2f055f971f2590d62b0a0ee120deb812c4",
+   "behaviorHints": {
+    "notProxy": true
+   }
+  },
+  {
+   "title": "720p • MoviesDa",
+   "url": "https://app.kollybytes.xyz/Moviesda.Mobi_-_Premada_Oorali_2026_Original_720p_HD_(950_MB).mp4?htag=9557b3e84b8684d44486bc310b228b7f8c5dd1368d166c77dd342800e0cb9770&etag=1794873176&ztag=d1b9aa8a7f14314ce21bf547385c74a806287678a567ff41ddb0c4f70f8189bb",
+   "behaviorHints": {
+    "notProxy": true
+   }
+  },
+  {
+   "title": "720p • MoviesDa",
+   "url": "https://api.5a4a40ed2b55cf97fd7bf598ab40ae72.r2.cloudflarestorage.com/Moviesda.Mobi_-_Premada_Oorali_2026_Original_720p_HD.mp4?response-content-disposition=attachment%3B%20filename%3D%22Moviesda.Mobi_-_Premada_Oorali_2026_Original_720p_HD.mp4%22&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=dc771f1df4495bfae12cf86b2fdcfb97%2F20261116%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20261116T235302Z&X-Amz-SignedHeaders=host&X-Amz-Expires=172800&X-Amz-Signature=50bc48b8fb721c1a31f6d3d86ce06ecebe65a707dcada8747435b1b6c4157ea6",
+   "behaviorHints": {
+    "notProxy": true
+   }
+  }
+ ]
+}

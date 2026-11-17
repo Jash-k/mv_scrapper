@@ -1,6 +1,13 @@
 {
  "metas": [
   {
+   "id": "moviesda:premada-oorali-2026",
+   "type": "movie",
+   "name": "Premada Oorali",
+   "poster": "",
+   "releaseInfo": "2026"
+  },
+  {
    "id": "moviesda:john-doe-2026",
    "type": "movie",
    "name": "John Doe",
@@ -102,13 +109,6 @@
    "id": "moviesda:nooru-kodi-vaanavil-2026",
    "type": "movie",
    "name": "Nooru Kodi Vaanavil",
-   "poster": "",
-   "releaseInfo": "2026"
-  },
-  {
-   "id": "moviesda:7-star-boys-2026",
-   "type": "movie",
-   "name": "7 Star Boys",
    "poster": "",
    "releaseInfo": "2026"
   },
