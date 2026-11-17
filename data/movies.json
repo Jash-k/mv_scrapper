@@ -162,11 +162,11 @@
     "languages": [
       "Tamil"
     ],
-    "imdbId": "tt0033891",
-    "name": "Meet John Doe",
+    "imdbId": "tt49855692",
+    "name": "John Doe",
     "year": 2026,
-    "poster": "https://images.metahub.space/poster/small/tt0033891/img",
-    "thumbnail": "https://images.metahub.space/poster/small/tt0033891/img"
+    "poster": "https://images.metahub.space/poster/small/tt49855692/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt49855692/img"
   },
   {
     "id": "b2ebe969781b5b1384db1f27bc49b291",
@@ -4030,11 +4030,11 @@
       "Hindi",
       "Multi-Lang"
     ],
-    "imdbId": "tt6410564",
+    "imdbId": "tt27512908",
     "name": "The Third Murder",
     "year": 2026,
-    "poster": "https://images.metahub.space/poster/small/tt6410564/img",
-    "thumbnail": "https://images.metahub.space/poster/small/tt6410564/img"
+    "poster": "https://images.metahub.space/poster/small/tt27512908/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt27512908/img"
   },
   {
     "id": "96779c9c0d02b04156bf2c3cbb3bb0c7",
@@ -4128,11 +4128,11 @@
       "Hindi",
       "Multi-Lang"
     ],
-    "imdbId": "tt0082508",
+    "imdbId": "tt38213251",
     "name": "Heartland",
     "year": 2026,
-    "poster": "https://images.metahub.space/poster/small/tt0082508/img",
-    "thumbnail": "https://images.metahub.space/poster/small/tt0082508/img"
+    "poster": "https://images.metahub.space/poster/small/tt38213251/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt38213251/img"
   },
   {
     "id": "6692a853dfca6c6be504fc2e22c77baa",
@@ -13103,6 +13103,17 @@
         "leechers": 10
       },
       {
+        "quality": "1080p AVC",
+        "size": "3.3GB",
+        "type": "magnet",
+        "url": "magnet:?xt=urn:btih:eb968958c70678312631ff5069f33b0404e8a158&dn=www.1TamilMV.capital%20-%20Toxic%20%282026%29%20Hindi%20HDRip%20-%201080p%20-%20x264%20-%20HQ%20Clean%20-%20AAC%20-%203.3GB.mkv&xl=3610374089&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Ftracker.dler.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=https%3A%2F%2Ftracker.moeblog.cn%3A443%2Fannounce&tr=udp%3A%2F%2Fopen.dstud.io%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.srv00.com%3A6969%2Fannounce&tr=https%3A%2F%2Ftracker.zhuqiy.com%3A443%2Fannounce&tr=https%3A%2F%2Ftracker.pmman.tech%3A443%2Fannounce&tr=udp%3A%2F%2Ftracker.publictracker.xyz%3A6969%2Fannounce&tr=http%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.wildkat.net%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.qu.ax%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.peerfect.org%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.opentorrent.top%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.filemail.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Fexplodie.org%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.filebase.online%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.moeking.me%3A6969%2Fannounce&tr=udp%3A%2F%2Fp4p.arenabg.com%3A1337%2Fannounce",
+        "languages": [
+          "Hindi"
+        ],
+        "seeders": 100,
+        "leechers": 10
+      },
+      {
         "quality": "720p AVC",
         "size": "1.7GB",
         "type": "magnet",
@@ -13164,6 +13175,17 @@
         "url": "magnet:?xt=urn:btih:2c6187446b053d3df8bce7f380f470a38d5e5aff&dn=www.1TamilMV.capital%20-%20Toxic%20%282026%29%20Telugu%20HDRip%20-%20720p%20-%20x265%20-%20HEVC%20-%20HQ%20Clean%20-%20AAC%20-%201GB.mkv&xl=1330914511&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Ftracker.dler.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=https%3A%2F%2Ftracker.moeblog.cn%3A443%2Fannounce&tr=udp%3A%2F%2Fopen.dstud.io%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.srv00.com%3A6969%2Fannounce&tr=https%3A%2F%2Ftracker.zhuqiy.com%3A443%2Fannounce&tr=https%3A%2F%2Ftracker.pmman.tech%3A443%2Fannounce&tr=udp%3A%2F%2Ftracker.publictracker.xyz%3A6969%2Fannounce&tr=http%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.wildkat.net%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.qu.ax%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.peerfect.org%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.opentorrent.top%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.filemail.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Fexplodie.org%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.filebase.online%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.moeking.me%3A6969%2Fannounce&tr=udp%3A%2F%2Fp4p.arenabg.com%3A1337%2Fannounce",
         "languages": [
           "Telugu"
+        ],
+        "seeders": 100,
+        "leechers": 10
+      },
+      {
+        "quality": "720p AVC",
+        "size": "1.8GB",
+        "type": "magnet",
+        "url": "magnet:?xt=urn:btih:c5c11fb3ea6e743012e19805c28e7df89ed32003&dn=www.1TamilMV.capital%20-%20Toxic%20%282026%29%20Hindi%20HDRip%20-%20720p%20-%20x264%20-%20HQ%20Clean%20-%20AAC%20-%201.8GB.mkv&xl=1961593084&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Ftracker.dler.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=https%3A%2F%2Ftracker.moeblog.cn%3A443%2Fannounce&tr=udp%3A%2F%2Fopen.dstud.io%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.srv00.com%3A6969%2Fannounce&tr=https%3A%2F%2Ftracker.zhuqiy.com%3A443%2Fannounce&tr=https%3A%2F%2Ftracker.pmman.tech%3A443%2Fannounce&tr=udp%3A%2F%2Ftracker.publictracker.xyz%3A6969%2Fannounce&tr=http%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.com%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.wildkat.net%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.qu.ax%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.peerfect.org%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.opentorrent.top%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.filemail.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Fexplodie.org%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.filebase.online%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.moeking.me%3A6969%2Fannounce&tr=udp%3A%2F%2Fp4p.arenabg.com%3A1337%2Fannounce",
+        "languages": [
+          "Hindi"
         ],
         "seeders": 100,
         "leechers": 10
@@ -13671,11 +13693,11 @@
       "Telugu",
       "Multi-Lang"
     ],
-    "imdbId": "tt1147509",
-    "name": "Doraemon: Nobita and the Castle of the Undersea Devil",
+    "imdbId": "tt38201958",
+    "name": "Doraemon: Nobita and the New Castle of the Undersea Devil",
     "year": 2026,
-    "poster": "https://images.metahub.space/poster/small/tt1147509/img",
-    "thumbnail": "https://images.metahub.space/poster/small/tt1147509/img"
+    "poster": "https://images.metahub.space/poster/small/tt38201958/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt38201958/img"
   },
   {
     "id": "3433cf48725398940bec5e258bb11806",
