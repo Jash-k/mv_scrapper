@@ -2,21 +2,21 @@
  "streams": [
   {
    "title": "1080p • MoviesDa",
-   "url": "https://app.kollybytes.xyz/Ramayana_2026_HQ_PreDVD_1080p_HD.mp4?htag=8df7ae3023120928f3c2738cfdf0f76f53c6d6f58a1367a3a5df4ecd3fb9fb15&etag=1794873613&ztag=8eecc18cf07d0423f58272a814bbb5828de110b4e9a5d5a473df52ea25cbba59",
+   "url": "https://md0.ddd4e6375c4ccc2c2b37f71c5ff555a5.r2.cloudflarestorage.com/Ramayana_2026_HQ_PreDVD_1080p_HD.mp4?response-content-disposition=attachment%3B%20filename%3D%22Ramayana_2026_HQ_PreDVD_1080p_HD.mp4%22&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ab9a9407454977c1f0e6cbb0e5a749e1%2F20261117%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20261117T055904Z&X-Amz-SignedHeaders=host&X-Amz-Expires=172800&X-Amz-Signature=3ed6c108332eb6bcaceb486dccbd37c4a1bcfd999b87bfb31eff3f28eeba1edd",
    "behaviorHints": {
     "notProxy": true
    }
   },
   {
    "title": "720p • MoviesDa",
-   "url": "https://api.5a4a40ed2b55cf97fd7bf598ab40ae72.r2.cloudflarestorage.com/Ramayana_2026_HQ_PreDVD_720p_HD.mp4?response-content-disposition=attachment%3B%20filename%3D%22Ramayana_2026_HQ_PreDVD_720p_HD.mp4%22&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=dc771f1df4495bfae12cf86b2fdcfb97%2F20261117%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20261117T000023Z&X-Amz-SignedHeaders=host&X-Amz-Expires=172800&X-Amz-Signature=ad4ba9be82c2e79bee24fc9003b5b8563240c6c776a399550a6cc9f1469c1153",
+   "url": "https://api.5a4a40ed2b55cf97fd7bf598ab40ae72.r2.cloudflarestorage.com/Ramayana_2026_HQ_PreDVD_720p_HD.mp4?response-content-disposition=attachment%3B%20filename%3D%22Ramayana_2026_HQ_PreDVD_720p_HD.mp4%22&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=dc771f1df4495bfae12cf86b2fdcfb97%2F20261117%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20261117T055912Z&X-Amz-SignedHeaders=host&X-Amz-Expires=172800&X-Amz-Signature=f6672af1b87b37ec3e7a61ad5d68a1d7fdc6d6c509cf248ff5eda5d28db4f865",
    "behaviorHints": {
     "notProxy": true
    }
   },
   {
    "title": "720p • MoviesDa",
-   "url": "https://fastspot.fa5a10fde41b12986512801a600ce280.r2.cloudflarestorage.com/Ramayana_2026_HQ_PreDVD_720p_HD_%28950_MB%29.mp4?response-content-disposition=attachment%3B%20filename%3D%22Ramayana_2026_HQ_PreDVD_720p_HD_%28950_MB%29.mp4%22&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=81db46c88a0391c9219abfd7fe69f5b5%2F20261117%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20261117T000029Z&X-Amz-SignedHeaders=host&X-Amz-Expires=172800&X-Amz-Signature=f9750bf7bf5812e0d3cb58606f4ec86cbaead4737427bd71e2dcc005bbb79729",
+   "url": "https://web.skyvault-assets.xyz/Ramayana_2026_HQ_PreDVD_720p_HD_(950_MB).mp4?htag=91cf2c0516fcc86a9b67cae82901d8c1781040d6ec51beff71a9f03730d86d94&etag=1794895157&ztag=e5028bc0a3da43c49c70f9cbcf2b910f1463bc710874ca2453300f0469b99188",
    "behaviorHints": {
     "notProxy": true
    }
