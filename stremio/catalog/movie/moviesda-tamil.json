@@ -1,6 +1,13 @@
 {
  "metas": [
   {
+   "id": "moviesda:cult-2026",
+   "type": "movie",
+   "name": "Cult",
+   "poster": "",
+   "releaseInfo": "2026"
+  },
+  {
    "id": "moviesda:kiku-chiranjeevi-2026",
    "type": "movie",
    "name": "Kiku Chiranjeevi",
@@ -95,13 +102,6 @@
    "id": "moviesda:ramayana-2026",
    "type": "movie",
    "name": "Ramayana",
-   "poster": "",
-   "releaseInfo": "2026"
-  },
-  {
-   "id": "moviesda:im-game-2026",
-   "type": "movie",
-   "name": "Im Game",
    "poster": "",
    "releaseInfo": "2026"
   },

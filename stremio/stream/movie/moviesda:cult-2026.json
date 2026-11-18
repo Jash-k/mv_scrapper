@@ -1,0 +1,32 @@
+{
+ "streams": [
+  {
+   "title": "1080p • MoviesDa",
+   "url": "https://md0.ddd4e6375c4ccc2c2b37f71c5ff555a5.r2.cloudflarestorage.com/Moviesda.Mobi_-_Cult_2026_Original_1080p_HD_%283.6_GB%29.mp4?response-content-disposition=attachment%3B%20filename%3D%22Moviesda.Mobi_-_Cult_2026_Original_1080p_HD_%283.6_GB%29.mp4%22&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ab9a9407454977c1f0e6cbb0e5a749e1%2F20261118%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20261118T224745Z&X-Amz-SignedHeaders=host&X-Amz-Expires=172800&X-Amz-Signature=42550362b50e558e05e9eb4bf1322757e5a3d2cbd5381d527c03688aaf01d190",
+   "behaviorHints": {
+    "notProxy": true
+   }
+  },
+  {
+   "title": "1080p • MoviesDa",
+   "url": "https://api.5a4a40ed2b55cf97fd7bf598ab40ae72.r2.cloudflarestorage.com/Moviesda.Mobi_-_Cult_2026_Original_1080p_HD.mp4?response-content-disposition=attachment%3B%20filename%3D%22Moviesda.Mobi_-_Cult_2026_Original_1080p_HD.mp4%22&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=dc771f1df4495bfae12cf86b2fdcfb97%2F20261118%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20261118T224748Z&X-Amz-SignedHeaders=host&X-Amz-Expires=172800&X-Amz-Signature=5bf09a8a5ffc8ac49687e781f55b525adc3cb2f502169c714fe74ab9d8eef41e",
+   "behaviorHints": {
+    "notProxy": true
+   }
+  },
+  {
+   "title": "720p • MoviesDa",
+   "url": "https://site.fileraja.click/Moviesda.Mobi_-_Cult_2026_Original_720p_HD_(950_MB).mp4?htag=6cbaaf1a00edefa1b22235e228277d506f7649fce9920c3cc6557b57e1c8ca30&etag=1795042074&ztag=8bd674e20533e90fee15610e796698a8b15571cf48f438de97625702a6c65153",
+   "behaviorHints": {
+    "notProxy": true
+   }
+  },
+  {
+   "title": "720p • MoviesDa",
+   "url": "https://api.5a4a40ed2b55cf97fd7bf598ab40ae72.r2.cloudflarestorage.com/Moviesda.Mobi_-_Cult_2026_Original_720p_HD.mp4?response-content-disposition=attachment%3B%20filename%3D%22Moviesda.Mobi_-_Cult_2026_Original_720p_HD.mp4%22&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=dc771f1df4495bfae12cf86b2fdcfb97%2F20261118%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20261118T224757Z&X-Amz-SignedHeaders=host&X-Amz-Expires=172800&X-Amz-Signature=2d7c734349ade2e87c7b272e4159bb1f74409d288f375b48cf43e50bca57bc8b",
+   "behaviorHints": {
+    "notProxy": true
+   }
+  }
+ ]
+}
