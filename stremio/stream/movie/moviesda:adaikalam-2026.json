@@ -2,14 +2,14 @@
  "streams": [
   {
    "title": "1080p • MoviesDa",
-   "url": "https://fastspot.fa5a10fde41b12986512801a600ce280.r2.cloudflarestorage.com/Moviesda.Mobi_-_Adaikalam_2026_Original_1080p_HD_%281.5_GB%29.mp4?response-content-disposition=attachment%3B%20filename%3D%22Moviesda.Mobi_-_Adaikalam_2026_Original_1080p_HD_%281.5_GB%29.mp4%22&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=81db46c88a0391c9219abfd7fe69f5b5%2F20261119%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20261119T055751Z&X-Amz-SignedHeaders=host&X-Amz-Expires=172800&X-Amz-Signature=63df6a05d4d7f8c0c4f46965419f1612d98d1be0b26e59942ca9be2e2670cf93",
+   "url": "https://web.skyvault-assets.xyz/Moviesda.Mobi_-_Adaikalam_2026_Original_1080p_HD_(1.5_GB).mp4?htag=c622911c1a265a888be524729bbfb28913fe03600518def8b4fd0e0eabc2f061&etag=1795089479&ztag=e24d944cbdfbc9ea2523d2fe4a3a977ba95cf506992c0fd47671bb90ee3c25e6",
    "behaviorHints": {
     "notProxy": true
    }
   },
   {
    "title": "720p • MoviesDa",
-   "url": "https://api.5a4a40ed2b55cf97fd7bf598ab40ae72.r2.cloudflarestorage.com/Moviesda.Mobi_-_Adaikalam_2026_Original_720p_HD.mp4?response-content-disposition=attachment%3B%20filename%3D%22Moviesda.Mobi_-_Adaikalam_2026_Original_720p_HD.mp4%22&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=dc771f1df4495bfae12cf86b2fdcfb97%2F20261119%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20261119T055757Z&X-Amz-SignedHeaders=host&X-Amz-Expires=172800&X-Amz-Signature=adea3b05207f821dc06f302167ba35554f9c14cd235a972f6c7315f38410f8be",
+   "url": "https://api.5a4a40ed2b55cf97fd7bf598ab40ae72.r2.cloudflarestorage.com/Moviesda.Mobi_-_Adaikalam_2026_Original_720p_HD.mp4?response-content-disposition=attachment%3B%20filename%3D%22Moviesda.Mobi_-_Adaikalam_2026_Original_720p_HD.mp4%22&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=dc771f1df4495bfae12cf86b2fdcfb97%2F20261119%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20261119T115804Z&X-Amz-SignedHeaders=host&X-Amz-Expires=172800&X-Amz-Signature=415822bbdc39c60ad8fa964b7bbff97970c42e12f7c5c8fa59996d6539e0e9b1",
    "behaviorHints": {
     "notProxy": true
    }

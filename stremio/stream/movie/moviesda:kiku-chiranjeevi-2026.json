@@ -2,14 +2,14 @@
  "streams": [
   {
    "title": "1080p • MoviesDa",
-   "url": "https://web.skyvault-assets.xyz/Kiku_Chiranjeevi_2026_Original_1080p_HD_(2.9_GB).mp4?htag=c5d0c7fd19c5a4111aa3e7151ada63e281cbfc522844eae99e7d23d1bfadf528&etag=1795067693&ztag=076a85cd275ea50913d8c7229644ea0405ea60795bd98c245ef873381cea39d5",
+   "url": "https://api.5a4a40ed2b55cf97fd7bf598ab40ae72.r2.cloudflarestorage.com/Kiku_Chiranjeevi_2026_Original_1080p_HD_%282.9_GB%29.mp4?response-content-disposition=attachment%3B%20filename%3D%22Kiku_Chiranjeevi_2026_Original_1080p_HD_%282.9_GB%29.mp4%22&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=dc771f1df4495bfae12cf86b2fdcfb97%2F20261119%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20261119T115500Z&X-Amz-SignedHeaders=host&X-Amz-Expires=172800&X-Amz-Signature=46e38532d72807d36f2d357a109eda8b6bee8f317c691350914e116785fae8d4",
    "behaviorHints": {
     "notProxy": true
    }
   },
   {
    "title": "720p • MoviesDa",
-   "url": "https://md0.ddd4e6375c4ccc2c2b37f71c5ff555a5.r2.cloudflarestorage.com/Kiku_Chiranjeevi_2026_Original_720p_HD.mp4?response-content-disposition=attachment%3B%20filename%3D%22Kiku_Chiranjeevi_2026_Original_720p_HD.mp4%22&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ab9a9407454977c1f0e6cbb0e5a749e1%2F20261119%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20261119T055459Z&X-Amz-SignedHeaders=host&X-Amz-Expires=172800&X-Amz-Signature=b41dc36435acf7079bb1bf378d8911c24bf54bd9264b03fa030e8987dbe21ae5",
+   "url": "https://api.5a4a40ed2b55cf97fd7bf598ab40ae72.r2.cloudflarestorage.com/Kiku_Chiranjeevi_2026_Original_720p_HD.mp4?response-content-disposition=attachment%3B%20filename%3D%22Kiku_Chiranjeevi_2026_Original_720p_HD.mp4%22&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=dc771f1df4495bfae12cf86b2fdcfb97%2F20261119%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20261119T115506Z&X-Amz-SignedHeaders=host&X-Amz-Expires=172800&X-Amz-Signature=34a7abc2abc00991a07d7c605cbfa659b11a38dd568c061cc829696fea098179",
    "behaviorHints": {
     "notProxy": true
    }
