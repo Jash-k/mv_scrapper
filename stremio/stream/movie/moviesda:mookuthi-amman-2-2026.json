@@ -2,21 +2,21 @@
  "streams": [
   {
    "title": "1080p • MoviesDa",
-   "url": "https://web.skyvault-assets.xyz/Mookuthi_Amman_2_2026_HQ_HDTS_1080p_HD.mp4?htag=f3c9a74027f920f3ef7105fba47271b48dcda168379e15f0572b820ed450a577&etag=1795065696&ztag=728d5c1c10de08dd7c68e1c7b53fa12aa8399a2344c46ae1033cc6160bf033e2",
+   "url": "https://app.kollybytes.xyz/Mookuthi_Amman_2_2026_HQ_HDTS_1080p_HD.mp4?htag=dabfc4e469a5a4fbcba6cdcafc1ec0ef4df9d7a09c6ba4a9179da749b4d7473a&etag=1795067908&ztag=2d6e3aa45517fe0821f121b5c047ce364da382bdf07b3360e097caa56abef167",
    "behaviorHints": {
     "notProxy": true
    }
   },
   {
    "title": "720p • MoviesDa",
-   "url": "https://app.kollybytes.xyz/Mookuthi_Amman_2_2026_HQ_HDTS_720p_HD.mp4?htag=0224e924a2b6e03be89aa985143b969bc527019d79145142352dbc6017645bf1&etag=1795065704&ztag=9c97e9c6c96a265ce699a9018d3b2760669d380fa4bbde37983de86c50eeb123",
+   "url": "https://api.5a4a40ed2b55cf97fd7bf598ab40ae72.r2.cloudflarestorage.com/Mookuthi_Amman_2_2026_HQ_HDTS_720p_HD.mp4?response-content-disposition=attachment%3B%20filename%3D%22Mookuthi_Amman_2_2026_HQ_HDTS_720p_HD.mp4%22&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=dc771f1df4495bfae12cf86b2fdcfb97%2F20261119%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20261119T055833Z&X-Amz-SignedHeaders=host&X-Amz-Expires=172800&X-Amz-Signature=9338d997543bcec9e0d41753475dc6913da0655547f93995cb2cad63789ac7fc",
    "behaviorHints": {
     "notProxy": true
    }
   },
   {
    "title": "720p • MoviesDa",
-   "url": "https://web.skyvault-assets.xyz/Mookuthi_Amman_2_2026_HQ_HDTS_720p_HD_(950_MB).mp4?htag=7b01a4f3b2846b9fdbef1d2d3bb2356904095fab114bed79935766f92c981a0a&etag=1795065708&ztag=335bef90375fc693649264ca8e8ff36322e5b21c6f972cc10eb84a75651c5f1f",
+   "url": "https://app.kollybytes.xyz/Mookuthi_Amman_2_2026_HQ_HDTS_720p_HD_(950_MB).mp4?htag=3e90abe8682af713edf6bdc280484260f8fdca4318947ff79fe65327bcf4e434&etag=1795067916&ztag=2c4698c369826190f74e771071d39125fec475e6806cea207a755173fbb36b5f",
    "behaviorHints": {
     "notProxy": true
    }
