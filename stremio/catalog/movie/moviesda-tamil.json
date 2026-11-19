@@ -1,6 +1,13 @@
 {
  "metas": [
   {
+   "id": "moviesda:crazy-kalyanam-2026",
+   "type": "movie",
+   "name": "Crazy Kalyanam",
+   "poster": "",
+   "releaseInfo": "2026"
+  },
+  {
    "id": "moviesda:cult-2026",
    "type": "movie",
    "name": "Cult",
@@ -64,9 +71,9 @@
    "releaseInfo": "2026"
   },
   {
-   "id": "moviesda:original-hd-jailer-2-2026",
+   "id": "moviesda:jailer-2-2026",
    "type": "movie",
-   "name": "[Original HD] Jailer 2",
+   "name": "Jailer 2",
    "poster": "",
    "releaseInfo": "2026"
   },
@@ -95,13 +102,6 @@
    "id": "moviesda:scene-2026",
    "type": "movie",
    "name": "Scene",
-   "poster": "",
-   "releaseInfo": "2026"
-  },
-  {
-   "id": "moviesda:ramayana-2026",
-   "type": "movie",
-   "name": "Ramayana",
    "poster": "",
    "releaseInfo": "2026"
   },

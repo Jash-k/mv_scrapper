@@ -1,0 +1,32 @@
+{
+ "streams": [
+  {
+   "title": "1080p • MoviesDa",
+   "url": "https://api.5a4a40ed2b55cf97fd7bf598ab40ae72.r2.cloudflarestorage.com/Moviesda.Mobi_-_Jailer_2_2026_Original_1080p_HD_%284.0_GB%29.mp4?response-content-disposition=attachment%3B%20filename%3D%22Moviesda.Mobi_-_Jailer_2_2026_Original_1080p_HD_%284.0_GB%29.mp4%22&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=dc771f1df4495bfae12cf86b2fdcfb97%2F20261118%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20261118T235839Z&X-Amz-SignedHeaders=host&X-Amz-Expires=172800&X-Amz-Signature=c8425531e9427c6416af420f097bcbb88fe2c3d25ffa46c1cf29241b4a05e7ab",
+   "behaviorHints": {
+    "notProxy": true
+   }
+  },
+  {
+   "title": "1080p • MoviesDa",
+   "url": "https://site.fileraja.click/Moviesda.Mobi_-_Jailer_2_2026_Original_1080p_HD.mp4?htag=3ee8936541854be3755581d42e15e7c4bea302c11220b86a4805db086f62d39b&etag=1795046323&ztag=be01b790a799e56da93e07f4b86e68cb3d750dff78cc570c4ff86d6e3c794f4c",
+   "behaviorHints": {
+    "notProxy": true
+   }
+  },
+  {
+   "title": "720p • MoviesDa",
+   "url": "https://web.skyvault-assets.xyz/Moviesda.Mobi_-_Jailer_2_2026_Original_720p_HD.mp4?htag=466c336660c698140ad691997f666222620e175685a29ab2d1960c63cfe2b21a&etag=1795046332&ztag=081973a01e0b82f7bf68c18c981b429814f4e2c592ad3c28d9e67d1cf356aaae",
+   "behaviorHints": {
+    "notProxy": true
+   }
+  },
+  {
+   "title": "720p • MoviesDa",
+   "url": "https://md0.ddd4e6375c4ccc2c2b37f71c5ff555a5.r2.cloudflarestorage.com/Moviesda.Mobi_-_Jailer_2_2026_Original_720p_HD_%28950_MB%29.mp4?response-content-disposition=attachment%3B%20filename%3D%22Moviesda.Mobi_-_Jailer_2_2026_Original_720p_HD_%28950_MB%29.mp4%22&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ab9a9407454977c1f0e6cbb0e5a749e1%2F20261118%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20261118T235857Z&X-Amz-SignedHeaders=host&X-Amz-Expires=172800&X-Amz-Signature=aac7f6785009f48025c4f6d2717e341d4dd6e74130a3162527b3cc127d30449f",
+   "behaviorHints": {
+    "notProxy": true
+   }
+  }
+ ]
+}

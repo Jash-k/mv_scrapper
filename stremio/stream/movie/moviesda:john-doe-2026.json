@@ -2,21 +2,21 @@
  "streams": [
   {
    "title": "1080p • MoviesDa",
-   "url": "https://app.kollybytes.xyz/John_Doe_2026_HQ_PreDVD_1080p_HD.mp4?htag=72151ffb81bad22b9118a8dbf1f7eec4011976d71dc182a018f7d3b667882f64&etag=1795042124&ztag=b0a7de7810bcf335dbb40f60928c16cba67045b57ac087061e23ef45a0c87b18",
+   "url": "https://app.kollybytes.xyz/John_Doe_2026_HQ_PreDVD_1080p_HD.mp4?htag=869a51ca5070d38e41fb709420cd23248d3e634c4a122eae20dbe98481f9f815&etag=1795046155&ztag=45a261e9747f80b339a3ec71a0fd0e6085729ab923a08e8fdfed17aa92c4408c",
    "behaviorHints": {
     "notProxy": true
    }
   },
   {
    "title": "720p • MoviesDa",
-   "url": "https://api.5a4a40ed2b55cf97fd7bf598ab40ae72.r2.cloudflarestorage.com/John_Doe_2026_HQ_PreDVD_720p_HD.mp4?response-content-disposition=attachment%3B%20filename%3D%22John_Doe_2026_HQ_PreDVD_720p_HD.mp4%22&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=dc771f1df4495bfae12cf86b2fdcfb97%2F20261118%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20261118T224850Z&X-Amz-SignedHeaders=host&X-Amz-Expires=172800&X-Amz-Signature=20e5f9cd7c2db18456d6060e48fdd18d5eaf703a5f756a712b02b13979df6847",
+   "url": "https://site.fileraja.click/John_Doe_2026_HQ_PreDVD_720p_HD.mp4?htag=ef235afe8668b6bcea64f2826d1b9faf49ce56ad2d77a8b89e6d0f5db29da515&etag=1795046163&ztag=3b79a0cd6d6c9d12233da010f1c99415339b7a4958d48cfb6d5dc359679e30f6",
    "behaviorHints": {
     "notProxy": true
    }
   },
   {
    "title": "720p • MoviesDa",
-   "url": "https://site.fileraja.click/John_Doe_2026_HQ_PreDVD_720p_HD_(950_MB).mp4?htag=bfab3a6119ebe5773741e8d2d2d9616b54a1594049812b90fdcf182c17e8a28a&etag=1795042133&ztag=875e8cf8e989677d60fea09e7d13abb7bf108c567797ec861c507b515dfc2da1",
+   "url": "https://fastspot.fa5a10fde41b12986512801a600ce280.r2.cloudflarestorage.com/John_Doe_2026_HQ_PreDVD_720p_HD_%28950_MB%29.mp4?response-content-disposition=attachment%3B%20filename%3D%22John_Doe_2026_HQ_PreDVD_720p_HD_%28950_MB%29.mp4%22&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=81db46c88a0391c9219abfd7fe69f5b5%2F20261118%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20261118T235607Z&X-Amz-SignedHeaders=host&X-Amz-Expires=172800&X-Amz-Signature=829213702a5f0605004273b8cd63491f96d596bdb61d14edcb0ff49212553791",
    "behaviorHints": {
     "notProxy": true
    }
