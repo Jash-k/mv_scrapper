@@ -2,21 +2,21 @@
  "streams": [
   {
    "title": "1080p • MoviesDa",
-   "url": "https://fastspot.fa5a10fde41b12986512801a600ce280.r2.cloudflarestorage.com/John_Doe_2026_HQ_PreDVD_1080p_HD.mp4?response-content-disposition=attachment%3B%20filename%3D%22John_Doe_2026_HQ_PreDVD_1080p_HD.mp4%22&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=81db46c88a0391c9219abfd7fe69f5b5%2F20261119%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20261119T115538Z&X-Amz-SignedHeaders=host&X-Amz-Expires=172800&X-Amz-Signature=fe82610acf9274059bbd1993ac848f0d94fda533dd011b46b379e213fb9d699e",
+   "url": "https://site.fileraja.click/John_Doe_2026_HQ_PreDVD_1080p_HD.mp4?htag=26b3bea0d89f75edb85acf4a67a9fac3b46781963fc9c6b39035796fd4600c1b&etag=1795111008&ztag=7c6d2c9af33f9a358e0d7463a0db8a621f3df2062d9df9efc3547c0e7b4ac0b7",
    "behaviorHints": {
     "notProxy": true
    }
   },
   {
    "title": "720p • MoviesDa",
-   "url": "https://fastspot.fa5a10fde41b12986512801a600ce280.r2.cloudflarestorage.com/John_Doe_2026_HQ_PreDVD_720p_HD.mp4?response-content-disposition=attachment%3B%20filename%3D%22John_Doe_2026_HQ_PreDVD_720p_HD.mp4%22&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=81db46c88a0391c9219abfd7fe69f5b5%2F20261119%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20261119T115543Z&X-Amz-SignedHeaders=host&X-Amz-Expires=172800&X-Amz-Signature=0d644ed10a975d3a2df5efc11d731e5cf7000be5ad56741106f6e7078fbc84fd",
+   "url": "https://md0.ddd4e6375c4ccc2c2b37f71c5ff555a5.r2.cloudflarestorage.com/John_Doe_2026_HQ_PreDVD_720p_HD.mp4?response-content-disposition=attachment%3B%20filename%3D%22John_Doe_2026_HQ_PreDVD_720p_HD.mp4%22&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ab9a9407454977c1f0e6cbb0e5a749e1%2F20261119%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20261119T175655Z&X-Amz-SignedHeaders=host&X-Amz-Expires=172800&X-Amz-Signature=78c9893e16d76a6139069c8a1ef22d6c5456e9b0301ea50e1d7b4ff385cc2a5c",
    "behaviorHints": {
     "notProxy": true
    }
   },
   {
    "title": "720p • MoviesDa",
-   "url": "https://api.5a4a40ed2b55cf97fd7bf598ab40ae72.r2.cloudflarestorage.com/John_Doe_2026_HQ_PreDVD_720p_HD_%28950_MB%29.mp4?response-content-disposition=attachment%3B%20filename%3D%22John_Doe_2026_HQ_PreDVD_720p_HD_%28950_MB%29.mp4%22&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=dc771f1df4495bfae12cf86b2fdcfb97%2F20261119%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20261119T115546Z&X-Amz-SignedHeaders=host&X-Amz-Expires=172800&X-Amz-Signature=fadf319c613fd8a15704736fb39561963e4a1b282a256076345082f73ab01565",
+   "url": "https://web.skyvault-assets.xyz/John_Doe_2026_HQ_PreDVD_720p_HD_(950_MB).mp4?htag=d397fcfe10200456883c19a0c17e571a17cccaab97aa0577804526f34e1eb18d&etag=1795111019&ztag=ba627246d635b4be81ce4b1b30363c135f3cb5d70ac15965853136c159959a31",
    "behaviorHints": {
     "notProxy": true
    }

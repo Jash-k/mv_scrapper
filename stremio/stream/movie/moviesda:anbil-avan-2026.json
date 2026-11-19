@@ -1,0 +1,32 @@
+{
+ "streams": [
+  {
+   "title": "1080p • MoviesDa",
+   "url": "https://md0.ddd4e6375c4ccc2c2b37f71c5ff555a5.r2.cloudflarestorage.com/Moviesda.Mobi_-_Anbil_Avan_2026_Original_1080p_HD.mp4?response-content-disposition=attachment%3B%20filename%3D%22Moviesda.Mobi_-_Anbil_Avan_2026_Original_1080p_HD.mp4%22&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ab9a9407454977c1f0e6cbb0e5a749e1%2F20261119%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20261119T175425Z&X-Amz-SignedHeaders=host&X-Amz-Expires=172800&X-Amz-Signature=9acab7d09e89195dd9f3a905c20bda203f08006451bf90a0d901d5f44dcea187",
+   "behaviorHints": {
+    "notProxy": true
+   }
+  },
+  {
+   "title": "1080p • MoviesDa",
+   "url": "https://web.skyvault-assets.xyz/Moviesda.Mobi_-_Anbil_Avan_2026_Original_1080p_HD_(3.6_GB).mp4?htag=b0039722d396ae0290343374a477dab31386cdd8605618cb028fab2df63d2ddf&etag=1795110868&ztag=a05babffbe7e3793f51e3c4cf8df326edd73686147562706e0474e27502501da",
+   "behaviorHints": {
+    "notProxy": true
+   }
+  },
+  {
+   "title": "720p • MoviesDa",
+   "url": "https://web.skyvault-assets.xyz/Moviesda.Mobi_-_Anbil_Avan_2026_Original_720p_HD_(950_MB).mp4?htag=afa596f1ea2cbc10a913cd2b373104482993b58cc3e67559edd052c23ca15a7e&etag=1795110876&ztag=32d57dc5a41ef6da2bbd11070151fb47d2a732076f7ccb457748416811e1f549",
+   "behaviorHints": {
+    "notProxy": true
+   }
+  },
+  {
+   "title": "720p • MoviesDa",
+   "url": "https://api.5a4a40ed2b55cf97fd7bf598ab40ae72.r2.cloudflarestorage.com/Moviesda.Mobi_-_Anbil_Avan_2026_Original_720p_HD.mp4?response-content-disposition=attachment%3B%20filename%3D%22Moviesda.Mobi_-_Anbil_Avan_2026_Original_720p_HD.mp4%22&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=dc771f1df4495bfae12cf86b2fdcfb97%2F20261119%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20261119T175440Z&X-Amz-SignedHeaders=host&X-Amz-Expires=172800&X-Amz-Signature=973267e958b936a611dba6573c85d29e70e8698f924c8b62c72a597e2011f0bb",
+   "behaviorHints": {
+    "notProxy": true
+   }
+  }
+ ]
+}
