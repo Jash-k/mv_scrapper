@@ -2,21 +2,21 @@
  "streams": [
   {
    "title": "1080p • MoviesDa",
-   "url": "https://site.fileraja.click/John_Doe_2026_HQ_PreDVD_1080p_HD.mp4?htag=5e59ee081bd67a8e8edb79e3fab1e314e849ffe8111d059e9c4a35a26454b58a&etag=1795177540&ztag=ea44769bdca72309a701806e536966e5bcc256ddc298237f6555683834883fb9",
+   "url": "https://site.fileraja.click/John_Doe_2026_HQ_PreDVD_1080p_HD.mp4?htag=4eb6f5a6caccfdc3996328881a68f5cf706c240759dc9a171721648091b7d4f8&etag=1795197548&ztag=42baa22f95f92a80ad900cf6e3aace93f0feb8b0e460c6ec21e92ac4c9a2fec7",
    "behaviorHints": {
     "notProxy": true
    }
   },
   {
    "title": "720p • MoviesDa",
-   "url": "https://api.5a4a40ed2b55cf97fd7bf598ab40ae72.r2.cloudflarestorage.com/John_Doe_2026_HQ_PreDVD_720p_HD.mp4?response-content-disposition=attachment%3B%20filename%3D%22John_Doe_2026_HQ_PreDVD_720p_HD.mp4%22&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=dc771f1df4495bfae12cf86b2fdcfb97%2F20261120%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20261120T122546Z&X-Amz-SignedHeaders=host&X-Amz-Expires=172800&X-Amz-Signature=9230ebdac33066187577e90d5081d7e17069d55b34eea86fea72ecbeec763d42",
+   "url": "https://md0.ddd4e6375c4ccc2c2b37f71c5ff555a5.r2.cloudflarestorage.com/John_Doe_2026_HQ_PreDVD_720p_HD.mp4?response-content-disposition=attachment%3B%20filename%3D%22John_Doe_2026_HQ_PreDVD_720p_HD.mp4%22&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ab9a9407454977c1f0e6cbb0e5a749e1%2F20261120%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20261120T175916Z&X-Amz-SignedHeaders=host&X-Amz-Expires=172800&X-Amz-Signature=e7bc4fa47f56540904f933105520906f3224e5eaff61d96f3267957d577519e7",
    "behaviorHints": {
     "notProxy": true
    }
   },
   {
    "title": "720p • MoviesDa",
-   "url": "https://fastspot.fa5a10fde41b12986512801a600ce280.r2.cloudflarestorage.com/John_Doe_2026_HQ_PreDVD_720p_HD_%28950_MB%29.mp4?response-content-disposition=attachment%3B%20filename%3D%22John_Doe_2026_HQ_PreDVD_720p_HD_%28950_MB%29.mp4%22&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=81db46c88a0391c9219abfd7fe69f5b5%2F20261120%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20261120T122550Z&X-Amz-SignedHeaders=host&X-Amz-Expires=172800&X-Amz-Signature=8601c29574d0d8744e15294174efbaa9ac675b0154dfbf34d93f1cb6eb8bb1d3",
+   "url": "https://site.fileraja.click/John_Doe_2026_HQ_PreDVD_720p_HD_(950_MB).mp4?htag=39bf575a160627d5f736df50a6d793ce6af2830aa2cdfc9112f70eef0a586485&etag=1795197560&ztag=072787efd3ebaee0c08216658094a2f1d135e30f3744826cb8b9badd63bebfa8",
    "behaviorHints": {
     "notProxy": true
    }

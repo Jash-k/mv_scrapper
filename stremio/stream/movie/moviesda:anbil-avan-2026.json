@@ -2,28 +2,28 @@
  "streams": [
   {
    "title": "1080p • MoviesDa",
-   "url": "https://api.5a4a40ed2b55cf97fd7bf598ab40ae72.r2.cloudflarestorage.com/Moviesda.Mobi_-_Anbil_Avan_2026_Original_1080p_HD.mp4?response-content-disposition=attachment%3B%20filename%3D%22Moviesda.Mobi_-_Anbil_Avan_2026_Original_1080p_HD.mp4%22&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=dc771f1df4495bfae12cf86b2fdcfb97%2F20261120%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20261120T122329Z&X-Amz-SignedHeaders=host&X-Amz-Expires=172800&X-Amz-Signature=2f79c0ae06f12df576c265bb3f3ed6e93b0adf65fd9ee04f0f8bbfcae3dde842",
+   "url": "https://api.5a4a40ed2b55cf97fd7bf598ab40ae72.r2.cloudflarestorage.com/Moviesda.Mobi_-_Anbil_Avan_2026_Original_1080p_HD.mp4?response-content-disposition=attachment%3B%20filename%3D%22Moviesda.Mobi_-_Anbil_Avan_2026_Original_1080p_HD.mp4%22&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=dc771f1df4495bfae12cf86b2fdcfb97%2F20261120%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20261120T175626Z&X-Amz-SignedHeaders=host&X-Amz-Expires=172800&X-Amz-Signature=8b265b6aa5a372eb8a510eecb514430a9898462f7d435e5b0944bec4ee71d034",
    "behaviorHints": {
     "notProxy": true
    }
   },
   {
    "title": "1080p • MoviesDa",
-   "url": "https://md0.ddd4e6375c4ccc2c2b37f71c5ff555a5.r2.cloudflarestorage.com/Moviesda.Mobi_-_Anbil_Avan_2026_Original_1080p_HD_%283.6_GB%29.mp4?response-content-disposition=attachment%3B%20filename%3D%22Moviesda.Mobi_-_Anbil_Avan_2026_Original_1080p_HD_%283.6_GB%29.mp4%22&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ab9a9407454977c1f0e6cbb0e5a749e1%2F20261120%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20261120T122332Z&X-Amz-SignedHeaders=host&X-Amz-Expires=172800&X-Amz-Signature=f69a791754d739f58e8c0a528521da925db480ecbbf65be4f6f0b04e6d396634",
+   "url": "https://app.kollybytes.xyz/Moviesda.Mobi_-_Anbil_Avan_2026_Original_1080p_HD_(3.6_GB).mp4?htag=093342727ccd2cdba9125ff51ce025c800da02eafa996096a226ef5c61f9b508&etag=1795197390&ztag=843410be104a608adc5ec5c41be8132954650080a48bb2ff3dfde1cb502930e0",
    "behaviorHints": {
     "notProxy": true
    }
   },
   {
    "title": "720p • MoviesDa",
-   "url": "https://web.skyvault-assets.xyz/Moviesda.Mobi_-_Anbil_Avan_2026_Original_720p_HD_(950_MB).mp4?htag=c3f78e18416cd488c9428e1172f09cdad8daeea3e9a24d2bd04e8d601bc4fcf8&etag=1795177418&ztag=6119376a5bc274b5e5e69112a7fc08e0a204748170f3b85d8b1b3c0771e92f02",
+   "url": "https://web.skyvault-assets.xyz/Moviesda.Mobi_-_Anbil_Avan_2026_Original_720p_HD_(950_MB).mp4?htag=e40d764a480302b8f76a62109c41567905b1f3a5739454a0bf4b918e102aebc5&etag=1795197399&ztag=c7db017dabcdf7e74a80f50c8651d60fbb4f71dc8d3213b4c5e7eb8c494018c2",
    "behaviorHints": {
     "notProxy": true
    }
   },
   {
    "title": "720p • MoviesDa",
-   "url": "https://fastspot.fa5a10fde41b12986512801a600ce280.r2.cloudflarestorage.com/Moviesda.Mobi_-_Anbil_Avan_2026_Original_720p_HD.mp4?response-content-disposition=attachment%3B%20filename%3D%22Moviesda.Mobi_-_Anbil_Avan_2026_Original_720p_HD.mp4%22&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=81db46c88a0391c9219abfd7fe69f5b5%2F20261120%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20261120T122342Z&X-Amz-SignedHeaders=host&X-Amz-Expires=172800&X-Amz-Signature=318d478558cc3bd8455a0ab3c875a8b61e02c5702309694f23c01ed08d59d99d",
+   "url": "https://web.skyvault-assets.xyz/Moviesda.Mobi_-_Anbil_Avan_2026_Original_720p_HD.mp4?htag=79bbb8a9a401e687b74dfb156eaa813d19b4387ea573f4deee6cad4e3c4aef31&etag=1795197403&ztag=cdbe5e71e884a1c63eb994b50baa6213c16b090bbf4be3d0431f22701c85f260",
    "behaviorHints": {
     "notProxy": true
    }
