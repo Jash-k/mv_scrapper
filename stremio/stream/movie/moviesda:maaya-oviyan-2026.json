@@ -2,14 +2,14 @@
  "streams": [
   {
    "title": "1080p • MoviesDa",
-   "url": "https://md0.ddd4e6375c4ccc2c2b37f71c5ff555a5.r2.cloudflarestorage.com/Moviesda.Mobi_-_Maaya_Oviyan_2026_Original_1080p_HD_%283.0_GB%29.mp4?response-content-disposition=attachment%3B%20filename%3D%22Moviesda.Mobi_-_Maaya_Oviyan_2026_Original_1080p_HD_%283.0_GB%29.mp4%22&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ab9a9407454977c1f0e6cbb0e5a749e1%2F20261120%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20261120T000038Z&X-Amz-SignedHeaders=host&X-Amz-Expires=172800&X-Amz-Signature=c96bb5792489c28e40634268f3a75c04d036d72fefd4127e717b995f9b6c9fba",
+   "url": "https://web.skyvault-assets.xyz/Moviesda.Mobi_-_Maaya_Oviyan_2026_Original_1080p_HD_(3.0_GB).mp4?htag=6ef5558a8664611a32256a6781f001784222abc22bf8351f3e9f9f15f1fcb804&etag=1795154310&ztag=684dc073fc35c53fb6f37085de771eaeff445f55f60ee80b3b2256f8ae47f2bb",
    "behaviorHints": {
     "notProxy": true
    }
   },
   {
    "title": "720p • MoviesDa",
-   "url": "https://web.skyvault-assets.xyz/Moviesda.Mobi_-_Maaya_Oviyan_2026_Original_720p_HD.mp4?htag=a272aa7501f4db025a95d5547728998225fff44bb572107db88be2f5342cd375&etag=1795132852&ztag=7e97cfb4723433f60f1df87076ebee6be65482574451439c3573a4c4cd91d5a3",
+   "url": "https://app.kollybytes.xyz/Moviesda.Mobi_-_Maaya_Oviyan_2026_Original_720p_HD.mp4?htag=aba797c2d833843d27893e3d265f2a314fbf1abf31975c83e39c97edea9c1a46&etag=1795154316&ztag=ebbf1db3b5b73fd457d8420ff7aa0c25355ad7a3c430618a04880054aee32cb4",
    "behaviorHints": {
     "notProxy": true
    }
