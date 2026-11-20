@@ -2,28 +2,28 @@
  "streams": [
   {
    "title": "1080p • MoviesDa",
-   "url": "https://app.kollybytes.xyz/Moviesda.Mobi_-_Jailer_2_2026_Original_1080p_HD_(4.0_GB).mp4?htag=b91cf4a449ec330506b8eec0d66ac83c20594d3b9fe346a11dff4a841434c923&etag=1795197716&ztag=4c8b1482e571ff22cfd73ca12a9718954aa1cfed280624942c810e9c611a6f66",
+   "url": "https://api.5a4a40ed2b55cf97fd7bf598ab40ae72.r2.cloudflarestorage.com/Moviesda.Mobi_-_Jailer_2_2026_Original_1080p_HD_%284.0_GB%29.mp4?response-content-disposition=attachment%3B%20filename%3D%22Moviesda.Mobi_-_Jailer_2_2026_Original_1080p_HD_%284.0_GB%29.mp4%22&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=dc771f1df4495bfae12cf86b2fdcfb97%2F20261120%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20261120T223337Z&X-Amz-SignedHeaders=host&X-Amz-Expires=172800&X-Amz-Signature=2d4cda4ab56f6ef6db5ec50553d3039ddf7648f659b9b2db8b22bd66cd28e1f8",
    "behaviorHints": {
     "notProxy": true
    }
   },
   {
    "title": "1080p • MoviesDa",
-   "url": "https://app.kollybytes.xyz/Moviesda.Mobi_-_Jailer_2_2026_Original_1080p_HD.mp4?htag=67e0479072958146d9a9e4be32fd31fb201c8d4611e2536366d80a7a69a5f894&etag=1795197720&ztag=03f9e4163a6ebd57e81826718091e6c1fd3ac83e3be502f58a0ddfe6e644c7a9",
+   "url": "https://api.5a4a40ed2b55cf97fd7bf598ab40ae72.r2.cloudflarestorage.com/Moviesda.Mobi_-_Jailer_2_2026_Original_1080p_HD.mp4?response-content-disposition=attachment%3B%20filename%3D%22Moviesda.Mobi_-_Jailer_2_2026_Original_1080p_HD.mp4%22&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=dc771f1df4495bfae12cf86b2fdcfb97%2F20261120%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20261120T223341Z&X-Amz-SignedHeaders=host&X-Amz-Expires=172800&X-Amz-Signature=c669cf25ace998a05109b6a6b80325c544be5d0706577f791a1b45c75aa71927",
    "behaviorHints": {
     "notProxy": true
    }
   },
   {
    "title": "720p • MoviesDa",
-   "url": "https://md0.ddd4e6375c4ccc2c2b37f71c5ff555a5.r2.cloudflarestorage.com/Moviesda.Mobi_-_Jailer_2_2026_Original_720p_HD.mp4?response-content-disposition=attachment%3B%20filename%3D%22Moviesda.Mobi_-_Jailer_2_2026_Original_720p_HD.mp4%22&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ab9a9407454977c1f0e6cbb0e5a749e1%2F20261120%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20261120T180208Z&X-Amz-SignedHeaders=host&X-Amz-Expires=172800&X-Amz-Signature=d49c684a529c1b790d8cb0a1399ad72a5c51857dce8c9595c5c651e8852603e5",
+   "url": "https://web.skyvault-assets.xyz/Moviesda.Mobi_-_Jailer_2_2026_Original_720p_HD.mp4?htag=b4cffffe56d376fbe6f5d248680411a46ca547454d6c68c0f8fdf67a509291e2&etag=1795214027&ztag=e993896327362ad08dab068714e85017856386745150adb166a1659d313c3f07",
    "behaviorHints": {
     "notProxy": true
    }
   },
   {
    "title": "720p • MoviesDa",
-   "url": "https://md0.ddd4e6375c4ccc2c2b37f71c5ff555a5.r2.cloudflarestorage.com/Moviesda.Mobi_-_Jailer_2_2026_Original_720p_HD_%28950_MB%29.mp4?response-content-disposition=attachment%3B%20filename%3D%22Moviesda.Mobi_-_Jailer_2_2026_Original_720p_HD_%28950_MB%29.mp4%22&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ab9a9407454977c1f0e6cbb0e5a749e1%2F20261120%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20261120T180213Z&X-Amz-SignedHeaders=host&X-Amz-Expires=172800&X-Amz-Signature=7c6edd1393cc28364257eef2a803a4181d81c0e659d1a78f2cb2942b4da07331",
+   "url": "https://app.kollybytes.xyz/Moviesda.Mobi_-_Jailer_2_2026_Original_720p_HD_(950_MB).mp4?htag=b255866d22840c0a4604f9e0e33b5c8635976cb73bdab404572079c388c641ce&etag=1795214031&ztag=195a5a2780205cb3105cf84049bde34dc3313d1ffc00c8e7558466d76f7ae364",
    "behaviorHints": {
     "notProxy": true
    }
