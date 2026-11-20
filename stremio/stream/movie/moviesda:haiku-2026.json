@@ -1,0 +1,32 @@
+{
+ "streams": [
+  {
+   "title": "1080p • MoviesDa",
+   "url": "https://md0.ddd4e6375c4ccc2c2b37f71c5ff555a5.r2.cloudflarestorage.com/Moviesda.Mobi_-_Haiku_2026_Original_1080p_HD_%283.6_GB%29.mp4?response-content-disposition=attachment%3B%20filename%3D%22Moviesda.Mobi_-_Haiku_2026_Original_1080p_HD_%283.6_GB%29.mp4%22&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ab9a9407454977c1f0e6cbb0e5a749e1%2F20261119%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20261119T235552Z&X-Amz-SignedHeaders=host&X-Amz-Expires=172800&X-Amz-Signature=4f2a048de117a087ee3fb05c50c8be59b928af4bbce0fbc4082e662555897854",
+   "behaviorHints": {
+    "notProxy": true
+   }
+  },
+  {
+   "title": "1080p • MoviesDa",
+   "url": "https://fastspot.fa5a10fde41b12986512801a600ce280.r2.cloudflarestorage.com/Moviesda.Mobi_-_Haiku_2026_Original_1080p_HD.mp4?response-content-disposition=attachment%3B%20filename%3D%22Moviesda.Mobi_-_Haiku_2026_Original_1080p_HD.mp4%22&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=81db46c88a0391c9219abfd7fe69f5b5%2F20261119%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20261119T235558Z&X-Amz-SignedHeaders=host&X-Amz-Expires=172800&X-Amz-Signature=5e887e633856b764cec77cc6f5b95e858695106e19a391af48607420e12efe62",
+   "behaviorHints": {
+    "notProxy": true
+   }
+  },
+  {
+   "title": "720p • MoviesDa",
+   "url": "https://web.skyvault-assets.xyz/Moviesda.Mobi_-_Haiku_2026_Original_720p_HD_(950_MB).mp4?htag=96bdce30f6589f73539c2ba0dc8b1021a1bf5f7373abcd0e4cf273602da6f3d4&etag=1795132568&ztag=46cddadc8ee6b2c2b04c3afe93b276e6126713d344f57f93cb9ef198c310bc65",
+   "behaviorHints": {
+    "notProxy": true
+   }
+  },
+  {
+   "title": "720p • MoviesDa",
+   "url": "https://fastspot.fa5a10fde41b12986512801a600ce280.r2.cloudflarestorage.com/Moviesda.Mobi_-_Haiku_2026_Original_720p_HD.mp4?response-content-disposition=attachment%3B%20filename%3D%22Moviesda.Mobi_-_Haiku_2026_Original_720p_HD.mp4%22&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=81db46c88a0391c9219abfd7fe69f5b5%2F20261119%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20261119T235614Z&X-Amz-SignedHeaders=host&X-Amz-Expires=172800&X-Amz-Signature=f20a5a284f0ebbca452df80d6ff4419924f44665e57c8dc30f7738254d379e2c",
+   "behaviorHints": {
+    "notProxy": true
+   }
+  }
+ ]
+}
