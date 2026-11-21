@@ -2,14 +2,14 @@
  "streams": [
   {
    "title": "1080p • MoviesDa",
-   "url": "https://site.fileraja.click/Kiku_Chiranjeevi_2026_Original_1080p_HD_(2.9_GB).mp4?htag=6d3d317c6088e730f0d1808bb5038fef20675d7d989df56118dfedd101b68869&etag=1795219042&ztag=b958a1da5bb0ba4c88b08742d078294ac9502d8a553a67dfc90296cd21106b61",
+   "url": "https://api.5a4a40ed2b55cf97fd7bf598ab40ae72.r2.cloudflarestorage.com/Kiku_Chiranjeevi_2026_Original_1080p_HD_%282.9_GB%29.mp4?response-content-disposition=attachment%3B%20filename%3D%22Kiku_Chiranjeevi_2026_Original_1080p_HD_%282.9_GB%29.mp4%22&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=dc771f1df4495bfae12cf86b2fdcfb97%2F20261121%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20261121T050105Z&X-Amz-SignedHeaders=host&X-Amz-Expires=172800&X-Amz-Signature=2d563129fb270db4b03134afad1e197b9726cc8765cc2ca2a512929a51be5ef3",
    "behaviorHints": {
     "notProxy": true
    }
   },
   {
    "title": "720p • MoviesDa",
-   "url": "https://site.fileraja.click/Kiku_Chiranjeevi_2026_Original_720p_HD.mp4?htag=e3081587ef39f8efbb692acafb7829e8f1d7e62abe47e5d82aaa1bcfddfd6ac7&etag=1795219048&ztag=b2055a3ff6ebaf03a57e699a2ed7ebd6a836616e4d7823d89b9bcf3cb6c0fd63",
+   "url": "https://api.5a4a40ed2b55cf97fd7bf598ab40ae72.r2.cloudflarestorage.com/Kiku_Chiranjeevi_2026_Original_720p_HD.mp4?response-content-disposition=attachment%3B%20filename%3D%22Kiku_Chiranjeevi_2026_Original_720p_HD.mp4%22&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=dc771f1df4495bfae12cf86b2fdcfb97%2F20261121%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20261121T050114Z&X-Amz-SignedHeaders=host&X-Amz-Expires=172800&X-Amz-Signature=6bec3b2ba5729bafcf1a1544e8bcdbe98a68a27a610a324ed7beedf38a90cc4e",
    "behaviorHints": {
     "notProxy": true
    }
