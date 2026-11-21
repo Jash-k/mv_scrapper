@@ -2,28 +2,28 @@
  "streams": [
   {
    "title": "1080p • MoviesDa",
-   "url": "https://web.skyvault-assets.xyz/Moviesda.Mobi_-_Cult_2026_Original_1080p_HD_(3.6_GB).mp4?htag=221aa67c84d074892e09ad0923941d6fa6ea894669732d64a4c3f068fc267a4b&etag=1795262283&ztag=633f50ed81c22689e2d5a764f4ea49509410ef9c4133fce21233773725eb284d",
+   "url": "https://api.5a4a40ed2b55cf97fd7bf598ab40ae72.r2.cloudflarestorage.com/Moviesda.Mobi_-_Cult_2026_Original_1080p_HD_%283.6_GB%29.mp4?response-content-disposition=attachment%3B%20filename%3D%22Moviesda.Mobi_-_Cult_2026_Original_1080p_HD_%283.6_GB%29.mp4%22&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=dc771f1df4495bfae12cf86b2fdcfb97%2F20261121%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20261121T155323Z&X-Amz-SignedHeaders=host&X-Amz-Expires=172800&X-Amz-Signature=968e494f63755740de7eeb6a9abb22e9c9bcdf58b1db12123c833c03835439aa",
    "behaviorHints": {
     "notProxy": true
    }
   },
   {
    "title": "1080p • MoviesDa",
-   "url": "https://api.5a4a40ed2b55cf97fd7bf598ab40ae72.r2.cloudflarestorage.com/Moviesda.Mobi_-_Cult_2026_Original_1080p_HD.mp4?response-content-disposition=attachment%3B%20filename%3D%22Moviesda.Mobi_-_Cult_2026_Original_1080p_HD.mp4%22&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=dc771f1df4495bfae12cf86b2fdcfb97%2F20261121%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20261121T115807Z&X-Amz-SignedHeaders=host&X-Amz-Expires=172800&X-Amz-Signature=faec394d34bce647bb3111d5824b33a021c3fac90dca79e3397fa61f390ff43e",
+   "url": "https://web.skyvault-assets.xyz/Moviesda.Mobi_-_Cult_2026_Original_1080p_HD.mp4?htag=1ac8d693e0a4e8165f6869bbd8c20714799f0140e64557e617e9f7dc3757d717&etag=1795276407&ztag=4d5c37ecb4095dfe45434e1fbb5e1a8dfc9e1374edb2cdc1caf6abc17a23cc1a",
    "behaviorHints": {
     "notProxy": true
    }
   },
   {
    "title": "720p • MoviesDa",
-   "url": "https://app.kollybytes.xyz/Moviesda.Mobi_-_Cult_2026_Original_720p_HD_(950_MB).mp4?htag=4d3168ed625f6082775f880f8561922b8c6d7412aed058ce0e9d7cb09533fbd8&etag=1795262293&ztag=d44fab034ad461ba141da86bd4ef9db19db624dcb731275ff13499e772a16a8e",
+   "url": "https://api.5a4a40ed2b55cf97fd7bf598ab40ae72.r2.cloudflarestorage.com/Moviesda.Mobi_-_Cult_2026_Original_720p_HD_%28950_MB%29.mp4?response-content-disposition=attachment%3B%20filename%3D%22Moviesda.Mobi_-_Cult_2026_Original_720p_HD_%28950_MB%29.mp4%22&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=dc771f1df4495bfae12cf86b2fdcfb97%2F20261121%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20261121T155333Z&X-Amz-SignedHeaders=host&X-Amz-Expires=172800&X-Amz-Signature=29dd177d0a767c20fc753e0ffad114e8c5a10fe31bf619724345ca0f5ab21577",
    "behaviorHints": {
     "notProxy": true
    }
   },
   {
    "title": "720p • MoviesDa",
-   "url": "https://site.fileraja.click/Moviesda.Mobi_-_Cult_2026_Original_720p_HD.mp4?htag=a467f425e09b8e8119a5f18ed26097085f3f134134cb436baf7ca5411420623d&etag=1795262297&ztag=154860bbbbd9e1e0ce280eb958e6668d1260f44c16e2518b5949824d0f178cda",
+   "url": "https://md0.ddd4e6375c4ccc2c2b37f71c5ff555a5.r2.cloudflarestorage.com/Moviesda.Mobi_-_Cult_2026_Original_720p_HD.mp4?response-content-disposition=attachment%3B%20filename%3D%22Moviesda.Mobi_-_Cult_2026_Original_720p_HD.mp4%22&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ab9a9407454977c1f0e6cbb0e5a749e1%2F20261121%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20261121T155336Z&X-Amz-SignedHeaders=host&X-Amz-Expires=172800&X-Amz-Signature=acc4cdd1cd72ea54b38c726d010162144594ab6063e17160cf87d94935085425",
    "behaviorHints": {
     "notProxy": true
    }
