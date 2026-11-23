@@ -2,28 +2,28 @@
  "streams": [
   {
    "title": "1080p • MoviesDa",
-   "url": "https://fastspot.fa5a10fde41b12986512801a600ce280.r2.cloudflarestorage.com/Moviesda.Mobi_-_Sandakari_2026_Original_1080p_HD_%283.6_GB%29.mp4?response-content-disposition=attachment%3B%20filename%3D%22Moviesda.Mobi_-_Sandakari_2026_Original_1080p_HD_%283.6_GB%29.mp4%22&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=81db46c88a0391c9219abfd7fe69f5b5%2F20261122%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20261122T213148Z&X-Amz-SignedHeaders=host&X-Amz-Expires=172800&X-Amz-Signature=fc5a60cd67d8a15e5a3974e95d062177a9956413af29a8c3daacdeae88d588bf",
+   "url": "https://web.skyvault-assets.xyz/Moviesda.Mobi_-_Sandakari_2026_Original_1080p_HD_(3.6_GB).mp4?htag=532bd743318acbddc1ff6ee95cf501793c04bd315c123a69acb8e101d223b4d8&etag=1795410177&ztag=d72df695d16197fbe9c14a55153b010039e2f2ad148a546114889e3dc30715a5",
    "behaviorHints": {
     "notProxy": true
    }
   },
   {
    "title": "1080p • MoviesDa",
-   "url": "https://app.kollybytes.xyz/Moviesda.Mobi_-_Sandakari_2026_Original_1080p_HD.mp4?htag=b7dacc9e7959bb4047dcd9e165352fb0ac65109af0f6a8c19173899104fbc7f6&etag=1795383111&ztag=5d9a538bb66afe70782ebd9c35e2860c791a78412cc62eb40b6c79d527187522",
+   "url": "https://web.skyvault-assets.xyz/Moviesda.Mobi_-_Sandakari_2026_Original_1080p_HD.mp4?htag=f78f53f3881e5b8050b06784ae5b3d89fc10a89c19bbf6bcc201d1fcfbcf5959&etag=1795410181&ztag=362e88ee630721338dafbecc8077ddd724596a7fa3e9bc378b5d8262ab5ad4a4",
    "behaviorHints": {
     "notProxy": true
    }
   },
   {
    "title": "720p • MoviesDa",
-   "url": "https://web.skyvault-assets.xyz/Moviesda.Mobi_-_Sandakari_2026_Original_720p_HD.mp4?htag=24bae997078933594baec67c774e4434ec269010e704fb64fdf6d4e8e36ca169&etag=1795383118&ztag=1db00a73bffee5f7e3daabdbeee18d67f5613081ecc019acaf7801a11034bca5",
+   "url": "https://fastspot.fa5a10fde41b12986512801a600ce280.r2.cloudflarestorage.com/Moviesda.Mobi_-_Sandakari_2026_Original_720p_HD.mp4?response-content-disposition=attachment%3B%20filename%3D%22Moviesda.Mobi_-_Sandakari_2026_Original_720p_HD.mp4%22&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=81db46c88a0391c9219abfd7fe69f5b5%2F20261123%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20261123T050307Z&X-Amz-SignedHeaders=host&X-Amz-Expires=172800&X-Amz-Signature=a51051f443458e3efc0417fb1fb2d49b1bf40f08f56b581426e7d3070dc97914",
    "behaviorHints": {
     "notProxy": true
    }
   },
   {
    "title": "720p • MoviesDa",
-   "url": "https://web.skyvault-assets.xyz/Moviesda.Mobi_-_Sandakari_2026_Original_720p_HD_(900_MB).mp4?htag=6c5bd8353be4b527a42ba90513b99c6c53f988cacb935ea5e09645cfa15e2c0a&etag=1795383121&ztag=fbe16689c3c36b6183a6375239eebe01a958c4bb749b771092323a96f2e39d52",
+   "url": "https://api.5a4a40ed2b55cf97fd7bf598ab40ae72.r2.cloudflarestorage.com/Moviesda.Mobi_-_Sandakari_2026_Original_720p_HD_%28900_MB%29.mp4?response-content-disposition=attachment%3B%20filename%3D%22Moviesda.Mobi_-_Sandakari_2026_Original_720p_HD_%28900_MB%29.mp4%22&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=dc771f1df4495bfae12cf86b2fdcfb97%2F20261123%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20261123T050310Z&X-Amz-SignedHeaders=host&X-Amz-Expires=172800&X-Amz-Signature=33ae840f6a8ee34ae6ef6e74ea7445b807c299755ec673016888759a192b797f",
    "behaviorHints": {
     "notProxy": true
    }

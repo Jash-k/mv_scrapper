@@ -1,6 +1,13 @@
 {
  "metas": [
   {
+   "id": "moviesda:happy-journey-2026",
+   "type": "movie",
+   "name": "Happy Journey",
+   "poster": "",
+   "releaseInfo": "2026"
+  },
+  {
    "id": "moviesda:mayookha-2026",
    "type": "movie",
    "name": "Mayookha",
@@ -144,13 +151,6 @@
    "id": "moviesda:kombuseevi-2025",
    "type": "movie",
    "name": "Kombuseevi",
-   "poster": "",
-   "releaseInfo": "2025"
-  },
-  {
-   "id": "moviesda:ipl-indian-penal-law-2025",
-   "type": "movie",
-   "name": "IPL Indian Penal Law",
    "poster": "",
    "releaseInfo": "2025"
   }
