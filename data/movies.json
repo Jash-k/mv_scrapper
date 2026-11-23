@@ -3866,7 +3866,12 @@
       "Telugu",
       "Hindi",
       "Multi-Lang"
-    ]
+    ],
+    "imdbId": "tt14413964",
+    "name": "Steps",
+    "year": 2026,
+    "poster": "https://images.metahub.space/poster/small/tt14413964/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt14413964/img"
   },
   {
     "id": "3adad1ece5a8c558e20abbc298f632b2",
@@ -4326,12 +4331,7 @@
     "languages": [
       "Tamil",
       "Telugu"
-    ],
-    "imdbId": "tt36915004",
-    "name": "#Cult",
-    "year": 2026,
-    "poster": "https://images.metahub.space/poster/small/tt36915004/img",
-    "thumbnail": "https://images.metahub.space/poster/small/tt36915004/img"
+    ]
   },
   {
     "id": "d9259f8d4204b162c9d81b5e6725f744",
