@@ -2,28 +2,28 @@
  "streams": [
   {
    "title": "1080p • MoviesDa",
-   "url": "https://web.skyvault-assets.xyz/Moviesda.Mobi_-_Haiku_2026_Original_1080p_HD_(3.6_GB).mp4?htag=c2e19b93381775d01639627ef8776406e3a0774e7a79ee203adca141aa2138bf&etag=1795439094&ztag=61fb91e3aa47e54d1730c7c2768dd5c87c714acd0f82ee4e0892d15262e64427",
+   "url": "https://md0.ddd4e6375c4ccc2c2b37f71c5ff555a5.r2.cloudflarestorage.com/Moviesda.Mobi_-_Haiku_2026_Original_1080p_HD_%283.6_GB%29.mp4?response-content-disposition=attachment%3B%20filename%3D%22Moviesda.Mobi_-_Haiku_2026_Original_1080p_HD_%283.6_GB%29.mp4%22&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ab9a9407454977c1f0e6cbb0e5a749e1%2F20261124%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20261124T070536Z&X-Amz-SignedHeaders=host&X-Amz-Expires=172800&X-Amz-Signature=1ecce7791a92926e6feedc39f9e57a3f8a1c717268c7ff3064a126693eb0b465",
    "behaviorHints": {
     "notProxy": true
    }
   },
   {
    "title": "1080p • MoviesDa",
-   "url": "https://web.skyvault-assets.xyz/Moviesda.Mobi_-_Haiku_2026_Original_1080p_HD.mp4?htag=abbadc65a92b2f166c63f410f05b9fa060c75553af1d136667b3ab47af0dde66&etag=1795439098&ztag=6e8acfffa399b66c4e4ee07d8ff2f5247c16557b98070bc0bb30d593725e1f80",
+   "url": "https://api.5a4a40ed2b55cf97fd7bf598ab40ae72.r2.cloudflarestorage.com/Moviesda.Mobi_-_Haiku_2026_Original_1080p_HD.mp4?response-content-disposition=attachment%3B%20filename%3D%22Moviesda.Mobi_-_Haiku_2026_Original_1080p_HD.mp4%22&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=dc771f1df4495bfae12cf86b2fdcfb97%2F20261124%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20261124T070540Z&X-Amz-SignedHeaders=host&X-Amz-Expires=172800&X-Amz-Signature=a72a4375a84a972bfd76df757f0a0d738bb22f97cd24cc6c4a3a7980a2fc081c",
    "behaviorHints": {
     "notProxy": true
    }
   },
   {
    "title": "720p • MoviesDa",
-   "url": "https://web.skyvault-assets.xyz/Moviesda.Mobi_-_Haiku_2026_Original_720p_HD_(950_MB).mp4?htag=01090dcf68e6636107645b3c96eea58530b32b24a601224ff895f159fcaa08e7&etag=1795439104&ztag=2649b7f40226f2ad9814ad4d04b162718afeaca89071123fa9b4ea6f751f9219",
+   "url": "https://web.skyvault-assets.xyz/Moviesda.Mobi_-_Haiku_2026_Original_720p_HD_(950_MB).mp4?htag=55f5a560d4c8de5c9e337a13361f7020d350d174b1a7aad2ff6a38eb43a5f1c5&etag=1795503947&ztag=a727039c9ea9c8040297aa2569d70e5d1ccd36577012b01e6b3b9a06ab0e4fe9",
    "behaviorHints": {
     "notProxy": true
    }
   },
   {
    "title": "720p • MoviesDa",
-   "url": "https://app.kollybytes.xyz/Moviesda.Mobi_-_Haiku_2026_Original_720p_HD.mp4?htag=2eae85cb8c73bccf74d3193b76d7945edec1f20f8d6def653e95000b70c77bc9&etag=1795439107&ztag=f2f9b6a7339e6d50a35810a5556c363d5822db3fe291ed4fe74d0c5a1af53b99",
+   "url": "https://app.kollybytes.xyz/Moviesda.Mobi_-_Haiku_2026_Original_720p_HD.mp4?htag=dd4b93507ecc1091c52f083b1bc4cbcdddb43fa775806490f5b570f092f08489&etag=1795503951&ztag=bd5bec7c6cf3838adde719cbf78cd72437f8e7a8369a93e62b5f23408ba192b6",
    "behaviorHints": {
     "notProxy": true
    }
