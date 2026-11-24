@@ -1,132 +1,6 @@
 {
  "metas": [
   {
-   "id": "moviesda:happy-journey-2026",
-   "type": "movie",
-   "name": "Happy Journey",
-   "poster": "",
-   "releaseInfo": "2026"
-  },
-  {
-   "id": "moviesda:mayookha-2026",
-   "type": "movie",
-   "name": "Mayookha",
-   "poster": "",
-   "releaseInfo": "2026"
-  },
-  {
-   "id": "moviesda:sathyavan-savithiri-2026",
-   "type": "movie",
-   "name": "Sathyavan Savithiri",
-   "poster": "",
-   "releaseInfo": "2026"
-  },
-  {
-   "id": "moviesda:anomie-2026",
-   "type": "movie",
-   "name": "Anomie",
-   "poster": "",
-   "releaseInfo": "2026"
-  },
-  {
-   "id": "moviesda:aot-2026",
-   "type": "movie",
-   "name": "AOT",
-   "poster": "",
-   "releaseInfo": "2026"
-  },
-  {
-   "id": "moviesda:om-operation-mole-2026",
-   "type": "movie",
-   "name": "OM Operation Mole",
-   "poster": "",
-   "releaseInfo": "2026"
-  },
-  {
-   "id": "moviesda:418-2026",
-   "type": "movie",
-   "name": "418",
-   "poster": "",
-   "releaseInfo": "2026"
-  },
-  {
-   "id": "moviesda:drones-2026",
-   "type": "movie",
-   "name": "Drones",
-   "poster": "",
-   "releaseInfo": "2026"
-  },
-  {
-   "id": "moviesda:haiku-2026",
-   "type": "movie",
-   "name": "Haiku",
-   "poster": "",
-   "releaseInfo": "2026"
-  },
-  {
-   "id": "moviesda:anbil-avan-2026",
-   "type": "movie",
-   "name": "Anbil Avan",
-   "poster": "",
-   "releaseInfo": "2026"
-  },
-  {
-   "id": "moviesda:saayavanam-2026",
-   "type": "movie",
-   "name": "Saayavanam",
-   "poster": "",
-   "releaseInfo": "2026"
-  },
-  {
-   "id": "moviesda:crazy-kalyanam-2026",
-   "type": "movie",
-   "name": "Crazy Kalyanam",
-   "poster": "",
-   "releaseInfo": "2026"
-  },
-  {
-   "id": "moviesda:cult-2026",
-   "type": "movie",
-   "name": "Cult",
-   "poster": "",
-   "releaseInfo": "2026"
-  },
-  {
-   "id": "moviesda:kiku-chiranjeevi-2026",
-   "type": "movie",
-   "name": "Kiku Chiranjeevi",
-   "poster": "",
-   "releaseInfo": "2026"
-  },
-  {
-   "id": "moviesda:premada-oorali-2026",
-   "type": "movie",
-   "name": "Premada Oorali",
-   "poster": "",
-   "releaseInfo": "2026"
-  },
-  {
-   "id": "moviesda:john-doe-2026",
-   "type": "movie",
-   "name": "John Doe",
-   "poster": "",
-   "releaseInfo": "2026"
-  },
-  {
-   "id": "moviesda:maaya-oviyan-2026",
-   "type": "movie",
-   "name": "Maaya Oviyan",
-   "poster": "",
-   "releaseInfo": "2026"
-  },
-  {
-   "id": "moviesda:sandakari-2026",
-   "type": "movie",
-   "name": "Sandakari",
-   "poster": "",
-   "releaseInfo": "2026"
-  },
-  {
    "id": "moviesda:konjam-kadhal-konjam-modhal-2025",
    "type": "movie",
    "name": "Konjam Kadhal Konjam Modhal",
@@ -151,6 +25,90 @@
    "id": "moviesda:kombuseevi-2025",
    "type": "movie",
    "name": "Kombuseevi",
+   "poster": "",
+   "releaseInfo": "2025"
+  },
+  {
+   "id": "moviesda:ipl-indian-penal-law-2025",
+   "type": "movie",
+   "name": "IPL Indian Penal Law",
+   "poster": "",
+   "releaseInfo": "2025"
+  },
+  {
+   "id": "moviesda:tere-ishk-mein-2025",
+   "type": "movie",
+   "name": "Tere Ishk Mein",
+   "poster": "",
+   "releaseInfo": "2025"
+  },
+  {
+   "id": "moviesda:mark-2025",
+   "type": "movie",
+   "name": "Mark",
+   "poster": "",
+   "releaseInfo": "2025"
+  },
+  {
+   "id": "moviesda:sirai-2025",
+   "type": "movie",
+   "name": "Sirai",
+   "poster": "",
+   "releaseInfo": "2025"
+  },
+  {
+   "id": "moviesda:retta-thala-2025",
+   "type": "movie",
+   "name": "Retta Thala",
+   "poster": "",
+   "releaseInfo": "2025"
+  },
+  {
+   "id": "moviesda:rippan-swamy-2025",
+   "type": "movie",
+   "name": "Rippan Swamy",
+   "poster": "",
+   "releaseInfo": "2025"
+  },
+  {
+   "id": "moviesda:bha-bha-ba-2025",
+   "type": "movie",
+   "name": "Bha Bha Ba",
+   "poster": "",
+   "releaseInfo": "2025"
+  },
+  {
+   "id": "moviesda:bank-of-bhagyalakshmi-2025",
+   "type": "movie",
+   "name": "Bank of Bhagyalakshmi",
+   "poster": "",
+   "releaseInfo": "2025"
+  },
+  {
+   "id": "moviesda:dhandoraa-2025",
+   "type": "movie",
+   "name": "Dhandoraa",
+   "poster": "",
+   "releaseInfo": "2025"
+  },
+  {
+   "id": "moviesda:simple-manusan-2025",
+   "type": "movie",
+   "name": "Simple Manusan",
+   "poster": "",
+   "releaseInfo": "2025"
+  },
+  {
+   "id": "moviesda:mowgli-2025",
+   "type": "movie",
+   "name": "Mowgli",
+   "poster": "",
+   "releaseInfo": "2025"
+  },
+  {
+   "id": "moviesda:mask-2025",
+   "type": "movie",
+   "name": "Mask",
    "poster": "",
    "releaseInfo": "2025"
   }
