@@ -1,0 +1,18 @@
+{
+ "streams": [
+  {
+   "title": "1080p • MoviesDa",
+   "url": "https://web.skyvault-assets.xyz/Moviesda.Mobi_-_Maaya_Oviyan_2026_Original_1080p_HD_(3.0_GB).mp4?htag=1b5d6224db0196c08d34f123927fb2cf302f2731a1cfdb56eeb32ee44036351c&etag=1795548340&ztag=f74291b51ee2e6f5422f750dab40e0f42dc538f41801b3551d3957559383e768",
+   "behaviorHints": {
+    "notProxy": true
+   }
+  },
+  {
+   "title": "720p • MoviesDa",
+   "url": "https://web.skyvault-assets.xyz/Moviesda.Mobi_-_Maaya_Oviyan_2026_Original_720p_HD.mp4?htag=1e3f403ec3237eaf197ab35c846147dc3748fd6df7dbcc6f3bde61ef78e5dd03&etag=1795548352&ztag=35ddc63dc8730551eac28904df99fff7dcc67189ddf7d8d4a761c1e96893105f",
+   "behaviorHints": {
+    "notProxy": true
+   }
+  }
+ ]
+}

@@ -1,0 +1,46 @@
+{
+ "streams": [
+  {
+   "title": "1080p • MoviesDa",
+   "url": "https://web.skyvault-assets.xyz/OM_Operation_Mole_2026_HQ_PreDVD_(v2)_1080p_HD.mp4?htag=fc268bee68d72b844f8aef172fb96e131c2916ec4ceada0a7eb578ea881339c4&etag=1795547886&ztag=4cee3afd7a27d0b36d6f6905545b9c919bd12549b99ab1f87a888fe395b880c7",
+   "behaviorHints": {
+    "notProxy": true
+   }
+  },
+  {
+   "title": "1080p • MoviesDa",
+   "url": "https://web.skyvault-assets.xyz/OM_Operation_Mole_2026_HQ_PreDVD_1080p_HD.mp4?htag=a180786ee5df348136b0718cb2edde11f41188209306d4156f6a6b0a8f501035&etag=1795547915&ztag=fbcfb570d7c65a963c1f3adb8fb68c78a39c6fab8804509ecda4000d34d91487",
+   "behaviorHints": {
+    "notProxy": true
+   }
+  },
+  {
+   "title": "720p • MoviesDa",
+   "url": "https://site.fileraja.click/OM_Operation_Mole_2026_HQ_PreDVD_(v2)_720p_HD.mp4?htag=a945f98cf6fd0a3a2cbca7cb85da15d2563feedd617c1cd2a6ca50d091dff0f0&etag=1795547896&ztag=52350c9c02497adc68a2364f7ab44ac936a8c47f71d8c54c1671b613547ade23",
+   "behaviorHints": {
+    "notProxy": true
+   }
+  },
+  {
+   "title": "720p • MoviesDa",
+   "url": "https://web.skyvault-assets.xyz/OM_Operation_Mole_2026_HQ_PreDVD_(v2)_720p_HD_(950_MB).mp4?htag=465ec59f272006d04b41c79192306384f5ff7baf6c053fd24257f44321509fcb&etag=1795547901&ztag=e764fe79994ada2bd70cca3f1e191c2585383013e44a8ca1ff3ca1948643080b",
+   "behaviorHints": {
+    "notProxy": true
+   }
+  },
+  {
+   "title": "720p • MoviesDa",
+   "url": "https://api.5a4a40ed2b55cf97fd7bf598ab40ae72.r2.cloudflarestorage.com/OM_Operation_Mole_2026_HQ_PreDVD_720p_HD.mp4?response-content-disposition=attachment%3B%20filename%3D%22OM_Operation_Mole_2026_HQ_PreDVD_720p_HD.mp4%22&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=dc771f1df4495bfae12cf86b2fdcfb97%2F20261124%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20261124T191845Z&X-Amz-SignedHeaders=host&X-Amz-Expires=172800&X-Amz-Signature=910ee6d626e1ad411ba8d34d74eb3c641e04cb124a44d09857f7cad7fabba901",
+   "behaviorHints": {
+    "notProxy": true
+   }
+  },
+  {
+   "title": "720p • MoviesDa",
+   "url": "https://kw0.fa0315d9451661c39a65cc06a763bff4.r2.cloudflarestorage.com/OM_Operation_Mole_2026_HQ_PreDVD_720p_HD_%28950_MB%29.mp4?response-content-disposition=attachment%3B%20filename%3D%22OM_Operation_Mole_2026_HQ_PreDVD_720p_HD_%28950_MB%29.mp4%22&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=a313d287945e55eee26f0779b9fb7028%2F20261124%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20261124T191850Z&X-Amz-SignedHeaders=host&X-Amz-Expires=172800&X-Amz-Signature=59d76a4ae98ef757fb0d3692fa06a7012ee1bc0d6f888c5bfbffa99245feef55",
+   "behaviorHints": {
+    "notProxy": true
+   }
+  }
+ ]
+}

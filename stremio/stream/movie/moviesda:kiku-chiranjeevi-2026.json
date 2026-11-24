@@ -1,0 +1,18 @@
+{
+ "streams": [
+  {
+   "title": "1080p • MoviesDa",
+   "url": "https://md0.ddd4e6375c4ccc2c2b37f71c5ff555a5.r2.cloudflarestorage.com/Kiku_Chiranjeevi_2026_Original_1080p_HD_%282.9_GB%29.mp4?response-content-disposition=attachment%3B%20filename%3D%22Kiku_Chiranjeevi_2026_Original_1080p_HD_%282.9_GB%29.mp4%22&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ab9a9407454977c1f0e6cbb0e5a749e1%2F20261124%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20261124T192342Z&X-Amz-SignedHeaders=host&X-Amz-Expires=172800&X-Amz-Signature=f76b71c1e738e10d88679a188c1c1a59acf7f1b7b911f00e4f5d7154fa3f59a6",
+   "behaviorHints": {
+    "notProxy": true
+   }
+  },
+  {
+   "title": "720p • MoviesDa",
+   "url": "https://fastspot.fa5a10fde41b12986512801a600ce280.r2.cloudflarestorage.com/Kiku_Chiranjeevi_2026_Original_720p_HD.mp4?response-content-disposition=attachment%3B%20filename%3D%22Kiku_Chiranjeevi_2026_Original_720p_HD.mp4%22&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=81db46c88a0391c9219abfd7fe69f5b5%2F20261124%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20261124T192353Z&X-Amz-SignedHeaders=host&X-Amz-Expires=172800&X-Amz-Signature=4e19d5cfb987aaeb2043b38925f087a53b28e6bde32764a2c4d22018a1606bfc",
+   "behaviorHints": {
+    "notProxy": true
+   }
+  }
+ ]
+}

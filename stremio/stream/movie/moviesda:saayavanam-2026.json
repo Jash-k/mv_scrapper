@@ -1,0 +1,18 @@
+{
+ "streams": [
+  {
+   "title": "1080p • MoviesDa",
+   "url": "https://api.5a4a40ed2b55cf97fd7bf598ab40ae72.r2.cloudflarestorage.com/Moviesda.Mobi_-_Saayavanam_2026_Original_1080p_HD_%281.8_GB%29.mp4?response-content-disposition=attachment%3B%20filename%3D%22Moviesda.Mobi_-_Saayavanam_2026_Original_1080p_HD_%281.8_GB%29.mp4%22&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=dc771f1df4495bfae12cf86b2fdcfb97%2F20261124%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20261124T192146Z&X-Amz-SignedHeaders=host&X-Amz-Expires=172800&X-Amz-Signature=7b5148f4327bc3c9b986787a1b45dc2dfc636a5669f7af7bb392baec15bb832f",
+   "behaviorHints": {
+    "notProxy": true
+   }
+  },
+  {
+   "title": "720p • MoviesDa",
+   "url": "https://app.kollybytes.xyz/Moviesda.Mobi_-_Saayavanam_2026_Original_720p_HD.mp4?htag=99fa0eefee6cb43f269d2d382f170ea988f3c699388a940b55773f7abf6abd82&etag=1795548117&ztag=7ac824926924b4a632e54e4c3d301977768cb193868e08aaeefac20c109eeea3",
+   "behaviorHints": {
+    "notProxy": true
+   }
+  }
+ ]
+}

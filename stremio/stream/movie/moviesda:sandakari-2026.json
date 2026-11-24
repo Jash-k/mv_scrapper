@@ -1,0 +1,32 @@
+{
+ "streams": [
+  {
+   "title": "1080p • MoviesDa",
+   "url": "https://fastspot.fa5a10fde41b12986512801a600ce280.r2.cloudflarestorage.com/Moviesda.Mobi_-_Sandakari_2026_Original_1080p_HD_%283.6_GB%29.mp4?response-content-disposition=attachment%3B%20filename%3D%22Moviesda.Mobi_-_Sandakari_2026_Original_1080p_HD_%283.6_GB%29.mp4%22&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=81db46c88a0391c9219abfd7fe69f5b5%2F20261124%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20261124T192613Z&X-Amz-SignedHeaders=host&X-Amz-Expires=172800&X-Amz-Signature=76bb19b672302b96306870c8864a1dd61152406e69a5e67b1da1ed73db57bbc8",
+   "behaviorHints": {
+    "notProxy": true
+   }
+  },
+  {
+   "title": "1080p • MoviesDa",
+   "url": "https://site.fileraja.click/Moviesda.Mobi_-_Sandakari_2026_Original_1080p_HD.mp4?htag=8f8e10027ef303b68d8ce4bdf19e9e948bf033997792aff4c07cdbb93d81b090&etag=1795548380&ztag=b65527f6b27f083a0c1faf050b54e2a981db74e78b85f0a051acb6c8e73bc2c3",
+   "behaviorHints": {
+    "notProxy": true
+   }
+  },
+  {
+   "title": "720p • MoviesDa",
+   "url": "https://site.fileraja.click/Moviesda.Mobi_-_Sandakari_2026_Original_720p_HD.mp4?htag=db694cc60a1e88031207db8769222feadfc28789ae0b66aed9cf542e37686d3b&etag=1795548391&ztag=868c4c50e2d64f86b37055edddc04878e1e9b30e9b78b94a6021af5884c87085",
+   "behaviorHints": {
+    "notProxy": true
+   }
+  },
+  {
+   "title": "720p • MoviesDa",
+   "url": "https://site.fileraja.click/Moviesda.Mobi_-_Sandakari_2026_Original_720p_HD_(900_MB).mp4?htag=0851eec914f31058f8b5e3d8024f5c8f200e09b459c63e222cfbd9d3d47ee865&etag=1795548397&ztag=7f664256a2e7df1617444e5440803d227f151bf93db19f916af2160ad41fbd9a",
+   "behaviorHints": {
+    "notProxy": true
+   }
+  }
+ ]
+}
