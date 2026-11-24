@@ -2,21 +2,21 @@
  "streams": [
   {
    "title": "1080p • MoviesDa",
-   "url": "https://web.skyvault-assets.xyz/AOT_2026_HQ_PreDVD_1080p_HD.mp4?htag=76c4610ab7169b02b31bb2fd30b5988c1b9c1c4b61c4ee680b4a78cb5c619468&etag=1795503816&ztag=fe43931c368d2e6ebca2de08af0306b1127fea57afd2c49bd82aa9e7ccd005b9",
+   "url": "https://api.5a4a40ed2b55cf97fd7bf598ab40ae72.r2.cloudflarestorage.com/AOT_2026_HQ_PreDVD_1080p_HD.mp4?response-content-disposition=attachment%3B%20filename%3D%22AOT_2026_HQ_PreDVD_1080p_HD.mp4%22&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=dc771f1df4495bfae12cf86b2fdcfb97%2F20261124%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20261124T130349Z&X-Amz-SignedHeaders=host&X-Amz-Expires=172800&X-Amz-Signature=00e49a26a55a1fea808f6ab794df19e8cc4d79376b9405e92f9e5f7d9dfb6e69",
    "behaviorHints": {
     "notProxy": true
    }
   },
   {
    "title": "720p • MoviesDa",
-   "url": "https://fastspot.fa5a10fde41b12986512801a600ce280.r2.cloudflarestorage.com/AOT_2026_HQ_PreDVD_720p_HD.mp4?response-content-disposition=attachment%3B%20filename%3D%22AOT_2026_HQ_PreDVD_720p_HD.mp4%22&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=81db46c88a0391c9219abfd7fe69f5b5%2F20261124%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20261124T070342Z&X-Amz-SignedHeaders=host&X-Amz-Expires=172800&X-Amz-Signature=3b204bbf432210f9d7fb870806801bdce96e5af2986342e71397698aa1fd3b56",
+   "url": "https://site.fileraja.click/AOT_2026_HQ_PreDVD_720p_HD.mp4?htag=4d23409f548551cce9703db16845e0669882381a01938da09b4331702be2cacc&etag=1795525436&ztag=3d84e95fa2192bf0a8d380505435e5f4225c58b03ba743015d4ef5d27d67a2bb",
    "behaviorHints": {
     "notProxy": true
    }
   },
   {
    "title": "720p • MoviesDa",
-   "url": "https://site.fileraja.click/AOT_2026_HQ_PreDVD_720p_HD_(950_MB).mp4?htag=933d0d66719dd729f442d54b3e72636a4db6762b3618fea6ffb8b20f9a77430a&etag=1795503826&ztag=42fb1e25f31aa44f06bfc9f20b098756442262af69165f50864f84b781a56913",
+   "url": "https://web.skyvault-assets.xyz/AOT_2026_HQ_PreDVD_720p_HD_(950_MB).mp4?htag=371b2b1a5ce57aca2f8fb1c0bce3f8b6e3115016a4e1a5592224b41ed2fde9b7&etag=1795525441&ztag=c1c2438cc030f045962682d2ba0e5007ae019f883a564b405801b7bae2e879c8",
    "behaviorHints": {
     "notProxy": true
    }
