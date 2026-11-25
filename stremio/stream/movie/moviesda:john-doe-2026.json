@@ -2,21 +2,21 @@
  "streams": [
   {
    "title": "1080p • MoviesDa",
-   "url": "https://site.fileraja.click/John_Doe_2026_HQ_PreDVD_1080p_HD.mp4?htag=d510a6a39107813a4658f720609a8f2792dd54b6fe24f3b336cc624f8a885ec6&etag=1795548299&ztag=2f9f0cf20a707c9c1aab67d6e0859c67879c2561cb0517446f2214c62019659b",
+   "url": "https://api.5a4a40ed2b55cf97fd7bf598ab40ae72.r2.cloudflarestorage.com/John_Doe_2026_HQ_PreDVD_1080p_HD.mp4?response-content-disposition=attachment%3B%20filename%3D%22John_Doe_2026_HQ_PreDVD_1080p_HD.mp4%22&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=dc771f1df4495bfae12cf86b2fdcfb97%2F20261125%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20261125T070824Z&X-Amz-SignedHeaders=host&X-Amz-Expires=172800&X-Amz-Signature=c78d9963b93d23283e085fd10e13ba922d0d544a51bbbfb13d745a3e8051b62d",
    "behaviorHints": {
     "notProxy": true
    }
   },
   {
    "title": "720p • MoviesDa",
-   "url": "https://site.fileraja.click/John_Doe_2026_HQ_PreDVD_720p_HD.mp4?htag=861b27fe0fc231b639f07f0de8ae2258e2a0ad8a273f3efddd3f9dc412cd2ade&etag=1795548312&ztag=df3f87596b7bfbfb38f0f93e83fbb138013e41ca91efde762445ea2d9bf7c297",
+   "url": "https://web.skyvault-assets.xyz/John_Doe_2026_HQ_PreDVD_720p_HD.mp4?htag=a19f822303f95ab852131e32939689f64c58119bad9b397395210e1d6be32ab5&etag=1795590510&ztag=cbbc88e45b29045c9385c3e279c39a82e1645a0beba6db3c023bb7c029ed1e38",
    "behaviorHints": {
     "notProxy": true
    }
   },
   {
    "title": "720p • MoviesDa",
-   "url": "https://fastspot.fa5a10fde41b12986512801a600ce280.r2.cloudflarestorage.com/John_Doe_2026_HQ_PreDVD_720p_HD_%28950_MB%29.mp4?response-content-disposition=attachment%3B%20filename%3D%22John_Doe_2026_HQ_PreDVD_720p_HD_%28950_MB%29.mp4%22&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=81db46c88a0391c9219abfd7fe69f5b5%2F20261124%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20261124T192518Z&X-Amz-SignedHeaders=host&X-Amz-Expires=172800&X-Amz-Signature=eb57022de1307ae32c41f870a83f19b689655e60f914d07f3a4f08c366941222",
+   "url": "https://web.skyvault-assets.xyz/John_Doe_2026_HQ_PreDVD_720p_HD_(950_MB).mp4?htag=78597d60d8f6766c927a9b5c1c90aba7d61612adcb38428d10b4c439ccde4d4a&etag=1795590514&ztag=b0cbd89c58bf0cc88184992ec89259cb497907c17e606ab0ca2ec1c4559026c4",
    "behaviorHints": {
     "notProxy": true
    }

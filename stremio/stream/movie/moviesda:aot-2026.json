@@ -2,21 +2,21 @@
  "streams": [
   {
    "title": "1080p • MoviesDa",
-   "url": "https://api.5a4a40ed2b55cf97fd7bf598ab40ae72.r2.cloudflarestorage.com/AOT_2026_HQ_PreDVD_1080p_HD.mp4?response-content-disposition=attachment%3B%20filename%3D%22AOT_2026_HQ_PreDVD_1080p_HD.mp4%22&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=dc771f1df4495bfae12cf86b2fdcfb97%2F20261124%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20261124T191734Z&X-Amz-SignedHeaders=host&X-Amz-Expires=172800&X-Amz-Signature=572549e12d99ee639a9e50e69a9f19574bbf4995caf6fd84604b52a21985601c",
+   "url": "https://app.kollybytes.xyz/AOT_2026_HQ_PreDVD_1080p_HD.mp4?htag=ac515ffda8488f922f0f096da512646b0d427139b5e91e1ac062da762bab49e1&etag=1795590249&ztag=146d01b82676e3ccf8b98b9b276a3e41e377c0b07e2267f33d0111135888d0f2",
    "behaviorHints": {
     "notProxy": true
    }
   },
   {
    "title": "720p • MoviesDa",
-   "url": "https://site.fileraja.click/AOT_2026_HQ_PreDVD_720p_HD.mp4?htag=9de659f7fc794b2644f040f79c7a3524558cdd116fc5c1e74dfbc9da9449e884&etag=1795547863&ztag=a2b87b4887a296719f31128d69e63455d2b0303a702daf152521df59cd0bb4e6",
+   "url": "https://app.kollybytes.xyz/AOT_2026_HQ_PreDVD_720p_HD.mp4?htag=d01ddaa790613e210c27ffa099552185a37d854d9b2ab4c80b9a0d94e4363206&etag=1795590255&ztag=4bfc4fc981233f74694665691eb005ea6e59ffb2a36d7a679cda49f0324fa7ca",
    "behaviorHints": {
     "notProxy": true
    }
   },
   {
    "title": "720p • MoviesDa",
-   "url": "https://site.fileraja.click/AOT_2026_HQ_PreDVD_720p_HD_(950_MB).mp4?htag=269d789f2bb3ed44b42f9d3223882e9ea9f33cc650b1489a4c17b772e7853c67&etag=1795547868&ztag=8706c7470c87483a066421f7238468890a6e4d0fd4f93478d2e05792a793ff93",
+   "url": "https://md0.ddd4e6375c4ccc2c2b37f71c5ff555a5.r2.cloudflarestorage.com/AOT_2026_HQ_PreDVD_720p_HD_%28950_MB%29.mp4?response-content-disposition=attachment%3B%20filename%3D%22AOT_2026_HQ_PreDVD_720p_HD_%28950_MB%29.mp4%22&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ab9a9407454977c1f0e6cbb0e5a749e1%2F20261125%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20261125T070418Z&X-Amz-SignedHeaders=host&X-Amz-Expires=172800&X-Amz-Signature=51cd412bbf5bed022fd890626959110c83a3277c018dc193317664b68fa0cb4d",
    "behaviorHints": {
     "notProxy": true
    }

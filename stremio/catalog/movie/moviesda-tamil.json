@@ -120,13 +120,6 @@
    "releaseInfo": "2026"
   },
   {
-   "id": "moviesda:sandakari-2026",
-   "type": "movie",
-   "name": "Sandakari",
-   "poster": "",
-   "releaseInfo": "2026"
-  },
-  {
    "id": "moviesda:konjam-kadhal-konjam-modhal-2025",
    "type": "movie",
    "name": "Konjam Kadhal Konjam Modhal",
@@ -151,6 +144,13 @@
    "id": "moviesda:kombuseevi-2025",
    "type": "movie",
    "name": "Kombuseevi",
+   "poster": "",
+   "releaseInfo": "2025"
+  },
+  {
+   "id": "moviesda:ipl-indian-penal-law-2025",
+   "type": "movie",
+   "name": "IPL Indian Penal Law",
    "poster": "",
    "releaseInfo": "2025"
   }

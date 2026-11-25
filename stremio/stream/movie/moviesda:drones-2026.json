@@ -2,28 +2,28 @@
  "streams": [
   {
    "title": "1080p • MoviesDa",
-   "url": "https://app.kollybytes.xyz/Moviesda.Mobi_-_Drones_2026_Original_1080p_HD_(3.5_GB).mp4?htag=a338cef4e8515b2967e65edd1d5f61a566221aafbfb76861fe0be5eeb7977cca&etag=1795547985&ztag=6c6f3f1056f2cdcef163f97123a649b6e89671da9b08afd0589e22f8309974f3",
+   "url": "https://api.5a4a40ed2b55cf97fd7bf598ab40ae72.r2.cloudflarestorage.com/Moviesda.Mobi_-_Drones_2026_Original_1080p_HD_%283.5_GB%29.mp4?response-content-disposition=attachment%3B%20filename%3D%22Moviesda.Mobi_-_Drones_2026_Original_1080p_HD_%283.5_GB%29.mp4%22&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=dc771f1df4495bfae12cf86b2fdcfb97%2F20261125%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20261125T070531Z&X-Amz-SignedHeaders=host&X-Amz-Expires=172800&X-Amz-Signature=ae77d98157e6559ecd89bd14c6573fc5867fffc0ac4f1838aa78553a49e43801",
    "behaviorHints": {
     "notProxy": true
    }
   },
   {
    "title": "1080p • MoviesDa",
-   "url": "https://fastspot.fa5a10fde41b12986512801a600ce280.r2.cloudflarestorage.com/Moviesda.Mobi_-_Drones_2026_Original_1080p_HD.mp4?response-content-disposition=attachment%3B%20filename%3D%22Moviesda.Mobi_-_Drones_2026_Original_1080p_HD.mp4%22&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=81db46c88a0391c9219abfd7fe69f5b5%2F20261124%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20261124T191950Z&X-Amz-SignedHeaders=host&X-Amz-Expires=172800&X-Amz-Signature=410c1b7ee34adb738a6542c4c50ba86bb1a3453016952d774b95ef7df92a7e7a",
+   "url": "https://web.skyvault-assets.xyz/Moviesda.Mobi_-_Drones_2026_Original_1080p_HD.mp4?htag=1a9d120f442f57d00cebb8c1e47d9bf54e5f87376f7abcdc4e242eb4042ec768&etag=1795590335&ztag=91d37b6ea406de8be99374beac505474fbc60073b587f1460e0fec775b531071",
    "behaviorHints": {
     "notProxy": true
    }
   },
   {
    "title": "720p • MoviesDa",
-   "url": "https://md0.ddd4e6375c4ccc2c2b37f71c5ff555a5.r2.cloudflarestorage.com/Moviesda.Mobi_-_Drones_2026_Original_720p_HD.mp4?response-content-disposition=attachment%3B%20filename%3D%22Moviesda.Mobi_-_Drones_2026_Original_720p_HD.mp4%22&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ab9a9407454977c1f0e6cbb0e5a749e1%2F20261124%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20261124T191959Z&X-Amz-SignedHeaders=host&X-Amz-Expires=172800&X-Amz-Signature=0dba02ac1d09eda1e8ee26bafa17075317d877bd2c8e680e9e26187e37525dc9",
+   "url": "https://api.5a4a40ed2b55cf97fd7bf598ab40ae72.r2.cloudflarestorage.com/Moviesda.Mobi_-_Drones_2026_Original_720p_HD.mp4?response-content-disposition=attachment%3B%20filename%3D%22Moviesda.Mobi_-_Drones_2026_Original_720p_HD.mp4%22&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=dc771f1df4495bfae12cf86b2fdcfb97%2F20261125%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20261125T070541Z&X-Amz-SignedHeaders=host&X-Amz-Expires=172800&X-Amz-Signature=1d58de5320c36dacf91088ac9e7a96d4cd7571d5e3d06e5ae61d376dea067ba2",
    "behaviorHints": {
     "notProxy": true
    }
   },
   {
    "title": "720p • MoviesDa",
-   "url": "https://md0.ddd4e6375c4ccc2c2b37f71c5ff555a5.r2.cloudflarestorage.com/Moviesda.Mobi_-_Drones_2026_Original_720p_HD_%28600_MB%29.mp4?response-content-disposition=attachment%3B%20filename%3D%22Moviesda.Mobi_-_Drones_2026_Original_720p_HD_%28600_MB%29.mp4%22&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ab9a9407454977c1f0e6cbb0e5a749e1%2F20261124%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20261124T192005Z&X-Amz-SignedHeaders=host&X-Amz-Expires=172800&X-Amz-Signature=0fb0005c5285b53a925c26780d6d69daca8881e76ee7f45a5adf0dec75ebe46f",
+   "url": "https://web.skyvault-assets.xyz/Moviesda.Mobi_-_Drones_2026_Original_720p_HD_(600_MB).mp4?htag=2efea986afdbf0f9819ff8a55d461bbb51fb4a5280f68f6e6f4b0f25f2a3bb18&etag=1795590344&ztag=5fd6b2355c93f7fd6dd9e485d109a5bd2c58174df53a4b5ee92275f9510f0d5c",
    "behaviorHints": {
     "notProxy": true
    }
