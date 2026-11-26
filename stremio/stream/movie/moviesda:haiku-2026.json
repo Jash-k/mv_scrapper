@@ -2,28 +2,28 @@
  "streams": [
   {
    "title": "1080p • MoviesDa",
-   "url": "https://api.5a4a40ed2b55cf97fd7bf598ab40ae72.r2.cloudflarestorage.com/Moviesda.Mobi_-_Haiku_2026_Original_1080p_HD_%283.6_GB%29.mp4?response-content-disposition=attachment%3B%20filename%3D%22Moviesda.Mobi_-_Haiku_2026_Original_1080p_HD_%283.6_GB%29.mp4%22&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=dc771f1df4495bfae12cf86b2fdcfb97%2F20261126%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20261126T010720Z&X-Amz-SignedHeaders=host&X-Amz-Expires=172800&X-Amz-Signature=aea3cb72d3446bf403b52a61dd356ec2d64be3ad7776bebd2aed9013b8f1e651",
+   "url": "https://fastspot.fa5a10fde41b12986512801a600ce280.r2.cloudflarestorage.com/Moviesda.Mobi_-_Haiku_2026_Original_1080p_HD_%283.6_GB%29.mp4?response-content-disposition=attachment%3B%20filename%3D%22Moviesda.Mobi_-_Haiku_2026_Original_1080p_HD_%283.6_GB%29.mp4%22&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=81db46c88a0391c9219abfd7fe69f5b5%2F20261126%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20261126T063153Z&X-Amz-SignedHeaders=host&X-Amz-Expires=172800&X-Amz-Signature=553c143df13cdb3bf40a8c443b9853ca42ce7d00b79e90c0acefee2a81cb2ceb",
    "behaviorHints": {
     "notProxy": true
    }
   },
   {
    "title": "1080p • MoviesDa",
-   "url": "https://md0.ddd4e6375c4ccc2c2b37f71c5ff555a5.r2.cloudflarestorage.com/Moviesda.Mobi_-_Haiku_2026_Original_1080p_HD.mp4?response-content-disposition=attachment%3B%20filename%3D%22Moviesda.Mobi_-_Haiku_2026_Original_1080p_HD.mp4%22&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ab9a9407454977c1f0e6cbb0e5a749e1%2F20261126%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20261126T010724Z&X-Amz-SignedHeaders=host&X-Amz-Expires=172800&X-Amz-Signature=6c9c38294ecaefbf42aa1914eec72cc28de0ab069ab836810c4083f33abafb65",
+   "url": "https://app.kollybytes.xyz/Moviesda.Mobi_-_Haiku_2026_Original_1080p_HD.mp4?htag=245bc8d53e19ca2ef6ba9df8e9dba68f205c69aa23311b3fddbf5f305b4807da&etag=1795674718&ztag=a39f8737ecc378ef1488a7ce00bf783654600a438e92ea51becac49269d18839",
    "behaviorHints": {
     "notProxy": true
    }
   },
   {
    "title": "720p • MoviesDa",
-   "url": "https://api.5a4a40ed2b55cf97fd7bf598ab40ae72.r2.cloudflarestorage.com/Moviesda.Mobi_-_Haiku_2026_Original_720p_HD_%28950_MB%29.mp4?response-content-disposition=attachment%3B%20filename%3D%22Moviesda.Mobi_-_Haiku_2026_Original_720p_HD_%28950_MB%29.mp4%22&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=dc771f1df4495bfae12cf86b2fdcfb97%2F20261126%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20261126T010730Z&X-Amz-SignedHeaders=host&X-Amz-Expires=172800&X-Amz-Signature=8adc0a040b42f13a4baf0ab44f6abd835daa05549c4a99c14abe0d7c2fe7dc2c",
+   "url": "https://md0.ddd4e6375c4ccc2c2b37f71c5ff555a5.r2.cloudflarestorage.com/Moviesda.Mobi_-_Haiku_2026_Original_720p_HD_%28950_MB%29.mp4?response-content-disposition=attachment%3B%20filename%3D%22Moviesda.Mobi_-_Haiku_2026_Original_720p_HD_%28950_MB%29.mp4%22&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ab9a9407454977c1f0e6cbb0e5a749e1%2F20261126%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20261126T063208Z&X-Amz-SignedHeaders=host&X-Amz-Expires=172800&X-Amz-Signature=c9c2b61ce3c276cdc720ebc6a143a20f846c0af16cf438e34e9154635d919c48",
    "behaviorHints": {
     "notProxy": true
    }
   },
   {
    "title": "720p • MoviesDa",
-   "url": "https://md0.ddd4e6375c4ccc2c2b37f71c5ff555a5.r2.cloudflarestorage.com/Moviesda.Mobi_-_Haiku_2026_Original_720p_HD.mp4?response-content-disposition=attachment%3B%20filename%3D%22Moviesda.Mobi_-_Haiku_2026_Original_720p_HD.mp4%22&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ab9a9407454977c1f0e6cbb0e5a749e1%2F20261126%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20261126T010733Z&X-Amz-SignedHeaders=host&X-Amz-Expires=172800&X-Amz-Signature=c2b5f40f5829360b02650cbe71a524491d34005d09b08268cb3a28aa969ab49c",
+   "url": "https://site.fileraja.click/Moviesda.Mobi_-_Haiku_2026_Original_720p_HD.mp4?htag=05f6ea3a695baf05988ab3f060e0a5705161f789076dc4cfade9cfd91a40f5a3&etag=1795674733&ztag=bb19d64933781a507cf80b97e4910ee15212133e91dfe5c7c8b5f05908bde454",
    "behaviorHints": {
     "notProxy": true
    }
