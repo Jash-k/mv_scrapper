@@ -1,0 +1,32 @@
+{
+ "streams": [
+  {
+   "title": "1080p • MoviesDa",
+   "url": "https://md0.ddd4e6375c4ccc2c2b37f71c5ff555a5.r2.cloudflarestorage.com/Moviesda.Mobi_-_Mookuthi_Amman_2_2026_Original_1080p_HD.mp4?response-content-disposition=attachment%3B%20filename%3D%22Moviesda.Mobi_-_Mookuthi_Amman_2_2026_Original_1080p_HD.mp4%22&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ab9a9407454977c1f0e6cbb0e5a749e1%2F20261125%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20261125T235643Z&X-Amz-SignedHeaders=host&X-Amz-Expires=172800&X-Amz-Signature=7eddcb8123a7e984bc131cce32a43de3e709f2a1a1de98d7e356474f55e03b1e",
+   "behaviorHints": {
+    "notProxy": true
+   }
+  },
+  {
+   "title": "1080p • MoviesDa",
+   "url": "https://app.kollybytes.xyz/Moviesda.Mobi_-_Mookuthi_Amman_2_2026_Original_1080p_HD_(1.6_GB).mp4?htag=ce07ab8c8e463333fe43bc9813fa1957faaa68391fd5b1e5abe6d94c2e5deac1&etag=1795651007&ztag=f0f4e29bbbce02c8bc8b10bd999d9c8399b4d9fd6382cd43229f0058b84077f3",
+   "behaviorHints": {
+    "notProxy": true
+   }
+  },
+  {
+   "title": "720p • MoviesDa",
+   "url": "https://kw0.fa0315d9451661c39a65cc06a763bff4.r2.cloudflarestorage.com/Moviesda.Mobi_-_Mookuthi_Amman_2_2026_Original_720p_HD_%28900_MB%29.mp4?response-content-disposition=attachment%3B%20filename%3D%22Moviesda.Mobi_-_Mookuthi_Amman_2_2026_Original_720p_HD_%28900_MB%29.mp4%22&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=a313d287945e55eee26f0779b9fb7028%2F20261125%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20261125T235653Z&X-Amz-SignedHeaders=host&X-Amz-Expires=172800&X-Amz-Signature=01148a1389255c896a259b2b38c1bc663a69a5032c014b115308121017595d47",
+   "behaviorHints": {
+    "notProxy": true
+   }
+  },
+  {
+   "title": "720p • MoviesDa",
+   "url": "https://fastspot.fa5a10fde41b12986512801a600ce280.r2.cloudflarestorage.com/Moviesda.Mobi_-_Mookuthi_Amman_2_2026_Original_720p_HD.mp4?response-content-disposition=attachment%3B%20filename%3D%22Moviesda.Mobi_-_Mookuthi_Amman_2_2026_Original_720p_HD.mp4%22&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=81db46c88a0391c9219abfd7fe69f5b5%2F20261125%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20261125T235657Z&X-Amz-SignedHeaders=host&X-Amz-Expires=172800&X-Amz-Signature=a136cb05f9f3370506a9ec970e25e7ac7bc184d340b03efbc8bf6e9844cb959c",
+   "behaviorHints": {
+    "notProxy": true
+   }
+  }
+ ]
+}

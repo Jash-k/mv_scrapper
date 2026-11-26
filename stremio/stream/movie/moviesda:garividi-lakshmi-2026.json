@@ -1,0 +1,32 @@
+{
+ "streams": [
+  {
+   "title": "1080p • MoviesDa",
+   "url": "https://md0.ddd4e6375c4ccc2c2b37f71c5ff555a5.r2.cloudflarestorage.com/Moviesda.Mobi_-_Garividi_Lakshmi_2026_Original_1080p_HD_%283.6_GB%29.mp4?response-content-disposition=attachment%3B%20filename%3D%22Moviesda.Mobi_-_Garividi_Lakshmi_2026_Original_1080p_HD_%283.6_GB%29.mp4%22&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ab9a9407454977c1f0e6cbb0e5a749e1%2F20261125%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20261125T235618Z&X-Amz-SignedHeaders=host&X-Amz-Expires=172800&X-Amz-Signature=d967253f3ace9112b8cd66e54c36e2f2a3de1d8ee5eeb280e0c05d861f366788",
+   "behaviorHints": {
+    "notProxy": true
+   }
+  },
+  {
+   "title": "1080p • MoviesDa",
+   "url": "https://app.kollybytes.xyz/Moviesda.Mobi_-_Garividi_Lakshmi_2026_Original_1080p_HD.mp4?htag=7ff905913a7066568a6315b4bf9bec71461a26eb2a41c08b03fd0507095d6dcd&etag=1795650981&ztag=c8a5c9da74baf218b237cb01f233ba58948d8c22ae222da7e52194b0fa1ccbf4",
+   "behaviorHints": {
+    "notProxy": true
+   }
+  },
+  {
+   "title": "720p • MoviesDa",
+   "url": "https://site.fileraja.click/Moviesda.Mobi_-_Garividi_Lakshmi_2026_Original_720p_HD.mp4?htag=562f4bd3f2d9a357303d2563a48c534c41a8d151ca8ba09f5eb9770560e095c6&etag=1795650988&ztag=17dab2bd795187d66912dc3331dcf1cf903622296a15cc80aeb4a245da433e91",
+   "behaviorHints": {
+    "notProxy": true
+   }
+  },
+  {
+   "title": "720p • MoviesDa",
+   "url": "https://md0.ddd4e6375c4ccc2c2b37f71c5ff555a5.r2.cloudflarestorage.com/Moviesda.Mobi_-_Garividi_Lakshmi_2026_Original_720p_HD_%28850_MB%29.mp4?response-content-disposition=attachment%3B%20filename%3D%22Moviesda.Mobi_-_Garividi_Lakshmi_2026_Original_720p_HD_%28850_MB%29.mp4%22&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ab9a9407454977c1f0e6cbb0e5a749e1%2F20261125%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20261125T235631Z&X-Amz-SignedHeaders=host&X-Amz-Expires=172800&X-Amz-Signature=fa4df7ad5bcd4e1d5c12912d5883ed8f6c8130a21a64674cdb81e6fa8804a6da",
+   "behaviorHints": {
+    "notProxy": true
+   }
+  }
+ ]
+}

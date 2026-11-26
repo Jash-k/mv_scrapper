@@ -1,6 +1,20 @@
 {
  "metas": [
   {
+   "id": "moviesda:garividi-lakshmi-2026",
+   "type": "movie",
+   "name": "Garividi Lakshmi",
+   "poster": "",
+   "releaseInfo": "2026"
+  },
+  {
+   "id": "moviesda:mookuthi-amman-2-2026",
+   "type": "movie",
+   "name": "Mookuthi Amman 2",
+   "poster": "",
+   "releaseInfo": "2026"
+  },
+  {
    "id": "moviesda:happy-journey-2026",
    "type": "movie",
    "name": "Happy Journey",
@@ -57,16 +71,16 @@
    "releaseInfo": "2026"
   },
   {
-   "id": "moviesda:haiku-2026",
+   "id": "moviesda:anbil-avan-2026",
    "type": "movie",
-   "name": "Haiku",
+   "name": "Anbil Avan",
    "poster": "",
    "releaseInfo": "2026"
   },
   {
-   "id": "moviesda:anbil-avan-2026",
+   "id": "moviesda:haiku-2026",
    "type": "movie",
-   "name": "Anbil Avan",
+   "name": "Haiku",
    "poster": "",
    "releaseInfo": "2026"
   },
@@ -102,20 +116,6 @@
    "id": "moviesda:premada-oorali-2026",
    "type": "movie",
    "name": "Premada Oorali",
-   "poster": "",
-   "releaseInfo": "2026"
-  },
-  {
-   "id": "moviesda:john-doe-2026",
-   "type": "movie",
-   "name": "John Doe",
-   "poster": "",
-   "releaseInfo": "2026"
-  },
-  {
-   "id": "moviesda:maaya-oviyan-2026",
-   "type": "movie",
-   "name": "Maaya Oviyan",
    "poster": "",
    "releaseInfo": "2026"
   },
