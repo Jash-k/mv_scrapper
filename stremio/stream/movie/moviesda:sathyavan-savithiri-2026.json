@@ -2,21 +2,21 @@
  "streams": [
   {
    "title": "1080p • MoviesDa",
-   "url": "https://app.kollybytes.xyz/Sathyavan_Savithiri_2026_HQ_PreDVD_1080p_HD.mp4?htag=16838df4e3160c328b377475eeadf08e8a6c48b66a6e8d2f81c6194a6599fd8b&etag=1795676696&ztag=d0e05cf2ad842ec8b7cca048739d5a3d9b553560ef4b30315acaa49443be904c",
+   "url": "https://api.5a4a40ed2b55cf97fd7bf598ab40ae72.r2.cloudflarestorage.com/Sathyavan_Savithiri_2026_HQ_PreDVD_1080p_HD.mp4?response-content-disposition=attachment%3B%20filename%3D%22Sathyavan_Savithiri_2026_HQ_PreDVD_1080p_HD.mp4%22&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=dc771f1df4495bfae12cf86b2fdcfb97%2F20261126%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20261126T130511Z&X-Amz-SignedHeaders=host&X-Amz-Expires=172800&X-Amz-Signature=099ad04cc91a02a6bb11545c36709d208bd1fc43ef9fc0d9ecaa95442d262c2a",
    "behaviorHints": {
     "notProxy": true
    }
   },
   {
    "title": "720p • MoviesDa",
-   "url": "https://site.fileraja.click/Sathyavan_Savithiri_2026_HQ_PreDVD_720p_HD.mp4?htag=5da19cade2bf2e571da30f9ad2d9bb49ccf3cda5016bb8475b3d7412aaa8c22f&etag=1795676703&ztag=9ae5f2e1ff6f1524f523642abc4d4fc93b338ae91955e00fff448b32d2dd1259",
+   "url": "https://app.kollybytes.xyz/Sathyavan_Savithiri_2026_HQ_PreDVD_720p_HD.mp4?htag=d2cba4a0659f46b8cd57f69e4fde085fd3e9ab31991e3549d1757dfb8377b254&etag=1795698318&ztag=433a9c6b78239f33ebc9b65793faabf5eca130fc18a3d3158c6cd0cd9446234b",
    "behaviorHints": {
     "notProxy": true
    }
   },
   {
    "title": "720p • MoviesDa",
-   "url": "https://app.kollybytes.xyz/Sathyavan_Savithiri_2026_HQ_PreDVD_720p_HD_(950_MB).mp4?htag=5db2584aea7ace506381df1f148e03ae5de20ddfc09cddbc3f30c4d293a27d69&etag=1795676706&ztag=1e187af2092542c21768bb93edee4298bf13b39885d2a7de791ef79fbb4a6175",
+   "url": "https://site.fileraja.click/Sathyavan_Savithiri_2026_HQ_PreDVD_720p_HD_(950_MB).mp4?htag=05b53f02bbe4ffb819f4ef0d3250d47406e034739db9832e8fc30365fc448dfe&etag=1795698322&ztag=f1ab518e6e18a166acc1140167bcef1277b77f1e16ba4c8ab55a185998801f78",
    "behaviorHints": {
     "notProxy": true
    }
