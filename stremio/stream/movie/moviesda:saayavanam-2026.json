@@ -2,14 +2,14 @@
  "streams": [
   {
    "title": "1080p • MoviesDa",
-   "url": "https://fastspot.fa5a10fde41b12986512801a600ce280.r2.cloudflarestorage.com/Moviesda.Mobi_-_Saayavanam_2026_Original_1080p_HD_%281.8_GB%29.mp4?response-content-disposition=attachment%3B%20filename%3D%22Moviesda.Mobi_-_Saayavanam_2026_Original_1080p_HD_%281.8_GB%29.mp4%22&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=81db46c88a0391c9219abfd7fe69f5b5%2F20261126%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20261126T000131Z&X-Amz-SignedHeaders=host&X-Amz-Expires=172800&X-Amz-Signature=530d8fdae7f77aaf6c572cf4ee8bdf96993dab63e036bd118d92fc0b70055bb5",
+   "url": "https://md0.ddd4e6375c4ccc2c2b37f71c5ff555a5.r2.cloudflarestorage.com/Moviesda.Mobi_-_Saayavanam_2026_Original_1080p_HD_%281.8_GB%29.mp4?response-content-disposition=attachment%3B%20filename%3D%22Moviesda.Mobi_-_Saayavanam_2026_Original_1080p_HD_%281.8_GB%29.mp4%22&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ab9a9407454977c1f0e6cbb0e5a749e1%2F20261126%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20261126T010743Z&X-Amz-SignedHeaders=host&X-Amz-Expires=172800&X-Amz-Signature=fabe5b3b58e0491632ac24f1331dd94ec90e61add9f550baf36501c3e30f1282",
    "behaviorHints": {
     "notProxy": true
    }
   },
   {
    "title": "720p • MoviesDa",
-   "url": "https://md0.ddd4e6375c4ccc2c2b37f71c5ff555a5.r2.cloudflarestorage.com/Moviesda.Mobi_-_Saayavanam_2026_Original_720p_HD.mp4?response-content-disposition=attachment%3B%20filename%3D%22Moviesda.Mobi_-_Saayavanam_2026_Original_720p_HD.mp4%22&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ab9a9407454977c1f0e6cbb0e5a749e1%2F20261126%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20261126T000140Z&X-Amz-SignedHeaders=host&X-Amz-Expires=172800&X-Amz-Signature=44df96da6004fa9820ba64850786fcc206f63f1d0e2b147522292a5079ac4e3a",
+   "url": "https://md0.ddd4e6375c4ccc2c2b37f71c5ff555a5.r2.cloudflarestorage.com/Moviesda.Mobi_-_Saayavanam_2026_Original_720p_HD.mp4?response-content-disposition=attachment%3B%20filename%3D%22Moviesda.Mobi_-_Saayavanam_2026_Original_720p_HD.mp4%22&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ab9a9407454977c1f0e6cbb0e5a749e1%2F20261126%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20261126T010749Z&X-Amz-SignedHeaders=host&X-Amz-Expires=172800&X-Amz-Signature=9e83fa496e5fa174c84029258bbc03cf1426521abc04034074a1db9444e64e35",
    "behaviorHints": {
     "notProxy": true
    }
