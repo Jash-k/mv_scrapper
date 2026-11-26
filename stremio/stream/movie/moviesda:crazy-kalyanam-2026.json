@@ -2,28 +2,28 @@
  "streams": [
   {
    "title": "1080p • MoviesDa",
-   "url": "https://app.kollybytes.xyz/Moviesda.Mobi_-_Crazy_Kalyanam_2026_Original_1080p_HD.mp4?htag=200a85b0b8c66ac67f4792d1ee3b8c3f863353a24f0697f621a12be80f4bcd8f&etag=1795674813&ztag=1b78c3c64dfc5281a3afeb4f37721ad81e05e8e07c5829edea2be8d05ecfb469",
+   "url": "https://api.5a4a40ed2b55cf97fd7bf598ab40ae72.r2.cloudflarestorage.com/Moviesda.Mobi_-_Crazy_Kalyanam_2026_Original_1080p_HD.mp4?response-content-disposition=attachment%3B%20filename%3D%22Moviesda.Mobi_-_Crazy_Kalyanam_2026_Original_1080p_HD.mp4%22&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=dc771f1df4495bfae12cf86b2fdcfb97%2F20261126%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20261126T070851Z&X-Amz-SignedHeaders=host&X-Amz-Expires=172800&X-Amz-Signature=10157ac26f9d237481ec039faa81804759aed4b567e73c93413541a1e35086f3",
    "behaviorHints": {
     "notProxy": true
    }
   },
   {
    "title": "1080p • MoviesDa",
-   "url": "https://web.skyvault-assets.xyz/Moviesda.Mobi_-_Crazy_Kalyanam_2026_Original_1080p_HD_(3.5_GB).mp4?htag=7fdab3baa5d03991d97952292ac19f54c64e50895db5783a4ad662ae56873790&etag=1795674819&ztag=fae61ed4b860f2f13ac6891317df3fc03b5e14387de13c1bb93cea82c737e47b",
+   "url": "https://web.skyvault-assets.xyz/Moviesda.Mobi_-_Crazy_Kalyanam_2026_Original_1080p_HD_(3.5_GB).mp4?htag=60d4ef7fb8bab803465039c938a2e313abbeab8a54ae0de8c3b6bb157e546185&etag=1795676935&ztag=374e4a797c9a8c04ce3d3e5ca842f2703f6918efefae0d8266021b87963b7786",
    "behaviorHints": {
     "notProxy": true
    }
   },
   {
    "title": "720p • MoviesDa",
-   "url": "https://fastspot.fa5a10fde41b12986512801a600ce280.r2.cloudflarestorage.com/Moviesda.Mobi_-_Crazy_Kalyanam_2026_Original_720p_HD_%28900_MB%29.mp4?response-content-disposition=attachment%3B%20filename%3D%22Moviesda.Mobi_-_Crazy_Kalyanam_2026_Original_720p_HD_%28900_MB%29.mp4%22&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=81db46c88a0391c9219abfd7fe69f5b5%2F20261126%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20261126T063349Z&X-Amz-SignedHeaders=host&X-Amz-Expires=172800&X-Amz-Signature=b7abf80c2c8c1f03ae65ee95a2c0c27e0ad451b1f0ad582da7f6469bb9cdec4e",
+   "url": "https://web.skyvault-assets.xyz/Moviesda.Mobi_-_Crazy_Kalyanam_2026_Original_720p_HD_(900_MB).mp4?htag=379dc9ca759f2e6384ac864eba61fa32d51ca17ac9270e0fdee02f2142c56845&etag=1795676942&ztag=a9092a1e6e080e173c213d71f9dc9c79812d14816093190aaa5ab583f74cc17b",
    "behaviorHints": {
     "notProxy": true
    }
   },
   {
    "title": "720p • MoviesDa",
-   "url": "https://app.kollybytes.xyz/Moviesda.Mobi_-_Crazy_Kalyanam_2026_Original_720p_HD.mp4?htag=f071bcf13838ea097731e8a722112770b117a01eeb8f86931d108d458b64cc12&etag=1795674834&ztag=9f73a96bf805f7bc2e5b06778ff47c6031841f8143d8262d0743fddf3c82abc8",
+   "url": "https://app.kollybytes.xyz/Moviesda.Mobi_-_Crazy_Kalyanam_2026_Original_720p_HD.mp4?htag=390d9bf8a4c7fd9e365a9d1977a37e82732bf847a8ef8f6558e924a61bbdc829&etag=1795676945&ztag=471a0d94bd4b8dfe05738893d4914921c49651a379d141c3d4f5201caea16698",
    "behaviorHints": {
     "notProxy": true
    }
