@@ -2,28 +2,28 @@
  "streams": [
   {
    "title": "1080p • MoviesDa",
-   "url": "https://fastspot.fa5a10fde41b12986512801a600ce280.r2.cloudflarestorage.com/Moviesda.Mobi_-_Garividi_Lakshmi_2026_Original_1080p_HD_%283.6_GB%29.mp4?response-content-disposition=attachment%3B%20filename%3D%22Moviesda.Mobi_-_Garividi_Lakshmi_2026_Original_1080p_HD_%283.6_GB%29.mp4%22&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=81db46c88a0391c9219abfd7fe69f5b5%2F20261126%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20261126T130330Z&X-Amz-SignedHeaders=host&X-Amz-Expires=172800&X-Amz-Signature=6ce50f56c55758eade19b9b3d502903c224bd9bc26ded0869255ae740381b463",
+   "url": "https://api.5a4a40ed2b55cf97fd7bf598ab40ae72.r2.cloudflarestorage.com/Moviesda.Mobi_-_Garividi_Lakshmi_2026_Original_1080p_HD_%283.6_GB%29.mp4?response-content-disposition=attachment%3B%20filename%3D%22Moviesda.Mobi_-_Garividi_Lakshmi_2026_Original_1080p_HD_%283.6_GB%29.mp4%22&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=dc771f1df4495bfae12cf86b2fdcfb97%2F20261126%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20261126T180008Z&X-Amz-SignedHeaders=host&X-Amz-Expires=172800&X-Amz-Signature=67d414383e6d756198f538f43d4492cf4f911d278530d3d6d0f058bd3c04e479",
    "behaviorHints": {
     "notProxy": true
    }
   },
   {
    "title": "1080p • MoviesDa",
-   "url": "https://kw0.fa0315d9451661c39a65cc06a763bff4.r2.cloudflarestorage.com/Moviesda.Mobi_-_Garividi_Lakshmi_2026_Original_1080p_HD.mp4?response-content-disposition=attachment%3B%20filename%3D%22Moviesda.Mobi_-_Garividi_Lakshmi_2026_Original_1080p_HD.mp4%22&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=a313d287945e55eee26f0779b9fb7028%2F20261126%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20261126T130334Z&X-Amz-SignedHeaders=host&X-Amz-Expires=172800&X-Amz-Signature=8ec5a93fff5c5c3715b5bc4e6921951c84c06061734849bb10bb4a9f58a0cf9f",
+   "url": "https://kw0.fa0315d9451661c39a65cc06a763bff4.r2.cloudflarestorage.com/Moviesda.Mobi_-_Garividi_Lakshmi_2026_Original_1080p_HD.mp4?response-content-disposition=attachment%3B%20filename%3D%22Moviesda.Mobi_-_Garividi_Lakshmi_2026_Original_1080p_HD.mp4%22&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=a313d287945e55eee26f0779b9fb7028%2F20261126%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20261126T180014Z&X-Amz-SignedHeaders=host&X-Amz-Expires=172800&X-Amz-Signature=781929938356ca96c18af3256132699fbf5ce738deb83c9029c50a8d7ad47a55",
    "behaviorHints": {
     "notProxy": true
    }
   },
   {
    "title": "720p • MoviesDa",
-   "url": "https://api.5a4a40ed2b55cf97fd7bf598ab40ae72.r2.cloudflarestorage.com/Moviesda.Mobi_-_Garividi_Lakshmi_2026_Original_720p_HD.mp4?response-content-disposition=attachment%3B%20filename%3D%22Moviesda.Mobi_-_Garividi_Lakshmi_2026_Original_720p_HD.mp4%22&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=dc771f1df4495bfae12cf86b2fdcfb97%2F20261126%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20261126T130341Z&X-Amz-SignedHeaders=host&X-Amz-Expires=172800&X-Amz-Signature=dcba14010cbacfe2db669a46cfbfe1b28aaab7a60a90426ca4bbab23ebf63a4f",
+   "url": "https://kw0.fa0315d9451661c39a65cc06a763bff4.r2.cloudflarestorage.com/Moviesda.Mobi_-_Garividi_Lakshmi_2026_Original_720p_HD.mp4?response-content-disposition=attachment%3B%20filename%3D%22Moviesda.Mobi_-_Garividi_Lakshmi_2026_Original_720p_HD.mp4%22&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=a313d287945e55eee26f0779b9fb7028%2F20261126%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20261126T180025Z&X-Amz-SignedHeaders=host&X-Amz-Expires=172800&X-Amz-Signature=a27aff4b5101bfc9c5504b64a48fcdfd02a0657511c3c3a30cbefb54f39236fd",
    "behaviorHints": {
     "notProxy": true
    }
   },
   {
    "title": "720p • MoviesDa",
-   "url": "https://kw0.fa0315d9451661c39a65cc06a763bff4.r2.cloudflarestorage.com/Moviesda.Mobi_-_Garividi_Lakshmi_2026_Original_720p_HD_%28850_MB%29.mp4?response-content-disposition=attachment%3B%20filename%3D%22Moviesda.Mobi_-_Garividi_Lakshmi_2026_Original_720p_HD_%28850_MB%29.mp4%22&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=a313d287945e55eee26f0779b9fb7028%2F20261126%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20261126T130345Z&X-Amz-SignedHeaders=host&X-Amz-Expires=172800&X-Amz-Signature=72b94f718a575e3e564157d46c670c9b037209291f2a80fc145626322fbc0f14",
+   "url": "https://kw0.fa0315d9451661c39a65cc06a763bff4.r2.cloudflarestorage.com/Moviesda.Mobi_-_Garividi_Lakshmi_2026_Original_720p_HD_%28850_MB%29.mp4?response-content-disposition=attachment%3B%20filename%3D%22Moviesda.Mobi_-_Garividi_Lakshmi_2026_Original_720p_HD_%28850_MB%29.mp4%22&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=a313d287945e55eee26f0779b9fb7028%2F20261126%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20261126T180031Z&X-Amz-SignedHeaders=host&X-Amz-Expires=172800&X-Amz-Signature=e8845824867e304524889529331bbe439a9744387b1eda2062e2aac75e61bfec",
    "behaviorHints": {
     "notProxy": true
    }
