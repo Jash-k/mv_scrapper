@@ -2,21 +2,21 @@
  "streams": [
   {
    "title": "1080p • MoviesDa",
-   "url": "https://md0.ddd4e6375c4ccc2c2b37f71c5ff555a5.r2.cloudflarestorage.com/Sathyavan_Savithiri_2026_HQ_PreDVD_1080p_HD.mp4?response-content-disposition=attachment%3B%20filename%3D%22Sathyavan_Savithiri_2026_HQ_PreDVD_1080p_HD.mp4%22&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ab9a9407454977c1f0e6cbb0e5a749e1%2F20261127%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20261127T070757Z&X-Amz-SignedHeaders=host&X-Amz-Expires=172800&X-Amz-Signature=c9a7782060cf81abeec324fb083d2a7e74ff64bea2b6d7ef82668fb1bf890de8",
+   "url": "https://api.5a4a40ed2b55cf97fd7bf598ab40ae72.r2.cloudflarestorage.com/Sathyavan_Savithiri_2026_HQ_PreDVD_1080p_HD.mp4?response-content-disposition=attachment%3B%20filename%3D%22Sathyavan_Savithiri_2026_HQ_PreDVD_1080p_HD.mp4%22&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=dc771f1df4495bfae12cf86b2fdcfb97%2F20261127%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20261127T130638Z&X-Amz-SignedHeaders=host&X-Amz-Expires=172800&X-Amz-Signature=b6f7b204e1349a9d96ec82d455a87b14a05835582b560b3bc04380c7487ad619",
    "behaviorHints": {
     "notProxy": true
    }
   },
   {
    "title": "720p • MoviesDa",
-   "url": "https://app.kollybytes.xyz/Sathyavan_Savithiri_2026_HQ_PreDVD_720p_HD.mp4?htag=e10af46385fbd0d48871fa72e6ec93d3ce6b98fbe42fc1454f9b8240919bb2fc&etag=1795763287&ztag=84f3d32e3033caba78b73919854b8abbe4f06f7734886d8b8c7f67cbdb2c2054",
+   "url": "https://app.kollybytes.xyz/Sathyavan_Savithiri_2026_HQ_PreDVD_720p_HD.mp4?htag=4ebd37c41370a87b8ef872a2d77a28eec30ecf11ad5cc619f33a3de09b89fb7e&etag=1795784804&ztag=18b7a57848299ea49c926022e28cbdd51ca25550eeb8a087bdc53f06ef0e1921",
    "behaviorHints": {
     "notProxy": true
    }
   },
   {
    "title": "720p • MoviesDa",
-   "url": "https://site.fileraja.click/Sathyavan_Savithiri_2026_HQ_PreDVD_720p_HD_(950_MB).mp4?htag=2afb8ae92232cd9852b00abe28fb177b884058abf969e462e6a92ff39f8b7565&etag=1795763292&ztag=dce739b2c954c96cef4f2da42854d1765ae822c0878391899d8d3ae1e5384fac",
+   "url": "https://api.5a4a40ed2b55cf97fd7bf598ab40ae72.r2.cloudflarestorage.com/Sathyavan_Savithiri_2026_HQ_PreDVD_720p_HD_%28950_MB%29.mp4?response-content-disposition=attachment%3B%20filename%3D%22Sathyavan_Savithiri_2026_HQ_PreDVD_720p_HD_%28950_MB%29.mp4%22&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=dc771f1df4495bfae12cf86b2fdcfb97%2F20261127%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20261127T130647Z&X-Amz-SignedHeaders=host&X-Amz-Expires=172800&X-Amz-Signature=47bc1973b4252d52b5fce684aa10b5668bd5fd2c2fd8c182ad92138ff7ec3e88",
    "behaviorHints": {
     "notProxy": true
    }

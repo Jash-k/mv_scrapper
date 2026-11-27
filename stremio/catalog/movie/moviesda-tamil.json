@@ -1,6 +1,13 @@
 {
  "metas": [
   {
+   "id": "moviesda:scene-2026",
+   "type": "movie",
+   "name": "Scene",
+   "poster": "",
+   "releaseInfo": "2026"
+  },
+  {
    "id": "moviesda:enemy-of-the-smuggler-2026",
    "type": "movie",
    "name": "Enemy of the Smuggler",
@@ -109,13 +116,6 @@
    "id": "moviesda:crazy-kalyanam-2026",
    "type": "movie",
    "name": "Crazy Kalyanam",
-   "poster": "",
-   "releaseInfo": "2026"
-  },
-  {
-   "id": "moviesda:cult-2026",
-   "type": "movie",
-   "name": "Cult",
    "poster": "",
    "releaseInfo": "2026"
   },
