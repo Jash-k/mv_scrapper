@@ -113,13 +113,6 @@
    "releaseInfo": "2026"
   },
   {
-   "id": "moviesda:crazy-kalyanam-2026",
-   "type": "movie",
-   "name": "Crazy Kalyanam",
-   "poster": "",
-   "releaseInfo": "2026"
-  },
-  {
    "id": "moviesda:konjam-kadhal-konjam-modhal-2025",
    "type": "movie",
    "name": "Konjam Kadhal Konjam Modhal",
@@ -151,6 +144,13 @@
    "id": "moviesda:ipl-indian-penal-law-2025",
    "type": "movie",
    "name": "IPL Indian Penal Law",
+   "poster": "",
+   "releaseInfo": "2025"
+  },
+  {
+   "id": "moviesda:tere-ishk-mein-2025",
+   "type": "movie",
+   "name": "Tere Ishk Mein",
    "poster": "",
    "releaseInfo": "2025"
   }
