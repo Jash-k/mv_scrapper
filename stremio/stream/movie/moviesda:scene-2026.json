@@ -2,14 +2,14 @@
  "streams": [
   {
    "title": "1080p • MoviesDa",
-   "url": "https://md0.ddd4e6375c4ccc2c2b37f71c5ff555a5.r2.cloudflarestorage.com/Moviesda.Mobi_-_Scene_2026_HDRip_1080p_HD_%281.7_GB%29.mp4?response-content-disposition=attachment%3B%20filename%3D%22Moviesda.Mobi_-_Scene_2026_HDRip_1080p_HD_%281.7_GB%29.mp4%22&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ab9a9407454977c1f0e6cbb0e5a749e1%2F20261127%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20261127T130402Z&X-Amz-SignedHeaders=host&X-Amz-Expires=172800&X-Amz-Signature=935fb04f7429eeabbc5c73f707c45bd4c4f5f4b4c2ef23f0b9eb47a7405e050b",
+   "url": "https://app.kollybytes.xyz/Moviesda.Mobi_-_Scene_2026_HDRip_1080p_HD_(1.7_GB).mp4?htag=b22ac4e71b650174ce8508d8af146e8b63c283c346c8285a248ee65fd211bb06&etag=1795785671&ztag=9af98cc51e082d7ed5697ba1baa8ee36d8379d00a93b4efb16ad6ce7f229d9e6",
    "behaviorHints": {
     "notProxy": true
    }
   },
   {
    "title": "720p • MoviesDa",
-   "url": "https://api.5a4a40ed2b55cf97fd7bf598ab40ae72.r2.cloudflarestorage.com/Moviesda.Mobi_-_Scene_2026_HDRip_720p_HD.mp4?response-content-disposition=attachment%3B%20filename%3D%22Moviesda.Mobi_-_Scene_2026_HDRip_720p_HD.mp4%22&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=dc771f1df4495bfae12cf86b2fdcfb97%2F20261127%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20261127T130408Z&X-Amz-SignedHeaders=host&X-Amz-Expires=172800&X-Amz-Signature=1ed291bbe782746a8cf9deffb5315e6332d00d885c00fd3fa838946b0a849d70",
+   "url": "https://kw0.fa0315d9451661c39a65cc06a763bff4.r2.cloudflarestorage.com/Moviesda.Mobi_-_Scene_2026_HDRip_720p_HD.mp4?response-content-disposition=attachment%3B%20filename%3D%22Moviesda.Mobi_-_Scene_2026_HDRip_720p_HD.mp4%22&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=a313d287945e55eee26f0779b9fb7028%2F20261127%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20261127T132117Z&X-Amz-SignedHeaders=host&X-Amz-Expires=172800&X-Amz-Signature=bbbc3b161961722853cebfbe5dbe39cc198596b73223b094434d816c39b04ba3",
    "behaviorHints": {
     "notProxy": true
    }
