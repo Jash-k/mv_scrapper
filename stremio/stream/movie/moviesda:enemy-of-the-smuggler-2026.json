@@ -1,0 +1,32 @@
+{
+ "streams": [
+  {
+   "title": "1080p • MoviesDa",
+   "url": "https://app.kollybytes.xyz/Moviesda.Mobi_-_Enemy_of_the_Smuggler_2026_Original_1080p_HD.mp4?htag=dbab757e5772eab6a5c09f1c3b2e264ef6ee016d41fc1474d1ba985302079bc6&etag=1795741438&ztag=cf9e6dac63ad42837e64e6e410b58493de94d8babda1762d79ccce72e9705fb0",
+   "behaviorHints": {
+    "notProxy": true
+   }
+  },
+  {
+   "title": "1080p • MoviesDa",
+   "url": "https://app.kollybytes.xyz/Moviesda.Mobi_-_Enemy_of_the_Smuggler_2026_Original_1080p_HD_(3.5_GB).mp4?htag=744df6f5ef40dfb51a33114fe04cf68515a789e6881e20e3ac5271cebd2dde75&etag=1795741443&ztag=b512b47e8cd981b8a4c713aea251cb3ffabbdadd11096855c89e9881b5dce9fb",
+   "behaviorHints": {
+    "notProxy": true
+   }
+  },
+  {
+   "title": "720p • MoviesDa",
+   "url": "https://fastspot.fa5a10fde41b12986512801a600ce280.r2.cloudflarestorage.com/Moviesda.Mobi_-_Enemy_of_the_Smuggler_2026_Original_720p_HD_%28950_MB%29.mp4?response-content-disposition=attachment%3B%20filename%3D%22Moviesda.Mobi_-_Enemy_of_the_Smuggler_2026_Original_720p_HD_%28950_MB%29.mp4%22&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=81db46c88a0391c9219abfd7fe69f5b5%2F20261127%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20261127T010412Z&X-Amz-SignedHeaders=host&X-Amz-Expires=172800&X-Amz-Signature=bfa5fdde3cb51f14fc8fbe28c92c57b1ff09623cffcdeffbc53301a3c8ecaffc",
+   "behaviorHints": {
+    "notProxy": true
+   }
+  },
+  {
+   "title": "720p • MoviesDa",
+   "url": "https://app.kollybytes.xyz/Moviesda.Mobi_-_Enemy_of_the_Smuggler_2026_Original_720p_HD.mp4?htag=88434fe36b44c76b7f9c5444d49fb364760061e36b9a016ecc625bd252fc633f&etag=1795741457&ztag=6b66025ffea94b5d907c37ea447e9ee4287a6b96811d739c2b6fb33123946864",
+   "behaviorHints": {
+    "notProxy": true
+   }
+  }
+ ]
+}

@@ -2,21 +2,21 @@
  "streams": [
   {
    "title": "1080p • MoviesDa",
-   "url": "https://api.5a4a40ed2b55cf97fd7bf598ab40ae72.r2.cloudflarestorage.com/AOT_2026_HQ_PreDVD_1080p_HD.mp4?response-content-disposition=attachment%3B%20filename%3D%22AOT_2026_HQ_PreDVD_1080p_HD.mp4%22&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=dc771f1df4495bfae12cf86b2fdcfb97%2F20261126%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20261126T190548Z&X-Amz-SignedHeaders=host&X-Amz-Expires=172800&X-Amz-Signature=2937b720b3e8ad3a32a0f51e244ef2784b9f664ee5739e74f7055b5c3d8ef67e",
+   "url": "https://fastspot.fa5a10fde41b12986512801a600ce280.r2.cloudflarestorage.com/AOT_2026_HQ_PreDVD_1080p_HD.mp4?response-content-disposition=attachment%3B%20filename%3D%22AOT_2026_HQ_PreDVD_1080p_HD.mp4%22&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=81db46c88a0391c9219abfd7fe69f5b5%2F20261127%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20261127T010829Z&X-Amz-SignedHeaders=host&X-Amz-Expires=172800&X-Amz-Signature=9804e4b4efb108d6ffeb6a377b571c914a20e91f178a171fc5ba4da3546afab8",
    "behaviorHints": {
     "notProxy": true
    }
   },
   {
    "title": "720p • MoviesDa",
-   "url": "https://kw0.fa0315d9451661c39a65cc06a763bff4.r2.cloudflarestorage.com/AOT_2026_HQ_PreDVD_720p_HD.mp4?response-content-disposition=attachment%3B%20filename%3D%22AOT_2026_HQ_PreDVD_720p_HD.mp4%22&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=a313d287945e55eee26f0779b9fb7028%2F20261126%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20261126T190554Z&X-Amz-SignedHeaders=host&X-Amz-Expires=172800&X-Amz-Signature=f9083d4c845984eef91fb89a5dc08329eb6982758af4074064e120821591f097",
+   "url": "https://app.kollybytes.xyz/AOT_2026_HQ_PreDVD_720p_HD.mp4?htag=caece7685b60740db2871b3d4a2ae9c382830bab6b71e56c8e5518df7bb18d7d&etag=1795741718&ztag=ee7eef2cd397628ccdd377c9de6f5aa7dba45b064a74ae6797b5317fd2fff3b5",
    "behaviorHints": {
     "notProxy": true
    }
   },
   {
    "title": "720p • MoviesDa",
-   "url": "https://api.5a4a40ed2b55cf97fd7bf598ab40ae72.r2.cloudflarestorage.com/AOT_2026_HQ_PreDVD_720p_HD_%28950_MB%29.mp4?response-content-disposition=attachment%3B%20filename%3D%22AOT_2026_HQ_PreDVD_720p_HD_%28950_MB%29.mp4%22&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=dc771f1df4495bfae12cf86b2fdcfb97%2F20261126%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20261126T190557Z&X-Amz-SignedHeaders=host&X-Amz-Expires=172800&X-Amz-Signature=d88de65be5043138b7f4d5596c512b2b15e308d0db2e4cdc55c846794d5527c7",
+   "url": "https://site.fileraja.click/AOT_2026_HQ_PreDVD_720p_HD_(950_MB).mp4?htag=4c37c52d523fac26fc875822ce0f6e03680f9f2094ae2e84a84ee1c02beb3357&etag=1795741724&ztag=9f08e933c70ffd0e457fcdf21ecb51f91acc7555ed384d02eeb66706d20f45eb",
    "behaviorHints": {
     "notProxy": true
    }

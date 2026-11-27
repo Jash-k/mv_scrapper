@@ -1,6 +1,20 @@
 {
  "metas": [
   {
+   "id": "moviesda:enemy-of-the-smuggler-2026",
+   "type": "movie",
+   "name": "Enemy of the Smuggler",
+   "poster": "",
+   "releaseInfo": "2026"
+  },
+  {
+   "id": "moviesda:aadarsha-kutumbam-2026",
+   "type": "movie",
+   "name": "Aadarsha Kutumbam",
+   "poster": "",
+   "releaseInfo": "2026"
+  },
+  {
    "id": "moviesda:garividi-lakshmi-2026",
    "type": "movie",
    "name": "Garividi Lakshmi",
@@ -102,20 +116,6 @@
    "id": "moviesda:cult-2026",
    "type": "movie",
    "name": "Cult",
-   "poster": "",
-   "releaseInfo": "2026"
-  },
-  {
-   "id": "moviesda:kiku-chiranjeevi-2026",
-   "type": "movie",
-   "name": "Kiku Chiranjeevi",
-   "poster": "",
-   "releaseInfo": "2026"
-  },
-  {
-   "id": "moviesda:premada-oorali-2026",
-   "type": "movie",
-   "name": "Premada Oorali",
    "poster": "",
    "releaseInfo": "2026"
   },

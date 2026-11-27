@@ -2,14 +2,14 @@
  "streams": [
   {
    "title": "1080p • MoviesDa",
-   "url": "https://web.skyvault-assets.xyz/Moviesda.Mobi_-_Saayavanam_2026_Original_1080p_HD_(1.8_GB).mp4?htag=6bff61eb0a68d20c5ecd5c509c37b6182f26db0acb08f9dc102811fa4467d1a8&etag=1795720098&ztag=f963d048e24ee58295df797e2efc44b4a232df7b152593fdf8f5d2888cb0f153",
+   "url": "https://api.5a4a40ed2b55cf97fd7bf598ab40ae72.r2.cloudflarestorage.com/Moviesda.Mobi_-_Saayavanam_2026_Original_1080p_HD_%281.8_GB%29.mp4?response-content-disposition=attachment%3B%20filename%3D%22Moviesda.Mobi_-_Saayavanam_2026_Original_1080p_HD_%281.8_GB%29.mp4%22&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=dc771f1df4495bfae12cf86b2fdcfb97%2F20261127%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20261127T011215Z&X-Amz-SignedHeaders=host&X-Amz-Expires=172800&X-Amz-Signature=c039bd96cf972b478d669354ebe0f7e2b9ab79558771a14738e127ab183b449a",
    "behaviorHints": {
     "notProxy": true
    }
   },
   {
    "title": "720p • MoviesDa",
-   "url": "https://site.fileraja.click/Moviesda.Mobi_-_Saayavanam_2026_Original_720p_HD.mp4?htag=62f0341baccdeb537fd164ecb89dbdb1f040483304bc5490b00539dda92e348d&etag=1795720104&ztag=08a899f2f5b26334006e5d22f7de86c91798edbc366bac5e4571b1427680ee83",
+   "url": "https://api.5a4a40ed2b55cf97fd7bf598ab40ae72.r2.cloudflarestorage.com/Moviesda.Mobi_-_Saayavanam_2026_Original_720p_HD.mp4?response-content-disposition=attachment%3B%20filename%3D%22Moviesda.Mobi_-_Saayavanam_2026_Original_720p_HD.mp4%22&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=dc771f1df4495bfae12cf86b2fdcfb97%2F20261127%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20261127T011224Z&X-Amz-SignedHeaders=host&X-Amz-Expires=172800&X-Amz-Signature=577d32f9c1846ff6c9845482b15c6b8e6e4a1c0ef68fb0349fe0862d732465e3",
    "behaviorHints": {
     "notProxy": true
    }
