@@ -2,28 +2,28 @@
  "streams": [
   {
    "title": "1080p • MoviesDa",
-   "url": "https://kw0.fa0315d9451661c39a65cc06a763bff4.r2.cloudflarestorage.com/Moviesda.Mobi_-_Anomie_2026_Original_1080p_HD.mp4?response-content-disposition=attachment%3B%20filename%3D%22Moviesda.Mobi_-_Anomie_2026_Original_1080p_HD.mp4%22&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=a313d287945e55eee26f0779b9fb7028%2F20261127%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20261127T235402Z&X-Amz-SignedHeaders=host&X-Amz-Expires=172800&X-Amz-Signature=179ca925b20cc2728451bc8e53cf2abed334958df9a6cfc2e7e029108f0e3d09",
+   "url": "https://api.5a4a40ed2b55cf97fd7bf598ab40ae72.r2.cloudflarestorage.com/Moviesda.Mobi_-_Anomie_2026_Original_1080p_HD.mp4?response-content-disposition=attachment%3B%20filename%3D%22Moviesda.Mobi_-_Anomie_2026_Original_1080p_HD.mp4%22&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=dc771f1df4495bfae12cf86b2fdcfb97%2F20261128%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20261128T010721Z&X-Amz-SignedHeaders=host&X-Amz-Expires=172800&X-Amz-Signature=b20b7b5a83b01c482bac5b77c775a974013e207fce1a6778335060fe204a7687",
    "behaviorHints": {
     "notProxy": true
    }
   },
   {
    "title": "1080p • MoviesDa",
-   "url": "https://site.fileraja.click/Moviesda.Mobi_-_Anomie_2026_Original_1080p_HD_(2.7_GB).mp4?htag=f5812ec49c21cfd3053a544498318b434a6dd850d317934c0f502a829393e58f&etag=1795823646&ztag=0f7be3c9806282b896d855ec6ae3eb5e4ab4be685dbf93b91a05a17a818160b1",
+   "url": "https://kw0.fa0315d9451661c39a65cc06a763bff4.r2.cloudflarestorage.com/Moviesda.Mobi_-_Anomie_2026_Original_1080p_HD_%282.7_GB%29.mp4?response-content-disposition=attachment%3B%20filename%3D%22Moviesda.Mobi_-_Anomie_2026_Original_1080p_HD_%282.7_GB%29.mp4%22&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=a313d287945e55eee26f0779b9fb7028%2F20261128%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20261128T010725Z&X-Amz-SignedHeaders=host&X-Amz-Expires=172800&X-Amz-Signature=3475b9d20acc9fa25f88362c23fd4ad936dd170ebfb655a12286dac1d3e98a18",
    "behaviorHints": {
     "notProxy": true
    }
   },
   {
    "title": "720p • MoviesDa",
-   "url": "https://site.fileraja.click/Moviesda.Mobi_-_Anomie_2026_Original_720p_HD.mp4?htag=ab204a9edf05eb9cf1905deed10a9dc87530d1b4231308640a32cd38ef68fcdc&etag=1795823652&ztag=a4da1583bb15c49122f612c9bb72d3b1413c98a1e1803825cfd96447ca57f296",
+   "url": "https://app.kollybytes.xyz/Moviesda.Mobi_-_Anomie_2026_Original_720p_HD.mp4?htag=fc8316db471049a4774a9dd6941b17b7eef8dd229621c6182d9007a3e993024b&etag=1795828051&ztag=f27473a6c48d1e55cc6f526ae37a984f31650029824fff7712043e3b8cf8b680",
    "behaviorHints": {
     "notProxy": true
    }
   },
   {
    "title": "720p • MoviesDa",
-   "url": "https://web.skyvault-assets.xyz/Moviesda.Mobi_-_Anomie_2026_Original_720p_HD_(800_MB).mp4?htag=1ba2dbf7c4cd3d01775647ac1857c46330f3b8201ac8b497f26bc93a62676023&etag=1795823655&ztag=7fd34adcde24af6f541e656068c97cba249793f63d2f70ffe304c36c539cd8e0",
+   "url": "https://web.skyvault-assets.xyz/Moviesda.Mobi_-_Anomie_2026_Original_720p_HD_(800_MB).mp4?htag=b9a345947f47ee06496bd4402dd563aad4eddfbdf37ac07d22ab732ea49c1551&etag=1795828054&ztag=76a60d089f92c6c59d9565548c250fdb3e575291b87d0e8e047aace50a25b9ed",
    "behaviorHints": {
     "notProxy": true
    }

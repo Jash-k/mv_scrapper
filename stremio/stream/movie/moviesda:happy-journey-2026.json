@@ -2,21 +2,21 @@
  "streams": [
   {
    "title": "1080p • MoviesDa",
-   "url": "https://api.5a4a40ed2b55cf97fd7bf598ab40ae72.r2.cloudflarestorage.com/Moviesda.Mobi_-_Happy_Journey_2026_Original_1080p_HD_%282.1_GB%29.mp4?response-content-disposition=attachment%3B%20filename%3D%22Moviesda.Mobi_-_Happy_Journey_2026_Original_1080p_HD_%282.1_GB%29.mp4%22&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=dc771f1df4495bfae12cf86b2fdcfb97%2F20261127%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20261127T235257Z&X-Amz-SignedHeaders=host&X-Amz-Expires=172800&X-Amz-Signature=f1d097287fde3a5863cf10af6bd0c6cd7d686bfaca62064abedef9c846041178",
+   "url": "https://kw0.fa0315d9451661c39a65cc06a763bff4.r2.cloudflarestorage.com/Moviesda.Mobi_-_Happy_Journey_2026_Original_1080p_HD_%282.1_GB%29.mp4?response-content-disposition=attachment%3B%20filename%3D%22Moviesda.Mobi_-_Happy_Journey_2026_Original_1080p_HD_%282.1_GB%29.mp4%22&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=a313d287945e55eee26f0779b9fb7028%2F20261128%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20261128T010615Z&X-Amz-SignedHeaders=host&X-Amz-Expires=172800&X-Amz-Signature=2204d6137ac95508d355ffefeff4a6901ddc193ef04843566b6cbead233595bb",
    "behaviorHints": {
     "notProxy": true
    }
   },
   {
    "title": "720p • MoviesDa",
-   "url": "https://api.5a4a40ed2b55cf97fd7bf598ab40ae72.r2.cloudflarestorage.com/Moviesda.Mobi_-_Happy_Journey_2026_Original_720p_HD.mp4?response-content-disposition=attachment%3B%20filename%3D%22Moviesda.Mobi_-_Happy_Journey_2026_Original_720p_HD.mp4%22&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=dc771f1df4495bfae12cf86b2fdcfb97%2F20261127%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20261127T235303Z&X-Amz-SignedHeaders=host&X-Amz-Expires=172800&X-Amz-Signature=20e864d26456c497cd4445bdffd83c7e67072466fd3af195515058865929c8a5",
+   "url": "https://api.5a4a40ed2b55cf97fd7bf598ab40ae72.r2.cloudflarestorage.com/Moviesda.Mobi_-_Happy_Journey_2026_Original_720p_HD.mp4?response-content-disposition=attachment%3B%20filename%3D%22Moviesda.Mobi_-_Happy_Journey_2026_Original_720p_HD.mp4%22&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=dc771f1df4495bfae12cf86b2fdcfb97%2F20261128%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20261128T010621Z&X-Amz-SignedHeaders=host&X-Amz-Expires=172800&X-Amz-Signature=436f271e47c40c44f0b86db4027e8a502c113c50d1bfc607cbbc3342a43f086e",
    "behaviorHints": {
     "notProxy": true
    }
   },
   {
    "title": "720p • MoviesDa",
-   "url": "https://web.skyvault-assets.xyz/Moviesda.Mobi_-_Happy_Journey_2026_Original_720p_HD_(950_MB).mp4?htag=dca9998d75530759287e3baa230a8169b29f9babc6fb4077ae65c9d828045f40&etag=1795823587&ztag=78785c3bbe4e157a0c37abe91b3d55b206e8a02bca3ff75ceafaa81658ab0ef3",
+   "url": "https://md0.ddd4e6375c4ccc2c2b37f71c5ff555a5.r2.cloudflarestorage.com/Moviesda.Mobi_-_Happy_Journey_2026_Original_720p_HD_%28950_MB%29.mp4?response-content-disposition=attachment%3B%20filename%3D%22Moviesda.Mobi_-_Happy_Journey_2026_Original_720p_HD_%28950_MB%29.mp4%22&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ab9a9407454977c1f0e6cbb0e5a749e1%2F20261128%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20261128T010624Z&X-Amz-SignedHeaders=host&X-Amz-Expires=172800&X-Amz-Signature=6d5c813cbb1a94003bc56c58a4b9cc3f067221bf03673b5100245b25c2325bc6",
    "behaviorHints": {
     "notProxy": true
    }
