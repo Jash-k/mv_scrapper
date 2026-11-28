@@ -832,12 +832,7 @@
       "Telugu",
       "Hindi",
       "Multi-Lang"
-    ],
-    "imdbId": "tt0456396",
-    "name": "The Child",
-    "year": 2026,
-    "poster": "https://images.metahub.space/poster/small/tt0456396/img",
-    "thumbnail": "https://images.metahub.space/poster/small/tt0456396/img"
+    ]
   },
   {
     "id": "f61d707d930a676d6570fdbe35e565a9",
@@ -4513,7 +4508,12 @@
     "rawText": "Iniyum (2026) Malayalam HD + ESub - [1080p & 720p - AVC - (DD+5.1 - 384Kbps) - 2.8GB + Rips]",
     "languages": [
       "Malayalam"
-    ]
+    ],
+    "imdbId": "tt0292019",
+    "name": "Iniyum Kurukshethram",
+    "year": 2026,
+    "poster": "https://images.metahub.space/poster/small/tt0292019/img",
+    "thumbnail": "https://images.metahub.space/poster/small/tt0292019/img"
   },
   {
     "id": "78a09541671b9981417d257c9642b8fd",
